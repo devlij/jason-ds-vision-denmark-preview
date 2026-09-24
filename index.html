@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FPVHCRLKD2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-FPVHCRLKD2');
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Jason D’s Vision — Denmark</title>
+<link rel="canonical" href="https://devlij.github.io/jason-ds-vision-denmark-preview/"/>
+<meta name="description" content="AI-generated artistic interpretations of Denmark, the Faroe Islands and Greenland. Free to use, no credit required."/>
+<meta name="robots" content="index, follow"/>
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="Jason D's Vision"/>
+<meta property="og:title" content="Jason D's Vision — Denmark"/>
+<meta property="og:description" content="AI-generated artistic interpretations of Denmark, the Faroe Islands and Greenland. Free to use, no credit required."/>
+<meta property="og:image" content="https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Copenhagen/dk-01-001-16x9.png"/>
+<meta property="og:url" content="https://devlij.github.io/jason-ds-vision-denmark-preview/"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": "Jason D’s Vision — Denmark",
+      "url": "https://devlij.github.io/jason-ds-vision-denmark-preview/",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Organization",
+      "name": "Jason D's Vision",
+      "url": "https://jdvision.org/"
+    }
+  ]
+}
+</script>
+<style>
+    :root {
+      --bg:#0f1418; --card:#17202a; --text:#f0f3f6; --muted:#9fb0c0; --accent:#e05260; --line:#26313d;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+    a { color: var(--accent); }
+    header, main, footer, .promise, #license {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.25rem 1.25rem;
+    }
+    .pointer {
+      font-size: 0.95rem;
+      color: var(--muted);
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 1rem;
+    }
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 650;
+      margin: 1.25rem 0 0.35rem;
+      letter-spacing: 0.01em;
+    }
+    .country-switch {
+      margin: 0.15rem 0 0.85rem;
+      font-size: 0.95rem;
+      color: var(--muted);
+      letter-spacing: 0.01em;
+    }
+    .country-switch a { color: var(--accent); text-decoration: none; }
+    .country-switch a:hover { text-decoration: underline; }
+    .country-switch [aria-current="page"] { color: var(--text); font-weight: 600; }
+    .country-switch .sep { margin: 0 0.45rem; color: var(--line); }
+    .sub { color: var(--muted); margin: 0 0 1.5rem; }
+    .promise h2, #license h2 { font-size: 1.2rem; margin-top: 2rem; }
+    .promise p, #license p { color: var(--muted); max-width: 70ch; }
+    .toolbar {
+      display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 1.5rem 0 1rem;
+    }
+    .toolbar input, .toolbar select {
+      background: var(--card); color: var(--text); border: 1px solid var(--line);
+      border-radius: 8px; padding: 0.55rem 0.75rem; font: inherit;
+    }
+    .toolbar input { flex: 1 1 220px; min-width: 180px; }
+    .toolbar button {
+      background: transparent; color: var(--muted); border: 1px solid var(--line);
+      border-radius: 8px; padding: 0.55rem 0.9rem; cursor: pointer; font: inherit;
+    }
+    .toolbar button:hover { color: var(--text); border-color: var(--muted); }
+    #result-count { color: var(--muted); font-size: 0.9rem; }
+    #no-results { display: none; color: var(--muted); padding: 2rem 0; text-align: center; }
+    .grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.25rem; margin-bottom: 2rem;
+    }
+    .card {
+      background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+      overflow: hidden; display: flex; flex-direction: column;
+    }
+    .preview { position: relative; }
+    .fmt-tabs {
+      position: absolute; top: 1.05rem; left: 1.05rem; display: flex; gap: 6px; z-index: 2;
+    }
+    .fmt-tab {
+      background: rgba(23, 32, 42, 0.85); color: var(--text); border: 1px solid var(--line);
+      border-radius: 8px; padding: 5px 10px; font: inherit; font-size: 12px; line-height: 1.2; cursor: pointer;
+    }
+    .fmt-tab:hover { border-color: var(--muted); }
+    .fmt-tab.is-active {
+      background: var(--accent); border-color: var(--accent); color: var(--bg); font-weight: 700;
+    }
+    .view-affordance {
+      position: absolute; top: 1.05rem; right: 1.05rem; z-index: 2;
+      padding: 5px 10px; border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 999px;
+      background: rgba(23, 32, 42, 0.72); color: var(--text); font-size: 11px; pointer-events: none;
+    }
+    .thumb {
+      display: block; padding: 0.65rem 0.65rem 0; background: #12151c; line-height: 0;
+    }
+    .thumb img {
+      width: 100%; height: auto; display: block; border-radius: 8px; background: #000;
+      aspect-ratio: 16 / 9; object-fit: contain;
+    }
+    .thumb.tall img { aspect-ratio: 4 / 5; }
+    .card-body { padding: 1rem 1rem 1.15rem; display: flex; flex-direction: column; gap: 0.35rem; flex: 1; }
+    .entry-id { font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent); }
+    .status-row { display: flex; flex-wrap: wrap; gap: 0.45rem; align-items: center; }
+    .status {
+      display: inline-block; font-size: 0.72rem; letter-spacing: 0.04em; text-transform: uppercase;
+      border-radius: 999px; padding: 0.2rem 0.55rem; border: 1px solid var(--line); color: var(--muted);
+    }
+    .caption { font-size: 1.05rem; font-weight: 600; margin: 0; }
+    .scenario, .composition, .detail { font-size: 0.85rem; color: var(--muted); margin: 0; }
+    .detail { font-size: 0.92rem; color: #d7dde8; margin: 0.35rem 0 0; }
+    .actions { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.85rem; align-items: center; }
+    .actions a.download {
+      display: inline-block; text-decoration: none; background: #243049; color: var(--text);
+      border-radius: 8px; padding: 0.4rem 0.7rem; font-size: 0.85rem; border: 1px solid var(--line);
+    }
+    .actions a.download:hover { border-color: var(--accent); }
+    .badge {
+      display: inline-block; font-size: 0.75rem; color: var(--bg); background: var(--accent);
+      border-radius: 999px; padding: 0.25rem 0.6rem; text-decoration: none; font-weight: 600;
+    }
+    footer {
+      border-top: 1px solid var(--line); color: var(--muted); font-size: 0.9rem; padding-bottom: 2.5rem;
+    }
+    footer .sig { color: var(--text); font-weight: 600; }
+    .flag-band{height:6px;background:linear-gradient(to bottom,transparent 38%,#ffffff 38%,#ffffff 62%,transparent 62%),linear-gradient(to right,transparent 28%,#ffffff 28%,#ffffff 40%,transparent 40%),#C8102E}
+    .flag{display:inline-block;width:46px;height:35px;border-radius:4px;vertical-align:-6px;margin-right:12px;box-shadow:0 0 0 1px rgba(255,255,255,.25);overflow:hidden}
+    .flag svg{display:block;width:100%;height:100%}
+    .flag-chip{display:inline-block;width:22px;height:15px;border-radius:2px;vertical-align:-2px;margin-right:6px;box-shadow:0 0 0 1px rgba(255,255,255,.2);overflow:hidden}
+    .flag-chip svg{display:block;width:100%;height:100%}
+    .flag-chip.flag-de{background:linear-gradient(to bottom,#000 0 33.34%,#DD0000 0 66.67%,#FFCE00 0)}
+    .flag-chip.flag-it{background:linear-gradient(to right,#009246 0 33.34%,#fff 0 66.67%,#CE2B37 0)}
+    .flag-chip.flag-fr{background:linear-gradient(to right,#0055A4 0 33.34%,#fff 0 66.67%,#EF4135 0)}
+    .flag-chip.flag-es{background:linear-gradient(to bottom,#AA151B 0 25%,#F1BF00 0 75%,#AA151B 0)}
+    .flag-chip.flag-gr{background:repeating-linear-gradient(to bottom,#0D5EAF 0 3px,#fff 0 6px)}
+    .flag-chip.flag-nl{background:linear-gradient(to bottom,#AE1C28 0 33.34%,#fff 0 66.67%,#21468B 0)}
+    .flag-chip.flag-ch{background:#DA291C;position:relative}
+    .flag-chip.flag-dk{background:linear-gradient(to bottom,transparent 38%,#fff 38%,#fff 62%,transparent 62%),linear-gradient(to right,transparent 28%,#fff 28%,#fff 44%,transparent 44%),#C8102E}
+    .lb{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;background:rgba(13,18,24,.93)}
+    .lb.open{display:flex}
+    .lb figure{margin:0;max-width:94vw}
+    .lb img{max-width:94vw;max-height:80vh;display:block;border-radius:6px}
+    .lb figcaption{display:flex;justify-content:space-between;gap:16px;color:#f0f3f6;font-size:14px;padding:10px 2px 0}
+    .lb-count{color:#9fb0c0;white-space:nowrap}
+    .lb-close,.lb-prev,.lb-next{position:absolute;background:rgba(23,32,42,.85);color:#f0f3f6;border:1px solid #26313d;border-radius:999px;width:46px;height:46px;font-size:20px;cursor:pointer;line-height:1}
+    .lb-close{top:14px;right:14px}
+    .lb-prev{left:12px;top:50%;transform:translateY(-50%)}
+    .lb-next{right:12px;top:50%;transform:translateY(-50%)}
+    @media(max-width:640px){.lb-prev{left:4px}.lb-next{right:4px}}
+</style>
+</head>
+<body>
+  <div class="flag-band" aria-hidden="true"></div>
+  <header>
+    <p class="pointer">Every image is free to use — no credit required. See <a href="#license">license</a> below.</p>
+    <h1><span class="flag" aria-hidden="true"><svg viewBox="0 0 37 28" xmlns="http://www.w3.org/2000/svg"><rect width="37" height="28" fill="#C8102E"/><rect x="11" width="4" height="28" fill="#fff"/><rect y="12" width="37" height="4" fill="#fff"/></svg></span>Jason D’s Vision — Denmark</h1>
+    <nav class="country-switch" aria-label="Country galleries">
+      <span aria-current="page"><span class="flag-chip" aria-hidden="true"><svg viewBox="0 0 37 28" xmlns="http://www.w3.org/2000/svg"><rect width="37" height="28" fill="#C8102E"/><rect x="11" width="4" height="28" fill="#fff"/><rect y="12" width="37" height="4" fill="#fff"/></svg></span>Denmark</span>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://germany.jdvision.org/"><span class="flag-chip flag-de" aria-hidden="true"></span>Germany</a>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://italy.jdvision.org/"><span class="flag-chip flag-it" aria-hidden="true"></span>Italy</a>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://devlij.github.io/jason-ds-vision-spain-preview/"><span class="flag-chip flag-es" aria-hidden="true"></span>Spain</a>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://france.jdvision.org/"><span class="flag-chip flag-fr" aria-hidden="true"></span>France</a>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://greece.jdvision.org/"><span class="flag-chip flag-gr" aria-hidden="true"></span>Greece</a>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://devlij.github.io/jason-ds-vision-switzerland-preview/"><span class="flag-chip flag-ch" aria-hidden="true"></span>Switzerland</a>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://devlij.github.io/jason-ds-vision-netherlands-preview/"><span class="flag-chip flag-nl" aria-hidden="true"></span>Netherlands</a>
+    </nav>
+    <p class="sub">Denmark, the Faroe Islands and Greenland · Candidate scenes until an independent QC pass</p>
+  </header>
+
+  <section class="promise">
+    <h2>Our promise to creators</h2>
+    <p>Beautiful, realistic imagery should never stand between a creator and their work. Everything in this gallery is free to use — for any purpose, forever, with no credit required. We make these images so the people doing the work always have something stunning to build on.</p>
+    <p><a href="#license">Read the full license</a></p>
+  </section>
+
+  <main>
+    <div class="toolbar" role="search">
+      <input id="q" type="search" placeholder="Search by city, site, or region" aria-label="Search by city, site, or region" />
+      <select id="region" aria-label="Filter by region">
+        <option value="">All regions</option>
+      </select>
+      <button type="button" id="clear">Clear</button>
+      <span id="result-count"></span>
+    </div>
+    <div id="no-results">No scenes match that search.</div>
+    <div class="grid" id="grid"></div>
+  </main>
+
+  <section id="license">
+    <h2>License</h2>
+    <p>Every image in Jason D's Vision is free to use for any purpose — personal or commercial. No credit is required. If you'd like to credit, 'Jason D's Vision' is appreciated, but it's entirely your choice.</p>
+    <p>Jason D's Vision waives its own rights in these images. This doesn't waive anyone else's rights: if an image happens to include a trademark, logo, or other third-party material, those rights still belong to their owners. All images are AI-generated artistic interpretations, not photographs, and use of an image doesn't imply endorsement by Jason D's Vision.</p>
+  </section>
+
+  <footer>
+    <p>AI-generated artistic interpretations · <span class="sig">Jason D’s Vision</span></p>
+  </footer>
+
+  <script>
+    const SCENES = [{"entry_id": "DK-01-001", "country": "Denmark", "region": "Capital Region", "city": "Copenhagen", "caption": "Nyhavn, Copenhagen", "scenario_label": "24 September 2026 · 23:55 Europe/Copenhagen", "composition": "North-bank townhouses along the Nyhavn canal, looking east · AI-generated artistic interpretation", "description": "From the quay at the Kongens Nytorv end, the view looks east down Nyhavn. The narrow gabled townhouses stand along the north bank, with moored wooden boats in the canal and the lower south quay to the right. It is a mainly clear night, about 14.0°C, with warm window and lamp light on the water. The harbor mouth is in the distance; fine shopfront lettering is not treated as real signage.", "alt_text": "AI-generated artistic interpretation of Nyhavn in Copenhagen at night, with gabled townhouses reflected in the canal", "file_16x9": "Denmark/Copenhagen/dk-01-001-16x9.png", "file_4x5": "Denmark/Copenhagen/dk-01-001-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-002", "country": "Denmark", "region": "Capital Region", "city": "Copenhagen", "caption": "The Little Mermaid, Copenhagen", "scenario_label": "24 September 2026 · 23:55 Europe/Copenhagen", "composition": "Bronze mermaid on the Langelinie rock, harbor behind · AI-generated artistic interpretation", "description": "From the Langelinie promenade, Edvard Eriksen's small bronze mermaid sits on the granite rock at the water, tail and bowed head reading as the sculpture rather than a living figure. Harbor water and distant shore lights fill the background under a mainly clear night sky, about 13.7°C. The promenade is empty at this hour. A distant light structure in the generated frame is not identified as a named lighthouse.", "alt_text": "AI-generated artistic interpretation of the Little Mermaid bronze statue at Langelinie in Copenhagen at night", "file_16x9": "Denmark/Copenhagen/dk-01-002-16x9.png", "file_4x5": "Denmark/Copenhagen/dk-01-002-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-003", "country": "Denmark", "region": "Capital Region", "city": "Copenhagen", "caption": "Amalienborg, Copenhagen", "scenario_label": "24 September 2026 · 23:57 Europe/Copenhagen", "composition": "Palace square, equestrian statue, and the Marble Church dome · AI-generated artistic interpretation", "description": "The octagonal palace square is framed by the pale rococo wings, with Saly's equestrian statue of Frederik V in the middle. Along the Frederiksgade axis the copper dome of Frederik's Church, the Marble Church, rises behind the palaces. It is a mainly clear night, about 13.7°C, with warm light on the facades and an empty square. Whether a Dannebrog was flying because the monarch was in residence was not verified for this hour.", "alt_text": "AI-generated artistic interpretation of Amalienborg palace square in Copenhagen at night, with the Marble Church dome beyond", "file_16x9": "Denmark/Copenhagen/dk-01-003-16x9.png", "file_4x5": "Denmark/Copenhagen/dk-01-003-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-004", "country": "Denmark", "region": "Capital Region", "city": "Helsingør", "caption": "Kronborg Castle, Helsingør", "scenario_label": "24 September 2026 · 23:57 Europe/Copenhagen", "composition": "Seaward sandstone facade and copper spires across the Øresund · AI-generated artistic interpretation", "description": "From the seaward side, Kronborg's pale sandstone walls and green copper spires stand above the Øresund, with the square tower in the silhouette. A thin band of lights on the far shore is Helsingborg across the strait. The night is mainly clear, about 14.8°C, with a moderate breeze and only a little chop. The castle is moonlit, with a few warm windows, not a floodlight show; after-dark visits here are flashlight tours rather than a published facade-lighting scheme.", "alt_text": "AI-generated artistic interpretation of Kronborg Castle in Helsingør at night, moonlit above the Øresund", "file_16x9": "Denmark/Helsingør/dk-01-004-16x9.png", "file_4x5": "Denmark/Helsingør/dk-01-004-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-005", "country": "Denmark", "region": "Capital Region", "city": "Hillerød", "caption": "Frederiksborg Castle, Hillerød", "scenario_label": "24 September 2026 · 23:57 Europe/Copenhagen", "composition": "Red-brick castle and copper spires across Slotssøen · AI-generated artistic interpretation", "description": "From the shore of the castle lake, Frederiksborg's red-brick Renaissance ranges and copper-green spires sit on the islets, with the dark water in the foreground. The night is partly cloudy, about 12.0°C, and the light wind only ripples the reflection. A few windows are warm. The baroque garden on the far side of the complex is not the subject of this lake view.", "alt_text": "AI-generated artistic interpretation of Frederiksborg Castle in Hillerød at night, seen across the castle lake", "file_16x9": "Denmark/Hillerød/dk-01-005-16x9.png", "file_4x5": "Denmark/Hillerød/dk-01-005-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-006", "country": "Denmark", "region": "Zealand", "city": "Roskilde", "caption": "Roskilde Cathedral, Roskilde", "scenario_label": "24 September 2026 · 23:57 Europe/Copenhagen", "composition": "West front and the pair of slender spires · AI-generated artistic interpretation", "description": "From the cathedral close, the west front of Roskilde Cathedral shows its pair of tall pointed spires above the brick Gothic body. The night is partly cloudy with cloud cover about 76%, about 12.0°C, so the moon is mostly hidden and the brick reads by street lamps. The square is empty. Later royal burial chapels are not claimed as part of this west-front frame.", "alt_text": "AI-generated artistic interpretation of Roskilde Cathedral at night, with its two slender spires", "file_16x9": "Denmark/Roskilde/dk-01-006-16x9.png", "file_4x5": "Denmark/Roskilde/dk-01-006-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-007", "country": "Denmark", "region": "Lolland-Falster", "city": "Borre", "caption": "Møns Klint, Borre", "scenario_label": "24 September 2026 · 23:57 Europe/Copenhagen", "composition": "White chalk cliffs and the Baltic from the cliff-top path · AI-generated artistic interpretation", "description": "From the cliff-top path, the white chalk face of Møns Klint drops to a narrow beach and the Baltic, with beech trees along the edge. Leaves are still mostly green in late September, with only a little early yellow. The night is clear, about 12.7°C, and the chalk takes the moonlight. The portrait includes the wooden stair that visitors use on this cliff; the wide frame is the cliff line itself.", "alt_text": "AI-generated artistic interpretation of the white chalk cliffs at Møns Klint under a clear night sky", "file_16x9": "Denmark/Borre/dk-01-007-16x9.png", "file_4x5": "Denmark/Borre/dk-01-007-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-008", "country": "Denmark", "region": "Funen", "city": "Odense", "caption": "H.C. Andersen Quarter, Odense", "scenario_label": "25 September 2026 · 00:00 Europe/Copenhagen", "composition": "Ochre corner house and half-timbered lane in the birthplace quarter · AI-generated artistic interpretation", "description": "The frame is the narrow cobbled lane of the H.C. Andersen birthplace quarter: a low ochre corner house with a red tile roof and warm windows, and half-timbered neighbours. The sky is overcast, about 13.4°C, with a fresh wind and no rain, so the moon is hidden and the street lamps carry the light. The lane is empty. Facade joints are a generated interpretation of the quarter, not a measured survey of the birthplace elevation. The new museum building is outside this frame.", "alt_text": "AI-generated artistic interpretation of the H.C. Andersen birthplace quarter in Odense on an overcast night", "file_16x9": "Denmark/Odense/dk-01-008-16x9.png", "file_4x5": "Denmark/Odense/dk-01-008-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-009", "country": "Denmark", "region": "Funen", "city": "Kværndrup", "caption": "Egeskov Castle, Kværndrup", "scenario_label": "24 September 2026 · 23:59 Europe/Copenhagen", "composition": "Moated red-brick castle with copper spires · AI-generated artistic interpretation", "description": "From the west bank, Egeskov's red-brick Renaissance walls and copper spires stand in the dark moat, with a rippled reflection rather than a mirror. The night is overcast, about 12.1°C, with a breeze near 14 km/h and no rain. A few windows are lit. Late-September lawns are dark; this is not a summer flower show, and the vehicle museum is not in the frame.", "alt_text": "AI-generated artistic interpretation of Egeskov Castle at Kværndrup at night, standing in its moat", "file_16x9": "Denmark/Kværndrup/dk-01-009-16x9.png", "file_4x5": "Denmark/Kværndrup/dk-01-009-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-010", "country": "Denmark", "region": "Central Jutland", "city": "Aarhus", "caption": "Den Gamle By, Aarhus", "scenario_label": "24 September 2026 · 23:59 Europe/Copenhagen", "composition": "Cobbled museum square of half-timbered houses after closing · AI-generated artistic interpretation", "description": "Inside Den Gamle By, the cobbled square is lined with half-timbered merchant houses, red tile roofs, and small-paned windows. It is an overcast night, about 13.5°C, with wind near 16 km/h and historic-style lamps still on. The museum is not on a late-evening summer schedule in late September, so the square is empty and there are no modern cars. Individual house identities in the generated square were not matched beam by beam to the museum plan.", "alt_text": "AI-generated artistic interpretation of the old-town square at Den Gamle By in Aarhus on an overcast night", "file_16x9": "Denmark/Aarhus/dk-01-010-16x9.png", "file_4x5": "Denmark/Aarhus/dk-01-010-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-011", "country": "Denmark", "region": "Central Jutland", "city": "Aarhus", "caption": "ARoS, Aarhus", "scenario_label": "24 September 2026 · 23:59 Europe/Copenhagen", "composition": "Street-level exterior of the brick cube and rainbow roof ring · AI-generated artistic interpretation", "description": "From the plaza on Aros Allé, the dark brick cube of ARoS fills the frame and the circular glass walkway on the roof reads as a rainbow ring against an overcast sky. It is about 13.6°C, with wind near 16 km/h and no rain. This is an exterior tourist view only; no gallery interior is shown. Weekday public hours end at 21:00, and whether the ring stays lit after closing on this night was not confirmed. The depiction follows the documented night beacon of the rooftop ring.", "alt_text": "AI-generated artistic interpretation of the ARoS museum exterior in Aarhus at night, with the rainbow ring on the roof", "file_16x9": "Denmark/Aarhus/dk-01-011-16x9.png", "file_4x5": "Denmark/Aarhus/dk-01-011-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-012", "country": "Denmark", "region": "North Jutland", "city": "Skagen", "caption": "Grenen, Skagen", "scenario_label": "25 September 2026 · 00:01 Europe/Copenhagen", "composition": "Sand spit where two wave trains meet · AI-generated artistic interpretation", "description": "The pale sand of Grenen runs into dark water, and waves arrive from two directions and break where the seas meet. The sky is overcast, about 14.2°C, with wind near 15 km/h and no rain, so there is no moon disk. The spit is empty. The seasonal tractor shuttle is not running at this hour, and no buildings are in the frame. The exact tip of the sandbar shifts with the sea; this is the meeting of the waves, not a surveyed coordinate on the sand.", "alt_text": "AI-generated artistic interpretation of Grenen at Skagen at night, where two wave patterns meet around the sand spit", "file_16x9": "Denmark/Skagen/dk-01-012-16x9.png", "file_4x5": "Denmark/Skagen/dk-01-012-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-013", "country": "Denmark", "region": "South Jutland", "city": "Ribe", "caption": "Ribe Cathedral, Ribe", "scenario_label": "25 September 2026 · 00:01 Europe/Copenhagen", "composition": "Single square Romanesque tower from the cathedral square · AI-generated artistic interpretation", "description": "From the cathedral square, Ribe Cathedral is dominated by one massive square tower, the Commoner's Tower, in pale stone with rounded Romanesque arches and a low top. It does not have Roskilde's twin spires. Half-timbered eaves sit at the edge of the square. The night is overcast, about 12.2°C, and the stone is lit by street lamps. The square is empty. Ribe remains the town name; the municipality since 2007 is Esbjerg.", "alt_text": "AI-generated artistic interpretation of Ribe Cathedral at night, with its single square Romanesque tower", "file_16x9": "Denmark/Ribe/dk-01-013-16x9.png", "file_4x5": "Denmark/Ribe/dk-01-013-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-014", "country": "Denmark", "region": "Bornholm", "city": "Allinge", "caption": "Hammershus, Allinge", "scenario_label": "25 September 2026 · 00:01 Europe/Copenhagen", "composition": "Granite ring-wall ruin above the Baltic · AI-generated artistic interpretation", "description": "Hammershus is a broken granite ring wall on the rocky headland, with the Baltic below the cliff. The night is fully overcast, about 13.9°C, with a breeze, so the ruin is dim rather than floodlit. No visitors are in the frame, and the visitor center is not used as the subject. The stones read as a medieval curtain wall, not an intact palace.", "alt_text": "AI-generated artistic interpretation of the Hammershus ruins above the Baltic on an overcast night", "file_16x9": "Denmark/Allinge/dk-01-014-16x9.png", "file_4x5": "Denmark/Allinge/dk-01-014-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-015", "country": "Denmark", "region": "Faroe Islands", "city": "Gásadalur", "caption": "Múlafossur, Gásadalur", "scenario_label": "25 September 2026 · 00:04 Europe/Copenhagen", "composition": "Turf-roofed houses and the cliff waterfall into the Atlantic · AI-generated artistic interpretation", "description": "At the edge of Gásadalur, a few black wooden houses with green turf roofs sit on the cliff, and Múlafossur drops off that cliff into the Atlantic. The local hour is overcast, about 10.7°C, with a gale near 56 km/h, so the grass is flattened and the fall is torn into spray. No moon is visible. The scenario clock on the image is Europe/Copenhagen, one hour ahead of Atlantic/Faroe. A small boat in the portrait was not verified as present.", "alt_text": "AI-generated artistic interpretation of Múlafossur at Gásadalur at night, with turf-roofed houses and a gale", "file_16x9": "Denmark/Gásadalur/dk-01-015-16x9.png", "file_4x5": "Denmark/Gásadalur/dk-01-015-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}, {"entry_id": "DK-01-016", "country": "Denmark", "region": "Greenland", "city": "Ilulissat", "caption": "Ilulissat Icefjord, Ilulissat", "scenario_label": "25 September 2026 · 00:02 Europe/Copenhagen", "composition": "Icebergs in the fjord during local twilight · AI-generated artistic interpretation", "description": "From the rocky shore south of town, white and blue icebergs fill Ilulissat Icefjord. Local time is about 21:00 America/Nuuk, roughly forty minutes after the 20:18 sunset, so the sky is still clear twilight with an amber glow on the horizon rather than midnight black. It is about 0.1°C, with almost no cloud. The autumn shore is rock and low rust-colored tundra. The clock printed on the image is Europe/Copenhagen, which is three hours ahead of Nuuk at this date; the light follows Ilulissat, not Copenhagen.", "alt_text": "AI-generated artistic interpretation of Ilulissat Icefjord in clear twilight, with icebergs and an amber horizon", "file_16x9": "Denmark/Ilulissat/dk-01-016-16x9.png", "file_4x5": "Denmark/Ilulissat/dk-01-016-4x5.png", "license_badge": "Free · no credit needed", "license_anchor": "#license"}];
+
+    const grid = document.getElementById('grid');
+    const q = document.getElementById('q');
+    const region = document.getElementById('region');
+    const clearBtn = document.getElementById('clear');
+    const countEl = document.getElementById('result-count');
+    const noResults = document.getElementById('no-results');
+
+    const regions = [...new Set(SCENES.map(s => s.region))].sort();
+    for (const r of regions) {
+      const opt = document.createElement('option');
+      opt.value = r; opt.textContent = r; region.appendChild(opt);
+    }
+
+    function esc(value) {
+      return String(value ?? "").replace(/[&<>"']/g, (ch) => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+      }[ch]));
+    }
+    function fileName(url) {
+      const path = String(url).split("?")[0];
+      const slash = path.lastIndexOf("/");
+      return slash >= 0 ? path.slice(slash + 1) : path;
+    }
+
+    function render() {
+      const query = q.value.trim().toLowerCase();
+      const reg = region.value;
+      const filtered = SCENES.filter(s => {
+        if (reg && s.region !== reg) return false;
+        if (!query) return true;
+        const hay = (s.city + ' ' + s.caption + ' ' + s.region + ' ' + s.entry_id + ' ' + (s.description || '')).toLowerCase();
+        return hay.includes(query);
+      });
+      grid.innerHTML = '';
+      noResults.style.display = filtered.length ? 'none' : 'block';
+      countEl.textContent = filtered.length + ' scene' + (filtered.length === 1 ? '' : 's');
+      for (const s of filtered) {
+        const card = document.createElement('article');
+        card.className = 'card';
+        const file16 = 'library/world/' + s.file_16x9;
+        const file45 = 'library/world/' + s.file_4x5;
+        card.innerHTML = `
+          <div class="preview">
+            <div class="fmt-tabs" role="group" aria-label="Image size">
+              <button type="button" class="fmt-tab is-active" data-format="16x9" aria-pressed="true">16:9</button>
+              <button type="button" class="fmt-tab" data-format="4x5" aria-pressed="false">4:5</button>
+            </div>
+            <a class="thumb" href="${esc(file16)}" target="_blank" rel="noopener">
+              <img src="${esc(file16)}" alt="${esc(s.alt_text)}" loading="lazy" data-src-16="${esc(file16)}" data-src-45="${esc(file45)}" />
+              <span class="view-affordance">View image</span>
+            </a>
+          </div>
+          <div class="card-body">
+            <div class="status-row">
+              <div class="entry-id">${esc(s.entry_id)}</div>
+              <span class="status candidate">Candidate</span>
+            </div>
+            <h3 class="caption">${esc(s.caption)}</h3>
+            <p class="scenario">Scenario: ${esc(s.scenario_label)}</p>
+            <p class="composition">${esc(s.composition)}</p>
+            ${s.description ? `<p class="detail">${esc(s.description)}</p>` : ""}
+            <div class="actions">
+              <a class="badge" href="${esc(s.license_anchor)}">${esc(s.license_badge)}</a>
+              <a class="download" href="${esc(file16)}" download="${esc(fileName(file16))}">Download 16:9</a>
+              <a class="download" href="${esc(file45)}" download="${esc(fileName(file45))}">Download 4:5</a>
+            </div>
+          </div>`;
+        grid.appendChild(card);
+      }
+    }
+    grid.addEventListener('click', (event) => {
+      const tab = event.target.closest('.fmt-tab');
+      if (!tab) return;
+      event.preventDefault();
+      const card = tab.closest('.card');
+      if (!card) return;
+      const fmt = tab.getAttribute('data-format');
+      card.querySelectorAll('.fmt-tab').forEach((item) => {
+        const on = item === tab;
+        item.classList.toggle('is-active', on);
+        item.setAttribute('aria-pressed', on ? 'true' : 'false');
+      });
+      const link = card.querySelector('a.thumb');
+      const img = link && link.querySelector('img');
+      if (!img || !link) return;
+      const next = fmt === "4x5" ? img.getAttribute("data-src-45") : img.getAttribute("data-src-16");
+      if (next) {
+        img.src = next;
+        link.href = next;
+      }
+      link.classList.toggle('tall', fmt === '4x5');
+    });
+    q.addEventListener('input', render);
+    region.addEventListener('change', render);
+    clearBtn.addEventListener('click', () => { q.value = ''; region.value = ''; render(); });
+    render();
+  </script>
+  <noscript><p>Images and download links work without JavaScript. Enable JavaScript for search and the full-screen viewer.</p></noscript>
+  <script>
+  (function(){
+    var overlay=document.createElement('div');
+    overlay.className='lb';overlay.setAttribute('aria-hidden','true');
+    overlay.innerHTML='<button class="lb-close" aria-label="Close">&times;</button>'
+      +'<button class="lb-prev" aria-label="Previous image">&#8592;</button>'
+      +'<figure><img alt=""><figcaption><span class="lb-cap"></span><span class="lb-count"></span></figcaption></figure>'
+      +'<button class="lb-next" aria-label="Next image">&#8594;</button>';
+    document.body.appendChild(overlay);
+    var img=overlay.querySelector('img'),cap=overlay.querySelector('.lb-cap'),count=overlay.querySelector('.lb-count');
+    var items=[],idx=0;
+    function visibleCards(){return Array.prototype.filter.call(document.querySelectorAll('.card'),function(c){return c.style.display!=='none';});}
+    function show(i){
+      items=visibleCards().map(function(c){
+        var a=c.querySelector('a.thumb');var t=c.querySelector('h3.caption');
+        return{src:a?a.href:'',cap:t?t.textContent:''};
+      }).filter(function(x){return x.src;});
+      if(!items.length)return;
+      idx=(i+items.length)%items.length;
+      img.src=items[idx].src;img.alt=items[idx].cap;cap.textContent=items[idx].cap;
+      count.textContent=(idx+1)+' / '+items.length;
+      overlay.classList.add('open');overlay.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';
+    }
+    function hide(){overlay.classList.remove('open');overlay.setAttribute('aria-hidden','true');document.body.style.overflow='';}
+    document.addEventListener('click',function(e){
+      var a=e.target.closest?e.target.closest('a.thumb'):null;
+      if(a){e.preventDefault();var cards=visibleCards();show(cards.indexOf(a.closest('.card')));return;}
+      if(e.target===overlay||(e.target.closest&&e.target.closest('.lb-close')))hide();
+      else if(e.target.closest&&e.target.closest('.lb-prev'))show(idx-1);
+      else if(e.target.closest&&e.target.closest('.lb-next'))show(idx+1);
+    });
+    document.addEventListener('keydown',function(e){
+      if(!overlay.classList.contains('open'))return;
+      if(e.key==='Escape')hide();
+      else if(e.key==='ArrowLeft')show(idx-1);
+      else if(e.key==='ArrowRight')show(idx+1);
+    });
+  })();
+  </script>
+</body>
+</html>
