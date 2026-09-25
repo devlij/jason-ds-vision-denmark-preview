@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Ribe/dk-01-013-16x9.png",
   "file_4x5": "Denmark/Ribe/dk-01-013-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: Ribe Cathedral at night from the square — Romanesque stone mass with the tall square west tower and arched openings, half-timbered houses flanking left and right, lit street lamps, clean framing. Gate 2 PASS: masters exact 1920x1080/864x1080; on-image 'Ribe Cathedral, Ribe', scenario '25 September 2026 · 00:01 Europe/Copenhagen', AI disclosure and 'Jason D's Vision' curly signature on bottom gradient, legible; weather retrieved 25 September 2026 23:08:16 Europe/Copenhagen for 55.3281,8.7616 (separate request, unique repo-wide), model-valid hour 00:00–00:59 containing scenario 00:01, is_day 0. Gate 3 PASS: text-prompt-only, no photographic reference pixels per note. Gate 4 noted: no visible people or logos — documented only. Art. 50 chunks present.",
+  "approved_at": "2026-09-25T22:27:02.918039+00:00",
+  "sha256_16x9": "f2194a870ddc9d41b031d8e24ed4fca57a9135926ad67c13b29b4e49a265289f",
+  "sha256_4x5": "9fb73c773a80a71fefc15f9c7ca90dedd759a7e76c7208447ef9541c6b90a2cc"
 }
