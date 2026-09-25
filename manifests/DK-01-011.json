@@ -21,16 +21,31 @@
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-011",
     "derived_from": "Approved night master Denmark/Aarhus/dk-01-011-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Aarhus/dk-01-011-16x9.png",
+        "sha256": "e7fd880a315c7e3394865b19694449b7b745d73f142b23fb9b6bb593a68a291a"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Aarhus/dk-01-011-4x5.png",
+        "sha256": "543e5bf971cdaccb64f1ec1927318c8078ed986627f45e1cd5d583aaacc5edce"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
     "files": {
       "16x9": "library/world/Denmark/Aarhus/dk-01-011-daylight-16x9.png",
       "4x5": "library/world/Denmark/Aarhus/dk-01-011-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "3ddaa47f64a27d5497a2e8574d7e942ce43b53eae5351c2f666038b34a0e3d46",
-      "4x5": "39924de091b334018d83e26ca2818b6884b74ce6d6d2ce4c8b15b150b9e27cfb"
+      "16x9": "adb4d975148567e22e6d69c306447546ec07730dca29899fb516505a6792b78a",
+      "4x5": "06e309a3648a3f9db13ebf1b3b71102e4e5d5c4ebdf911de478d25b1046ac711"
     },
     "created_date": "2026-09-25",
-    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
-    "on_image_marking": "Daylight variant - derived from the night interpretation"
+    "on_image_caption": "ARoS, Aarhus",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   }
 }

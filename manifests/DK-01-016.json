@@ -21,16 +21,31 @@
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-016",
     "derived_from": "Approved night master Denmark/Ilulissat/dk-01-016-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Ilulissat/dk-01-016-16x9.png",
+        "sha256": "a0e152e2f8fb85405ed6a88c74f1e4807cd081ad7d86975606555090fbac63c9"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Ilulissat/dk-01-016-4x5.png",
+        "sha256": "02368f9388d9e70b3810a7e000cbb2a66f70f66d5dcdd59dd475d55428387afb"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
     "files": {
       "16x9": "library/world/Denmark/Ilulissat/dk-01-016-daylight-16x9.png",
       "4x5": "library/world/Denmark/Ilulissat/dk-01-016-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c75ea128207bde9891a231856c20c40d6862039eb075c1a1d68b28fb3e0be66f",
-      "4x5": "dd2666b39b09e885ebebfdb16ce6aaaade5b1c91fa0e4f258c31ed0b31d2d313"
+      "16x9": "00e79384d0909556a60aa3f3fbd7bbac7cf0bf4db2b54c90618811d36b617ac3",
+      "4x5": "2e96bd1c5937a9754254d8846c93a40613904e9bb634048648213a339276680b"
     },
     "created_date": "2026-09-25",
-    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
-    "on_image_marking": "Daylight variant - derived from the night interpretation"
+    "on_image_caption": "Ilulissat Icefjord, Ilulissat",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   }
 }

@@ -58,16 +58,31 @@
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-004",
     "derived_from": "Approved night master Denmark/Helsingør/dk-01-004-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Helsingør/dk-01-004-16x9.png",
+        "sha256": "59a8491937747359420cc6c46bd0a790c9edebfc7fe91cc9e487d0e14c611a32"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Helsingør/dk-01-004-4x5.png",
+        "sha256": "7e16921f6d7ceb1ce46b3d8de4b1cf473939558ff765e1447ecc7c4b9d89b06a"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
     "files": {
       "16x9": "library/world/Denmark/Helsingør/dk-01-004-daylight-16x9.png",
       "4x5": "library/world/Denmark/Helsingør/dk-01-004-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "07666714fdf04f04dafb2c3e29454548a0e8ea8c0042d84813f41360b4aab900",
-      "4x5": "8bef88c3a354fdf38f014b459ade5952826b2975f3a9b853ca9bd6b243a07bd5"
+      "16x9": "92c9abc5abb6af6db9539fd2b2bee44da7d236b79c9803a3c7ec9d79297c764a",
+      "4x5": "706906cefd9240f2ed6b992a08e1e93e3a9988166583f8fb8797046ff6e84146"
     },
     "created_date": "2026-09-25",
-    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
-    "on_image_marking": "Daylight variant - derived from the night interpretation"
+    "on_image_caption": "Kronborg Castle, Helsingør",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   }
 }

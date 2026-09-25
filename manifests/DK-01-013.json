@@ -21,16 +21,31 @@
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-013",
     "derived_from": "Approved night master Denmark/Ribe/dk-01-013-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Ribe/dk-01-013-16x9.png",
+        "sha256": "f2194a870ddc9d41b031d8e24ed4fca57a9135926ad67c13b29b4e49a265289f"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Ribe/dk-01-013-4x5.png",
+        "sha256": "9fb73c773a80a71fefc15f9c7ca90dedd759a7e76c7208447ef9541c6b90a2cc"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
     "files": {
       "16x9": "library/world/Denmark/Ribe/dk-01-013-daylight-16x9.png",
       "4x5": "library/world/Denmark/Ribe/dk-01-013-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "78eb5c85969b0e7131a4484b5b8e5bef9a3c5cd4f8a27f0539377c9412559c0d",
-      "4x5": "6dfcd75b57765e0de9fb8e5e938d3cfaa608e2b72af8862745b7ca9d8bc7c68e"
+      "16x9": "a5df59367cc5ec15e063eb65f5fb3ec2e0d8c7403a176dd5daf70a3a24e05047",
+      "4x5": "b432e019c01e5b56874374cf846046b677ad09d214e9444d8b26d8f1d4a86ce0"
     },
     "created_date": "2026-09-25",
-    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
-    "on_image_marking": "Daylight variant - derived from the night interpretation"
+    "on_image_caption": "Ribe Cathedral, Ribe",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   }
 }
