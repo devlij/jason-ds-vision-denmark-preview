@@ -54,5 +54,20 @@
   "approval_basis": "Gate 1: night Nyhavn — colorful gabled townhouses along the canal from the postcard south-bank viewpoint, masts of moored sailing ships, full moon with cloud streaks, lit windows reflected in calm water; plausible framing, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Nyhavn, Copenhagen', scenario '24 September 2026 · 23:55 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:07:53 Europe/Copenhagen, valid 24 Sep 23:45 (Mainly clear, 13.9°C, cloud 34%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable shop names — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T21:32:42.347188+00:00",
   "sha256_16x9": "b65db6fd4687cc16d95ab3d01e61e166656b772e1ed652531e2de662741c111d",
-  "sha256_4x5": "2b59eb5331a084aed78009c762613c43cc2f1d321655877dae580d622203f5ae"
+  "sha256_4x5": "2b59eb5331a084aed78009c762613c43cc2f1d321655877dae580d622203f5ae",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-001",
+    "derived_from": "Approved night master Denmark/Copenhagen/dk-01-001-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "files": {
+      "16x9": "library/world/Denmark/Copenhagen/dk-01-001-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Copenhagen/dk-01-001-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "60c9e987cc7cb45043a220160beb1f6fa85a934fda2f3e7056f2f2708457d5fd",
+      "4x5": "7688598ea5554a8a474cd25cd9729f9c30b897d30a5362140d4676a05b533f38"
+    },
+    "created_date": "2026-09-25",
+    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
+    "on_image_marking": "Daylight variant - derived from the night interpretation"
+  }
 }
