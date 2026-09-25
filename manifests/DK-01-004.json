@@ -54,5 +54,20 @@
   "approval_basis": "Gate 1: night Kronborg Castle — Renaissance castle with copper spires and corner towers on the Øresund shore, moon reflection on the water, lights of Helsingborg across the strait, lit windows on the stonework; plausible viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Kronborg Castle, Helsingør', scenario '24 September 2026 · 23:57 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:07:58 Europe/Copenhagen, valid 24 Sep 23:45 (Mainly clear, 14.1°C, cloud 42%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T21:33:32.929100+00:00",
   "sha256_16x9": "59a8491937747359420cc6c46bd0a790c9edebfc7fe91cc9e487d0e14c611a32",
-  "sha256_4x5": "7e16921f6d7ceb1ce46b3d8de4b1cf473939558ff765e1447ecc7c4b9d89b06a"
+  "sha256_4x5": "7e16921f6d7ceb1ce46b3d8de4b1cf473939558ff765e1447ecc7c4b9d89b06a",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-004",
+    "derived_from": "Approved night master Denmark/Helsingør/dk-01-004-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "files": {
+      "16x9": "library/world/Denmark/Helsingør/dk-01-004-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Helsingør/dk-01-004-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "07666714fdf04f04dafb2c3e29454548a0e8ea8c0042d84813f41360b4aab900",
+      "4x5": "8bef88c3a354fdf38f014b459ade5952826b2975f3a9b853ca9bd6b243a07bd5"
+    },
+    "created_date": "2026-09-25",
+    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
+    "on_image_marking": "Daylight variant - derived from the night interpretation"
+  }
 }
