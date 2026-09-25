@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Dragør/dk-01-030-16x9.png",
   "file_4x5": "Denmark/Dragør/dk-01-030-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Dragør Harbour at night: ochre cottages with red tile roofs line a cobbled street, warm wall lanterns and a white picket fence, moored sailboats in the dark harbour at right; on-image caption 'Dragør Harbour, Dragør' with scenario '25 September 2026 · 00:34 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:49 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public harbour; notes-only. Art. 50 chunks (Title/Description/Copyright/Software/Comment) verified present on both masters.",
+  "approved_at": "2026-09-25T23:24:39.319850+00:00",
+  "sha256_16x9": "dfb80bc018bdb4c0371485c939e0cf47455e9ede9736b63a6aac055b86be8b12",
+  "sha256_4x5": "6e532cdbfc85c6ae10fbf0a49cba535e81fe49daf33cee7c4e9079be63f0d4ca"
 }
