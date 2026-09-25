@@ -49,8 +49,10 @@
       "note": "Gate 2 re-check PASS (Cosmo QC 2026-09-25, corrected wording): fresh per-scene Open-Meteo retrieval '25 September 2026 23:08:06 Europe/Copenhagen' (HTTP Fri, 25 Sep 2026 21:08:06 GMT), valid 25 Sep 2026 00:00, verified unique to the second repo-wide; scenario '25 September 2026 · 00:00 Europe/Copenhagen' inside the 00:00–00:59 model hour. The earlier shared-retrieval finding (00:02 batch, which cost this scene its 11:14 EDT approval) is resolved and superseded; this PASS is the scene's current Gate-2 record."
     }
   ],
-  "approval_status": "Candidate",
-  "qc_status": "Candidate · held at Gate 2",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "sha256_16x9": "4bdd44df5a975dadb281f9845e7e0b16d89443280dd1d1499af737681d8be667",
-  "sha256_4x5": "cd6d0f54811df6c717a17594e3fe1ba8dfdd1af2a01b7606a63bc4d02ea37106"
+  "sha256_4x5": "cd6d0f54811df6c717a17594e3fe1ba8dfdd1af2a01b7606a63bc4d02ea37106",
+  "approval_basis": "Gate 1: night H.C. Andersen Quarter — cobbled Hans Jensens Stræde lane, the low ochre corner house with red tile roof, half-timbered neighbours, glowing windows and street lamps under an overcast dark sky; no modern glass block in frame (per note anchors); plausible Odense viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'H.C. Andersen Quarter, Odense', scenario '25 September 2026 · 00:00 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:06 Europe/Copenhagen, valid 25 Sep 00:00 (Overcast, 13.2°C, cloud 100%), unique to the second repo-wide, scenario inside the 00:00–00:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T21:34:31.673723+00:00"
 }
