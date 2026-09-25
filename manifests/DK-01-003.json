@@ -22,6 +22,11 @@
       "at": "2026-09-25T14:18:25.889750+00:00",
       "by": "Cosmo QC",
       "note": "Gate 2 FAIL (Cosmo QC, 2026-09-25): the note cites Open-Meteo weather 'retrieved 24 September 2026 23:52 Europe/Copenhagen' — identical to the second across DK-01-001..DK-01-007, DK-01-009, DK-01-010. Shared/batch retrieval, not one retrieval per scene; per the hardened weather rule this fails Gate 2 even though per-location values differ. Held as Candidate pending per-scene weather rework and re-push."
+    },
+    {
+      "at": "2026-09-25T15:19:47.784994+00:00",
+      "by": "Cosmo QC",
+      "note": "Held at Gate 2: build-agent note cites Open-Meteo weather retrieval '24 September 2026 23:52 Europe/Copenhagen' — the identical-to-the-second timestamp also cited by DK-01-001,002,004,005,006,007,009,010, i.e. one shared/batch retrieval across 9 scenes. Per the one-retrieval-per-scene rule this fails Gate 2. Gates 1/3/4 otherwise fine on my own audit: Amalienborg square at night — four lit rococo palaces, equestrian statue of Frederik V on its pedestal, the Marble Church dome on axis, bright moon; plausible tourist viewpoint, clean framing, no artifacts; notes document text-prompt-only, no photographic inputs; no people or logos visible. Masters exact with signature, caption 'Amalienborg, Copenhagen', scenario '24 September 2026 · 23:57 Europe/Copenhagen' and disclosure all legible. Held as Candidate until the builder re-pushes a per-scene retrieval with a corrected note."
     }
   ]
 }
