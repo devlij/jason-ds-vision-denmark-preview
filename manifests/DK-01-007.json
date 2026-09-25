@@ -43,5 +43,11 @@
       "by": "Cosmo QC",
       "note": "Gate 2 re-check PASS (Cosmo QC 2026-09-25, corrected wording): fresh per-scene Open-Meteo retrieval '25 September 2026 23:08:04 Europe/Copenhagen' (HTTP Fri, 25 Sep 2026 21:08:04 GMT), valid 24 Sep 2026 23:45, verified unique to the second repo-wide; scenario '24 September 2026 · 23:57 Europe/Copenhagen' inside the 23:00–23:59 model hour. The earlier shared-retrieval finding (23:52 batch) is resolved and superseded; this PASS is the scene's current Gate-2 record."
     }
-  ]
+  ],
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: night Møns Klint — white chalk cliffs with the forest path at left descending the wooded ridge, full moon over the Baltic with a glitter path on calm water, dark star field; plausible cliff-top tourist viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Møns Klint, Borre', scenario '24 September 2026 · 23:57 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:04 Europe/Copenhagen, valid 24 Sep 23:45 (Clear, 12.7°C, cloud 18%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T21:34:27.131179+00:00",
+  "sha256_16x9": "e7c70720fba4d4db025065f07b25127a10df6024f248da84fcbd86b3c8012e7c",
+  "sha256_4x5": "b0b7e1ba6dbba2a3d7bb93c8fd32bbf946dc8a137587841fd7eba99d030560bb"
 }
