@@ -52,6 +52,11 @@
       "at": "2026-09-25T11:17:09.495347+00:00",
       "by": "Cosmo QC",
       "note": "Gate 2 HOLD (Cosmo QC): the batch note for DK-01-198 cites the same Open-Meteo retrieval timestamp (04:14 25 Sep 2026) that is cited for DK-01-194, DK-01-197, DK-01-199, DK-01-201, DK-01-202 — one retrieval reused across multiple scenes, the Spain ES-01-334–365 failure mode, so the weather claim cannot be trusted as a per-scene retrieval. Visual review of the 16:9 master (grass burial mound with concrete chamber doorway by the water at night) shows a plausible night tourist viewpoint with exact caption, 04:22 scenario string, AI disclosure and 'Jason D's Vision' signature — Gate 1 layer is sound — but Gate 2 cannot pass until the builder re-fetches per-scene weather and re-pushes corrected masters."
+    },
+    {
+      "at": "2026-09-25T12:18:09.158042+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 HOLD (Cosmo QC, 2026-09-25): weather-retrieval reuse — approvals/BATCH-DK-01-193-208.txt cites one shared Open-Meteo retrieval (04:22 or 04:14 Europe/Copenhagen) across many scenes, same Spain ES-01-334–365 failure mode. Scenario hour 04:22 on-image is inside the model-valid hour; mechanical, caption, signature, disclosure all verified on-image. Held as Candidate until the builder re-retrieves weather per scene and re-pushes."
     }
   ]
 }
