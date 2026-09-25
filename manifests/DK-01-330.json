@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Klintholm Havn/dk-01-330-16x9.png",
   "file_4x5": "Denmark/Klintholm Havn/dk-01-330-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: fishing boats moored at a stone pier, red-roofed houses behind, open sea; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:00:14 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:01 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T13:23:06.079437+00:00",
+  "sha256_16x9": "172eb56040b08dea23ae6f9e58e55ad8f1b67b2c68db74b99afce53d19260dd8",
+  "sha256_4x5": "7894ebbc5933ca53e261ce273deacbd2d0ad9e85e6be509d3fc5898ca188e0b9"
 }
