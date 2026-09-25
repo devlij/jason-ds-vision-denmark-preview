@@ -32,6 +32,11 @@
       "at": "2026-09-25T07:16:32.210020+00:00",
       "by": "Cosmo QC",
       "note": "Gate 2 HOLD (weather retrieval reuse): Open-Meteo retrieval cited as 25 Sep 2026 04:14 Europe/Copenhagen in approvals/DK-01-197.md and BATCH-DK-01-193-208.txt — the identical minute shared with DK-01-194, DK-01-198, DK-01-199, DK-01-201, DK-01-202. Matches the builder's self-disclosed reuse pattern (Spain failure mode). Held at Gate 2 until builder corrects with a per-scene retrieval and re-pushes. Gates 1/3/4/5 unaudited this run."
+    },
+    {
+      "at": "2026-09-25T08:17:30.580654+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 FAIL (held as Candidate): weather evidence untrustworthy — notes cite Open-Meteo retrieval '25 Sep 2026 04:14 Europe/Copenhagen, valid 04:00' which is the same single 04:14 fetch cited for DK-01-194/197/198/199/201/202 (the Spain ES-01-334-365 reuse pattern self-disclosed for DK-193-208). One retrieval must not back multiple scenes. Visual Gate 1 passed (yellow gatehouse with brick arch spanning the rampart moat, tree-lined path with lamps at night — plausible Landporten). On-image caption 'Landporten, Nyborg' + scenario '25 September 2026 · 04:22 Europe/Copenhagen' + AI disclosure + curly-apostrophe signature present and legible. Notes claim text-prompt-only (Gate 3 ok), no people/logos (Gate 4 documented). Held until builder re-pushes with a fresh per-scene weather retrieval."
     }
   ]
 }
