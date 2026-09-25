@@ -58,5 +58,11 @@
       "by": "Cosmo QC",
       "note": "Gate 2 HOLD (Cosmo QC, 2026-09-25): weather-retrieval reuse — approvals/BATCH-DK-01-193-208.txt cites one shared Open-Meteo retrieval (04:22 or 04:14 Europe/Copenhagen) across many scenes, same Spain ES-01-334–365 failure mode. Scenario hour 04:22 on-image is inside the model-valid hour; mechanical, caption, signature, disclosure all verified on-image. Held as Candidate until the builder re-retrieves weather per scene and re-pushes."
     }
-  ]
+  ],
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Afternoon",
+  "approval_basis": "Gate 1: Soby Harbour — rocky breakwater leading to fishing boats and red-roofed houses, choppy water under mixed cloud. Gate 2: caption 'Soby Harbour, Soby', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:53 (unique), valid 14:30, scenario inside 14:00–14:59; cloud/wind consistent with the depicted sea state. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
+  "approved_at": "2026-09-25T12:53:34.972062+00:00",
+  "sha256_16x9": "65b611543b5710aedbb870b0c7dff029ebd7d4727fa6eb1cae50c2159738212e",
+  "sha256_4x5": "6427e69313b93c94962b915d73cc6ece9942db2f0a1c9bd10b5f71ef2b103692"
 }
