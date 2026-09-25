@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Helsingør/dk-01-339-16x9.png",
   "file_4x5": "Denmark/Helsingør/dk-01-339-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: red-brick church with square tower and long arcaded cloister wing, characteristic of Sankt Mariæ Kirke Helsingør; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:24:52 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:33 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T14:15:46.594197+00:00",
+  "sha256_16x9": "b9685fd4f00e05cda3d3e60df08c7a6099acc3a5cff38cda85e13d404bbaf1f5",
+  "sha256_4x5": "6eb88e215334a028e13b9eee9177a03c99251a88ee972bcc67aaa5f2d4d51e53"
 }
