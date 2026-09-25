@@ -27,6 +27,11 @@
       "at": "2026-09-25T16:21:16.887876+00:00",
       "by": "Cosmo QC",
       "note": "Gate 2 HOLD (Cosmo QC): builder notes (BATCH-DK-01-001-016.txt + per-entry DK-01-007.md) cite the identical Open-Meteo retrieval 24 September 2026 23:52 Europe/Copenhagen, valid 23:45, shared to the second across DK-01-001..007, 009, 010 (and 011) — batch retrieval, not one fetch per scene. Hardened weather rule: identical-to-the-second retrieval timestamps across scenes = shared retrieval = Gate 2 fail, even though per-location values differ. Scenario hour falls inside the cited model-valid hour; that part is consistent. Builder to re-fetch weather per scene (own retrieval timestamp each), re-push notes, then QC re-audits. Card stays Candidate."
+    },
+    {
+      "at": "2026-09-25T17:20:37.857334+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 1 PASS: night Møns Klint — white chalk cliffs, forest path on the left, full moon over the sea, plausible tourist viewpoint, no artifacts. Dims exact; signature/caption 'Møns Klint, Borre'/scenario '24 September 2026 · 23:57 Europe/Copenhagen'/AI disclosure verified on-image. Gate 2 FAIL: retrieval 24 September 2026 23:52 Europe/Copenhagen shared identically with 9 other scenes (DK-01-001,002,003,004,005,006,009,010,011) — shared batch retrieval = Gate 2 fail. Gate 3: text-prompt generation, no photographic inputs reported. Gate 4: no people/logos visible; documented only. Held as Candidate until per-scene weather rework lands."
     }
   ]
 }
