@@ -58,5 +58,11 @@
       "by": "Cosmo QC",
       "note": "Gate 2 HOLD (Cosmo QC, 2026-09-25): weather-retrieval reuse — approvals/BATCH-DK-01-193-208.txt cites one shared Open-Meteo retrieval (04:22 or 04:14 Europe/Copenhagen) across many scenes, same Spain ES-01-334–365 failure mode. Scenario hour 04:22 on-image is inside the model-valid hour; mechanical, caption, signature, disclosure all verified on-image. Held as Candidate until the builder re-retrieves weather per scene and re-pushes."
     }
-  ]
+  ],
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Afternoon",
+  "approval_basis": "Gate 1: red-brick Gothic Vor Frue with tall spire over the cobbled Assens square, overcast light, no artifacts. Gate 2: caption 'Vor Frue, Assens', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:45 (unique), valid 14:30, scenario inside 14:00–14:59; 93% cloud matches the grey sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
+  "approved_at": "2026-09-25T12:52:53.519597+00:00",
+  "sha256_16x9": "b7176b48882db8ca68a720fe06dc131d7732217e0b23be5298c0beb19cf36c56",
+  "sha256_4x5": "835ed0d8007fecadd5cbec16c7a504e597aa333cacd8f1b0634ce88095522db3"
 }
