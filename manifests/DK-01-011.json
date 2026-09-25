@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Aarhus/dk-01-011-16x9.png",
   "file_4x5": "Denmark/Aarhus/dk-01-011-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: night street-level view of ARoS — dark-brick cubic museum with Olafur Eliasson's rainbow glass ring glowing on the roof, overcast sky, lamps and bare tree at right, clean framing. Gate 2 PASS: masters mechanically exact 1920x1080/864x1080; on-image caption 'ARoS, Aarhus', scenario '24 September 2026 · 23:59 Europe/Copenhagen', 'AI-generated artistic interpretation · Not a photograph.' disclosure and 'Jason D's Vision' curly-apostrophe signature on the bottom gradient, all legible; weather retrieved 25 September 2026 23:08:12 Europe/Copenhagen for 56.1537,10.1997 (separate request, cited to the second, unique repo-wide across 365 notes), model-valid hour 23:00–23:59 containing scenario 23:59, is_day 0 matches the night render. Gate 3 PASS: note documents text-prompt-only, no photographic reference pixels. Gate 4 noted: panorama artwork exterior only, no people/logos — documented only, commercial call is Jason's. Art. 50 iTXt/tEXt chunks verified present.",
+  "approved_at": "2026-09-25T22:26:23.097871+00:00",
+  "sha256_16x9": "e7fd880a315c7e3394865b19694449b7b745d73f142b23fb9b6bb593a68a291a",
+  "sha256_4x5": "543e5bf971cdaccb64f1ec1927318c8078ed986627f45e1cd5d583aaacc5edce"
 }
