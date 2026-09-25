@@ -49,5 +49,20 @@
   "approval_basis": "Gate 1: night Egeskov Castle — moated red-brick Renaissance castle with copper towers and spires, lit windows reflected in the dark moat, parkland banks; plausible viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Egeskov Castle, Kværndrup', scenario '24 September 2026 · 23:59 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:08 Europe/Copenhagen, valid 24 Sep 23:45 (Overcast, 11.7°C, cloud 100%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T21:34:36.673680+00:00",
   "sha256_16x9": "e7aee02980a17d969cdcfac91072164a54e1de93729df13f436115d6687e6068",
-  "sha256_4x5": "c099822aa2ba980cdcc39faf6accf2d4d69e35b9c5fe1c4e07288d2f268f272d"
+  "sha256_4x5": "c099822aa2ba980cdcc39faf6accf2d4d69e35b9c5fe1c4e07288d2f268f272d",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-009",
+    "derived_from": "Approved night master Denmark/Kværndrup/dk-01-009-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "files": {
+      "16x9": "library/world/Denmark/Kværndrup/dk-01-009-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Kværndrup/dk-01-009-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "6d21bf3365de656a204072bd84fb6d7e9bdf0525b68188f35e3a0f8a7934183b",
+      "4x5": "db8834ba03506fb56dba21d23fa7985bbbc9c0dc641962ba3b0ad8f9f4b5e333"
+    },
+    "created_date": "2026-09-25",
+    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
+    "on_image_marking": "Daylight variant - derived from the night interpretation"
+  }
 }
