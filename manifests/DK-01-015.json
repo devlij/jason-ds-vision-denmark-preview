@@ -17,5 +17,20 @@
   "approval_basis": "Gate 1 PASS: Múlafossur at Gásadalur — waterfall plunging off green coastal cliffs into the sea, turf-roofed dark houses with lit windows on the hillside, moody overcast sky, clean framing. Gate 2 PASS: masters exact 1920x1080/864x1080; on-image 'Múlafossur, Gásadalur', scenario '25 September 2026 · 00:04 Europe/Copenhagen', AI disclosure and 'Jason D's Vision' curly signature on bottom gradient, legible; weather retrieved 25 September 2026 23:08:20 Europe/Copenhagen for 62.1120,-7.4342 (separate request, unique repo-wide; note also cites the Atlantic/Faroe local instant), model-valid hour 00:00–00:59 containing scenario 00:04, is_day 0. Gate 3 PASS: text-prompt-only, no photographic reference pixels per note. Gate 4 noted: no people or logos — documented only. Art. 50 chunks present.",
   "approved_at": "2026-09-25T22:27:38.991639+00:00",
   "sha256_16x9": "425e834273455e0bc12df495ce54f79909adf7b2c662999e3ee183c4c50936cf",
-  "sha256_4x5": "09e7b2e12ad10de53eb89d3261f6564caebff51dbea260ac7f032d8c056c69a3"
+  "sha256_4x5": "09e7b2e12ad10de53eb89d3261f6564caebff51dbea260ac7f032d8c056c69a3",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-015",
+    "derived_from": "Approved night master Denmark/Gásadalur/dk-01-015-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "files": {
+      "16x9": "library/world/Denmark/Gásadalur/dk-01-015-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Gásadalur/dk-01-015-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "e31a63d7dd591338bf37a2552461671056478ae821299fbf6e40ba9e35313c6a",
+      "4x5": "4d47d91b350f57623d01d8fef3ee6529fa97b71c73af528b3cd4041b86da69b3"
+    },
+    "created_date": "2026-09-25",
+    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
+    "on_image_marking": "Daylight variant - derived from the night interpretation"
+  }
 }
