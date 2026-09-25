@@ -49,5 +49,20 @@
   "approval_basis": "Gate 1: night Frederiksborg Castle — Christian IV's Dutch-Renaissance brick castle with copper spires on its islets in the castle lake, lit windows reflected in still water, wooded banks under cloud-veiled moon; plausible viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Frederiksborg Castle, Hillerød', scenario '24 September 2026 · 23:57 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:00 Europe/Copenhagen, valid 24 Sep 23:45 (Partly cloudy, 11.6°C, cloud 50%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T21:33:37.446415+00:00",
   "sha256_16x9": "a1148114a5a8f408f1b2022b7ed67e9ddaf6b6a1f7bbeaba62998e8f36f55cb5",
-  "sha256_4x5": "642884871b380bf3771c17bb4b830bb277593968975072e49391ce65eb694540"
+  "sha256_4x5": "642884871b380bf3771c17bb4b830bb277593968975072e49391ce65eb694540",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-005",
+    "derived_from": "Approved night master Denmark/Hillerød/dk-01-005-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "files": {
+      "16x9": "library/world/Denmark/Hillerød/dk-01-005-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Hillerød/dk-01-005-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "5975eed26911f0f33ad6173b8d65fb8fceb880de5caf50c6d0f333f9b218bfcf",
+      "4x5": "fc9957e3af85924f3c9c058adb376054dfaeb65e8487c302b9287d8e398ffdcf"
+    },
+    "created_date": "2026-09-25",
+    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
+    "on_image_marking": "Daylight variant - derived from the night interpretation"
+  }
 }
