@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Haderslev/dk-01-205-16x9.png",
   "file_4x5": "Denmark/Haderslev/dk-01-205-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: calm lake expanse with a gravel shore path, tall shoreline reeds, autumn-foliage trees and distant town rooftops across the water under overcast sky — a plausible tourist viewpoint at Haderslev Dam, clean framing with no artifacts. Gate 2: exact 1920x1080/864x1080; signature 'Jason D's Vision' bottom-right; caption 'Haderslev Dam, Haderslev', scenario '25 September 2026 · 14:32 Europe/Copenhagen' and AI disclosure legible bottom-left on scrim; scenario hour inside model-valid 14:00–14:59; weather retrieval 14:32:58 unique to this scene — no shared retrieval. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no people, logos or recognizable private property visible.",
+  "approved_at": "2026-09-25T13:18:26.737568+00:00",
+  "sha256_16x9": "d5039c8338430a0af11b3bb3a950f49d8fd6b9b4840e25d6f5cec92a4ef6a8b9",
+  "sha256_4x5": "03857c9822a88787deb65872587b3674fabdc87e9a984de5647116d6455872bb"
 }
