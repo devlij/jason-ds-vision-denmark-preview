@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Mykines/dk-01-350-16x9.png",
   "file_4x5": "Denmark/Mykines/dk-01-350-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved",
+  "approval_basis": "Gate 1: Faroe village with turf-roofed houses and stone church beneath green cliffs, plausible Mykines; caption and scenario verified on-image. Gate 2: exact 1920x1080/864x1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 25 September 2026 15:25:13 Europe/Copenhagen, model-valid 15:00-15:59, scenario 15:29 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per build-agent notes. Gate 4: commercial/IP noted, Jason's final call. Gate 5: two-format card, both downloads, lightbox-ready.",
+  "approved_at": "2026-09-25T15:44:34.930867+00:00",
+  "sha256_16x9": "7117b601109d285d05c323d16f95c7063d2c7bd7fe88ddf5338afb2a54e83a73",
+  "sha256_4x5": "8edc5276ac68372e4ffea20bc8dd925346ba483f8e531a14a8a692d74b236c3c"
 }
