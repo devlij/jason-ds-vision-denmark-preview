@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Copenhagen/dk-01-024-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-024-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Rundetårn at night: the round brick tower with its decorative frieze band and observatory cupola dominates, adjacent gabled brick buildings and a cobbled lamp-lit street to the left; on-image caption 'Rundetårn, Copenhagen' with scenario '25 September 2026 · 00:32 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:37 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public landmark; notes-only.",
+  "approved_at": "2026-09-25T23:24:00.417019+00:00",
+  "sha256_16x9": "934e57c27123bc0723bc1e08bb485a206e86db4744f8f374ca8608de01c364cd",
+  "sha256_4x5": "6b7084127cad8f1767c52e943838720f97f9d8e3d847c6f0ae2469f5a1bbc716"
 }
