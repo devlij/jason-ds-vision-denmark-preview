@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Rønde/dk-01-207-16x9.png",
   "file_4x5": "Denmark/Rønde/dk-01-207-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: red-brick castle ruin with broken wall tops and window arches on a small grassy island, reached by a stone causeway, calm bay water on both sides and a partly cloudy sky — the classic Kalø viewpoint, clean framing with no artifacts. Gate 2: exact 1920x1080/864x1080; signature 'Jason D's Vision' bottom-right; caption 'Kalø Castle, Rønde', scenario '25 September 2026 · 14:33 Europe/Copenhagen' and AI disclosure legible bottom-left on scrim; scenario hour inside model-valid 14:00–14:59; weather retrieval 14:33:04 unique to this scene — no shared retrieval. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no people, logos or recognizable private property visible.",
+  "approved_at": "2026-09-25T13:18:54.549939+00:00",
+  "sha256_16x9": "71ddd5807704d1ca7e22a7e399994f7238473a50377e0ac0d4bd2c2c4b867949",
+  "sha256_4x5": "8bb9c644f23ad5232b328923a51f2733bc68291c0976af9555b9b6f5e4975fef"
 }
