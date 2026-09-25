@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Aarhus/dk-01-326-16x9.png",
   "file_4x5": "Denmark/Aarhus/dk-01-326-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: red-brick Gothic cathedral with tall twin-spired west tower, autumn trees in the square; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:00:10 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:01 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T13:22:47.393597+00:00",
+  "sha256_16x9": "6a57da616435feac37ed43990cb91aa44c37b7ab228daf1695d1fe754d561c09",
+  "sha256_4x5": "d7ae0937357feec0b0076a22f83f0096251c7e9e1d0925ced8b4933e33c4f22f"
 }
