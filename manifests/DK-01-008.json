@@ -54,5 +54,20 @@
   "sha256_16x9": "4bdd44df5a975dadb281f9845e7e0b16d89443280dd1d1499af737681d8be667",
   "sha256_4x5": "cd6d0f54811df6c717a17594e3fe1ba8dfdd1af2a01b7606a63bc4d02ea37106",
   "approval_basis": "Gate 1: night H.C. Andersen Quarter — cobbled Hans Jensens Stræde lane, the low ochre corner house with red tile roof, half-timbered neighbours, glowing windows and street lamps under an overcast dark sky; no modern glass block in frame (per note anchors); plausible Odense viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'H.C. Andersen Quarter, Odense', scenario '25 September 2026 · 00:00 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:06 Europe/Copenhagen, valid 25 Sep 00:00 (Overcast, 13.2°C, cloud 100%), unique to the second repo-wide, scenario inside the 00:00–00:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
-  "approved_at": "2026-09-25T21:34:31.673723+00:00"
+  "approved_at": "2026-09-25T21:34:31.673723+00:00",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-008",
+    "derived_from": "Approved night master Denmark/Odense/dk-01-008-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "files": {
+      "16x9": "library/world/Denmark/Odense/dk-01-008-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Odense/dk-01-008-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "4c33339105281032dc9fa6bfce3f3e360890925f580d18595306043b75878949",
+      "4x5": "d2f213b11d89ddc9028f9cfb3614e9952c4a21ea79a0d4209c72c166ca6768ef"
+    },
+    "created_date": "2026-09-25",
+    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
+    "on_image_marking": "Daylight variant - derived from the night interpretation"
+  }
 }
