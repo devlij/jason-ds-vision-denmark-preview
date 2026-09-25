@@ -1,0 +1,314 @@
+[
+  {
+    "entry_id": "DK-01-353",
+    "region": "Capital Region",
+    "city": "Copenhagen",
+    "caption": "Marble Church, Copenhagen",
+    "composition": "The rococo portico and green copper dome · AI-generated artistic interpretation",
+    "lead": "From the Frederiksgade forecourt, Frederik's Church, the Marble Church, is a circular pale-stone church with a columned portico and a large green copper dome.",
+    "tail": "The palace wings of Amalienborg are behind the camera.",
+    "alt_text": "AI-generated artistic interpretation of the Marble Church in Copenhagen on a clear afternoon, portico and copper dome",
+    "viewpoint": "The church forecourt on Frederiksgade, looking west at the portico. Approximate researched point 55.68497, 12.58955, not a surveyed camera. Open-Meteo ran this request on grid 55.68775, 12.58566. Nominatim places Marmorkirken in København, postal 1265. The gallery city is Copenhagen.",
+    "refs": [
+      "https://en.wikipedia.org/wiki/Frederik%27s_Church",
+      "https://www.marmorkirken.dk/"
+    ],
+    "anchors": [
+      "A circular rococo church of pale stone.",
+      "A columned portico and statues along the drum.",
+      "A large green copper dome. No palace wings in front."
+    ],
+    "independent": "Frederik's Church stands at the west end of Frederiksgade in Frederiksstaden. The tourist forecourt looks at the portico and dome. Amalienborg, DK-01-003, is the palace square farther east, where the dome is only a distant axis. This frame is the church front.",
+    "ip": "No readable frieze and no poster. Internal review only, not a legal certification.",
+    "visual": "Pass. Portico, statues, green dome, clear afternoon, empty forecourt. No palace square and no lettering.",
+    "swap": "No site swap. The Marble Church had no card of its own. Amalienborg, DK-01-003, includes the dome only as a distant feature down the palace axis. City is Copenhagen."
+  },
+  {
+    "entry_id": "DK-01-354",
+    "region": "Capital Region",
+    "city": "Copenhagen",
+    "caption": "Ridebanen, Copenhagen",
+    "composition": "A gravel riding courtyard and the palace tower · AI-generated artistic interpretation",
+    "lead": "Ridebanen is the gravel riding courtyard in front of Christiansborg, with the palace tower and green copper spire at the far end and lower stable wings to either side.",
+    "tail": "The canal is not in the foreground.",
+    "alt_text": "AI-generated artistic interpretation of the Ridebanen courtyard at Christiansborg in Copenhagen on a clear afternoon",
+    "viewpoint": "Inside the riding courtyard, looking toward the tower. Approximate researched point 55.67529, 12.57790, not a surveyed camera. Open-Meteo ran this request on grid 55.67850, 12.57043. Nominatim names the yard Christiansborg Ridebane in København, postal 1220.",
+    "refs": [
+      "https://en.wikipedia.org/wiki/Christiansborg_Palace",
+      "https://www.kongehuset.dk/en/palaces-and-the-royal-collections/the-royal-stables"
+    ],
+    "anchors": [
+      "An empty gravel courtyard.",
+      "A pale stone tower with a green copper spire.",
+      "Lower wings at the sides. No canal in the foreground."
+    ],
+    "independent": "Ridebanen is the public riding ground between Christiansborg and the Marble Bridge, flanked by the royal stable wings. DK-01-019 is the canal view of the palace and spire. This frame stays inside the courtyard.",
+    "ip": "No readable cipher and no flag treated as a logo. Internal review only, not a legal certification.",
+    "visual": "Pass. Gravel yard, tower, side wings, clear afternoon, empty. No canal and no lettering.",
+    "swap": "The canal view of the tower is already DK-01-019, Christiansborg Palace, Copenhagen. This card is the public Ridebanen courtyard, the other view in the same suggestion. City is Copenhagen."
+  },
+  {
+    "entry_id": "DK-01-355",
+    "region": "Bornholm",
+    "city": "Nylars",
+    "caption": "Nylars Round Church, Nylars",
+    "composition": "A white round church with a conical roof and no buttresses · AI-generated artistic interpretation",
+    "lead": "From the churchyard, Nylars Round Church is a white round nave under a tall dark conical roof, with a small porch and a low separate belfry. The walls have no external buttresses.",
+    "tail": "It is not the buttressed round church at Østerlars.",
+    "alt_text": "AI-generated artistic interpretation of Nylars Round Church on an overcast afternoon, a white round church without buttresses",
+    "viewpoint": "The churchyard at Kirkevej, Nylars. Approximate researched point 55.07396, 14.81501, not a surveyed camera. Open-Meteo ran this request on grid 55.07093, 14.82172. Nominatim places Nylars Rundkirke in the village Nylars. The postal address used by VisitDenmark is Kirkevej 10K, 3720 Aakirkeby. The gallery city is the village Nylars. The gallery region is Bornholm.",
+    "refs": [
+      "https://en.wikipedia.org/wiki/Nylars_Church",
+      "https://www.visitdenmark.dk/danmark/explore/nylars-kirke-nylars-rundkirke-gdk614880"
+    ],
+    "anchors": [
+      "A whitewashed round nave.",
+      "A tall dark conical roof and a small porch.",
+      "No external buttresses, and a low separate belfry in the yard."
+    ],
+    "independent": "Nylars Church is the round church in Nylars, south of Rønne. English Wikipedia notes that, unlike Østerlars and Olsker, its thick walls were built without external buttresses. Østerlars is DK-01-067, Olsker is DK-01-246, and Nyker is DK-01-322. Administratively Bornholm is in the Capital Region; this gallery keeps the island as Bornholm.",
+    "ip": "Interior frescos are not shown. No readable board. Internal review only, not a legal certification.",
+    "visual": "Pass. White round nave, conical roof, no buttresses, low belfry, overcast, empty yard. No lettering.",
+    "swap": "Swapped from Dragør old town and Dragør harbour. The yellow-house lane is DK-01-165 and the harbour is DK-01-030. The unused round church is Nylars. City is Nylars."
+  },
+  {
+    "entry_id": "DK-01-356",
+    "region": "Capital Region",
+    "city": "Hillerød",
+    "caption": "Slotskirken, Hillerød",
+    "composition": "The ornate chapel gable in the castle courtyard · AI-generated artistic interpretation",
+    "lead": "Slotskirken is the chapel gable of Frederiksborg, seen in the inner courtyard: red brick and sandstone niches with sculptural figures.",
+    "tail": "The castle lake is not in this frame.",
+    "alt_text": "AI-generated artistic interpretation of the Frederiksborg chapel gable in Hillerød on a mainly clear afternoon",
+    "viewpoint": "The inner courtyard in front of the chapel gable. Approximate researched point 55.93509, 12.30079, not a surveyed camera. Open-Meteo ran this request on grid 55.93151, 12.29811. Nominatim places Frederiksborg Slotskirke in Hillerød, postal 3400.",
+    "refs": [
+      "https://en.wikipedia.org/wiki/Frederiksborg_Castle",
+      "https://frederiksborg.dk/en/frederiksborg-castle/"
+    ],
+    "anchors": [
+      "An ornate brick and sandstone chapel gable.",
+      "Sculptural niches, with no readable inscription.",
+      "Courtyard paving. No lake."
+    ],
+    "independent": "The palace chapel is in the west range of Frederiksborg, and its show gable faces the courtyard rather than the lake. The lake panorama is DK-01-005. DK-01-100 is the shore path with the castle kept out of frame. The market square is DK-01-152.",
+    "ip": "Carved figures are architectural sculpture, not a featured artwork, and no inscription is readable. Internal review only, not a legal certification.",
+    "visual": "Pass. Chapel gable, courtyard, mainly clear afternoon, empty. No lake and no lettering.",
+    "swap": "The lake view of the whole castle is already DK-01-005, Frederiksborg Castle, Hillerød. This card is the Slotskirken courtyard front, the alternative in the suggestion. City is Hillerød."
+  },
+  {
+    "entry_id": "DK-01-357",
+    "region": "Zealand",
+    "city": "Kalundborg",
+    "caption": "Lerchenborg, Kalundborg",
+    "composition": "A yellow baroque manor at the end of a lime avenue · AI-generated artistic interpretation",
+    "lead": "Lerchenborg is a yellow-ochre baroque manor with a symmetrical three-wing front and a dark hipped roof, seen along a straight lime avenue.",
+    "tail": "The five-tower church is not in this frame.",
+    "alt_text": "AI-generated artistic interpretation of Lerchenborg near Kalundborg on a partly cloudy afternoon, a yellow manor and a lime avenue",
+    "viewpoint": "The lime avenue looking toward the garden front. Approximate researched point 55.65369, 11.07988, not a surveyed camera. Open-Meteo ran this request on grid 55.65495, 11.08321. Nominatim returns no village, municipality Kalundborg, postal 4400. The estate's own address is Lerchenborg 3, 4400 Kalundborg. City is Kalundborg. The manor stands on the Asnæs peninsula.",
+    "refs": [
+      "https://en.wikipedia.org/wiki/Lerchenborg",
+      "https://www.visitdenmark.com/denmark/plan-your-trip/lerchenborg-castle-gdk1158087"
+    ],
+    "anchors": [
+      "A yellow symmetrical manor.",
+      "A dark hipped roof and white window frames.",
+      "A straight lime avenue. No five-tower church."
+    ],
+    "independent": "Lerchenborg was built in 1743–53 for Christian Lerche on the Asnæs peninsula, a few kilometres south of Kalundborg town. The postal city is Kalundborg. The five-tower Church of Our Lady is DK-01-087 and the town harbour is DK-01-170.",
+    "ip": "Exterior only. No readable estate name. Internal review only, not a legal certification.",
+    "visual": "Pass. Yellow manor, hipped roof, lime avenue, broken cloud, empty. No five-tower church and no lettering.",
+    "swap": "Swapped from the Church of Our Lady, already DK-01-087, Church of Our Lady, Kalundborg. The harbour is DK-01-170. The unused manor is Lerchenborg. City is Kalundborg, the postal town."
+  },
+  {
+    "entry_id": "DK-01-358",
+    "region": "Zealand",
+    "city": "Næstved",
+    "caption": "Gavnø Castle, Næstved",
+    "composition": "A pale yellow rococo manor beside the water · AI-generated artistic interpretation",
+    "lead": "Gavnø Castle is a pale yellow rococo manor with white trim and a dark hipped roof, on its island, with lawn and water in front.",
+    "tail": "Late September, so the park has no tulip carpet.",
+    "alt_text": "AI-generated artistic interpretation of Gavnø Castle near Næstved on a mainly clear September afternoon, a pale yellow manor by the water",
+    "viewpoint": "The park lawn looking toward the manor, with water at the island edge. Approximate researched point 55.18885, 11.72520, not a surveyed camera. Open-Meteo ran this request on grid 55.19293, 11.72701. Nominatim returns no town. The hamlet field is Appenæs Hoved, postal 4700, Næstved Kommune. The castle's own address is Gavnø 2, 4700 Næstved. City is Næstved.",
+    "refs": [
+      "https://en.wikipedia.org/wiki/Gavn%C3%B8_Castle",
+      "https://gavnoe.com/opening-hours-and-prices/opening-hours/"
+    ],
+    "anchors": [
+      "A pale yellow symmetrical manor with a hipped roof.",
+      "Water and lawn, not a town street.",
+      "No massed tulips."
+    ],
+    "independent": "Gavnø is the rococo manor on Gavnø island south of Næstved. The estate lists the address as Gavnø 2, 4700 Næstved. Its opening calendar puts the tulip display in April and May, and the park is open into October, so a 25 September scene keeps the manor and the autumn trees and leaves the tulip beds out. Næstved old town is DK-01-089 and the Suså quay is DK-01-186.",
+    "ip": "No readable sign and no shop front. Internal review only, not a legal certification.",
+    "visual": "Pass. Pale yellow manor, hipped roof, water, September trees, mainly clear, empty. No tulip carpet and no lettering.",
+    "swap": "No site swap. Gavnø Castle had not been used. City is Næstved because that is the postal town on the estate's address. Nominatim had no town field."
+  },
+  {
+    "entry_id": "DK-01-359",
+    "region": "Funen",
+    "city": "Faaborg",
+    "caption": "Helligåndskirken, Faaborg",
+    "composition": "A long yellow church with a small ridge turret · AI-generated artistic interpretation",
+    "lead": "Helligåndskirken is a long yellow-washed church with a red tile roof and only a small ridge turret.",
+    "tail": "The free-standing clock tower is in another street and is not in this frame.",
+    "alt_text": "AI-generated artistic interpretation of Helligåndskirken in Faaborg on an overcast afternoon, a yellow church with a small ridge turret",
+    "viewpoint": "The churchyard at Klerkegade. Approximate researched point 55.09654, 10.24576, not a surveyed camera. Open-Meteo ran this request on grid 55.09564, 10.25281. Nominatim places the church in Faaborg, postal 5600. The Danish Wikipedia address is Kirkestræde 12.",
+    "refs": [
+      "https://da.wikipedia.org/wiki/Hellig%C3%A5ndskirken_(Faaborg)",
+      "https://natmus.dk/nyhed/i-et-moderne-parforhold-siden-1550-faaborgs-kirke-og-taarn-bor-ikke-sammen/"
+    ],
+    "anchors": [
+      "A long yellow church hall.",
+      "A red tile roof and a small ridge turret.",
+      "No free-standing clock tower."
+    ],
+    "independent": "Helligåndskirken in Faaborg is the late medieval monastery church, yellow-washed, with a ridge turret and no tower of its own. Its bells hang in the separate Klokketårn nearer the harbour, already DK-01-116. The harbour is DK-01-039. The gallery region is Funen.",
+    "ip": "No readable board. Interior altarpieces are not shown. Internal review only, not a legal certification.",
+    "visual": "Pass. Long yellow church, red roof, small ridge turret, overcast, empty yard. No clock tower and no lettering.",
+    "swap": "Swapped from Faaborg Harbour, DK-01-039, and from Klokketårnet, DK-01-116. The unused church is Helligåndskirken. City is Faaborg."
+  },
+  {
+    "entry_id": "DK-01-360",
+    "region": "South Jutland",
+    "city": "Ribe",
+    "caption": "Skibbroen, Ribe",
+    "composition": "Half-timbered houses along the river quay · AI-generated artistic interpretation",
+    "lead": "Skibbroen is the wooden quay along the river in Ribe, lined with low half-timbered houses, white panels, dark timber, and red tile roofs.",
+    "tail": "The cathedral is not in this frame.",
+    "alt_text": "AI-generated artistic interpretation of Skibbroen in Ribe on an overcast afternoon, half-timbered houses along the river quay",
+    "viewpoint": "On Skibbroen, looking along the quay. Approximate researched point 55.32993, 8.76179, not a surveyed camera. Open-Meteo ran this request on grid 55.32697, 8.75937. Nominatim places the pedestrian street Skibbroen in Ribe, postal 6760. The exact standing point along the quay was not pinned beyond the street.",
+    "refs": [
+      "https://en.wikipedia.org/wiki/Ribe",
+      "https://da.wikipedia.org/wiki/Ribe"
+    ],
+    "anchors": [
+      "A wooden quay and river water.",
+      "Low half-timbered houses with red roofs.",
+      "No cathedral towers."
+    ],
+    "independent": "Skibbroen is the historic quay where Ribe Å runs through the old town. DK-01-013 is the cathedral and DK-01-142 is a cobbled lane with no water. The sea lock at Kammerslusen is DK-01-220. This frame is the river quay.",
+    "ip": "No readable shop name. Internal review only, not a legal certification.",
+    "visual": "Pass. Quay, river, half-timbered houses, overcast, empty. No cathedral and no lettering.",
+    "swap": "Swapped from Ribe Cathedral, DK-01-013, and from the cobbled old-town lane, DK-01-142. The unused view is the river quay Skibbroen. City is Ribe."
+  },
+  {
+    "entry_id": "DK-01-361",
+    "region": "South Jutland",
+    "city": "Løgumkloster",
+    "caption": "Løgumkloster, Løgumkloster",
+    "composition": "A long red-brick abbey church without a needle spire · AI-generated artistic interpretation",
+    "lead": "Løgumkloster Church is a long red-brick cruciform abbey church on a fieldstone base, with round-arched windows on the east gable and a low roof.",
+    "tail": "There is no needle spire.",
+    "alt_text": "AI-generated artistic interpretation of Løgumkloster abbey church on a mainly clear afternoon, a long red-brick church",
+    "viewpoint": "The churchyard toward the east end. Approximate researched point 55.05695, 8.95042, not a surveyed camera. Open-Meteo ran this request on grid 55.05948, 8.94553. Nominatim places Løgumkloster Kirke in Løgumkloster, postal 6240.",
+    "refs": [
+      "https://en.wikipedia.org/wiki/L%C3%B8gum_Abbey",
+      "https://da.wikipedia.org/wiki/L%C3%B8gumkloster_Kirke"
+    ],
+    "anchors": [
+      "A long red-brick church.",
+      "Round-arched windows on the east gable.",
+      "A low roof, not a needle spire."
+    ],
+    "independent": "Løgum Abbey church is the surviving Cistercian church in Løgumkloster, in Tønder Municipality. The east end keeps round-arched windows and the crossing is not a tall spire. Tønder old town, a gabled street and a church spire, is already DK-01-048. Slotsgade in Møgeltønder is DK-01-043.",
+    "ip": "No readable board. The chapter-house crucifix is indoors and is not shown. Internal review only, not a legal certification.",
+    "visual": "Pass. Long red-brick church, round-arched east windows, low roof, mainly clear afternoon, empty. No needle spire and no lettering.",
+    "swap": "Swapped from Tønder market square. Tønder Old Town, DK-01-048, is already the gabled centre and the church spire, so a second square would repeat it. No separate town gatehouse was identified as unused. The unused church is Løgumkloster. City is Løgumkloster."
+  },
+  {
+    "entry_id": "DK-01-362",
+    "region": "North Jutland",
+    "city": "Thisted",
+    "caption": "Thisted Church, Thisted",
+    "composition": "A white church and a west tower with a short spire · AI-generated artistic interpretation",
+    "lead": "Thisted Church is a whitewashed town church with a grey lead roof, buttresses, and a heavy west tower ending in a short spire.",
+    "tail": "The Limfjord quay is not in this frame.",
+    "alt_text": "AI-generated artistic interpretation of Thisted Church on an overcast afternoon, a white church with a west tower",
+    "viewpoint": "Vestergade in front of the west tower. Approximate researched point 56.95464, 8.68917, not a surveyed camera. Open-Meteo ran this request on grid 56.95636, 8.68231. Nominatim places Thisted Kirke in Thisted, postal 7700.",
+    "refs": [
+      "https://lex.dk/Thisted_Kirke",
+      "https://www.thisted-kirke.dk/kirke/historie/taarnopgang"
+    ],
+    "anchors": [
+      "A whitewashed church with buttresses.",
+      "A grey roof and a heavy west tower.",
+      "A short spire. No harbour water."
+    ],
+    "independent": "Thisted Kirke stands on Vestergade. Trap Danmark describes the present church as whitewashed, with a lead roof, buttresses, four gables on the tower, and a pyramid spire. The church's own note calls the spire octagonal. The harbour on the Limfjord is already DK-01-135.",
+    "ip": "No readable board. Interior fittings are not shown. Internal review only, not a legal certification.",
+    "visual": "Pass. White church, west tower, short spire, overcast street, empty. No harbour and no lettering.",
+    "swap": "The Limfjord quay is already DK-01-135, Thisted Harbour, Thisted. This card is the church, the unused half of the suggestion. City is Thisted."
+  },
+  {
+    "entry_id": "DK-01-363",
+    "region": "Faroe Islands",
+    "city": "Viðareiði",
+    "caption": "Viðareiði, Viðareiði",
+    "composition": "A white church with a red roof above a windy sound · AI-generated artistic interpretation",
+    "lead": "The church at Viðareiði is a white church with a red roof and a low stone wall, on the green slope above a choppy sound, with steep mountains behind.",
+    "tail": "The church roof is not turf. No snow is falling.",
+    "alt_text": "AI-generated artistic interpretation of the church at Viðareiði in the Faroe Islands under an overcast windy sky",
+    "viewpoint": "The churchyard slope toward the sound. Approximate researched point 62.35981, -6.54361, not a surveyed camera. Open-Meteo ran this request on grid 62.34007, -6.52966. Nominatim places the village Viðareiði in Viðareiðis kommuna, postal 750. A travel listing pins the church near Kirkjugøta 10. The exact tripod point was not surveyed.",
+    "refs": [
+      "https://en.wikipedia.org/wiki/Vi%C3%B0arei%C3%B0i",
+      "https://www.folkakirkjan.fo/um-folkakirkjuna/kirkjur/nordoyggjar/vidareidis-kirkja"
+    ],
+    "anchors": [
+      "A white church with a red roof.",
+      "A low stone wall and green slope.",
+      "Steep mountains and a choppy sound. No turf roof on the church."
+    ],
+    "independent": "Viðareiði is the village on the north end of Viðoy. The present stone church was finished in 1892. The 1891 specification called for a slate roof, and the parish note says the roof has been replaced four times. A current travel listing describes a red roof, and that is what this frame uses. Kirkjubøur, including the roofless cathedral, is already DK-01-247.",
+    "ip": "No readable sign. Church silver and the interior cross are not shown. Internal review only, not a legal certification.",
+    "visual": "Pass. White church, red roof, stone wall, green mountains, overcast, wind on the water, empty. No turf roof on the church and no lettering.",
+    "swap": "Swapped from Kirkjubøur. The ruined cathedral, the white church, and the turf-roof farm are already DK-01-247, Kirkjubøur, Kirkjubøur. The unused village is Viðareiði. City is Viðareiði."
+  },
+  {
+    "entry_id": "DK-01-364",
+    "region": "Greenland",
+    "city": "Aasiaat",
+    "caption": "Aasiaat Harbour, Aasiaat",
+    "composition": "Colourful wooden houses on dark rock by open water · AI-generated artistic interpretation",
+    "lead": "Aasiaat harbour is a row of colourful wooden houses on dark rock, with a few small boats and open water.",
+    "tail": "No snow is falling, and the frame does not add an ice field.",
+    "alt_text": "AI-generated artistic interpretation of Aasiaat harbour on a mainly clear cold afternoon, colourful wooden houses on dark rock",
+    "viewpoint": "The town quay. Approximate researched point 68.70959, -52.85130, not a surveyed camera. Open-Meteo ran this request on grid 68.64674, -52.88962. Nominatim places the town Aasiaat in Qeqertalik. The exact camera on the mole was not pinned beyond the town.",
+    "refs": [
+      "https://en.wikipedia.org/wiki/Aasiaat",
+      "https://da.wikipedia.org/wiki/Aasiaat"
+    ],
+    "anchors": [
+      "Colourful wooden houses.",
+      "Dark rock and a few small boats.",
+      "Open water. No snow cover and no ice field."
+    ],
+    "independent": "Aasiaat, formerly Egedesminde, is the town on the south shore of Disko Bay. The model step is mainly clear, about 0.5°C, with no precipitation and no snowfall, so the frame stays bare rock and open water. Ilulissat Icefjord is DK-01-016, the Disko Bay view from Ilulissat is DK-01-078, and Eqi Glacier is DK-01-079.",
+    "ip": "No readable house name. Internal review only, not a legal certification.",
+    "visual": "Pass. Colourful houses, dark rock, open water, mainly clear, empty. No snow and no lettering.",
+    "swap": "Swapped from another Ilulissat view. The icefjord, the bay, and Eqi are already DK-01-016, DK-01-078, and DK-01-079. The unused Disko Bay town is Aasiaat. City is Aasiaat."
+  },
+  {
+    "entry_id": "DK-01-365",
+    "region": "Greenland",
+    "city": "Nuuk",
+    "caption": "Kolonihavnen, Nuuk",
+    "composition": "Red wooden colonial buildings along a rocky quay · AI-generated artistic interpretation",
+    "lead": "Kolonihavnen is the old harbour in Nuuk, with red and ochre wooden buildings on a rocky quay and a few small boats.",
+    "tail": "The mountain is not the subject, and no statue is in the foreground. No snow is falling.",
+    "alt_text": "AI-generated artistic interpretation of the colonial harbour in Nuuk on a clear cold afternoon, red wooden buildings on a rocky quay",
+    "viewpoint": "The public quay in the old harbour quarter. Approximate researched point 64.17825, -51.74482, not a surveyed camera. That pin is the colonial neighbourhood Nominatim names at Hans Egedes Hus, because a search for Kolonihavnen returned no object. Open-Meteo ran this request on grid 64.21793, -51.67117. Nominatim places Nuuk in Sermersooq, postal 3900.",
+    "refs": [
+      "https://en.wikipedia.org/wiki/Nuuk",
+      "https://da.wikipedia.org/wiki/Nuuk"
+    ],
+    "anchors": [
+      "Red and ochre wooden buildings.",
+      "A rocky quay and a few small boats.",
+      "Clear cold light. No snow and no foreground statue."
+    ],
+    "independent": "Kolonihavnen is the old harbour quarter in Nuuk. The model step is clear, about 5.2°C, with no precipitation and no snowfall. Sermitsiaq, the mountain view, is DK-01-076, and Nuuk Cathedral is DK-01-252. Katuaq was the other unused option in the suggestion and was left unused so this frame would not depend on a facade wordmark.",
+    "ip": "No readable name and no cultural-centre wordmark. The Hans Egede monument is not the subject. Internal review only, not a legal certification.",
+    "visual": "Pass. Red wooden buildings, rocky quay, boats, clear cold afternoon, empty. No snow, no statue in the foreground, and no lettering.",
+    "swap": "No full site swap. Sermitsiaq is DK-01-076 and Nuuk Cathedral is DK-01-252. Of the two unused Nuuk views, the colonial harbour is the one used here. Katuaq was left unused. City is Nuuk."
+  }
+]
