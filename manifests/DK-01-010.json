@@ -49,5 +49,20 @@
   "approval_basis": "Gate 1: night Den Gamle By — row of half-timbered houses with red-tiled roofs on the cobbled square, glowing street lamps, dark overcast sky; a museum street, not a living high street, as captioned; plausible viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Den Gamle By, Aarhus', scenario '24 September 2026 · 23:59 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:10 Europe/Copenhagen, valid 24 Sep 23:45 (Overcast, 13.2°C, cloud 100%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T21:34:42.016345+00:00",
   "sha256_16x9": "104e895801033c1438648802e4bf6c602dba78169e7531b2d5d1f36b98c2cd0f",
-  "sha256_4x5": "133bad8f9598456c7dd230a733484dbb09c1421ab6e4671d9c16cb89caebbf1e"
+  "sha256_4x5": "133bad8f9598456c7dd230a733484dbb09c1421ab6e4671d9c16cb89caebbf1e",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-010",
+    "derived_from": "Approved night master Denmark/Aarhus/dk-01-010-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "files": {
+      "16x9": "library/world/Denmark/Aarhus/dk-01-010-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Aarhus/dk-01-010-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "c2ab581be79ddd5c95da115ce8a3922f3d686b9359504b30482d7dd74fb50731",
+      "4x5": "7bd0510778f1d0c662ddcacad8ad212037e80d37cad5df8c8d5efe45529aa04f"
+    },
+    "created_date": "2026-09-25",
+    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
+    "on_image_marking": "Daylight variant - derived from the night interpretation"
+  }
 }
