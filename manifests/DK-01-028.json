@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Fredensborg/dk-01-028-16x9.png",
   "file_4x5": "Denmark/Fredensborg/dk-01-028-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Fredensborg Palace at night: the pale symmetrical palace with its copper-green central dome and lit windows faces a formal baroque garden of clipped hedges, gravel paths and tall tree avenues; on-image caption 'Fredensborg Palace, Fredensborg' with scenario '25 September 2026 · 00:33 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:45 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public royal palace gardens; notes-only.",
+  "approved_at": "2026-09-25T23:24:26.382413+00:00",
+  "sha256_16x9": "30a338d0168c47c7d3f4ea00d9abf8a67f4e7f1cfad9836bc0a2c8fe4f4ebe4c",
+  "sha256_4x5": "e5600be07aaaf906e86074c235d2e133aac14c209b79165493dc5e997e1506c4"
 }
