@@ -1,0 +1,17 @@
+Groups 14–18 weather rework. One Open-Meteo forecast HTTP fetch per scene.
+10 scenes: DK-01-209–210, DK-01-212–213, DK-01-216–217, DK-01-219–220, and DK-01-223–224.
+Left unchanged, because they were not in these shared-retrieval pairs: DK-01-211, DK-01-214, DK-01-215, DK-01-218, DK-01-221, and DK-01-222.
+Retrieval timestamps are unique to the second.
+Each baked scenario minute sits inside that scene's model-valid hour.
+Masters, index.html, and manifests were not changed.
+
+DK-01-209  retrieved 25 September 2026 23:35:47 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 21:35:47 GMT  valid 25 September 2026 05:45 Europe/Copenhagen  model-valid hour 05:00–05:59  scenario 25 September 2026 05:55 Europe/Copenhagen
+DK-01-210  retrieved 25 September 2026 23:35:50 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 21:35:50 GMT  valid 25 September 2026 05:45 Europe/Copenhagen  model-valid hour 05:00–05:59  scenario 25 September 2026 05:55 Europe/Copenhagen
+DK-01-212  retrieved 25 September 2026 23:35:53 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 21:35:53 GMT  valid 25 September 2026 05:45 Europe/Copenhagen  model-valid hour 05:00–05:59  scenario 25 September 2026 05:55 Europe/Copenhagen
+DK-01-213  retrieved 25 September 2026 23:35:56 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 21:35:56 GMT  valid 25 September 2026 05:45 Europe/Copenhagen  model-valid hour 05:00–05:59  scenario 25 September 2026 05:55 Europe/Copenhagen
+DK-01-216  retrieved 25 September 2026 23:35:59 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 21:35:59 GMT  valid 25 September 2026 05:45 Europe/Copenhagen  model-valid hour 05:00–05:59  scenario 25 September 2026 05:55 Europe/Copenhagen
+DK-01-217  retrieved 25 September 2026 23:36:02 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 21:36:02 GMT  valid 25 September 2026 05:45 Europe/Copenhagen  model-valid hour 05:00–05:59  scenario 25 September 2026 05:55 Europe/Copenhagen
+DK-01-219  retrieved 25 September 2026 23:36:05 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 21:36:05 GMT  valid 25 September 2026 05:45 Europe/Copenhagen  model-valid hour 05:00–05:59  scenario 25 September 2026 05:56 Europe/Copenhagen
+DK-01-220  retrieved 25 September 2026 23:36:07 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 21:36:07 GMT  valid 25 September 2026 05:45 Europe/Copenhagen  model-valid hour 05:00–05:59  scenario 25 September 2026 05:56 Europe/Copenhagen
+DK-01-223  retrieved 25 September 2026 23:36:10 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 21:36:10 GMT  valid 25 September 2026 05:45 Europe/Copenhagen  model-valid hour 05:00–05:59  scenario 25 September 2026 05:56 Europe/Copenhagen
+DK-01-224  retrieved 25 September 2026 23:36:13 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 21:36:13 GMT  valid 25 September 2026 05:45 Europe/Copenhagen  model-valid hour 05:00–05:59  scenario 25 September 2026 05:56 Europe/Copenhagen
