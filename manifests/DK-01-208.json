@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Fredericia/dk-01-208-16x9.png",
   "file_4x5": "Denmark/Fredericia/dk-01-208-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: harbour quay lined with long brick warehouses and gabled brick buildings, a row of moored sailboats reflected in still harbour water, cranes and harbour buildings on the far shore under overcast sky — a plausible Fredericia Harbour waterfront viewpoint, clean framing with no artifacts. Gate 2: exact 1920x1080/864x1080; signature 'Jason D's Vision' bottom-right; caption 'Fredericia Harbour, Fredericia', scenario '25 September 2026 · 14:33 Europe/Copenhagen' and AI disclosure legible bottom-left on scrim; scenario hour inside model-valid 14:00–14:59; weather retrieval 14:33:05 unique to this scene — no shared retrieval. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no people, logos or recognizable private property visible.",
+  "approved_at": "2026-09-25T13:19:09.389640+00:00",
+  "sha256_16x9": "0be43069909299e9e8c39c787c83fa9bcdb939e5b0124eee881f7de759836a12",
+  "sha256_4x5": "b5561b4f1353cc1db371b98be472b77272770de8752e010290425f14ca8ee472"
 }
