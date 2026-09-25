@@ -48,5 +48,11 @@
       "by": "Cosmo QC",
       "note": "Gate 2 re-check PASS (Cosmo QC 2026-09-25, corrected wording): fresh per-scene Open-Meteo retrieval '25 September 2026 23:07:53 Europe/Copenhagen' (HTTP Fri, 25 Sep 2026 21:07:53 GMT), valid 24 Sep 2026 23:45, verified unique to the second repo-wide; scenario '24 September 2026 · 23:55 Europe/Copenhagen' inside the 23:00–23:59 model hour. The earlier shared-retrieval finding (23:52 batch) is resolved and superseded; this PASS is the scene's current Gate-2 record."
     }
-  ]
+  ],
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: night Nyhavn — colorful gabled townhouses along the canal from the postcard south-bank viewpoint, masts of moored sailing ships, full moon with cloud streaks, lit windows reflected in calm water; plausible framing, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Nyhavn, Copenhagen', scenario '24 September 2026 · 23:55 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:07:53 Europe/Copenhagen, valid 24 Sep 23:45 (Mainly clear, 13.9°C, cloud 34%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable shop names — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T21:32:42.347188+00:00",
+  "sha256_16x9": "b65db6fd4687cc16d95ab3d01e61e166656b772e1ed652531e2de662741c111d",
+  "sha256_4x5": "2b59eb5331a084aed78009c762613c43cc2f1d321655877dae580d622203f5ae"
 }
