@@ -49,5 +49,20 @@
   "approval_basis": "Gate 1: night Møns Klint — white chalk cliffs with the forest path at left descending the wooded ridge, full moon over the Baltic with a glitter path on calm water, dark star field; plausible cliff-top tourist viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Møns Klint, Borre', scenario '24 September 2026 · 23:57 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:04 Europe/Copenhagen, valid 24 Sep 23:45 (Clear, 12.7°C, cloud 18%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T21:34:27.131179+00:00",
   "sha256_16x9": "e7c70720fba4d4db025065f07b25127a10df6024f248da84fcbd86b3c8012e7c",
-  "sha256_4x5": "b0b7e1ba6dbba2a3d7bb93c8fd32bbf946dc8a137587841fd7eba99d030560bb"
+  "sha256_4x5": "b0b7e1ba6dbba2a3d7bb93c8fd32bbf946dc8a137587841fd7eba99d030560bb",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-007",
+    "derived_from": "Approved night master Denmark/Borre/dk-01-007-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "files": {
+      "16x9": "library/world/Denmark/Borre/dk-01-007-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Borre/dk-01-007-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "49486dd07bb0f5a2c7e90eb2bf8f42d97eed2ba30f4f2ade91131d6e74e49d56",
+      "4x5": "db1370f597b6791bcddf7d9d6f831d8d1ad0fc912268189fcf2e9c4b956c9fa2"
+    },
+    "created_date": "2026-09-25",
+    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
+    "on_image_marking": "Daylight variant - derived from the night interpretation"
+  }
 }
