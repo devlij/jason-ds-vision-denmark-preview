@@ -32,6 +32,11 @@
       "at": "2026-09-25T16:21:24.683250+00:00",
       "by": "Cosmo QC",
       "note": "Gate 2 HOLD (Cosmo QC): builder notes cite Open-Meteo retrieval 25 September 2026 00:02 Europe/Copenhagen, valid 00:00, but the builder's own BATCH-DK-01-001-016.txt cites the identical-to-the-second 00:02 retrieval for DK-01-008, 012, 013, 014, 015, 016 — shared/batch retrieval. Same pattern as the earlier DK-01-008 approval revert. Hardened weather rule: one retrieval per scene. Builder to re-fetch weather per scene (own retrieval timestamp each), re-push notes, then QC re-audits. Card stays Candidate."
+    },
+    {
+      "at": "2026-09-25T17:20:41.020496+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 1 PASS: night H.C. Andersen Quarter — cobbled street with half-timbered houses, lit windows, street lamps, plausible Odense old-town viewpoint, no artifacts. Dims exact; signature/caption 'H.C. Andersen Quarter, Odense'/scenario '25 September 2026 · 00:00 Europe/Copenhagen'/AI disclosure verified on-image. Gate 2 FAIL: retrieval 25 September 2026 00:02 Europe/Copenhagen shared identically with 5 other scenes (DK-01-012,013,014,015,016) — shared batch retrieval = Gate 2 fail. Gate 3: text-prompt generation, no photographic inputs reported. Gate 4: no people/logos visible; documented only. Held as Candidate until per-scene weather rework lands."
     }
   ],
   "approval_status": "Candidate",
