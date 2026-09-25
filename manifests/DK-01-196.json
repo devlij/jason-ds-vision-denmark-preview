@@ -11,5 +11,12 @@
   "file_16x9": "Denmark/Middelfart/dk-01-196-16x9.png",
   "file_4x5": "Denmark/Middelfart/dk-01-196-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "qc_notes": [
+    {
+      "at": "2026-09-25T04:16:35.550131+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 FAIL (held as Candidate): build note cites Open-Meteo retrieval 25 Sep 2026 04:22 / valid 04:15 — the SAME retrieval timestamp is cited for DK-01-193 and DK-01-195 (three scenes share one fetch). One retrieval must not be reused across scenes. Gate 1 visual passed independently (Hindsgavl brick manor with moon and water reflections, night); gates 3-4 claims/notes-only. Held until the builder re-fetches per-scene weather and re-pushes."
+    }
+  ]
 }
