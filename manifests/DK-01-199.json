@@ -42,6 +42,11 @@
       "at": "2026-09-25T09:20:52.203788+00:00",
       "by": "Cosmo QC",
       "note": "Cosmo QC HOLD — Gate 2 FAILED (2026-09-25): builder notes cite one Open-Meteo retrieval timestamp for this scene (04:14/04:00 Europe/Copenhagen), the identical timestamp is cited across multiple scenes (shared with DK-01-194, DK-01-197, DK-01-198, DK-01-201, DK-01-202). One model retrieval reused across scenes = the self-disclosed DK-193–208 pattern (Spain ES-01-334–365 failure mode). Scenario hour itself falls inside the cited valid hour. Held as Candidate until the builder re-fetches per-scene weather and re-pushes corrected notes. Visual skim: night canal with moored motorboats, arched bridge, brick warehouses with glowing windows; caption/signature/disclosure legible; no people/logos."
+    },
+    {
+      "at": "2026-09-25T10:17:54.180563+00:00",
+      "by": "Cosmo QC",
+      "note": "HOLD Gate 2 (Cosmo QC): weather-retrieval reuse. Notes cite one Open-Meteo fetch 'retrieved 25 September 2026 04:14 Europe/Copenhagen' for this scene, reused unchanged across DK-01-194, DK-01-197, DK-01-198, DK-01-201, DK-01-202. One retrieval must not serve multiple scenes (ES-01-334–365 precedent). Gate 1 PASS: Odense Canal by night — dark canal with moored boats, lamp-lit brick warehouses both sides, distant bridge; exact caption 'Odense Canal, Odense', scenario '25 September 2026 · 04:22 Europe/Copenhagen', exact 'Jason D's Vision' signature and disclosure, both masters at exact dimensions. Held as Candidate until the builder re-fetches weather per scene and re-pushes."
     }
   ]
 }
