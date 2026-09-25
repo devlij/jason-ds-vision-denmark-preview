@@ -11,5 +11,12 @@
   "file_16x9": "Denmark/Bregninge/dk-01-202-16x9.png",
   "file_4x5": "Denmark/Bregninge/dk-01-202-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "qc_notes": [
+    {
+      "at": "2026-09-25T04:16:56.232680+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 FAIL (held as Candidate): build note cites Open-Meteo retrieval 25 Sep 2026 04:14 / valid 04:00 — the SAME retrieval timestamp is cited for DK-01-194, DK-01-197, DK-01-198 and DK-01-199 (five scenes share one fetch). One retrieval must not be reused across scenes. Gate 1 visual passed independently (Bregninge brick church on a hill at night); gates 3-4 claims/notes-only. Held until the builder re-fetches per-scene weather and re-pushes."
+    }
+  ]
 }
