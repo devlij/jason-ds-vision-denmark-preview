@@ -17,5 +17,20 @@
   "approval_basis": "Gate 1 PASS: Hammershus at night — ruined stone curtain walls on the rocky headland above the sea, dark overcast sky, honest very-dark night exposure, clean framing. Gate 2 PASS: masters exact 1920x1080/864x1080; on-image 'Hammershus, Allinge', scenario '25 September 2026 · 00:01 Europe/Copenhagen', AI disclosure and 'Jason D's Vision' curly signature on bottom gradient, legible; weather retrieved 25 September 2026 23:08:18 Europe/Copenhagen for 55.2712,14.7552 (separate request, unique repo-wide), model-valid hour 00:00–00:59 containing scenario 00:01, is_day 0. Gate 3 PASS: text-prompt-only, no photographic reference pixels per note. Gate 4 noted: no people, logos, or private property — documented only. Art. 50 chunks present.",
   "approved_at": "2026-09-25T22:27:19.942075+00:00",
   "sha256_16x9": "fed8d251ba63115cf29d75fd85cb5126ebf4a16f0c7dd9b67f33afa9bebf9b20",
-  "sha256_4x5": "9ecec2e956844ee1f9d055fc6131fd8402eeb3c46712d840cabdf6140fc0332b"
+  "sha256_4x5": "9ecec2e956844ee1f9d055fc6131fd8402eeb3c46712d840cabdf6140fc0332b",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-014",
+    "derived_from": "Approved night master Denmark/Allinge/dk-01-014-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "files": {
+      "16x9": "library/world/Denmark/Allinge/dk-01-014-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Allinge/dk-01-014-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "3ddded4fa9d33b19aa15918aac29b8420e0a36bbbf99822964001976b1ffa684",
+      "4x5": "bb7b04a3cf783a036f2bca7331ef93f40665caca34d550f5caceeef95422fc37"
+    },
+    "created_date": "2026-09-25",
+    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
+    "on_image_marking": "Daylight variant - derived from the night interpretation"
+  }
 }
