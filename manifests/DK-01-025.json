@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Copenhagen/dk-01-025-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-025-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Church of Our Saviour at night: the world-famous external spiral staircase spire rises over dark rooftops, its balustrade lit gold against a cloudy sky, the gilded figure at the very top; on-image caption 'Church of Our Saviour, Copenhagen' with scenario '25 September 2026 · 00:35 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:39 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public church; notes-only.",
+  "approved_at": "2026-09-25T23:24:06.885462+00:00",
+  "sha256_16x9": "d5f95d2721db4047cc4464b337c714605df77521db9cf254eb3a24525a48354d",
+  "sha256_4x5": "874abe389a58741caf83364b622f31ace8b2b8d898bdd9e45bda461ba742cb76"
 }
