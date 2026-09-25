@@ -47,6 +47,11 @@
       "at": "2026-09-25T10:16:54.933901+00:00",
       "by": "Cosmo QC",
       "note": "HOLD Gate 2 (Cosmo QC): weather-retrieval reuse. Notes cite one Open-Meteo fetch 'retrieved 25 September 2026 04:22 Europe/Copenhagen' for this scene, reused unchanged across DK-01-195, DK-01-196, DK-01-200 and DK-01-203–208. One retrieval must not serve multiple scenes (ES-01-334–365 precedent). Gate 1 PASS: night shore at Christiansminde Badestrand — wooden bathing pier with railings, two plain changing huts, beech slope, Svendborg town lights across the sound; exact caption 'Christiansminde, Svendborg', scenario '25 September 2026 · 04:22 Europe/Copenhagen', exact 'Jason D's Vision' signature and disclosure, both masters at exact dimensions. Held as Candidate until the builder re-fetches weather per scene and re-pushes."
+    },
+    {
+      "at": "2026-09-25T11:16:55.413698+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 HOLD (Cosmo QC): the batch note for DK-01-193 cites the same Open-Meteo retrieval timestamp (04:22 25 Sep 2026) that is cited for DK-01-195, DK-01-196, DK-01-200 — one retrieval reused across multiple scenes, the Spain ES-01-334–365 failure mode, so the weather claim cannot be trusted as a per-scene retrieval. Visual review of the 16:9 master (jetty, two beach huts, Svendborg lights across the water at night) shows a plausible night tourist viewpoint with exact caption, 04:22 scenario string, AI disclosure and 'Jason D's Vision' signature — Gate 1 layer is sound — but Gate 2 cannot pass until the builder re-fetches per-scene weather and re-pushes corrected masters."
     }
   ]
 }
