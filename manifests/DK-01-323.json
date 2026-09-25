@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Borre/dk-01-323-16x9.png",
   "file_4x5": "Denmark/Borre/dk-01-323-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: white thatched-roof house with columned portico beside a pond, mirrored reflection and mature trees; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:00:07 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:01 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T13:22:33.728386+00:00",
+  "sha256_16x9": "317e911dd5b8722a3374f117f0cf8c07c54d8341a975d95d640a8e2a81792ca0",
+  "sha256_4x5": "4c253ac28dff36f17397f909534c7b53bce99b432eb13435b8661152c13ba181"
 }
