@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Copenhagen/dk-01-026-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-026-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Islands Brygge at night: the harbour-bath wooden jetties with swim ladders project into dark water, modern brick apartment blocks line the lit promenade, an illuminated bridge spans the far shore with lamp reflections on the water; on-image caption 'Islands Brygge, Copenhagen' with scenario '25 September 2026 · 00:33 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:41 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public harbour front; notes-only.",
+  "approved_at": "2026-09-25T23:24:13.090198+00:00",
+  "sha256_16x9": "62ae28727fd616812acd929846c5fa920114005c4a9c60bfbda0348f7f66e6e3",
+  "sha256_4x5": "225f76ea1d9bda0f585fca69c459d76cceda283d0a50a3050d97b05f43d43dee"
 }
