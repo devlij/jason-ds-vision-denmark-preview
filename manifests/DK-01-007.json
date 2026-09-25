@@ -11,5 +11,12 @@
   "file_16x9": "Denmark/Borre/dk-01-007-16x9.png",
   "file_4x5": "Denmark/Borre/dk-01-007-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "qc_notes": [
+    {
+      "at": "2026-09-25T14:18:33.195227+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 FAIL (Cosmo QC, 2026-09-25): the note cites Open-Meteo weather 'retrieved 24 September 2026 23:52 Europe/Copenhagen' — identical to the second across DK-01-001..DK-01-007, DK-01-009, DK-01-010. Shared/batch retrieval, not one retrieval per scene; per the hardened weather rule this fails Gate 2 even though per-location values differ. Held as Candidate pending per-scene weather rework and re-push."
+    }
+  ]
 }
