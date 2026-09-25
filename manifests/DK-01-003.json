@@ -37,6 +37,11 @@
       "at": "2026-09-25T17:20:25.377761+00:00",
       "by": "Cosmo QC",
       "note": "Gate 1 PASS: night Amalienborg — palace courtyard with equestrian statue of Frederik V, domed Frederik's Church behind, full moon, clean framing. Dims exact; signature/caption 'Amalienborg, Copenhagen'/scenario '24 September 2026 · 23:57 Europe/Copenhagen'/AI disclosure verified on-image. Gate 2 FAIL: retrieval 24 September 2026 23:52 Europe/Copenhagen shared identically with 9 other scenes (DK-01-001,002,004,005,006,007,009,010,011) — shared batch retrieval = Gate 2 fail. Gate 3: text-prompt generation, no photographic inputs reported. Gate 4: no people/logos visible; documented only. Held as Candidate until per-scene weather rework lands."
+    },
+    {
+      "at": "2026-09-25T21:28:08.590948+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 re-check PASS (Cosmo QC 2026-09-25): builder re-pushed the note with a fresh per-scene Open-Meteo retrieval '25 September 2026 23:07:56 Europe/Copenhagen' (HTTP Date Fri, 25 Sep 2026 21:07:56 GMT), valid 24 September 2026 23:45 Europe/Copenhagen. Verified unique to the second across all per-entry notes repo-wide; scenario '24 September 2026 · 23:57 Europe/Copenhagen' falls inside the cited 23:00–23:59 model-valid hour. The earlier shared-retrieval (24 Sep 2026 23:52) FAIL is resolved and superseded."
     }
   ]
 }
