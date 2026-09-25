@@ -27,6 +27,11 @@
       "at": "2026-09-25T06:17:07.330656+00:00",
       "by": "Cosmo QC",
       "note": "Gate 2 FAIL: Open-Meteo weather cited as a single retrieval at 25 Sep 2026 04:22 Europe/Copenhagen (valid 04:15) reused across DK-01-195, DK-01-193, DK-01-196 — the DK-193-208 shared-retrieval pattern. Gate 1 visual pass: Vor Frue Assens red-brick late Gothic basilica, west tower square below and octagonal above with copper spire, dark slate roofs, night square under a moonlit cloud deck; signature, caption, scenario and AI disclosure on-image, legible. Held as Candidate pending per-scene weather retrieval."
+    },
+    {
+      "at": "2026-09-25T07:17:35.302275+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 HOLD (weather retrieval reuse): Open-Meteo retrieval cited as 25 Sep 2026 04:22 Europe/Copenhagen in approvals/DK-01-195.md and BATCH-DK-01-193-208.txt — the identical minute shared with DK-01-193, DK-01-196, DK-01-200. Matches the builder's self-disclosed reuse pattern (Spain failure mode). Held at Gate 2 until builder corrects with a per-scene retrieval and re-pushes. Gates 1/3/4/5 unaudited this run."
     }
   ]
 }
