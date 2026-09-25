@@ -37,6 +37,11 @@
       "at": "2026-09-25T08:17:07.862670+00:00",
       "by": "Cosmo QC",
       "note": "Gate 2 FAIL (held as Candidate): weather evidence untrustworthy — notes cite Open-Meteo retrieval '25 Sep 2026 04:22 Europe/Copenhagen, valid 04:15' which is the same single 04:22 fetch cited for DK-01-193/195/196/200/203-208 (the Spain ES-01-334-365 reuse pattern self-disclosed for DK-193-208). One retrieval must not back multiple scenes. Visual Gate 1 passed (brick Gothic church with tall copper spire on cobbled square at night, lit lamps — plausible Vor Frue). On-image caption 'Vor Frue, Assens' + scenario '25 September 2026 · 04:22 Europe/Copenhagen' + AI disclosure + curly-apostrophe signature present and legible. Notes claim text-prompt-only (Gate 3 ok), no people/logos (Gate 4 documented). Also the notes claim 'Clear, cloud cover 11%' while the master shows a heavily overcast sky — scenario depiction inconsistent with cited model data. Held until builder re-pushes with a fresh per-scene weather retrieval."
+    },
+    {
+      "at": "2026-09-25T09:20:44.247677+00:00",
+      "by": "Cosmo QC",
+      "note": "Cosmo QC HOLD — Gate 2 FAILED (2026-09-25): builder notes cite one Open-Meteo retrieval timestamp for this scene (04:22/04:15 Europe/Copenhagen), the identical timestamp is cited across multiple scenes (shared with DK-01-193, DK-01-196, DK-01-200). One model retrieval reused across scenes = the self-disclosed DK-193–208 pattern (Spain ES-01-334–365 failure mode). Scenario hour itself falls inside the cited valid hour. Held as Candidate until the builder re-fetches per-scene weather and re-pushes corrected notes. Visual skim: red-brick Vor Frue with tall spire and lit gothic windows over a cobbled square; caption/signature/disclosure legible; no people/logos."
     }
   ]
 }
