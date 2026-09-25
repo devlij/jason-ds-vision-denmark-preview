@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Gásadalur/dk-01-015-16x9.png",
   "file_4x5": "Denmark/Gásadalur/dk-01-015-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: Múlafossur at Gásadalur — waterfall plunging off green coastal cliffs into the sea, turf-roofed dark houses with lit windows on the hillside, moody overcast sky, clean framing. Gate 2 PASS: masters exact 1920x1080/864x1080; on-image 'Múlafossur, Gásadalur', scenario '25 September 2026 · 00:04 Europe/Copenhagen', AI disclosure and 'Jason D's Vision' curly signature on bottom gradient, legible; weather retrieved 25 September 2026 23:08:20 Europe/Copenhagen for 62.1120,-7.4342 (separate request, unique repo-wide; note also cites the Atlantic/Faroe local instant), model-valid hour 00:00–00:59 containing scenario 00:04, is_day 0. Gate 3 PASS: text-prompt-only, no photographic reference pixels per note. Gate 4 noted: no people or logos — documented only. Art. 50 chunks present.",
+  "approved_at": "2026-09-25T22:27:38.991639+00:00",
+  "sha256_16x9": "425e834273455e0bc12df495ce54f79909adf7b2c662999e3ee183c4c50936cf",
+  "sha256_4x5": "09e7b2e12ad10de53eb89d3261f6564caebff51dbea260ac7f032d8c056c69a3"
 }
