@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Aalborg/dk-01-327-16x9.png",
   "file_4x5": "Denmark/Aalborg/dk-01-327-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: white marble-clad modernist museum box on a grassy mound between trees; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 14:53:23 Europe/Copenhagen, model-valid 14:00–14:59, scenario 14:54 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T13:22:52.570732+00:00",
+  "sha256_16x9": "e3ff9d73a786c7b187e4b250057fcf57584a8baa4acb982aed4cf89cba9fbde2",
+  "sha256_4x5": "86422885768fc633617c0525bea7e52ac3f2dd39dfa008e9884fe9d8c488f04e"
 }
