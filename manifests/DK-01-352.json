@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Tasiilaq/dk-01-352-16x9.png",
   "file_4x5": "Denmark/Tasiilaq/dk-01-352-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved",
+  "approval_basis": "Gate 1: colourful Greenlandic harbour houses, fishing boats and mountains, plausible Tasiilaq Harbour; caption and scenario verified on-image. Gate 2: exact 1920x1080/864x1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 25 September 2026 15:25:17 Europe/Copenhagen, model-valid 15:00-15:59, scenario 15:30 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per build-agent notes. Gate 4: commercial/IP noted, Jason's final call. Gate 5: two-format card, both downloads, lightbox-ready.",
+  "approved_at": "2026-09-25T15:44:46.236541+00:00",
+  "sha256_16x9": "1eefa2bc70cda4c4a98cb4e285d1800f2684eeb888c65f71be99a1e97c4fac28",
+  "sha256_4x5": "5cb60e3a8eedf1419fd08c4875ecffbdccc5da000ad1cd08b7946b385a79b290"
 }
