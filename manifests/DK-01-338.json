@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Copenhagen/dk-01-338-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-338-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: iconic yellow-brick expressionist stepped-gable facade of Grundtvig's Church flanked by trees; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:24:50 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:26 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T14:15:41.783430+00:00",
+  "sha256_16x9": "e0515e401d4054fa2e6cb17011fe38a978f63f9b936916351c0e55c8b7a8fdb5",
+  "sha256_4x5": "b39d991a78a040b3efc9b7f6c08ac40ce0faf1faaeb150d324394520ac7cfd83"
 }
