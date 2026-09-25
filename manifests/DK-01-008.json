@@ -27,6 +27,11 @@
       "at": "2026-09-25T15:25:49.167080+00:00",
       "by": "Cosmo QC",
       "note": "REVERT (Cosmo, 2026-09-25 ~11:30 EDT): the 11:14 EDT approval is withdrawn. Its basis claimed the retrieval '25 September 2026 00:02 Europe/Copenhagen' was unique to this scene — verified false: DK-01-012, 013, 014, 015 and 016 cite the identical timestamp (6 scenes share it). Per the hardened Gate 2 rule this is shared/batch retrieval = fail. Scene held at Gate 2 until the builder supplies a genuinely per-scene retrieval. Gate 1 (night scene) stands as pass."
+    },
+    {
+      "at": "2026-09-25T16:21:24.683250+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 HOLD (Cosmo QC): builder notes cite Open-Meteo retrieval 25 September 2026 00:02 Europe/Copenhagen, valid 00:00, but the builder's own BATCH-DK-01-001-016.txt cites the identical-to-the-second 00:02 retrieval for DK-01-008, 012, 013, 014, 015, 016 — shared/batch retrieval. Same pattern as the earlier DK-01-008 approval revert. Hardened weather rule: one retrieval per scene. Builder to re-fetch weather per scene (own retrieval timestamp each), re-push notes, then QC re-audits. Card stays Candidate."
     }
   ],
   "approval_status": "Candidate",
