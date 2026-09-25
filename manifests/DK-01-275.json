@@ -11,5 +11,12 @@
   "file_16x9": "Denmark/Lohals/dk-01-275-16x9.png",
   "file_4x5": "Denmark/Lohals/dk-01-275-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "qc_notes": [
+    {
+      "at": "2026-09-25T22:29:37.268678+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 HOLD: builder note cites weather retrieval timestamp '25 September 2026 07:13:10 Europe/Copenhagen', identical to the second with DK-01-274's note — a shared/batch Open-Meteo retrieval across two scenes, which fails Gate 2 under the hardened weather law. Held as Candidate until the builder re-fetches per-scene weather with an own retrieval timestamp and re-pushes."
+    }
+  ]
 }
