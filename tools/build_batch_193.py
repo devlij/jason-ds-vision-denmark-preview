@@ -937,6 +937,11 @@ def verify_art50(paths: list[Path]) -> None:
 
 
 def main() -> None:
+    raise SystemExit(
+        "Refusing to run: this baker reused two Open-Meteo retrievals across DK-01-193–208. "
+        "Per-scene fetches from 25 September 2026 14:32–14:33 Europe/Copenhagen are recorded in "
+        "tools/wx-dk-01-193-208.json. Do not rebuild from the shared snapshot."
+    )
     prepare_raws()
     stamp, wx, moon = fetch_weather()
     print("moon", moon)
