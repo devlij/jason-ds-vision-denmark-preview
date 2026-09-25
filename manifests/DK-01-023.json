@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Copenhagen/dk-01-023-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-023-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Opera House at night seen from the water: the building's signature sweeping wedge roof canopy overhangs a tall glass facade glowing warm from within, interior light columns reflected in the dark harbour; on-image caption 'Opera House, Copenhagen' with scenario '25 September 2026 · 00:32 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:35 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public cultural building; notes-only.",
+  "approved_at": "2026-09-25T23:23:54.415794+00:00",
+  "sha256_16x9": "d4fe3a35dbbcfc7ffcd896e682b942270f07d54eefbe1df557794db28768e11c",
+  "sha256_4x5": "9fea86edceb5aecacf4f4ab66b7ea2bda2d68c13ff5004e2c3e14b403f8ca0b3"
 }
