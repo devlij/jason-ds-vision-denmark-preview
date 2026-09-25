@@ -43,5 +43,11 @@
       "by": "Cosmo QC",
       "note": "Gate 2 re-check PASS (Cosmo QC 2026-09-25, corrected wording): fresh per-scene Open-Meteo retrieval '25 September 2026 23:08:08 Europe/Copenhagen' (HTTP Fri, 25 Sep 2026 21:08:08 GMT), valid 24 Sep 2026 23:45, verified unique to the second repo-wide; scenario '24 September 2026 · 23:59 Europe/Copenhagen' inside the 23:00–23:59 model hour. The earlier shared-retrieval finding (23:52 batch) is resolved and superseded; this PASS is the scene's current Gate-2 record."
     }
-  ]
+  ],
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: night Egeskov Castle — moated red-brick Renaissance castle with copper towers and spires, lit windows reflected in the dark moat, parkland banks; plausible viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Egeskov Castle, Kværndrup', scenario '24 September 2026 · 23:59 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:08 Europe/Copenhagen, valid 24 Sep 23:45 (Overcast, 11.7°C, cloud 100%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T21:34:36.673680+00:00",
+  "sha256_16x9": "e7aee02980a17d969cdcfac91072164a54e1de93729df13f436115d6687e6068",
+  "sha256_4x5": "c099822aa2ba980cdcc39faf6accf2d4d69e35b9c5fe1c4e07288d2f268f272d"
 }
