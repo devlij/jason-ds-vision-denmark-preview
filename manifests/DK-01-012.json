@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Skagen/dk-01-012-16x9.png",
   "file_4x5": "Denmark/Skagen/dk-01-012-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: Grenen's sand-spit tip at night — narrow beach point with surf breaking from both sides, overcast dusk sky, plausible tourist viewpoint along the point. Gate 2 PASS: masters exact 1920x1080/864x1080; on-image 'Grenen, Skagen', scenario '25 September 2026 · 00:01 Europe/Copenhagen', AI disclosure and 'Jason D's Vision' curly signature on bottom gradient, legible; weather retrieved 25 September 2026 23:08:14 Europe/Copenhagen for 57.7455,10.6465 (separate request, unique repo-wide), model-valid hour 00:00–00:59 containing scenario 00:01, is_day 0. Gate 3 PASS: text-prompt-only, no photographic reference pixels per note. Gate 4 noted: no people, logos, or private property — documented only. Art. 50 chunks present.",
+  "approved_at": "2026-09-25T22:26:45.098846+00:00",
+  "sha256_16x9": "59785f19ca5449a2b9d7ccf787a916a47484c91e420e5dcf1e2d7090518e73db",
+  "sha256_4x5": "55ad6787d8ce967b57b105ae9d251e308d1b5281527a76e12965046be9dcc331"
 }
