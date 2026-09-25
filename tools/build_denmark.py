@@ -908,7 +908,7 @@ PAGE = r"""<!DOCTYPE html>
     .flag-chip.flag-gr{background:repeating-linear-gradient(to bottom,#0D5EAF 0 3px,#fff 0 6px)}
     .flag-chip.flag-nl{background:linear-gradient(to bottom,#AE1C28 0 33.34%,#fff 0 66.67%,#21468B 0)}
     .flag-chip.flag-ch{background:#DA291C;position:relative}
-    .flag-chip.flag-dk{background:linear-gradient(to bottom,transparent 38%,#fff 38%,#fff 62%,transparent 62%),linear-gradient(to right,transparent 28%,#fff 28%,#fff 44%,transparent 44%),#C8102E}
+    .flag-chip.flag-dk{background:linear-gradient(to bottom,transparent 38%,#fff 38%,#fff 62%,transparent 62%),linear-gradient(to right,transparent 28%,#fff 28%,#fff 44%,transparent 44%),#C8102E}.flag-chip.flag-no,.flag-no{background:linear-gradient(#00205B,#00205B) center/100% 20% no-repeat,linear-gradient(#00205B,#00205B) center/22% 100% no-repeat,linear-gradient(#fff,#fff) center/100% 38% no-repeat,linear-gradient(#fff,#fff) center/40% 100% no-repeat,#BA0C2F}
     .lb{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;background:rgba(13,18,24,.93)}
 .lb.open{display:flex}
 .lb figure{margin:0;max-width:94vw;display:flex;flex-direction:column;align-items:center}
@@ -929,21 +929,21 @@ PAGE = r"""<!DOCTYPE html>
     <h1><span class="flag" aria-hidden="true">DK_SVG</span>Jason D’s Vision — Denmark</h1>
     <p class="qc-count" id="qc-count"></p>
     <nav class="country-switch" aria-label="Country galleries">
-      <span aria-current="page"><span class="flag-chip" aria-hidden="true">DK_SVG</span>Denmark</span>
-      <span class="sep" aria-hidden="true">|</span>
       <a href="https://germany.jdvision.org/"><span class="flag-chip flag-de" aria-hidden="true"></span>Germany</a>
       <span class="sep" aria-hidden="true">|</span>
       <a href="https://italy.jdvision.org/"><span class="flag-chip flag-it" aria-hidden="true"></span>Italy</a>
-      <span class="sep" aria-hidden="true">|</span>
-      <a href="https://devlij.github.io/jason-ds-vision-spain-preview/"><span class="flag-chip flag-es" aria-hidden="true"></span>Spain</a>
       <span class="sep" aria-hidden="true">|</span>
       <a href="https://france.jdvision.org/"><span class="flag-chip flag-fr" aria-hidden="true"></span>France</a>
       <span class="sep" aria-hidden="true">|</span>
       <a href="https://greece.jdvision.org/"><span class="flag-chip flag-gr" aria-hidden="true"></span>Greece</a>
       <span class="sep" aria-hidden="true">|</span>
-      <a href="https://devlij.github.io/jason-ds-vision-switzerland-preview/"><span class="flag-chip flag-ch" aria-hidden="true"></span>Switzerland</a>
+      <a href="https://spain.jdvision.org/"><span class="flag-chip flag-es" aria-hidden="true"></span>Spain</a>
       <span class="sep" aria-hidden="true">|</span>
-      <a href="https://devlij.github.io/jason-ds-vision-netherlands-preview/"><span class="flag-chip flag-nl" aria-hidden="true"></span>Netherlands</a>
+      <a href="https://devlij.github.io/jason-ds-vision-norway-preview/"><span class="flag-chip flag-no" aria-hidden="true"></span>Norway</a>
+      <span class="sep" aria-hidden="true">|</span>
+      <span aria-current="page"><span class="flag-chip" aria-hidden="true">DK_SVG</span>Denmark</span>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://devlij.github.io/jason-ds-vision-switzerland-preview/"><span class="flag-chip flag-ch" aria-hidden="true"></span>Switzerland</a>
     </nav>
     <p class="sub">Denmark, the Faroe Islands and Greenland · Candidate scenes until an independent QC pass</p>
   </header>
@@ -1177,11 +1177,12 @@ def write_site(scenes: list) -> None:
         "G-FPVHCRLKD2",
         "https://germany.jdvision.org/",
         "https://italy.jdvision.org/",
-        "https://devlij.github.io/jason-ds-vision-spain-preview/",
+        "https://spain.jdvision.org/",
         "https://france.jdvision.org/",
         "https://greece.jdvision.org/",
         "https://devlij.github.io/jason-ds-vision-switzerland-preview/",
-        "https://devlij.github.io/jason-ds-vision-netherlands-preview/",
+        "https://devlij.github.io/jason-ds-vision-norway-preview/",
+        "flag-no",
         'id="license"',
         "Our promise to creators",
         "Download 16:9",
