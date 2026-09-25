@@ -17,5 +17,20 @@
   "approval_basis": "Gate 1 PASS: Tivoli Gardens main entrance at night — closed ornate stone-and-iron gate with carved pediment, wall lamps, tree-lined Vesterbrogade sidewalk receding right, plausible tourist viewpoint from the street. Gate 2 PASS: masters exact 1920x1080/864x1080; on-image 'Tivoli Gardens, Copenhagen', scenario '25 September 2026 · 00:33 Europe/Copenhagen', AI disclosure and 'Jason D's Vision' curly signature on bottom gradient, legible; weather retrieved 25 September 2026 23:08:24 Europe/Copenhagen for 55.6738,12.5680 (separate request, unique repo-wide), model-valid hour 00:00–00:59 and 00:30 model step containing scenario 00:33, is_day 0. Gate 3 PASS: text-prompt-only, no photographic reference pixels per note. Gate 4 noted: no people or logos — documented only. Art. 50 chunks present.",
   "approved_at": "2026-09-25T22:28:17.114916+00:00",
   "sha256_16x9": "e6dba7b101141b9d847a74695fb10b86fdb188e2d969a42893133ad2825750f2",
-  "sha256_4x5": "56f7c973170392e56a824362ae455ba99f0322ffc58f8817fe41cd60b6253531"
+  "sha256_4x5": "56f7c973170392e56a824362ae455ba99f0322ffc58f8817fe41cd60b6253531",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-017",
+    "derived_from": "Approved night master Denmark/Copenhagen/dk-01-017-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "files": {
+      "16x9": "library/world/Denmark/Copenhagen/dk-01-017-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Copenhagen/dk-01-017-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "3dfa4a3b70e67add6628b69932da1c8d0413231a492568fb666aeb2dafefb93e",
+      "4x5": "da8eb6970d2e351c5d1c10399dd462d13b92b00125c635bf8414bb0eaa2fc8be"
+    },
+    "created_date": "2026-09-25",
+    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
+    "on_image_marking": "Daylight variant - derived from the night interpretation"
+  }
 }
