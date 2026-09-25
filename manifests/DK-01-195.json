@@ -42,6 +42,11 @@
       "at": "2026-09-25T09:20:44.247677+00:00",
       "by": "Cosmo QC",
       "note": "Cosmo QC HOLD — Gate 2 FAILED (2026-09-25): builder notes cite one Open-Meteo retrieval timestamp for this scene (04:22/04:15 Europe/Copenhagen), the identical timestamp is cited across multiple scenes (shared with DK-01-193, DK-01-196, DK-01-200). One model retrieval reused across scenes = the self-disclosed DK-193–208 pattern (Spain ES-01-334–365 failure mode). Scenario hour itself falls inside the cited valid hour. Held as Candidate until the builder re-fetches per-scene weather and re-pushes corrected notes. Visual skim: red-brick Vor Frue with tall spire and lit gothic windows over a cobbled square; caption/signature/disclosure legible; no people/logos."
+    },
+    {
+      "at": "2026-09-25T10:17:15.377783+00:00",
+      "by": "Cosmo QC",
+      "note": "HOLD Gate 2 (Cosmo QC): weather-retrieval reuse. Notes cite one Open-Meteo fetch 'retrieved 25 September 2026 04:22 Europe/Copenhagen' for this scene, reused unchanged across DK-01-193, DK-01-196, DK-01-200 and DK-01-203–208. One retrieval must not serve multiple scenes (ES-01-334–365 precedent). Gate 1 PASS: Vor Frue Kirke, Assens by night — red brick Gothic basilica, copper-clad spire, lamp-lit cobbled square, moon through broken cloud; exact caption 'Vor Frue, Assens', scenario '25 September 2026 · 04:22 Europe/Copenhagen', exact 'Jason D's Vision' signature and disclosure, both masters at exact dimensions. Held as Candidate until the builder re-fetches weather per scene and re-pushes."
     }
   ]
 }
