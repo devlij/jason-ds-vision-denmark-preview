@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Helsingør/dk-01-029-16x9.png",
   "file_4x5": "Denmark/Helsingør/dk-01-029-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Maritime Museum at night: the old dry dock with its distinctive zigzag steel pedestrian bridges, flanked by the historic Helsingør shipyard brick warehouse buildings, dock lamps on the walls; on-image caption 'Maritime Museum, Helsingør' with scenario '25 September 2026 · 00:34 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:47 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public museum precinct; notes-only.",
+  "approved_at": "2026-09-25T23:24:32.826044+00:00",
+  "sha256_16x9": "28c66568b1b609b0d51037b706f8dd5c8c732ffa9b0669b622dd321bdd10ea21",
+  "sha256_4x5": "2f75ca84d4edc8809f851621b3b6a95e963dfacc0296e7b09fe6efefb4881053"
 }
