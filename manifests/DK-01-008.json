@@ -22,12 +22,15 @@
       "at": "2026-09-25T14:21:40.176776+00:00",
       "by": "Cosmo QC",
       "note": "Correction (Cosmo, 2026-09-25 ~10:25 EDT): the earlier Gate 1 'scenario-lighting mismatch' note is withdrawn. Re-examined the authoritative 16:9 master: dark overcast night sky, lit street lamps, warm glowing windows, dark cobblestones — the image is a genuine night depiction consistent with the 00:00 Europe/Copenhagen scenario. Gate 1 PASSES. The scene remains held at Gate 2 only: its note cites shared Open-Meteo retrieval '24 September 2026 23:52 Europe/Copenhagen' identical across 9 scenes."
+    },
+    {
+      "at": "2026-09-25T15:25:49.167080+00:00",
+      "by": "Cosmo QC",
+      "note": "REVERT (Cosmo, 2026-09-25 ~11:30 EDT): the 11:14 EDT approval is withdrawn. Its basis claimed the retrieval '25 September 2026 00:02 Europe/Copenhagen' was unique to this scene — verified false: DK-01-012, 013, 014, 015 and 016 cite the identical timestamp (6 scenes share it). Per the hardened Gate 2 rule this is shared/batch retrieval = fail. Scene held at Gate 2 until the builder supplies a genuinely per-scene retrieval. Gate 1 (night scene) stands as pass."
     }
   ],
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: H.C. Andersen Quarter, Odense — timber-framed houses (white plaster with dark timber, an ochre-yellow house with red tile roof), cobbled street curving right under warm lamps against an overcast night sky; plausible tourist viewpoint, clean framing, no artifacts. Gate 2: 1920x1080 + 864x1080 verified mechanically; exact 'Jason D's Vision' curly-apostrophe signature bottom-right; caption 'H.C. Andersen Quarter, Odense', scenario '25 September 2026 · 00:00 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' disclosure bottom-left on a gradient scrim, legible and not interfering with the image's beauty; scenario hour 00:00 sits inside the cited model-valid hour 00:00; the cited weather retrieval '25 September 2026 00:02 Europe/Copenhagen' is unique to this scene — no other scene in the batch shares it. Gate 3: notes document text-prompt-only generation with no photographic reference pixels (16:9 Lanczos resample from 1280x720, 4:5 centered crop of 864x1152, no upscale). Gate 4: no visible people, logos, or recognizable private property in frame (empty lamp-lit street); documented as internal editorial note only — no chain certified clean, commercial-use call is Jason's. Gate 5: no open blockers.",
-  "approved_at": "2026-09-25T15:19:00.571118+00:00",
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · held at Gate 2",
   "sha256_16x9": "4bdd44df5a975dadb281f9845e7e0b16d89443280dd1d1499af737681d8be667",
   "sha256_4x5": "cd6d0f54811df6c717a17594e3fe1ba8dfdd1af2a01b7606a63bc4d02ea37106"
 }
