@@ -11,5 +11,12 @@
   "file_16x9": "Denmark/Ærøskøbing/dk-01-201-16x9.png",
   "file_4x5": "Denmark/Ærøskøbing/dk-01-201-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "qc_notes": [
+    {
+      "at": "2026-09-25T04:16:59.460196+00:00",
+      "by": "Cosmo QC",
+      "note": "MECHANICAL FAIL (held as Candidate): both master files failed to download from the preview repo (404/unreachable) — no audit possible, do not approve. Builder must re-push dk-01-201-16x9.png and dk-01-201-4x5.png."
+    }
+  ]
 }
