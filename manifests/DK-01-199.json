@@ -58,5 +58,11 @@
       "by": "Cosmo QC",
       "note": "Gate 2 HOLD (Cosmo QC, 2026-09-25): weather-retrieval reuse — approvals/BATCH-DK-01-193-208.txt cites one shared Open-Meteo retrieval (04:22 or 04:14 Europe/Copenhagen) across many scenes, same Spain ES-01-334–365 failure mode. Scenario hour 04:22 on-image is inside the model-valid hour; mechanical, caption, signature, disclosure all verified on-image. Held as Candidate until the builder re-retrieves weather per scene and re-pushes."
     }
-  ]
+  ],
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Afternoon",
+  "approval_basis": "Gate 1: Odense Canal — moored boats between brick warehouses and gabled houses, bridge in the distance, full overcast. Gate 2: caption 'Odense Canal, Odense', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:49 (unique), valid 14:30, scenario inside 14:00–14:59; 94% cloud matches the grey sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
+  "approved_at": "2026-09-25T12:53:27.226902+00:00",
+  "sha256_16x9": "5883d3fbe1600d038701e13a3893879a8d0e58d27ebe125bd5a4215afc26ed1a",
+  "sha256_4x5": "ddd9f5b639ecb108acbbf69e836c890e7d40db37ebc94849e3fece9b49371ddf"
 }
