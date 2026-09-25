@@ -37,6 +37,11 @@
       "at": "2026-09-25T21:28:57.000662+00:00",
       "by": "Cosmo QC",
       "note": "Gate 2 re-check PASS (Cosmo QC 2026-09-25): builder re-pushed the note with a fresh per-scene Open-Meteo retrieval '25 September 2026 23:08:04 Europe/Copenhagen' (HTTP Date Fri, 25 Sep 2026 21:08:04 GMT), valid 24 September 2026 23:45 Europe/Copenhagen. Verified unique to the second across all per-entry notes repo-wide; scenario '24 September 2026 · 23:57 Europe/Copenhagen' falls inside the cited 23:00–23:59 model-valid hour. The earlier shared-retrieval (24 Sep 2026 23:52) FAIL is resolved and superseded."
+    },
+    {
+      "at": "2026-09-25T21:31:57.310197+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 re-check PASS (Cosmo QC 2026-09-25, corrected wording): fresh per-scene Open-Meteo retrieval '25 September 2026 23:08:04 Europe/Copenhagen' (HTTP Fri, 25 Sep 2026 21:08:04 GMT), valid 24 Sep 2026 23:45, verified unique to the second repo-wide; scenario '24 September 2026 · 23:57 Europe/Copenhagen' inside the 23:00–23:59 model hour. The earlier shared-retrieval finding (23:52 batch) is resolved and superseded; this PASS is the scene's current Gate-2 record."
     }
   ]
 }
