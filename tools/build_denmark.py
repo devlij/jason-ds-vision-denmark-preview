@@ -877,6 +877,8 @@ PAGE = r"""<!DOCTYPE html>
       display: inline-block; font-size: 0.72rem; letter-spacing: 0.04em; text-transform: uppercase;
       border-radius: 999px; padding: 0.2rem 0.55rem; border: 1px solid var(--line); color: var(--muted);
     }
+    .status.approved { color: var(--accent); border-color: var(--accent); }
+    .qc-count { font-size: 0.85rem; color: var(--muted); margin: 0.3rem 0 0; }
     .caption { font-size: 1.05rem; font-weight: 600; margin: 0; }
     .scenario, .composition, .detail { font-size: 0.85rem; color: var(--muted); margin: 0; }
     .detail { font-size: 0.92rem; color: #d7dde8; margin: 0.35rem 0 0; }
@@ -925,6 +927,7 @@ PAGE = r"""<!DOCTYPE html>
   <header>
     <p class="pointer">Every image is free to use — no credit required. See <a href="#license">license</a> below.</p>
     <h1><span class="flag" aria-hidden="true">DK_SVG</span>Jason D’s Vision — Denmark</h1>
+    <p class="qc-count" id="qc-count"></p>
     <nav class="country-switch" aria-label="Country galleries">
       <span aria-current="page"><span class="flag-chip" aria-hidden="true">DK_SVG</span>Denmark</span>
       <span class="sep" aria-hidden="true">|</span>
@@ -1013,6 +1016,9 @@ PAGE = r"""<!DOCTYPE html>
       grid.innerHTML = '';
       noResults.style.display = filtered.length ? 'none' : 'block';
       countEl.textContent = filtered.length + ' scene' + (filtered.length === 1 ? '' : 's');
+      const approvedN = SCENES.filter(function (x) { return x.approval_status === "Approved"; }).length;
+      const qcCountEl = document.getElementById("qc-count");
+      if (qcCountEl) { qcCountEl.textContent = approvedN + " of " + SCENES.length + " independently approved \u00b7 " + (SCENES.length - approvedN) + " awaiting QC"; }
       for (const s of filtered) {
         const card = document.createElement('article');
         card.className = 'card';
@@ -1032,7 +1038,7 @@ PAGE = r"""<!DOCTYPE html>
           <div class="card-body">
             <div class="status-row">
               <div class="entry-id">${esc(s.entry_id)}</div>
-              <span class="status candidate">Candidate</span>
+              <span class="status ${esc((s.approval_status || 'Candidate').toLowerCase())}">${esc(s.approval_status || 'Candidate')}</span>
             </div>
             <h3 class="caption">${esc(s.caption)}</h3>
             <p class="scenario">Scenario: ${esc(s.scenario_label)}</p>
@@ -1086,11 +1092,15 @@ PAGE = r"""<!DOCTYPE html>
     document.body.appendChild(overlay);
     var img=overlay.querySelector('img'),cap=overlay.querySelector('.lb-cap'),count=overlay.querySelector('.lb-count');
     var items=[],idx=0;
+    var lbFormat='16x9';/* lightbox-session format: seeded from the opening card's active tab; persists across prev/next navigation, never reset to 16:9 */
     function visibleCards(){return Array.prototype.filter.call(document.querySelectorAll('.card'),function(c){return c.style.display!=='none';});}
     function show(i){
       items=visibleCards().map(function(c){
-        var a=c.querySelector('a.thumb');var t=c.querySelector('h3.caption');
-        return{src:a?a.href:'',cap:t?t.textContent:''};
+        var im=c.querySelector('a.thumb img');var t=c.querySelector('h3.caption');
+        var src='';
+        if(im){src=lbFormat==='4x5'?im.getAttribute('data-src-45'):im.getAttribute('data-src-16');}
+        if(!src){var a=c.querySelector('a.thumb');src=a?a.href:'';}
+        return{src:src,cap:t?t.textContent:''};
       }).filter(function(x){return x.src;});
       if(!items.length)return;
       idx=(i+items.length)%items.length;
@@ -1101,7 +1111,7 @@ PAGE = r"""<!DOCTYPE html>
     function hide(){overlay.classList.remove('open');overlay.setAttribute('aria-hidden','true');document.body.style.overflow='';}
     document.addEventListener('click',function(e){
       var a=e.target.closest?e.target.closest('a.thumb'):null;
-      if(a){e.preventDefault();var cards=visibleCards();show(cards.indexOf(a.closest('.card')));return;}
+      if(a){e.preventDefault();var cards=visibleCards();var card=a.closest('.card');var tab=card.querySelector('.fmt-tab.is-active');lbFormat=(tab&&tab.getAttribute('data-format')==='4x5')?'4x5':'16x9';show(cards.indexOf(card));return;}
       if(e.target===overlay||(e.target.closest&&e.target.closest('.lb-close')))hide();
       else if(e.target.closest&&e.target.closest('.lb-prev'))show(idx-1);
       else if(e.target.closest&&e.target.closest('.lb-next'))show(idx+1);
@@ -1157,6 +1167,10 @@ def write_site(scenes: list) -> None:
         "Download 16:9",
         "Download 4:5",
         "h3.caption",
+        'id="qc-count"',
+        "independently approved",
+        "lightbox-session format",
+        "s.approval_status",
     ]
     for item in required:
         if item not in html:
