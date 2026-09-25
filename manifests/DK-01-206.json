@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Kolding/dk-01-206-16x9.png",
   "file_4x5": "Denmark/Kolding/dk-01-206-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: long stone quay promenade with a row of moored sailboats, wide fjord waters and wooded autumn hills on the opposite shore under heavy cloud — a plausible Kolding Fjord waterfront viewpoint, clean framing with no artifacts. Gate 2: exact 1920x1080/864x1080; signature 'Jason D's Vision' bottom-right; caption 'Kolding Fjord, Kolding', scenario '25 September 2026 · 14:32 Europe/Copenhagen' and AI disclosure legible bottom-left on scrim; scenario hour inside model-valid 14:00–14:59; weather retrieval 14:32:59 unique to this scene — no shared retrieval. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no people, logos or recognizable private property visible.",
+  "approved_at": "2026-09-25T13:18:40.785272+00:00",
+  "sha256_16x9": "72aa06315079b725a7812461fda706668bb357fff833c377fe8f3195c98d165a",
+  "sha256_4x5": "a817ae8c4f526c7f3e80970a6eabb32c6f1f1ba37c5e3fde42a7008f6f8f76aa"
 }
