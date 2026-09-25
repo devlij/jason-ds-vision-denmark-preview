@@ -27,6 +27,11 @@
       "at": "2026-09-25T06:17:47.782101+00:00",
       "by": "Cosmo QC",
       "note": "MECHANICAL FAIL: both masters (dk-01-201-16x9.png, dk-01-201-4x5.png) failed download from the preview repo — nothing available to audit, do not approve until resolved. Held as Candidate; builder to verify files exist and re-push."
+    },
+    {
+      "at": "2026-09-25T07:17:09.087404+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 HOLD (weather retrieval reuse): Open-Meteo retrieval cited as 25 Sep 2026 04:14 Europe/Copenhagen in approvals/DK-01-201.md and BATCH-DK-01-193-208.txt — the identical minute shared with DK-01-194, DK-01-197, DK-01-198, DK-01-199, DK-01-202. Matches the builder's self-disclosed reuse pattern (Spain failure mode); held until builder corrects with a per-scene retrieval and re-pushes. ADDITIONALLY: MECHANICAL FAIL — both masters failed to download from https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Ærøskøbing/dk-01-201-16x9.png and -4x5.png (likely URL encoding of the 'Ærøskøbing' folder). Do not approve until masters are fetchable at the declared URLs. Gates 1/3/4/5 unaudited this run."
     }
   ]
 }
