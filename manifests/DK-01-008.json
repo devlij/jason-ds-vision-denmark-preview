@@ -17,6 +17,11 @@
       "at": "2026-09-25T14:18:47.364453+00:00",
       "by": "Cosmo QC",
       "note": "Gate 1 open (Cosmo QC, 2026-09-25): the 16:9 master renders a bright-grey overcast sky — a daylight/dusk appearance — while the scenario is '25 September 2026 · 00:00 Europe/Copenhagen' (night) and the note claims a night scene with lamp-dominated light. It does not read as a night scene at review level: scenario-lighting mismatch. Weather retrieval itself is per-scene (retrieved 25 Sep 2026 00:02). Held as Candidate pending a night-consistent re-render and re-push."
+    },
+    {
+      "at": "2026-09-25T14:21:40.176776+00:00",
+      "by": "Cosmo QC",
+      "note": "Correction (Cosmo, 2026-09-25 ~10:25 EDT): the earlier Gate 1 'scenario-lighting mismatch' note is withdrawn. Re-examined the authoritative 16:9 master: dark overcast night sky, lit street lamps, warm glowing windows, dark cobblestones — the image is a genuine night depiction consistent with the 00:00 Europe/Copenhagen scenario. Gate 1 PASSES. The scene remains held at Gate 2 only: its note cites shared Open-Meteo retrieval '24 September 2026 23:52 Europe/Copenhagen' identical across 9 scenes."
     }
   ]
 }
