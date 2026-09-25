@@ -58,5 +58,11 @@
       "by": "Cosmo QC",
       "note": "Gate 2 HOLD (Cosmo QC, 2026-09-25): weather-retrieval reuse — approvals/BATCH-DK-01-193-208.txt cites one shared Open-Meteo retrieval (04:22 or 04:14 Europe/Copenhagen) across many scenes, same Spain ES-01-334–365 failure mode. Scenario hour 04:22 on-image is inside the model-valid hour; mechanical, caption, signature, disclosure all verified on-image. Held as Candidate until the builder re-retrieves weather per scene and re-pushes."
     }
-  ]
+  ],
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Afternoon",
+  "approval_basis": "Gate 1: Hindsgavl Castle — red-brick manor with pilastered centre bay and lantern cupola, parkland foreground, overcast. Gate 2: caption 'Hindsgavl Castle, Middelfart', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:46 (unique), valid 14:30, scenario inside 14:00–14:59; 87% cloud matches. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
+  "approved_at": "2026-09-25T12:53:00.508043+00:00",
+  "sha256_16x9": "bc49dd36047473fea0e8cb579d44bcf90dca5b23e1beddcaf6fcb883091ae39a",
+  "sha256_4x5": "63fc529198d5f9d29863c7228239651d3c01da335d825449d5b8d0a22efee58c"
 }
