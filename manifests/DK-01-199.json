@@ -17,6 +17,11 @@
       "at": "2026-09-25T04:16:54.546296+00:00",
       "by": "Cosmo QC",
       "note": "Gate 2 FAIL (held as Candidate): build note cites Open-Meteo retrieval 25 Sep 2026 04:14 / valid 04:00 — the SAME retrieval timestamp is cited for DK-01-194, DK-01-197, DK-01-198 and DK-01-202 (five scenes share one fetch). One retrieval must not be reused across scenes. Gate 1 visual passed independently (Odense canal with moored boats, lit quaysides, bridge, night); gates 3-4 claims/notes-only. Held until the builder re-fetches per-scene weather and re-pushes."
+    },
+    {
+      "at": "2026-09-25T05:17:28.843586+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 FAIL (Cosmo QC, 2026-09-25): weather retrieval reused across scenes — the ES-01-334–365 Spain failure mode. Build-agent claims (approvals/BATCH-DK-01-193-208.txt) cite the same Open-Meteo retrieval '25 September 2026 04:14 Europe/Copenhagen, valid 04:00' for this scene and five others (DK-01-194/197/198/199/201/202), and a second fetch '04:22, valid 04:15' for ten more (DK-01-193/195/196/200/203/204/205/206/207/208). One fetch must not serve multiple scenes. Held as Candidate until the builder re-retrieves weather per scene with distinct timestamps and re-pushes."
     }
   ]
 }
