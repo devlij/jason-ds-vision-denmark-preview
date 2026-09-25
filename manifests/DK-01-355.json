@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Nylars/dk-01-355-16x9.png",
   "file_4x5": "Denmark/Nylars/dk-01-355-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved",
+  "approval_basis": "Gate 1: whitewashed round church with conical roof and stone bell tower, plausible Nylars; caption and scenario verified on-image. Gate 2: exact 1920x1080/864x1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 25 September 2026 16:01:25 Europe/Copenhagen, model-valid 16:00-16:59, scenario 16:03 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per build-agent notes. Gate 4: commercial/IP noted, Jason's final call. Gate 5: two-format card, both downloads, lightbox-ready.",
+  "approved_at": "2026-09-25T15:45:01.778807+00:00",
+  "sha256_16x9": "7800b71a920dfd615964d659cc30faf800f8bb351673e4212ad2292c5a6531e3",
+  "sha256_4x5": "f7e67f9a3f8e54a14e88a51cb6c265b9c979f6048e22429be19d45a2532e3786"
 }
