@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Emborg/dk-01-348-16x9.png",
   "file_4x5": "Denmark/Emborg/dk-01-348-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved",
+  "approval_basis": "Gate 1: red-brick abbey ruins among autumn trees, plausible Om Abbey; caption and scenario verified on-image. Gate 2: exact 1920x1080/864x1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 25 September 2026 15:25:09 Europe/Copenhagen, model-valid 15:00-15:59, scenario 15:29 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per build-agent notes. Gate 4: commercial/IP noted, Jason's final call. Gate 5: two-format card, both downloads, lightbox-ready.",
+  "approved_at": "2026-09-25T15:44:22.605337+00:00",
+  "sha256_16x9": "248b680771bebd4fc3026f85a2b11ff31a75d70b7dbe59d6652184dd2091e5e6",
+  "sha256_4x5": "00c1baf4392372f8489aa91596d40717745a996a6a1cd4df02b0b32fa7d84b21"
 }
