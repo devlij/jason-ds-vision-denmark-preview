@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Copenhagen/dk-01-021-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-021-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Kastellet at night: red barrack rows with white windows line a lamp-lit lane leading to the windmill silhouetted on the green rampart, moat water reflecting at right; on-image caption 'Kastellet, Copenhagen' with scenario '25 September 2026 · 00:32 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left on a gradient scrim, exact curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: both masters at exact dims (sweep-verified), retrieval 25 September 2026 23:08:31 Europe/Copenhagen unique across the full repo note set, scenario hour inside cited 00:00–00:59 model-valid hour, night is_day 0 step consistent with the dark scene. Gate 3: notes document text-prompt-only, no photographic inputs. Gate 4: no people, logos, or private property — public fortress; notes-only. Art. 50 chunks verified present on both masters.",
+  "approved_at": "2026-09-25T23:23:40.728119+00:00",
+  "sha256_16x9": "a1db35b1dbd2b415fc00dfef8992a63981b6c8aa89231acd080b7f2a228afbb8",
+  "sha256_4x5": "62ec26d59b75671f26e6773e87e49b8954bf2e5c9a602c868cf858b3c47fa95f"
 }
