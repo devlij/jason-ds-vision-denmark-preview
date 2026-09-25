@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Skagen/dk-01-329-16x9.png",
   "file_4x5": "Denmark/Skagen/dk-01-329-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: stone lighthouse on coastal dunes with the sea behind; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 14:54:54 Europe/Copenhagen, model-valid 14:00–14:59, scenario 14:55 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T13:23:01.295701+00:00",
+  "sha256_16x9": "e7cca95ffa8d7318e253920acb99b50da343fdcba583c51ec54e0fdff8f27797",
+  "sha256_4x5": "19776bf68959b206827ac482b38b4a3340f4e290e86fbb0686631a35106a6580"
 }
