@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Humlebæk/dk-01-027-16x9.png",
   "file_4x5": "Denmark/Humlebæk/dk-01-027-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Louisiana Museum at night: the museum's low horizontal glass gallery pavilions glow warm on a grassy slope above the dark Oresund, tall trees at left, distant ship lights on the horizon; on-image caption 'Louisiana Museum, Humlebæk' with scenario '25 September 2026 · 00:33 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:43 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public museum; notes-only.",
+  "approved_at": "2026-09-25T23:24:19.897710+00:00",
+  "sha256_16x9": "7e2f0ae4fe7ad6aa2011cf45cbef087d407cc414c5766fbee765ddf0713f3276",
+  "sha256_4x5": "f31d2c8c50fa5736074a5d85715e64fd22a66304f60032a05e91aef670530233"
 }
