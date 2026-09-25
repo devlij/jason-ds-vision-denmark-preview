@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Nykøbing Falster/dk-01-342-16x9.png",
   "file_4x5": "Denmark/Nykøbing Falster/dk-01-342-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: half-timbered (bindingsværk) house with red tile roof on a cobblestone square, plausible Czarens Hus; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:24:58 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:27 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T14:15:59.977629+00:00",
+  "sha256_16x9": "7aed0b63b9ca91e5d26ab04bc07353f5be05522dd2693ce7ecfc2e789ef5538b",
+  "sha256_4x5": "d193484a18c2989686051ca73bacee47f803e5e928038978199aba11a76a20e4"
 }
