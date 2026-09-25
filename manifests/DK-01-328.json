@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Esbjerg/dk-01-328-16x9.png",
   "file_4x5": "Denmark/Esbjerg/dk-01-328-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: harbour basin with two fishing cutters moored alongside a long red-brick museum building on the quay; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:02:48 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:03 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T13:22:57.051905+00:00",
+  "sha256_16x9": "aace5dc2a050a54182f54df89f7e324df3e8b6459946b30a16a5381bfc38a254",
+  "sha256_4x5": "40d14964f601f69cc717b18a33742fa819c055456e2ff82b11cce11deabbde8d"
 }
