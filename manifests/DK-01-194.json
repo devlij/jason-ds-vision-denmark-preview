@@ -47,6 +47,11 @@
       "at": "2026-09-25T10:17:05.116959+00:00",
       "by": "Cosmo QC",
       "note": "HOLD Gate 2 (Cosmo QC): weather-retrieval reuse. Notes cite one Open-Meteo fetch 'retrieved 25 September 2026 04:14 Europe/Copenhagen' for this scene, reused unchanged across DK-01-197, DK-01-198, DK-01-199, DK-01-201, DK-01-202. One retrieval must not serve multiple scenes (ES-01-334–365 precedent). Gate 1 PASS: whitewashed Horne Church by night — round rotunda with dark conical roof, gabled spire tower, cobbled forecourt with path lamps; exact caption 'Horne Church, Horne', scenario '25 September 2026 · 04:22 Europe/Copenhagen', exact 'Jason D's Vision' signature and disclosure, both masters at exact dimensions. Held as Candidate until the builder re-fetches weather per scene and re-pushes."
+    },
+    {
+      "at": "2026-09-25T11:16:58.684293+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 HOLD (Cosmo QC): the batch note for DK-01-194 cites the same Open-Meteo retrieval timestamp (04:14 25 Sep 2026) that is cited for DK-01-197, DK-01-198, DK-01-199, DK-01-201, DK-01-202 — one retrieval reused across multiple scenes, the Spain ES-01-334–365 failure mode, so the weather claim cannot be trusted as a per-scene retrieval. Visual review of the 16:9 master (whitewashed church with round apse and red tile roof at night) shows a plausible night tourist viewpoint with exact caption, 04:22 scenario string, AI disclosure and 'Jason D's Vision' signature — Gate 1 layer is sound — but Gate 2 cannot pass until the builder re-fetches per-scene weather and re-pushes corrected masters."
     }
   ]
 }
