@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Aabenraa/dk-01-204-16x9.png",
   "file_4x5": "Denmark/Aabenraa/dk-01-204-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: whitewashed near-square castle block on a moat island with two large octagonal corner towers under low copper roofs, red tile roofs, dark blue windows and a columned loggia — exactly the documented geometry anchors, reflected in calm moat water. Gate 2: exact 1920x1080/864x1080; signature 'Jason D's Vision' bottom-right; caption 'Brundlund Castle, Aabenraa', scenario '25 September 2026 · 14:32 Europe/Copenhagen' and AI disclosure legible bottom-left; scenario hour inside model-valid 14:00–14:59; weather retrieval 14:32:57 unique to this scene — no shared retrieval. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no people, logos or private property visible; exterior only, no artwork shown.",
+  "approved_at": "2026-09-25T13:18:10.957036+00:00",
+  "sha256_16x9": "a5a700384b62a91bc566168589a2a8d491ddae71e02a00e317f87ffbc884d7f7",
+  "sha256_4x5": "505c70f598c026edab06b5ca9473d0eb2fb344c9dbc498104277e13562b852d2"
 }
