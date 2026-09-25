@@ -37,6 +37,11 @@
       "at": "2026-09-25T17:20:41.020496+00:00",
       "by": "Cosmo QC",
       "note": "Gate 1 PASS: night H.C. Andersen Quarter — cobbled street with half-timbered houses, lit windows, street lamps, plausible Odense old-town viewpoint, no artifacts. Dims exact; signature/caption 'H.C. Andersen Quarter, Odense'/scenario '25 September 2026 · 00:00 Europe/Copenhagen'/AI disclosure verified on-image. Gate 2 FAIL: retrieval 25 September 2026 00:02 Europe/Copenhagen shared identically with 5 other scenes (DK-01-012,013,014,015,016) — shared batch retrieval = Gate 2 fail. Gate 3: text-prompt generation, no photographic inputs reported. Gate 4: no people/logos visible; documented only. Held as Candidate until per-scene weather rework lands."
+    },
+    {
+      "at": "2026-09-25T21:28:58.801922+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 re-check PASS (Cosmo QC 2026-09-25): builder re-pushed the note with a fresh per-scene Open-Meteo retrieval '25 September 2026 23:08:06 Europe/Copenhagen' (HTTP Date Fri, 25 Sep 2026 21:08:06 GMT), valid 25 September 2026 00:00 Europe/Copenhagen. Verified unique to the second across all per-entry notes repo-wide; scenario '25 September 2026 · 00:00 Europe/Copenhagen' falls inside the cited 00:00–00:59 model-valid hour. The earlier shared-retrieval (25 Sep 2026 00:02) FAIL — which cost this scene its 11:14 EDT approval — is resolved and superseded."
     }
   ],
   "approval_status": "Candidate",
