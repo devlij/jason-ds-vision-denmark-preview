@@ -1,0 +1,11 @@
+Gate 2 weather fixes. One fresh Open-Meteo forecast HTTP fetch per scene.
+Five scenes: DK-01-274, DK-01-275, DK-01-129, DK-01-159, DK-01-161.
+Retrieval timestamps are unique to the second, including across the rest of the per-entry notes.
+Each baked scenario minute sits inside that scene's model-valid hour (Europe/Copenhagen).
+Masters, index.html, and manifests were not changed. Approval status stays Candidate.
+
+DK-01-274  retrieved 26 September 2026 01:40:01 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 23:40:01 GMT  valid 25 September 2026 07:00 Europe/Copenhagen  model-valid hour 07:00–07:59  scenario 25 September 2026 07:14 Europe/Copenhagen
+DK-01-275  retrieved 26 September 2026 01:40:04 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 23:40:04 GMT  valid 25 September 2026 07:15 Europe/Copenhagen  model-valid hour 07:00–07:59  scenario 25 September 2026 07:15 Europe/Copenhagen
+DK-01-129  retrieved 26 September 2026 01:40:07 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 23:40:07 GMT  valid 25 September 2026 02:45 Europe/Copenhagen  model-valid hour 02:00–02:59  scenario 25 September 2026 02:49 Europe/Copenhagen
+DK-01-159  retrieved 26 September 2026 01:40:10 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 23:40:10 GMT  valid 25 September 2026 03:00 Europe/Copenhagen  model-valid hour 03:00–03:59  scenario 25 September 2026 03:10 Europe/Copenhagen
+DK-01-161  retrieved 26 September 2026 01:40:13 Europe/Copenhagen  HTTP Date Fri, 25 Sep 2026 23:40:13 GMT  valid 25 September 2026 03:30 Europe/Copenhagen  model-valid hour 03:00–03:59  scenario 25 September 2026 03:44 Europe/Copenhagen
