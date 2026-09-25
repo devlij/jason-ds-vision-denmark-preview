@@ -11,5 +11,12 @@
   "file_16x9": "Denmark/Copenhagen/dk-01-002-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-002-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "qc_notes": [
+    {
+      "at": "2026-09-25T13:19:31.110207+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 FAIL — shared/batch weather retrieval: the note cites Open-Meteo retrieved '24 September 2026 23:52 Europe/Copenhagen' verbatim, the identical minute-resolution timestamp cited across DK-01-001–004. Per the hardened weather rule one retrieval must not be reused across scenes; per-scene uniqueness to the second cannot be verified here. Held as Candidate until the builder re-pushes with per-scene retrieval timestamps."
+    }
+  ]
 }
