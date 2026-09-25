@@ -32,6 +32,11 @@
       "at": "2026-09-25T16:20:59.327611+00:00",
       "by": "Cosmo QC",
       "note": "Gate 2 HOLD (Cosmo QC): builder notes (BATCH-DK-01-001-016.txt + per-entry DK-01-001.md) cite the identical Open-Meteo retrieval 24 September 2026 23:52 Europe/Copenhagen, valid 23:45, shared to the second across DK-01-001..007, 009, 010 (and 011) — batch retrieval, not one fetch per scene. Hardened weather rule: identical-to-the-second retrieval timestamps across scenes = shared retrieval = Gate 2 fail, even though per-location values differ. Scenario hour falls inside the cited model-valid hour; that part is consistent. Builder to re-fetch weather per scene (own retrieval timestamp each), re-push notes, then QC re-audits. Card stays Candidate."
+    },
+    {
+      "at": "2026-09-25T17:20:18.842585+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 1 PASS: night Nyhavn — colorful gabled townhouses along the canal, moored sailing ships, full moon, clean framing, no artifacts. Dims 1920x1080/864x1080 exact; on-image 'Jason D’s Vision' signature (curly apostrophe), caption 'Nyhavn, Copenhagen', scenario '24 September 2026 · 23:55 Europe/Copenhagen', and AI disclosure all legible on scrim. Gate 2 FAIL: Open-Meteo retrieval timestamp 24 September 2026 23:52 Europe/Copenhagen is shared identically with 9 other scenes (DK-01-002,003,004,005,006,007,009,010,011) — one batch retrieval per scene required; sharing across scenes = Gate 2 fail per the hardened weather rule. Scenario hour 23:55 falls inside the cited valid 23:45 model hour, but the sharing alone fails the gate. Gate 3: notes document text-prompt generation, no photographic inputs reported. Gate 4: no people or logos visible; documented only, nothing certified. Held as Candidate until builder re-pushes per-scene weather retrieval."
     }
   ]
 }
