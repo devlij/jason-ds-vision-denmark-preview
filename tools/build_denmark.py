@@ -910,16 +910,16 @@ PAGE = r"""<!DOCTYPE html>
     .flag-chip.flag-ch{background:#DA291C;position:relative}
     .flag-chip.flag-dk{background:linear-gradient(to bottom,transparent 38%,#fff 38%,#fff 62%,transparent 62%),linear-gradient(to right,transparent 28%,#fff 28%,#fff 44%,transparent 44%),#C8102E}
     .lb{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;background:rgba(13,18,24,.93)}
-    .lb.open{display:flex}
-    .lb figure{margin:0;max-width:94vw}
-    .lb img{max-width:94vw;max-height:80vh;display:block;border-radius:6px}
-    .lb figcaption{display:flex;justify-content:space-between;gap:16px;color:#f0f3f6;font-size:14px;padding:10px 2px 0}
-    .lb-count{color:#9fb0c0;white-space:nowrap}
-    .lb-close,.lb-prev,.lb-next{position:absolute;background:rgba(23,32,42,.85);color:#f0f3f6;border:1px solid #26313d;border-radius:999px;width:46px;height:46px;font-size:20px;cursor:pointer;line-height:1}
-    .lb-close{top:14px;right:14px}
-    .lb-prev{left:12px;top:50%;transform:translateY(-50%)}
-    .lb-next{right:12px;top:50%;transform:translateY(-50%)}
-    @media(max-width:640px){.lb-prev{left:4px}.lb-next{right:4px}}
+.lb.open{display:flex}
+.lb figure{margin:0;max-width:94vw;display:flex;flex-direction:column;align-items:center}
+.lb img{max-width:94vw;max-height:72vh;display:block;border-radius:6px}
+.lb figcaption{align-self:stretch;color:#f0f3f6;font-size:14px;padding:10px 2px 0}
+.lb-nav{display:flex;align-items:center;justify-content:center;gap:20px;margin-bottom:12px}
+.lb-count{color:#9fb0c0;white-space:nowrap;font-size:15px;min-width:90px;text-align:center}
+.lb-controls{display:flex;justify-content:center;margin-top:12px}
+.lb-prev,.lb-next,.lb-play{background:rgba(23,32,42,.85);color:#f0f3f6;border:1px solid #26313d;border-radius:999px;width:46px;height:46px;font-size:20px;cursor:pointer;line-height:1}
+.lb-play.playing{background:#e05260;border-color:#e05260;color:#0f1418}
+.lb-close{position:absolute;top:14px;right:14px;background:rgba(23,32,42,.85);color:#f0f3f6;border:1px solid #26313d;border-radius:999px;width:46px;height:46px;font-size:20px;cursor:pointer;line-height:1}}
 </style>
 </head>
 <body>
@@ -1082,17 +1082,22 @@ PAGE = r"""<!DOCTYPE html>
   </script>
   <noscript><p>Images and download links work without JavaScript. Enable JavaScript for search and the full-screen viewer.</p></noscript>
   <script>
-  (function(){
+(function(){
     var overlay=document.createElement('div');
     overlay.className='lb';overlay.setAttribute('aria-hidden','true');
     overlay.innerHTML='<button class="lb-close" aria-label="Close">&times;</button>'
-      +'<button class="lb-prev" aria-label="Previous image">&#8592;</button>'
-      +'<figure><img alt=""><figcaption><span class="lb-cap"></span><span class="lb-count"></span></figcaption></figure>'
-      +'<button class="lb-next" aria-label="Next image">&#8594;</button>';
+      +'<figure><div class="lb-nav"><button class="lb-prev" aria-label="Previous image">&#8249;</button>'
+      +'<span class="lb-count"></span>'
+      +'<button class="lb-next" aria-label="Next image">&#8250;</button></div>'
+      +'<img alt=""><figcaption><span class="lb-cap"></span></figcaption>'
+      +'<div class="lb-controls"><button class="lb-play" aria-label="Play slideshow">&#9654;</button></div></figure>';
     document.body.appendChild(overlay);
     var img=overlay.querySelector('img'),cap=overlay.querySelector('.lb-cap'),count=overlay.querySelector('.lb-count');
+    var playBtn=overlay.querySelector('.lb-play');
     var items=[],idx=0;
-    var lbFormat='16x9';/* lightbox-session format: seeded from the opening card's active tab; persists across prev/next navigation, never reset to 16:9 */
+    var playing=false,timer=null;
+    var INTERVAL=6000;/* 6s slideshow autoplay, no autostart */
+    var lbFormat='16x9';/* lightbox-session format: seeded from the opening card's active tab; persists across prev/next and slideshow navigation, never reset to 16:9 */
     function visibleCards(){return Array.prototype.filter.call(document.querySelectorAll('.card'),function(c){return c.style.display!=='none';});}
     function show(i){
       items=visibleCards().map(function(c){
@@ -1108,25 +1113,40 @@ PAGE = r"""<!DOCTYPE html>
       count.textContent=(idx+1)+' / '+items.length;
       overlay.classList.add('open');overlay.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';
     }
-    function hide(){overlay.classList.remove('open');overlay.setAttribute('aria-hidden','true');document.body.style.overflow='';}
+    function setPlaying(on){playing=on;playBtn.classList.toggle('playing',on);playBtn.innerHTML=on?'&#10074;&#10074;':'&#9654;';playBtn.setAttribute('aria-label',on?'Pause slideshow':'Play slideshow');}
+    function restartTimer(){if(timer)clearTimeout(timer);timer=setTimeout(tick,INTERVAL);}
+    function tick(){if(!playing)return;show(idx+1);restartTimer();}
+    /* No autostart, so prefers-reduced-motion needs no special casing; an explicit user press of play is always honoured. */
+    function startSlideshow(){if(playing)return;setPlaying(true);restartTimer();}
+    function stopSlideshow(){playing=false;if(timer){clearTimeout(timer);timer=null;}setPlaying(false);}
+    function togglePlay(){if(playing)stopSlideshow();else startSlideshow();}
+    function nav(d){show(idx+d);if(playing)restartTimer();}
+    function hide(){stopSlideshow();overlay.classList.remove('open');overlay.setAttribute('aria-hidden','true');document.body.style.overflow='';}
     document.addEventListener('click',function(e){
       var a=e.target.closest?e.target.closest('a.thumb'):null;
       if(a){e.preventDefault();var cards=visibleCards();var card=a.closest('.card');var tab=card.querySelector('.fmt-tab.is-active');lbFormat=(tab&&tab.getAttribute('data-format')==='4x5')?'4x5':'16x9';show(cards.indexOf(card));return;}
       if(e.target===overlay||(e.target.closest&&e.target.closest('.lb-close')))hide();
-      else if(e.target.closest&&e.target.closest('.lb-prev'))show(idx-1);
-      else if(e.target.closest&&e.target.closest('.lb-next'))show(idx+1);
+      else if(e.target.closest&&e.target.closest('.lb-play'))togglePlay();
+      else if(e.target.closest&&e.target.closest('.lb-prev'))nav(-1);
+      else if(e.target.closest&&e.target.closest('.lb-next'))nav(1);
     });
     document.addEventListener('keydown',function(e){
       if(!overlay.classList.contains('open'))return;
       if(e.key==='Escape')hide();
-      else if(e.key==='ArrowLeft')show(idx-1);
-      else if(e.key==='ArrowRight')show(idx+1);
+      else if(e.key==='ArrowLeft')nav(-1);
+      else if(e.key==='ArrowRight')nav(1);
+      else if(e.key===' '||e.key==='Spacebar'){
+        /* let a focused button's native space activation handle itself */
+        if(e.target&&e.target.tagName==='BUTTON')return;
+        e.preventDefault();togglePlay();
+      }
     });
   })();
-  </script>
+</script>
 </body>
 </html>
 """
+
 
 
 def write_site(scenes: list) -> None:
@@ -1171,6 +1191,8 @@ def write_site(scenes: list) -> None:
         "independently approved",
         "lightbox-session format",
         "s.approval_status",
+        "lb-play",
+        "INTERVAL=6000",
     ]
     for item in required:
         if item not in html:
