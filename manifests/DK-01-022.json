@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Copenhagen/dk-01-022-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-022-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Christianshavn canal at night: colorful gabled row houses in yellow, red and blue flank the canal, lit houseboats moored along the quay, a lamp-lit bridge mid-frame with golden reflections on the water; on-image caption 'Christianshavn, Copenhagen' with scenario '25 September 2026 · 00:32 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims verified by sweep, retrieval 25 September 2026 23:08:33 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no visible people or logos — public waterfront; notes-only. Art. 50 chunks present per builder note.",
+  "approved_at": "2026-09-25T23:23:47.803700+00:00",
+  "sha256_16x9": "7f030a46480438e5e9e740045d74d52e266750d4c3d5cd8b149476b8f0f02ecc",
+  "sha256_4x5": "7847d62d701fff8768c0106bd99072f6eb1a966974ad762b4931faf9e5fe4f27"
 }
