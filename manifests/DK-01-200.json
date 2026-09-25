@@ -22,6 +22,11 @@
       "at": "2026-09-25T05:17:23.958219+00:00",
       "by": "Cosmo QC",
       "note": "MECHANICAL FAIL (Cosmo QC, 2026-09-25): both masters (dk-DK-01-200-16x9.png / dk-DK-01-200-4x5.png) failed to download from the preview site — no audit possible, held as Candidate. ADDITIONAL Gate 2 concern: build-agent claims (approvals/BATCH-DK-01-193-208.txt) cite a shared Open-Meteo retrieval '25 September 2026 04:22 (04:15 valid)' for this scene and nine others, and '04:14 (04:00 valid)' for six more — one fetch reused across many scenes, the ES-01-334–365 Spain failure mode. Held until the builder re-pushes working files and per-scene weather retrievals with distinct timestamps."
+    },
+    {
+      "at": "2026-09-25T06:17:46.147436+00:00",
+      "by": "Cosmo QC",
+      "note": "MECHANICAL FAIL: both masters (dk-01-200-16x9.png, dk-01-200-4x5.png) failed download from the preview repo — nothing available to audit, do not approve until resolved. Held as Candidate; builder to verify files exist and re-push."
     }
   ]
 }
