@@ -43,5 +43,11 @@
       "by": "Cosmo QC",
       "note": "Gate 2 re-check PASS (Cosmo QC 2026-09-25, corrected wording): fresh per-scene Open-Meteo retrieval '25 September 2026 23:08:10 Europe/Copenhagen' (HTTP Fri, 25 Sep 2026 21:08:10 GMT), valid 24 Sep 2026 23:45, verified unique to the second repo-wide; scenario '24 September 2026 · 23:59 Europe/Copenhagen' inside the 23:00–23:59 model hour. The earlier shared-retrieval finding (23:52 batch) is resolved and superseded; this PASS is the scene's current Gate-2 record."
     }
-  ]
+  ],
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: night Den Gamle By — row of half-timbered houses with red-tiled roofs on the cobbled square, glowing street lamps, dark overcast sky; a museum street, not a living high street, as captioned; plausible viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Den Gamle By, Aarhus', scenario '24 September 2026 · 23:59 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:10 Europe/Copenhagen, valid 24 Sep 23:45 (Overcast, 13.2°C, cloud 100%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
+  "approved_at": "2026-09-25T21:34:42.016345+00:00",
+  "sha256_16x9": "104e895801033c1438648802e4bf6c602dba78169e7531b2d5d1f36b98c2cd0f",
+  "sha256_4x5": "133bad8f9598456c7dd230a733484dbb09c1421ab6e4671d9c16cb89caebbf1e"
 }
