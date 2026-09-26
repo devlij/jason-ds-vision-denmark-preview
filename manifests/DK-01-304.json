@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Højer/dk-01-304-16x9.png",
   "file_4x5": "Denmark/Højer/dk-01-304-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: the 16:9 master shows Højer Mill as a smock mill with white octagonal base, dark shingled tower, four lattice sails and an encircling balcony stage beside a brick outbuilding, a plausible tourist view with clean framing. Gate 2: exact 1920x1080 / 864x1080; on-image signature 'Jason D's Vision' with curly apostrophe, caption 'Højer Mill, Højer', scenario '25 September 2026 · 07:42 Europe/Copenhagen', and AI disclosure legible on the scrim; weather retrieval 25 September 2026 07:36:56 Europe/Copenhagen is inside the valid 07:00–07:59 hour and unique repo-wide (365/365 distinct). Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no visible people or logos documented. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T19:24:06.530253+00:00",
+  "sha256_16x9": "585498acc99986b7fddfb696ae6ef4af1b80a80e8880183edffd5de2de7be02b",
+  "sha256_4x5": "f8897d8087bdd9e28cd795b7cc858f72629fe70c42aab24b399893916d911e11"
 }
