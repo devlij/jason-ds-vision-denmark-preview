@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: colorful wooden houses scattered on rocky slope above a harbour with moored fishing boats and lamp reflections on water - the recognizable Qaqortoq town view, clean night framing, no artifacts. Gate 2: exact 1920x1080/864x1080, signature/caption/scenario '25 September 2026 · 01:43 Europe/Copenhagen' plus AI disclosure all exact bottom corners; scenario hour inside model hour 01:00-01:59; overcast night image matches note's 85% cloud/2.2C evidence; retrieval 23:18:53 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, no logos; generic houses - documented only.",
+  "approved_at": "2026-09-26T03:22:19.685493+00:00",
+  "sha256_16x9": "118a2a02567e48e09fb26805718150f81f23b9a21a2fb3b5c519f0c8d07b84e0",
+  "sha256_4x5": "007c3a61ab155efbf4df68f5d8dbbfad82aded362906a5358d98db3d2ea960dd"
 }
