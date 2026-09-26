@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gates 1-5 PASS. G1: Dragør Old Town lane at night — one-storey yellow and white limewashed cottages with red tile roofs on cobbles under warm street lamps; recognizable old-town character, no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Dragør Old Town, Dragør', scenario '25 September 2026 · 03:42 Europe/Copenhagen', AI disclosure and exact 'Jason D’s Vision' signature on-image and legible; own Open-Meteo retrieval 25 September 2026 23:28:49 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
+  "approved_at": "2026-09-26T09:26:18.141264+00:00",
+  "sha256_16x9": "5c7d864056221ce3abd05ff833dcf1b66b4fba8f25fc8443d689fa977767f8f4",
+  "sha256_4x5": "fbde43f6f2a25f6139c901b36f25359a5605f71a2047cfd7aaea0ffb3ff40cc0"
 }
