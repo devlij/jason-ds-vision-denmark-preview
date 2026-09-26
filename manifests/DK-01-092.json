@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Middelfart/dk-01-092-16x9.png",
   "file_4x5": "Denmark/Middelfart/dk-01-092-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-092",
+    "derived_from": "Night master Denmark/Middelfart/dk-01-092-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Middelfart/dk-01-092-16x9.png",
+        "sha256": "7e8cfd3f068f5442934ddff705d407eb4707a29e2faa0bcba61c5d43844c69c1"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Middelfart/dk-01-092-4x5.png",
+        "sha256": "4bb00a1dca007bcafaf891bd540e18392d3b9c8c4faf7ced5a1f472222db2058"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Middelfart/dk-01-092-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Middelfart/dk-01-092-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "3de2dbf23a46f138cbf440fae73e206b719be6dc9497e9682cdbee2f8f90d94d",
+      "4x5": "3a6042b6dab76da1590acc160d435181f0279ee94eb655fe109221344b705a61"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Little Belt Bridges, Middelfart",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

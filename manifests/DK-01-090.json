@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Vordingborg/dk-01-090-16x9.png",
   "file_4x5": "Denmark/Vordingborg/dk-01-090-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-090",
+    "derived_from": "Night master Denmark/Vordingborg/dk-01-090-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Vordingborg/dk-01-090-16x9.png",
+        "sha256": "dafb779826e3a2df210b8c47d59f0569587b1768e00a0b4e0d9b56570ce008fe"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Vordingborg/dk-01-090-4x5.png",
+        "sha256": "b70acd4962a00941d3b7cb636780a3834a088322e3761567b24942a18b4fdbe3"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Vordingborg/dk-01-090-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Vordingborg/dk-01-090-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "98c06bdff7760a81e4f1480ec79b99c8ef3bd7cb6a5f7e632a252f95b8a5127a",
+      "4x5": "978f7c5e27512968f87f9d4dbe638acd0eb79d1f55a261a21e3d4dfe246c3c9a"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Goose Tower, Vordingborg",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

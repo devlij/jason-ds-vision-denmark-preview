@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Roskilde/dk-01-086-16x9.png",
   "file_4x5": "Denmark/Roskilde/dk-01-086-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-086",
+    "derived_from": "Night master Denmark/Roskilde/dk-01-086-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Roskilde/dk-01-086-16x9.png",
+        "sha256": "21fdcd450fcc0201dc831ac43da74acca872c8986d043cd141bf032679e4ffea"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Roskilde/dk-01-086-4x5.png",
+        "sha256": "27dd2b69d80333c534b879db960c130d84d22009e97e565c9263d4c7bf313ab4"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Roskilde/dk-01-086-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Roskilde/dk-01-086-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "5665f0b9c48e774113ca164bd581ae5ae4f20d7e7ac9192f92b029c84a727b29",
+      "4x5": "933ea0cb4ca154251db71e3a0a6961a91e362461c1a2d5fc477110ba52b53804"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Viking Ship Museum, Roskilde",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

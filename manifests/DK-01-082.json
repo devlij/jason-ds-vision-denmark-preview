@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Copenhagen/dk-01-082-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-082-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-082",
+    "derived_from": "Night master Denmark/Copenhagen/dk-01-082-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-082-16x9.png",
+        "sha256": "deb217b08ea168260aa1976b8069dec2b6807394c0940c5629da88ec220bd6c0"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-082-4x5.png",
+        "sha256": "b7a414b9a43a7a31878e1ebddd20217c79efe3c382ceede8117a95389d108ac0"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Copenhagen/dk-01-082-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Copenhagen/dk-01-082-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "1f5db1a8a0fe206095a7affe1e9bdb8af91e25635b55ce9f394c8d775870a43f",
+      "4x5": "946ef27695d4e0f60ea9bd6e0e7392716da6ac00e87003992d8fed60dc7ee2bf"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Palm House, Copenhagen",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

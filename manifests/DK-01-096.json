@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Mandø/dk-01-096-16x9.png",
   "file_4x5": "Denmark/Mandø/dk-01-096-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-096",
+    "derived_from": "Night master Denmark/Mandø/dk-01-096-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Mandø/dk-01-096-16x9.png",
+        "sha256": "800526deb5fa3d7e2948b6c102c66b6adf47dc4dffee4066b38b45645a9a1782"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Mandø/dk-01-096-4x5.png",
+        "sha256": "07d26497b6d61f9c6bcd2e8ed39da4690e7462b2924ecfe6d777bcac546fedaa"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Mandø/dk-01-096-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Mandø/dk-01-096-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "9e8937dbfce55cb72bed4d0f3a74592530c2af0ec7f9e02cc9c21a647ba80be8",
+      "4x5": "2b5e1072c17779dd50091b8e695120959b0f6e16066826c6c91193af5fc97ae3"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Mandø, Mandø",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }
