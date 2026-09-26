@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Nuuk/dk-01-365-16x9.png",
   "file_4x5": "Denmark/Nuuk/dk-01-365-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1 visual: both masters read directly — 16:9 shows a long row of red and ochre wooden colonial buildings on a stone quay with small motorboats and a red-hulled fishing boat, rocky shoreline, mountain backdrop; 4:5 shows the same subject family from a different angle (red wooden houses along a rocky quay, boats in a cove, rocky foreground). Both match the card description (red and ochre wooden buildings on a rocky quay, a few small boats) with no defining-feature contradiction between formats; clean framing, no artifacts. Gate 2 technical: sweep verified exact 1920x1080 / 864x1080; on-image text verified — 'Kolonihavnen, Nuuk', 'Scenario: 25 September 2026 · 16:05 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' bottom-left on the gradient scrim, 'Jason D's Vision' (curly apostrophe) bottom-right, legible and not interfering. Weather: Open-Meteo retrieval recorded 25 September 2026 16:01:54 Europe/Copenhagen, valid hour 16:00–16:59, scenario 16:05 falls inside the model-valid hour; timestamp verified unique across the full DK-01-353–365 build window (13 sequential 3-second-apart fetches, zero duplicate timestamps — no shared retrieval). Gate 3 provenance: notes state text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP: no visible people, no logos, historic colonial waterfront buildings; noted for Jason's final call, nothing chain-certified. Gate 5: all gates pass, no open blockers.",
+  "approved_at": "2026-09-26T23:32:22.544692+00:00",
+  "sha256_16x9": "0bce78ef59abed2709d474897c48d217d4127dfbaba984e020a21b07e1645b53",
+  "sha256_4x5": "07c54e4166e20788e1340118289bc7fdc3983900fb9b94fbcfa229d7b929652c"
 }
