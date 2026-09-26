@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "G1: white manor with red tile roof and glowing windows under the moon, mirrored in the water; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:35:59 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no wordmark (private manor documented); G5: clean.",
+  "approved_at": "2026-09-26T11:20:35.153843+00:00",
+  "sha256_16x9": "e28c5f70cdf75fe7e8be476b8f421e1f1c74161543be20036e89b6d360ad49de",
+  "sha256_4x5": "b947ae13224339d9e365ceae3081832f3d8b8ed4ae4a3e7b9265676fc193474d"
 }
