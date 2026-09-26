@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: night harbor — moored wooden boats in the foreground, row of lit gabled warehouses along the quay, distant lit bridge (Svendborgsund Bridge form), wet cobbles with lamp reflections — matches Svendborg Harbour. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Svendborg Harbour, Svendborg', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:02 Europe/Copenhagen (HTTP Date 21:09:02 GMT), valid 00:45 step, is_day 0, overcast 12.1C 100% cloud, wind 16.6 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
+  "approved_at": "2026-09-26T00:28:51.458112+00:00",
+  "sha256_16x9": "0e37f6caac0b7ed2f2fe9b36838891967ba603d353f0c475c3456f258970e79b",
+  "sha256_4x5": "45c6c8c4eab7c0800a5476bc803e14987838e3761f7d74462948d6c960748ec9"
 }
