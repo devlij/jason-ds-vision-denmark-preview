@@ -11,5 +11,12 @@
   "file_16x9": "Denmark/Store Rise/dk-01-318-16x9.png",
   "file_4x5": "Denmark/Store Rise/dk-01-318-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "qc_notes": [
+    {
+      "at": "2026-09-26T20:21:41.340666+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 1 hold: inter-format disagreement on the west tower. The 16:9 master shows an exposed-stone/ashlar west tower with a broad green-copper spire and round-arched belfry openings, while the 4:5 master shows a whitewashed plastered west tower with a slimmer, darker spire above a louvered belfry stage and a front churchyard full of gravestones. The two formats read as different towers on the same church — the defining tower features do not agree. Held as Candidate until both formats are re-rendered to agree on the tower's identity."
+    }
+  ]
 }
