@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: moonlit quay with moored fishing boats, red-roofed gabled houses and a distant white church tower behind the roofs, lamp reflections on dark water — a plausible Sæby night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Sæby Harbour, Sæby', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside the cited model-valid hour 02:00–02:59, disclosure 'AI-generated artistic interpretation · Not a photograph.', signature 'Jason D's Vision' with curly apostrophe, all legible on the bottom gradient; Open-Meteo retrieval 2026-09-25 23:27:11 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 iTXt/tEXt chunks present. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or property names — documented, final call Jason's. Gate 5 clear.",
+  "approved_at": "2026-09-26T07:24:00.778944+00:00",
+  "sha256_16x9": "ef30b95ad9deb5022eb9401935577c202c13e63c08264103bf0bff1c441aacde",
+  "sha256_4x5": "cd6311422cf92206713913662aff5ae5882fb05e6b1e062184c4ffe583ddd00a"
 }
