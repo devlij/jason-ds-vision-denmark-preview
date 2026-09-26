@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "G1: night canal with moored boats, gabled harbour houses and a brick warehouse with lit windows and lamp reflections; G2: exact dims, on-image strings verified, scenario 04:08 inside 04:00-04:59, retrieved 25 September 2026 23:30:25 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no readable boat names, no logos; G5: clean.",
+  "approved_at": "2026-09-26T11:19:54.010043+00:00",
+  "sha256_16x9": "85e12089eb56cd385b242b10f012ed70d270438caa56525f75e5c490c9b4dc3f",
+  "sha256_4x5": "387418b01a6a4a83350df9d49dbd9f4b979071460ef4c0edeaf1a5695b24edd2"
 }
