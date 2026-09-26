@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: the brick Goose Tower with its copper spire and golden goose weathervane, floodlit against overcast night, with low curtain-wall ruins - exactly the note's independent description (26m shaft, 10m 1871 spire, gilded bird), clean framing. Gate 2: exact masters; signature/caption 'Goose Tower, Vordingborg'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 96% cloud/14.3C; retrieval 23:19:06 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos - documented only.",
+  "approved_at": "2026-09-26T03:23:24.879814+00:00",
+  "sha256_16x9": "dafb779826e3a2df210b8c47d59f0569587b1768e00a0b4e0d9b56570ce008fe",
+  "sha256_4x5": "b70acd4962a00941d3b7cb636780a3834a088322e3761567b24942a18b4fdbe3"
 }
