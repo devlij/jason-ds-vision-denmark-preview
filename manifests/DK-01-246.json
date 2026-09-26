@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Olsker/dk-01-246-16x9.png",
   "file_4x5": "Denmark/Olsker/dk-01-246-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: whitewashed Olsker round church on a floodlit grassy knoll at first light, conical shingle spire, small attached chancel, lone mast-light, open fields beyond. Gate 2: 1920x1080 + 864x1080 exact, caption 'Olsker Round Church, Olsker', scenario '25 September 2026 · 06:34 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:00 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
+  "approved_at": "2026-09-26T14:24:27.363047+00:00",
+  "sha256_16x9": "0413fc12593618dda816f324f8cd71b1f7ad5e230445a0c4cf29b101b177a7ae",
+  "sha256_4x5": "6e2a85b6d89e180da3775aebe6cae37e470f7e18fcc8e7c954045430fff40a04"
 }
