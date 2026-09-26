@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Night view of Gilleleje Harbour: fishing boats moored along the stone quay, a row of low harbour houses with lit windows behind, lamps reflecting on dark water, and the breakwater running out to the right. Gate 1: plausible quay viewpoint matching the caption. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Gilleleje Harbour, Gilleleje', scenario '25 September 2026 · 02:16 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:19:14 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people or readable boat names — documented only. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
+  "approved_at": "2026-09-26T04:25:21.557812+00:00",
+  "sha256_16x9": "b60f4dae3c64eb664efab198f360a5da1dd3a0f694ec16c4c633dc122e50bd6f",
+  "sha256_4x5": "ca11e8fd2dd3d309c84a925f7493d5b0f74ec1998a01a1571a0d41c8e3b2aab4"
 }
