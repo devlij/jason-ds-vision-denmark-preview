@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Spodsbjerg/dk-01-273-16x9.png",
   "file_4x5": "Denmark/Spodsbjerg/dk-01-273-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Dawn",
+  "approval_basis": "Gate 1: a plain white vehicle ferry sits at the stone breakwater with low red-tiled houses behind the quay and calm water stretching right — a plausible Spodsbjerg ferry-harbour view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (ferry + stone mole + village). On-image caption 'Spodsbjerg Harbour, Spodsbjerg', scenario '25 September 2026 · 07:14 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible on the scrim. Weather: Open-Meteo retrieval 25 September 2026 07:13:09 Europe/Copenhagen — unique to the second repo-wide per Cosmo's 408-note scan; scenario 07:14 inside model-valid hour 07:00–07:59. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no visible people; ferry bears no readable name or logo. Gate 5: publication-ready.",
+  "approved_at": "2026-09-26T16:34:26.880508+00:00",
+  "sha256_16x9": "b70582ceee5eb6233ab6f4632a4a4cf5fccdea68dfab2d2c8290a3d21c9fc18c",
+  "sha256_4x5": "e2ac1d0ef8e0f62d164a9752a109183802a221141ec9dbe1502f132f0815301e"
 }
