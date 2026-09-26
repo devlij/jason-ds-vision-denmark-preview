@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Løkken Beach at night: sandy shore with surf, the long lit pier reaching into the dark sea, dune lights in the distance; on-image caption 'Løkken Beach, Løkken', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:36 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no beach-club marks; all five gates pass.",
+  "approved_at": "2026-09-26T01:22:14.786488+00:00",
+  "sha256_16x9": "05d236f9ef00136baae877beebb7df89812c7dd8cf8ac6e4cfa9ebef74cfb670",
+  "sha256_4x5": "e8bc106b49705e7a40daa0609d571f88540edcf62e380444620f6131f8bfa3e2"
 }
