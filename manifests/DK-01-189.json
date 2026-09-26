@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Slagelse/dk-01-189-16x9.png",
   "file_4x5": "Denmark/Slagelse/dk-01-189-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-189",
+    "derived_from": "Night master Denmark/Slagelse/dk-01-189-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Slagelse/dk-01-189-16x9.png",
+        "sha256": "c248140a47f5b72dd24c2900b2ed637c918d43d95d84685c171e94a4a7a4ff4f"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Slagelse/dk-01-189-4x5.png",
+        "sha256": "8e031da370ede97ddfe4e314b3b39e14f5306d7dc612571eb101f12bd5015275"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Slagelse/dk-01-189-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Slagelse/dk-01-189-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "b8b27cf5866a27f7d9be864fdb8444d4b77f3932615f9b6de6eae4047ad0658e",
+      "4x5": "65c848904d7f412c6b1e0ad0467891c75e78ecd583f5588a64e7873164b63e23"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Trelleborg, Slagelse",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

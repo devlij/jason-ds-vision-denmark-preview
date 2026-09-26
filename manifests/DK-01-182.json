@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Nykøbing Falster/dk-01-182-16x9.png",
   "file_4x5": "Denmark/Nykøbing Falster/dk-01-182-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-182",
+    "derived_from": "Night master Denmark/Nykøbing Falster/dk-01-182-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Nykøbing Falster/dk-01-182-16x9.png",
+        "sha256": "47e087f85a67f67ad562325f456218573c997c808eb5446d93b62a9bbd6cfd9e"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Nykøbing Falster/dk-01-182-4x5.png",
+        "sha256": "7f42917618188cd73ba59c013d6e2bf70307cb98676d1a4278777875b48c5cdf"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Nykøbing Falster/dk-01-182-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Nykøbing Falster/dk-01-182-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "1bd95c1a31ce07d2ff3f7e881b625cd47a92f8ae1e76009519ca63c321a2217d",
+      "4x5": "cd7f183e7d1017ae0a731eb615bcc2dcc06f0b4482858a7615deaa0af10a5220"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Klosterkirken, Nykøbing Falster",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }
