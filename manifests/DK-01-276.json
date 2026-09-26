@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Thurø/dk-01-276-16x9.png",
   "file_4x5": "Denmark/Thurø/dk-01-276-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Dawn",
+  "approval_basis": "Gate 1: a glassy marina with covered sailboats at wooden jetties, red-roofed cottages and autumn trees behind, dawn mist on the far shore — a plausible Thurø Harbour morning view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (jetties + covered boats + cottages). On-image caption 'Thurø Harbour, Thurø', scenario '25 September 2026 · 07:15 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible on the scrim. Weather: Open-Meteo retrieval 25 September 2026 07:13:11 Europe/Copenhagen — unique to the second across all 408 repo note files; scenario 07:15 inside model-valid hour 07:00–07:59. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no visible people, no logos; generic shoreline cottages only. Gate 5: publication-ready.",
+  "approved_at": "2026-09-26T16:35:26.075150+00:00",
+  "sha256_16x9": "7f305d177e71ac7efde6ef33081c6229257bed9c58068ba7866cad14e21e574b",
+  "sha256_4x5": "4ce0024633b667222cf2b8d9930c47c793e7349d95e9b321ae82dbdfac5efb7a"
 }
