@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Night view of Assens Harbour: a row of moored boats and sailing yachts in the marina basin, gabled waterfront houses glowing warm behind the masts, and a tall church spire rising above the roofs. Gate 1: plausible harbour viewpoint matching the caption. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Assens Harbour, Assens', scenario '25 September 2026 · 02:00 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:19:09 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people, logos, or readable boat names — documented only. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
+  "approved_at": "2026-09-26T04:25:03.394010+00:00",
+  "sha256_16x9": "f8e0bf3c7408b652420dc26d7d2af0154575e16e76889be965dff5400ad95b81",
+  "sha256_4x5": "b7dd86a56763e7b41a1b2c237183210f7b2f764c14a18306ef8f59aa7ce7f6ab"
 }
