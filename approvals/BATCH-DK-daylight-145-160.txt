@@ -1,0 +1,252 @@
+BATCH DK daylight variants DK-01-145 through DK-01-160
+Date: 2026-09-26
+Country: Denmark
+Scenes: 16. Variant masters: 32 (16x9 1920x1080 and 4x5 864x1080).
+Skips: none. Every ID DK-01-145 through DK-01-160 has a night master pair. None is daylight-only. None already had a *-daylight-* variant.
+Night masters: byte-unchanged. SHA-256 recorded before any work and again after the variant write. Pre and post are identical for every night file. No night image was regenerated.
+On-image text, exact, on every variant: caption identical to the night master; signature Jason D’s Vision (curly apostrophe U+2019); disclosure AI-generated artistic interpretation · Not a photograph.; plus ☀ Daylight variant · derived from the night interpretation. No weather claim. No scenario timestamp.
+Metadata: EU AI Act Art. 50 five PNG chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt), Country = Denmark, embedded after pixels were final. Pixel bytes were not altered by the embed.
+Derivative disclosure: daylight re-interpretation of the same viewpoint and composition as the night master. Not a new scene. Not an independently modelled weather scenario.
+Gallery: index scene records for DK-01-145–160 carry file_16x9_day / file_4x5_day for these paths. The Daylight button toggle logic in index.html was not edited.
+
+DK-01-145  Børsen, Copenhagen
+  night 16x9  library/world/Denmark/Copenhagen/dk-01-145-16x9.png
+    sha256 before  31195f8e57e9b55d42fda5c5e55ca16a577c28e309ee79276158d5a87914d20a
+    sha256 after   31195f8e57e9b55d42fda5c5e55ca16a577c28e309ee79276158d5a87914d20a
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Copenhagen/dk-01-145-daylight-16x9.png
+    sha256         9fe87aca1f18b35acada112fd57f6908f42ba41fe0a5ebb3f9be8f62c6e4a602
+  night 4x5  library/world/Denmark/Copenhagen/dk-01-145-4x5.png
+    sha256 before  e122d8f67adaa407b6d4bf50aba77dd5605df48b51a892e4ef2f953ed2f18393
+    sha256 after   e122d8f67adaa407b6d4bf50aba77dd5605df48b51a892e4ef2f953ed2f18393
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Copenhagen/dk-01-145-daylight-4x5.png
+    sha256         51bda533fbaf15030353b5ed269c7ecef75b53c30aec333ca27b8ce3b4bdbf47
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-146  Holmens Kirke, Copenhagen
+  night 16x9  library/world/Denmark/Copenhagen/dk-01-146-16x9.png
+    sha256 before  9dd243a6f920f9b825c5a56426a6045dd6724a54c412307ca4ce06b595266f64
+    sha256 after   9dd243a6f920f9b825c5a56426a6045dd6724a54c412307ca4ce06b595266f64
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Copenhagen/dk-01-146-daylight-16x9.png
+    sha256         f71dd61d1ef90760bd44cd5cbd78288e6e951deb71824094fe1bebe28fbaacfe
+  night 4x5  library/world/Denmark/Copenhagen/dk-01-146-4x5.png
+    sha256 before  c019017c09fced9d1f0a01028daa9d828ab25486639b6a46e931725531d9dc3e
+    sha256 after   c019017c09fced9d1f0a01028daa9d828ab25486639b6a46e931725531d9dc3e
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Copenhagen/dk-01-146-daylight-4x5.png
+    sha256         fdd4e038363fec8447fb1151bdeb046bdfa9d40ef11a291c07478d5cb141d076
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-147  Gefion Fountain, Copenhagen
+  night 16x9  library/world/Denmark/Copenhagen/dk-01-147-16x9.png
+    sha256 before  7868f8e4fedc41c904a53c85cb7a8c7e0b1e9f55600427ab561920b632e9fcdd
+    sha256 after   7868f8e4fedc41c904a53c85cb7a8c7e0b1e9f55600427ab561920b632e9fcdd
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Copenhagen/dk-01-147-daylight-16x9.png
+    sha256         a9a56ba76aac168377e3a017139df12a086a297cbaab61670dd7a7220778f3ef
+  night 4x5  library/world/Denmark/Copenhagen/dk-01-147-4x5.png
+    sha256 before  d13321c475c86b2de5e86c0b481a7a393c74d379b68839f63ed345a58bfd4680
+    sha256 after   d13321c475c86b2de5e86c0b481a7a393c74d379b68839f63ed345a58bfd4680
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Copenhagen/dk-01-147-daylight-4x5.png
+    sha256         f6138f4c090fc5ab6f830f9231c8da109bd9eec2f2d2b2685533667bfe0fd6e6
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-148  The Black Diamond, Copenhagen
+  night 16x9  library/world/Denmark/Copenhagen/dk-01-148-16x9.png
+    sha256 before  9135f728e4bd1f9cbd8743556fc1c88e9b020d0260bf39d0f8576f281be96dc8
+    sha256 after   9135f728e4bd1f9cbd8743556fc1c88e9b020d0260bf39d0f8576f281be96dc8
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Copenhagen/dk-01-148-daylight-16x9.png
+    sha256         6fa390874844d880b11bedff892c46b223cde5dd12a6be546805761fac63f96f
+  night 4x5  library/world/Denmark/Copenhagen/dk-01-148-4x5.png
+    sha256 before  4c78775526cf102ccabafdf92ab46ab26f29cf34400054272333d7b4444b192a
+    sha256 after   4c78775526cf102ccabafdf92ab46ab26f29cf34400054272333d7b4444b192a
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Copenhagen/dk-01-148-daylight-4x5.png
+    sha256         7413d23513bf0c349f5fe1ad6be91e8343b0df6fec14ea906f60804fbf8068f3
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-149  Øresund Bridge, Copenhagen
+  night 16x9  library/world/Denmark/Copenhagen/dk-01-149-16x9.png
+    sha256 before  4d0128e131bd007fa2f4b43ef81ef42c2df4f48cb3a2db3aa1405de4952219c2
+    sha256 after   4d0128e131bd007fa2f4b43ef81ef42c2df4f48cb3a2db3aa1405de4952219c2
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Copenhagen/dk-01-149-daylight-16x9.png
+    sha256         61f7251a0db54ea3fa069cc5615c242eb06d15bb127ff23e77e172152baac4ea
+  night 4x5  library/world/Denmark/Copenhagen/dk-01-149-4x5.png
+    sha256 before  69efcd61428ea126fa6e57a1531bc64f54e38a28a79ee34fc1e66171aae9dfd3
+    sha256 after   69efcd61428ea126fa6e57a1531bc64f54e38a28a79ee34fc1e66171aae9dfd3
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Copenhagen/dk-01-149-daylight-4x5.png
+    sha256         05c5872688008d0bd88831f8c20e6160976d7f2bbaa49e314f82bec45bb8c013
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-150  Bellevue Beach, Klampenborg
+  night 16x9  library/world/Denmark/Klampenborg/dk-01-150-16x9.png
+    sha256 before  792cf8f896d21900e9fe67a9c409a1ca5cb7f9577ad76310ab41b57c808a0a01
+    sha256 after   792cf8f896d21900e9fe67a9c409a1ca5cb7f9577ad76310ab41b57c808a0a01
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Klampenborg/dk-01-150-daylight-16x9.png
+    sha256         0e71b98ab078f4ae49abb6033c32d4d6a9fbb8f14292ea78406f4e94b052df4f
+  night 4x5  library/world/Denmark/Klampenborg/dk-01-150-4x5.png
+    sha256 before  378f209867e39c09c9921741c2cb2fb9419e8bf467d8ef91774540175c1410d0
+    sha256 after   378f209867e39c09c9921741c2cb2fb9419e8bf467d8ef91774540175c1410d0
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Klampenborg/dk-01-150-daylight-4x5.png
+    sha256         f154766f382a7cce1b1dc311d3d0dd818db74eea9ae0c77dcf960e0d7d671679
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-151  Rungsted Harbour, Rungsted
+  night 16x9  library/world/Denmark/Rungsted/dk-01-151-16x9.png
+    sha256 before  9a43381d6192b78cb7d0475e5fdc7ce5dd1a5d4983e2f869f996bcc5b18b57a6
+    sha256 after   9a43381d6192b78cb7d0475e5fdc7ce5dd1a5d4983e2f869f996bcc5b18b57a6
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Rungsted/dk-01-151-daylight-16x9.png
+    sha256         c63d23ed11268edd7357ba44006b18f70f8499d6e3e63cd94374c06d44f0484f
+  night 4x5  library/world/Denmark/Rungsted/dk-01-151-4x5.png
+    sha256 before  f33c4ad39ea4e95f3feae9725681d9ec5cfd6d2dab9845b4fd9f9f200e0ec780
+    sha256 after   f33c4ad39ea4e95f3feae9725681d9ec5cfd6d2dab9845b4fd9f9f200e0ec780
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Rungsted/dk-01-151-daylight-4x5.png
+    sha256         48061a922f3fd527ae49ae13f1066227a446fc0762ac06994fd2dbd676d7b398
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-152  Torvet, Hillerød
+  night 16x9  library/world/Denmark/Hillerød/dk-01-152-16x9.png
+    sha256 before  f526d800927c64588b210a42d14a59a9c18811c8550ffdccdc9ef2b45e5ea369
+    sha256 after   f526d800927c64588b210a42d14a59a9c18811c8550ffdccdc9ef2b45e5ea369
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Hillerød/dk-01-152-daylight-16x9.png
+    sha256         7f4a7091de4f97c76bbe88b8275f181a288115852c97631b4b92318103f730ed
+  night 4x5  library/world/Denmark/Hillerød/dk-01-152-4x5.png
+    sha256 before  d616fda8192321e0ebf56c0bf299cd42a7196434be799d30d3595005d28e83b8
+    sha256 after   d616fda8192321e0ebf56c0bf299cd42a7196434be799d30d3595005d28e83b8
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Hillerød/dk-01-152-daylight-4x5.png
+    sha256         a9da3fa61fb79c6f19cb35b2a1e6328d7f065a3a689b328da4b1b4384ac74caa
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-153  Helsinge Church, Helsinge
+  night 16x9  library/world/Denmark/Helsinge/dk-01-153-16x9.png
+    sha256 before  7cc2e15546d38ecc761eaedafd7326452380f6b80cbe456ff106a34689359942
+    sha256 after   7cc2e15546d38ecc761eaedafd7326452380f6b80cbe456ff106a34689359942
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Helsinge/dk-01-153-daylight-16x9.png
+    sha256         70249701c6136341d4e8c21cb58ce1f01b4e128e01afd842ec9a8a426801553b
+  night 4x5  library/world/Denmark/Helsinge/dk-01-153-4x5.png
+    sha256 before  9c9d6e8871ad637fea746bb5ecfc2209b046a0c14dd054f9ee5c3197340e75c1
+    sha256 after   9c9d6e8871ad637fea746bb5ecfc2209b046a0c14dd054f9ee5c3197340e75c1
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Helsinge/dk-01-153-daylight-4x5.png
+    sha256         c7b6a6b980d1f336c8bd9811a506599199625b8b76abd1a0c9e66c01a35616d7
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-154  Rødvig Harbour, Rødvig
+  night 16x9  library/world/Denmark/Rødvig/dk-01-154-16x9.png
+    sha256 before  2e0c9bd1f32529cb403e46e9b1e6c9351828f813b208c70b91c029fbc1b2be35
+    sha256 after   2e0c9bd1f32529cb403e46e9b1e6c9351828f813b208c70b91c029fbc1b2be35
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Rødvig/dk-01-154-daylight-16x9.png
+    sha256         0d4d12b3991f9c9e0f77957f2f26b843533d14a2b1315319a2a95a60e334d2da
+  night 4x5  library/world/Denmark/Rødvig/dk-01-154-4x5.png
+    sha256 before  89f5179a9b636d343801c162f0bf8fa990522ba812a926564de9e02d1976f5d8
+    sha256 after   89f5179a9b636d343801c162f0bf8fa990522ba812a926564de9e02d1976f5d8
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Rødvig/dk-01-154-daylight-4x5.png
+    sha256         67efdefb30e3fe6e5ba0d879a8196e9d2b2aae3af3ddb8db5e8b9e6b29ff2118
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-155  Valdemars Slot, Troense
+  night 16x9  library/world/Denmark/Troense/dk-01-155-16x9.png
+    sha256 before  048b246c10317158e492a85348d00e3d9167d926812f7783404085babb0e1b1d
+    sha256 after   048b246c10317158e492a85348d00e3d9167d926812f7783404085babb0e1b1d
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Troense/dk-01-155-daylight-16x9.png
+    sha256         ea3ebe9320978531e6426620596a2ee266310b02758fdf9ca1340604125bd43d
+  night 4x5  library/world/Denmark/Troense/dk-01-155-4x5.png
+    sha256 before  eb33a51389ba3feeaa434cc858efb81f9c3cd2e91336718072b858636cba1359
+    sha256 after   eb33a51389ba3feeaa434cc858efb81f9c3cd2e91336718072b858636cba1359
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Troense/dk-01-155-daylight-4x5.png
+    sha256         be81d0c19a6653248cb83190cbcb357b1dfd53637f74c814c2e8efb823a78681
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-156  Langelandsfort, Bagenkop
+  night 16x9  library/world/Denmark/Bagenkop/dk-01-156-16x9.png
+    sha256 before  2c094490a140c90b68bd6491b1eb5ecac6f94490a105e1f52b3fca4da6503f80
+    sha256 after   2c094490a140c90b68bd6491b1eb5ecac6f94490a105e1f52b3fca4da6503f80
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Bagenkop/dk-01-156-daylight-16x9.png
+    sha256         5a26e656aa548456d3c1b01e076d5a320577b4668c064ee50810ee92c2bcf985
+  night 4x5  library/world/Denmark/Bagenkop/dk-01-156-4x5.png
+    sha256 before  a9e41fd4713393b691229f571376c4672c316b12e06ecd01b83e6a8316364ea7
+    sha256 after   a9e41fd4713393b691229f571376c4672c316b12e06ecd01b83e6a8316364ea7
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Bagenkop/dk-01-156-daylight-4x5.png
+    sha256         2de35892dfda5dfc97986260b5cbb8bef1736faa4a279db9f6202ad31e064f10
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-157  Allinge Harbour, Allinge
+  night 16x9  library/world/Denmark/Allinge/dk-01-157-16x9.png
+    sha256 before  71d71dc1aa6b5ae08c940d289898008df1d30997161b1ed32e2347c193547994
+    sha256 after   71d71dc1aa6b5ae08c940d289898008df1d30997161b1ed32e2347c193547994
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Allinge/dk-01-157-daylight-16x9.png
+    sha256         9ccebab85c64cf0c5f4d03b388a13b07de6497ad14203586e5beb88dff271074
+  night 4x5  library/world/Denmark/Allinge/dk-01-157-4x5.png
+    sha256 before  61f05ecbb48ab8f21b82175a37064dcea9a43b18338112fced96c71751501b01
+    sha256 after   61f05ecbb48ab8f21b82175a37064dcea9a43b18338112fced96c71751501b01
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Allinge/dk-01-157-daylight-4x5.png
+    sha256         4c43e5a758131415859d7416c6c041c48000f840999c0cfe6558757e014d3c3b
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-158  Hasle Harbour, Hasle
+  night 16x9  library/world/Denmark/Hasle/dk-01-158-16x9.png
+    sha256 before  511648adb85b0a78287785ccb1a4973b51dabc3f5f5c44802e25b042d03c5180
+    sha256 after   511648adb85b0a78287785ccb1a4973b51dabc3f5f5c44802e25b042d03c5180
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Hasle/dk-01-158-daylight-16x9.png
+    sha256         9a59f6bdd22d8bd8e45932e0e334093a06bcc9b8aff8d9b567756be5c07edbab
+  night 4x5  library/world/Denmark/Hasle/dk-01-158-4x5.png
+    sha256 before  9baf72de827828bb5fcdba25e60fe0cda60824bf8fbcda44231da71dd33da692
+    sha256 after   9baf72de827828bb5fcdba25e60fe0cda60824bf8fbcda44231da71dd33da692
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Hasle/dk-01-158-daylight-4x5.png
+    sha256         93e7752565f389b9b1653ea7edf90ac6440b879b69e54a6da2fa587b83eaf7c2
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-159  Vestaravág, Tórshavn
+  night 16x9  library/world/Denmark/Tórshavn/dk-01-159-16x9.png
+    sha256 before  87d54db4f1cc7278ad49739afc873edf2e40f38ee9f1a2ef9f5cd2115a0d04b1
+    sha256 after   87d54db4f1cc7278ad49739afc873edf2e40f38ee9f1a2ef9f5cd2115a0d04b1
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Tórshavn/dk-01-159-daylight-16x9.png
+    sha256         1048c83b71ee6142dc35dfdc373340a58ec0df2d927c1d87940d9459159a2426
+  night 4x5  library/world/Denmark/Tórshavn/dk-01-159-4x5.png
+    sha256 before  2c5b8d1d57730aca29796220fd3a147eb73f9d3ae91500941f9bd81a885b6c89
+    sha256 after   2c5b8d1d57730aca29796220fd3a147eb73f9d3ae91500941f9bd81a885b6c89
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Tórshavn/dk-01-159-daylight-4x5.png
+    sha256         a5a510e01304462ea955ee7ba2e0f057e1fca2b1534d3177a0a28d40599e0153
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+DK-01-160  Narsarsuaq Fjord, Narsarsuaq
+  night 16x9  library/world/Denmark/Narsarsuaq/dk-01-160-16x9.png
+    sha256 before  3b560a8f5641cbdf619da647e428a9723064fc08c1ceecf4fb41c968e89fc2c7
+    sha256 after   3b560a8f5641cbdf619da647e428a9723064fc08c1ceecf4fb41c968e89fc2c7
+    night master   IDENTICAL
+  variant 16x9  library/world/Denmark/Narsarsuaq/dk-01-160-daylight-16x9.png
+    sha256         e003f595222970be0816e5c50256072454a4a439955c433753e7e0bf56430902
+  night 4x5  library/world/Denmark/Narsarsuaq/dk-01-160-4x5.png
+    sha256 before  588fd777cfd23a35f7714cd15cae33f74a463cd0c35a684740c3a37223f6fa8e
+    sha256 after   588fd777cfd23a35f7714cd15cae33f74a463cd0c35a684740c3a37223f6fa8e
+    night master   IDENTICAL
+  variant 4x5  library/world/Denmark/Narsarsuaq/dk-01-160-daylight-4x5.png
+    sha256         3430ddb73e1886f1f1e6d3c0deebd9e0a75b1a5c4c7bae30aaebd06a5f3f1e76
+  derivative disclosure: daylight re-interpretation of the same viewpoint and composition; not a new scene; no weather claim; no scenario timestamp on the variant.
+
+Confirmation: all 32 night masters (16 scenes x 16x9 and 4x5) are byte-unchanged. Pre-work and post-work SHA-256 match for every night file.

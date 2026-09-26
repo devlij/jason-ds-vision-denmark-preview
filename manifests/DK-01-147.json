@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Copenhagen/dk-01-147-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-147-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-147",
+    "derived_from": "Night master Denmark/Copenhagen/dk-01-147-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-147-16x9.png",
+        "sha256": "7868f8e4fedc41c904a53c85cb7a8c7e0b1e9f55600427ab561920b632e9fcdd"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-147-4x5.png",
+        "sha256": "d13321c475c86b2de5e86c0b481a7a393c74d379b68839f63ed345a58bfd4680"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Copenhagen/dk-01-147-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Copenhagen/dk-01-147-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "a9a56ba76aac168377e3a017139df12a086a297cbaab61670dd7a7220778f3ef",
+      "4x5": "f6138f4c090fc5ab6f830f9231c8da109bd9eec2f2d2b2685533667bfe0fd6e6"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Gefion Fountain, Copenhagen",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }
