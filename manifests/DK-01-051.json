@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Himmelbjerget at night: the red-brick Himmelbjergtårnet on the heather hilltop, dark lake below with town lights across the water; on-image caption 'Himmelbjerget, Ry', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:27 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no logos or marks; all five gates pass.",
+  "approved_at": "2026-09-26T01:21:26.378103+00:00",
+  "sha256_16x9": "1dc926f6af4c6f81b989f9ac945f302e20886d40d0010c19baa71904c8bdafd3",
+  "sha256_4x5": "fb8db45fc119a6372e89f405b833923b31ea6b68d24f2be3045d58e66714e8d8"
 }
