@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Vamdrup/dk-01-301-16x9.png",
   "file_4x5": "Denmark/Vamdrup/dk-01-301-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: both masters show Vamdrup Church — whitewashed church with pyramid-capped west tower, red tile roofs, churchyard with gravestones, bare and autumn trees under a clear morning sky; same church, formats agree, clean framing, no artifacts. Gate 2: exact dims; 'Vamdrup Church, Vamdrup', 'Scenario: 25 September 2026 · 07:41 Europe/Copenhagen' inside model hour, disclosure and signature legible; retrieval 25 Sep 2026 07:36:50 unique repo-wide (neighbors :48 and :52), cloud cover 18% matches the clear sky; Art. 50 metadata present. Gate 3: text-prompt-only. Gate 4: no people, no readable lettering; documented only. Gate 5: publish.",
+  "approved_at": "2026-09-26T18:32:59.587283+00:00",
+  "sha256_16x9": "6e83b9eff4f7a1d09889afbcce71c0b6d012bcd43440370f87e81af69adf192e",
+  "sha256_4x5": "1cf5c7cbce7988015ac115641dd088409b7bb7e3be085017331f15e59a304b1a"
 }
