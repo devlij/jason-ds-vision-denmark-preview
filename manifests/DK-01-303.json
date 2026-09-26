@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Vester Vedsted/dk-01-303-16x9.png",
   "file_4x5": "Denmark/Vester Vedsted/dk-01-303-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: both masters show the Wadden Sea Centre — the thatched sculptural wedge rising from marsh grass, the 16:9 with the slatted window band and arched entrance, the 4:5 the same thatched wedge from the far side; same building and marsh setting from different angles, broken cloud, clean framing, no artifacts. Gate 2: exact dims; 'Wadden Sea Centre, Vester Vedsted', 'Scenario: 25 September 2026 · 07:42 Europe/Copenhagen' inside model hour 07:00-07:59, disclosure and signature legible; retrieval 25 Sep 2026 07:36:54 unique repo-wide (neighbors :52 and 304's :56), cloud cover 59% matches the broken cloud; Art. 50 metadata present. Gate 3: text-prompt-only. Gate 4: no people or logos; documented only. Gate 5: publish.",
+  "approved_at": "2026-09-26T18:33:09.040613+00:00",
+  "sha256_16x9": "c5f7f843b3b53dbcda7476ff24822b7848b667558eae83c722e10f6bfe24e4ec",
+  "sha256_4x5": "e5264d0b3970c429b7d41c60a8ea4d29b74324a36b9049212fcb50911d21b90d"
 }
