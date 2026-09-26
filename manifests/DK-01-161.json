@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: the Elephant Gate's red-brick tower with copper dome and two granite elephants flanking the arch, lit street lamps and cobblestones at night — the Carlsberg Elefantporten landmarks (elephants, round-arched windows, copper dome) all present, no brewery wordmark, no artifacts. Gate 2: on-image caption 'Elephant Gate, Copenhagen', scenario '25 September 2026 · 03:44 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 26 September 2026 01:40:13 Europe/Copenhagen — a documented correction re-fetch; cited step 03:30, model-valid hour 03:00-03:59, scenario 03:44 inside it, retrieval unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no wordmark or product visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T08:34:18.196375+00:00",
+  "sha256_16x9": "75bd3c95ff799b1a49bbfdecf80fe603889b38510d9b40e7d071aef911ebb4f2",
+  "sha256_4x5": "aa131398b063a1073cab6991451492cea463238f9ee507339806e7e5a46bd98b"
 }
