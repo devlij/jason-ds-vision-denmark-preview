@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Dronninglund/dk-01-310-16x9.png",
   "file_4x5": "Denmark/Dronninglund/dk-01-310-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: the 16:9 master shows Voergaard Castle as a moated red-brick Renaissance castle with square corner towers, an ornate stone entry portal and still-water reflections — a plausible visitor viewpoint, clean framing, no artifacts. Gate 2: exact 1920x1080 / 864x1080; on-image signature 'Jason D's Vision', caption 'Voergaard Castle, Dronninglund', scenario '25 September 2026 · 08:21 Europe/Copenhagen', and AI disclosure legible on the scrim; weather retrieval 25 September 2026 08:17:27 Europe/Copenhagen inside the valid 08:00–08:59 hour and unique repo-wide (365/365 distinct). The 4:5 master shows the same moated castle, corner towers and portal — formats agree. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no visible people or logos. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T19:25:29.155931+00:00",
+  "sha256_16x9": "2fe17b8ced86c53e850def29a80fb77dc6488b3e03ab245edb98948fc8223865",
+  "sha256_4x5": "901bb832f0d2a2b82e863946139a02a10d0e093788a61a3ba30c4a2322fd68f4"
 }
