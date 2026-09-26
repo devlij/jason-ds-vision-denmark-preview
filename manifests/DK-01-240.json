@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: white octagonal tower (not a square box or cylinder) with a glowing lantern, short link to a two-storey keeper's house, small outbuilding, grassy knoll above the sea — no harbour cranes in frame, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Hanstholm Lighthouse, Hanstholm', scenario '25 September 2026 · 06:23 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:10:31 for this scene's own coords, scenario inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable plaques. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T13:25:24.903019+00:00",
+  "sha256_16x9": "02a6cc1667ab2ccb7e40c33ff3aae9e7acbfe422d80a1714c1e0035e4f722b27",
+  "sha256_4x5": "e2db2988ac578d5f1799dbf00c6da63a656bfbe2d834319c2d84f0cb646a34cc"
 }
