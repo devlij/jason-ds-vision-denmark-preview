@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Esrum/dk-01-262-16x9.png",
   "file_4x5": "Denmark/Esrum/dk-01-262-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
+  "approval_basis": "Gate 1 pass: the 16:9 master shows the long red-brick abbey building with white-framed windows mirrored in the pond, autumn trees and an overcast sky — a plausible Esrum Abbey view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Esrum Abbey, Esrum' and scenario '25 September 2026 · 06:56 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:38, confirmed unique repo-wide across all 365 notes, and 06:56 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no logos. All five gates pass.",
+  "approved_at": "2026-09-26T15:26:59.233889+00:00",
+  "sha256_16x9": "004bc7663d1af2b6c1a0b12d875bfd267a81642f26b299fc293971f47e6e71b8",
+  "sha256_4x5": "d2f85946d8983c4bf20544a9d235493ad64851e1a2019472728aa8403768a7c6"
 }
