@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: the Narsarsuaq fjord under a bright moon between snow-capped mountain walls, the small lit settlement below — fjord, steep mountains, a few lights and moon all present, plausible elevated viewpoint, no artifacts. Gate 2: on-image caption 'Narsarsuaq Fjord, Narsarsuaq', scenario '25 September 2026 · 03:10 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:53 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T08:34:10.247153+00:00",
+  "sha256_16x9": "3b560a8f5641cbdf619da647e428a9723064fc08c1ceecf4fb41c968e89fc2c7",
+  "sha256_4x5": "588fd777cfd23a35f7714cd15cae33f74a463cd0c35a684740c3a37223f6fa8e"
 }
