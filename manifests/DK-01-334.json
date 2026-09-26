@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Qeqertarsuaq/dk-01-334-16x9.png",
   "file_4x5": "Denmark/Qeqertarsuaq/dk-01-334-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "approved",
+  "approval_basis": "DK-01-334 Qeqertarsuaq Harbour five-gate independent audit (Cosmo, 2026-09-26): G1 visual/location: independent read of both downloaded masters shows town quay, colourful wooden houses on dark rock, small boats, calm open water, fully overcast sky; both formats depict the same subject and the same overcast sky. On-image caption 'Qeqertarsuaq Harbour, Qeqertarsuaq', scenario '25 September 2026 · 14:58 Europe/Copenhagen', AI disclosure and curly-apostrophe 'Jason D's Vision' signature all baked and legible. No snow, no ice, no lettering, no artifacts. G2 scenario/weather: Open-Meteo model data retrieved 25 September 2026 14:57:20 Europe/Copenhagen, valid hour 14:00-14:59, cited model step 14:45 — overcast, -0.2C, cloud cover 95%, wind 6.7 km/h, no precipitation, is_day 1. Matches both frames' overcast gray sky, bare rock and open water. Retrieval timestamp verified unique repo-wide: no other scene in the 408-note set shares this timestamp to the second. G3 originality/provenance: builder evidence card documents text-prompt-only generation, no photographic reference pixels (16:9 Lanczos resample of 1280x720 JPEG; 4:5 centered crop of 864x1152 JPEG) — original synthetic interpretation, no source-pixel reuse. G4 commercial/IP: no readable house or boat names, no company marks; internal editorial note only, not a legal certification. G5 publication readiness: exact 1920x1080 and 864x1080 masters per sweep mechanical check, all required on-image text present on both, Art.50 PNG text chunks embedded after pixel write per evidence card. Approved.",
+  "approved_at": "2026-09-26T21:24:01.947136+00:00",
+  "sha256_16x9": "da925886233b2f08053a844bbb69236c902686583e71e655ef8258006abf8596",
+  "sha256_4x5": "143c6746161495d08ec9355964d6f9adbdee90a384136857620b93689d8db921"
 }
