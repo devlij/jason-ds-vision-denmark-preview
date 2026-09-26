@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Orø/dk-01-272-16x9.png",
   "file_4x5": "Denmark/Orø/dk-01-272-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Dawn",
+  "approval_basis": "Gate 1: a white ferry lies off a stone breakwater with fishing boats moored along the quay, shoreline houses with lit windows behind, dawn breaking through cloud — a plausible Orø Harbour tourist view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (ferry + breakwater + harbour town). On-image caption 'Orø Harbour, Orø', scenario '25 September 2026 · 06:57 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible. Weather: Open-Meteo retrieval 25 September 2026 06:54:24 Europe/Copenhagen — unique to the second across all 408 repo note files; scenario inside model-valid hour 06:00–06:59. Gate 3: per-entry note claims text-prompt-only, no photographic pixels. Gate 4: no visible people; the ferry is a plain unmarked vessel, no readable logos. Gate 5: publication-ready.",
+  "approved_at": "2026-09-26T16:34:20.275719+00:00",
+  "sha256_16x9": "e652a924bb1836ae8de190a833a0aa519b58aed63f2fe60c1134654558491445",
+  "sha256_4x5": "3cd5696dae8f1f00d224614043c678b389a94654cc39bfc68f0005e6a6ae0a43"
 }
