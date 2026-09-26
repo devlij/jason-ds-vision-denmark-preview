@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: massive calving glacier face with deep crevasses and floating brash ice under a starry night sky with a pink afterglow band on the horizon, rocky snow-dusted flanks - Eqi Glacier's signature front, no artifacts. Gate 2: exact masters; signature/caption 'Eqi Glacier, Ilulissat'/scenario '25 September 2026 · 01:43 Europe/Copenhagen'/disclosure verified on-image; scenario inside model hour 01:00-01:59; clear starry sky matches Clear/0%/-5.2C evidence; retrieval 23:18:55 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only per note. Gate 4: no people, logos, or private property visible - documented only.",
+  "approved_at": "2026-09-26T03:22:29.164591+00:00",
+  "sha256_16x9": "53ac7adc8af1342ed8af26ad9462cba5479a86be9fb21e0cc6049839b1223262",
+  "sha256_4x5": "d3b060c379c9785f6b0b18220947cd7c009407bfbb970a2af8f1be3ca770e0c5"
 }
