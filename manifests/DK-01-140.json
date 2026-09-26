@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Hvide Sande/dk-01-140-16x9.png",
   "file_4x5": "Denmark/Hvide Sande/dk-01-140-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-140",
+    "derived_from": "Night master Denmark/Hvide Sande/dk-01-140-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Hvide Sande/dk-01-140-16x9.png",
+        "sha256": "0656f468e61bb0307c3846f24a1ffef8b26a6ad34cb896bbd3f289b47f4ac9ca"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Hvide Sande/dk-01-140-4x5.png",
+        "sha256": "7ddcb3e10f9126cc6ca18cd25b960a046bfdd0f3ef65ed5ffd06ebfd83f98188"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Hvide Sande/dk-01-140-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Hvide Sande/dk-01-140-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "960bdee27bb0eb1e7256e98fedc7a1fa0bfc4db51eb9d1b7d25c0a7b50cc5d07",
+      "4x5": "21c0d279055e32a31d495678a91f8f09c1bdcc8d7f7b274d5908b6e552e351f5"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Hvide Sande Harbour, Hvide Sande",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

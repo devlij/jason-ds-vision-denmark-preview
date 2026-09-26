@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Kandestederne/dk-01-133-16x9.png",
   "file_4x5": "Denmark/Kandestederne/dk-01-133-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-133",
+    "derived_from": "Night master Denmark/Kandestederne/dk-01-133-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Kandestederne/dk-01-133-16x9.png",
+        "sha256": "2cd54d30eb7e944441d895392a621b7a18bb1bba66f7ccff3626b91b4fabb846"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Kandestederne/dk-01-133-4x5.png",
+        "sha256": "3d4b4aff13c741cbcaf498bac02e1f9bf8be26b456486fcf7b2f9b311a075d82"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Kandestederne/dk-01-133-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Kandestederne/dk-01-133-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "5e08e352abedd837ef2531b73b8117a6fb88f3bb298113dc5b6e40532a98d6c2",
+      "4x5": "90855e0cd73bc33c3c4a14bbde7eb2207c80a0fe0ec4059ebb1254da49e5fd9f"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Råbjerg Mile, Kandestederne",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

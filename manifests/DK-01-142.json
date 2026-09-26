@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Ribe/dk-01-142-16x9.png",
   "file_4x5": "Denmark/Ribe/dk-01-142-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-142",
+    "derived_from": "Night master Denmark/Ribe/dk-01-142-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Ribe/dk-01-142-16x9.png",
+        "sha256": "92a667d859b3b6d36895df6ee611926ffb969b98b90fd008dc8495ce4eece456"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Ribe/dk-01-142-4x5.png",
+        "sha256": "8be2c768359351d30f6c5f0a7ae179d1b53faab51536744b2fc7b43fb880c9df"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Ribe/dk-01-142-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Ribe/dk-01-142-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "81c4ce5726694c5fa48b4cf0c16db0f7aa64734608418625b353bed138591a61",
+      "4x5": "b16f4218e152be5d2b67b27e47919c290e426ed4aae9d6a408be67190c9a1798"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Ribe Old Town, Ribe",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

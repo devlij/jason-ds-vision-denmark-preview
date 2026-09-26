@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Blåvand/dk-01-141-16x9.png",
   "file_4x5": "Denmark/Blåvand/dk-01-141-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-141",
+    "derived_from": "Night master Denmark/Blåvand/dk-01-141-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Blåvand/dk-01-141-16x9.png",
+        "sha256": "1af91fd9155f682fe0f7ade4a9bcc740a09e0428e839a4a587fc30ce06992dd5"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Blåvand/dk-01-141-4x5.png",
+        "sha256": "bcb97f8b046f85c826b049985a520cc497cc256596004a138358cf3d6cb2c5be"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Blåvand/dk-01-141-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Blåvand/dk-01-141-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "791b35be38ffa97a0c3f5330ec175c990db9782c723a6f57e7930de42745906b",
+      "4x5": "ef82f97abab4a5e0374f2698ec7ff1dc13f92ced0ed8c3960c713309f359bfdc"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Blåvandshuk, Blåvand",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }
