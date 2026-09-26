@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Agersø/dk-01-284-16x9.png",
   "file_4x5": "Denmark/Agersø/dk-01-284-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Approved 5/5 Daylight. Gate 1 PASS: 16:9 shows the dawn harbour from quay-side — diagonal cobblestone pier sweeping the foreground, red-brick and white gabled houses with dark/red roofs banked left, a large white passenger ferry berthed center, four small dark fishing boats at weathered wooden jetties, choppy water under pink-streaked clouds; 4:5 from the pier end looking back — long stone causeway leading to the same white ferry, fishing boats at jetties on both flanks, low sun over the far shore, harbour houses on the distant shore. Cross-format subject identity agrees (same harbour, same white ferry, same fishing-boat/jetty/stone-pier elements, differing viewpoints only). Gate 2 PASS: on-image caption \"Agersø Harbour, Agersø\", scenario \"25 September 2026 · 07:18 Europe/Copenhagen\", disclosure \"AI-generated artistic interpretation · Not a photograph.\" bottom-left on dark scrim, \"Jason D's Vision\" with curly apostrophe bottom-right — all exact and legible. Weather law verified repo-wide: Open-Meteo retrieval 25 September 2026 07:17:45 Europe/Copenhagen (grid 55.21187, 11.19316, model step 07:15, hour 07:00–07:59) cited only by this scene's note, unique to the second — no shared retrieval; scenario 07:18 inside the model-valid hour, after the cited step. Gate 3 PASS per record: notes document text-prompt-only generation, no photographic inputs reported. Gate 4 documented only: no people, no brand logos, unmarked vessels, generic red-brick harbour cottages. Gate 5 PASS — publication-ready.",
+  "approved_at": "2026-09-26T17:31:34.027781+00:00",
+  "sha256_16x9": "b6f5b96f3ead9be4e73daad3a38f671f072d0bcffaa947c31d03921c44035ce1",
+  "sha256_4x5": "ef9565bf421ba9c592885df10ef97e76ed7d2a9a1aac99c81c9f93ff7b516e26"
 }
