@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Grenaa/dk-01-212-16x9.png",
   "file_4x5": "Denmark/Grenaa/dk-01-212-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-212",
+    "derived_from": "Night master Denmark/Grenaa/dk-01-212-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Grenaa/dk-01-212-16x9.png",
+        "sha256": "e03a24dd7c6219ba0810fc9748d843be6023886c21a200137a9cbd5abe87ad75"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Grenaa/dk-01-212-4x5.png",
+        "sha256": "e26407ae9403049b7bceffa42292a98b9ea51c391baa2063c4d092e8179a28f5"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Grenaa/dk-01-212-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Grenaa/dk-01-212-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "66fc28426cd062f33d55fcb29212411364e486ec6426ecb4ce7e3becc3cef2c5",
+      "4x5": "1a09b5455855048cb9a8b53b6e02d7d0e803a7790a26524c0676d5beffad3bac"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Fornæs Lighthouse, Grenaa",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

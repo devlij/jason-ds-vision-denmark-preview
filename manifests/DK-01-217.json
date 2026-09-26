@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Ejer/dk-01-217-16x9.png",
   "file_4x5": "Denmark/Ejer/dk-01-217-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-217",
+    "derived_from": "Night master Denmark/Ejer/dk-01-217-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Ejer/dk-01-217-16x9.png",
+        "sha256": "4d52d57886c959ea9648fdc85c29d74ee367fb15cf559a7ecec9e58c1ec6a249"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Ejer/dk-01-217-4x5.png",
+        "sha256": "84002cf5a09ecad82b013f193cb9cef853328bf2ecc635cb03c021e147252597"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Ejer/dk-01-217-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Ejer/dk-01-217-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "fab83d8ebd99fe95d4f445fe1f8903c728298a3e2cc2a79438f78746ee161c59",
+      "4x5": "d8547467c5d5a4015068871ac6c0eb88157d4c43a4f0be7b483cf856fbba4d2d"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Ejer Bavnehøj, Ejer",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }
