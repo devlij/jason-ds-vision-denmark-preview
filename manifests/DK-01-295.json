@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Dollerup/dk-01-295-16x9.png",
   "file_4x5": "Denmark/Dollerup/dk-01-295-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: both masters show Hald Hovedgård — red-brick manor with twin red-tile roofs and white sash windows, broad lawn sloping to still water, autumn trees in yellow and orange; same building from matching viewpoints, clean framing, no artifacts. Gate 2: exact 1920x1080 and 864x1080; on-image 'Hald Hovedgård, Dollerup', 'Scenario: 25 September 2026 · 07:40 Europe/Copenhagen' inside model hour 07:00-07:59, disclosure and 'Jason D's Vision' signature legible on scrim; retrieval 25 Sep 2026 07:36:39 Europe/Copenhagen unique repo-wide (neighbors :37 and :41), cloud cover 53% matches the broken cloud; Art. 50 PNG metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable signage; documented only. Gate 5: publish.",
+  "approved_at": "2026-09-26T18:31:58.423413+00:00",
+  "sha256_16x9": "503d7bd696c996286b504e16ec78e0d64f337d46e4dd2db757ee91e5ede38f60",
+  "sha256_4x5": "e28c48d0b87b2bdfad6cfdccfac50a91d70d06835f99e5d074ad1ad46edff108"
 }
