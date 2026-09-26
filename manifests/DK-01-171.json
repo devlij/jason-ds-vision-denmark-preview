@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gates 1-5 PASS. G1: Køge Marina at night — a field of bare masts and ordinary sailboats along piers on the dark bay, low quay, lamps lying on the water; half-timbered old town correctly out of frame per the description; no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Køge Marina, Køge', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:29:06 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
+  "approved_at": "2026-09-26T09:26:48.335614+00:00",
+  "sha256_16x9": "af5951ce174e76b463f001797f97677df5e03a966990865f508461077e1ee642",
+  "sha256_4x5": "a950320ba5ce51be0f13ba8c146384d51a6c57c6f06de4b7d6d4b61359a8a063"
 }
