@@ -52,6 +52,11 @@
       "at": "2026-09-26T05:25:51.002489+00:00",
       "by": "Cosmo QC",
       "note": "Gate 1 FAIL — Cosmo QC hold: the 16:9 master renders FIVE seated white concrete figures in a row (verified by direct visual read and by a fresh visual-grounding count returning count=5). The real Mennesket ved Havet (Men at Sea, Esbjerg) is exactly four 9-metre seated figures, and the builder's own evidence card geometry anchor #1 states 'Exactly four white seated figures in a row' — the image contradicts the anchor. Glaring misconfiguration vs the captioned landmark. Do not approve; builder must regenerate with exactly four figures and re-push. All other gates were clean: dims 1920x1080/864x1080, caption/scenario/disclosure/signature on-image, scenario 02:00 inside model-valid hour, Open-Meteo retrieval 2026-09-25T23:19:11 Europe/Copenhagen unique to this scene."
+    },
+    {
+      "at": "2026-09-26T07:22:26.084397+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate-1 hold: master renders FIVE seated white figures on the dune overlooking the sea; the real Svend Wiig Hansen 'Men at Sea' sculpture is four figures, so the figure count is a glaring misconfiguration and the note's 'four figures' claim does not match the image. Also flagging for Jason's commercial-use call: the sculpture is by Svend Wiig Hansen (d. 1997), so copyright may still subsist. Held as Candidate until the builder regenerates with four figures and the note is corrected."
     }
   ]
 }
