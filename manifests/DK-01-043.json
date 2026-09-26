@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: night — tree-lined cobbled Slotsgade with brick houses and streetlamps, white Schackenborg manor in the far distance — matches Mogeltonder's Slotsgade anchors. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Slotsgade, Mogeltonder', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:14 Europe/Copenhagen (HTTP Date 21:09:14 GMT), valid 00:45 step, is_day 0, partly cloudy 10.9C 79% cloud, wind 5.8 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: distant private manor — documented only; no people/logos. Gate 5 PASS.",
+  "approved_at": "2026-09-26T00:32:16.122852+00:00",
+  "sha256_16x9": "413fe14d1f06195ba08bce1ada9e806b0171430e93ca07f3e4d2d723754b80c1",
+  "sha256_4x5": "69f5ca5fc7c95c59a8949e3f739c0a56fbe02f3a3b0ce7e694f74c0af97423fc"
 }
