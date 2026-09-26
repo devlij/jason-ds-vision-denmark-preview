@@ -11,5 +11,12 @@
   "file_16x9": "Denmark/Eiði/dk-01-332-16x9.png",
   "file_4x5": "Denmark/Eiði/dk-01-332-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "qc_notes": [
+    {
+      "at": "2026-09-26T21:24:39.056545+00:00",
+      "by": "Cosmo QC",
+      "note": "QC hold (Cosmo, 2026-09-26): Gate 1+2 inter-format sky disagreement. Independent read of both downloaded masters: the 16:9 shows a clear blue sky, but the 4:5 shows a heavy overcast gray sky — the two formats of the same scene depict incompatible skies, and the 4:5's overcast contradicts the recorded per-scene weather evidence (Open-Meteo retrieved 25 September 2026 14:54:56 Europe/Copenhagen, model step 14:45: clear, cloud cover 0%). Hold pending a re-render so both formats match the clear-sky scenario."
+    }
+  ]
 }
