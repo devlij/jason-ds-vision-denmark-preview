@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: night waterfront promenade stretching into a moonlit fjord, moored sailboats along the pier and lit low town buildings — a plausible Ringkøbing night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Ringkøbing Harbour, Ringkøbing', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:19 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or signs — documented, final call Jason's. Gate 5 clear.",
+  "approved_at": "2026-09-26T07:24:26.182417+00:00",
+  "sha256_16x9": "1bc3758c2bca79c3a14ec42bad014f50779e5094ce5555f533b0c37a1a0ec0c3",
+  "sha256_4x5": "350462c113057a3c775e6a276eae274a8b89986b5102f60f42aa10c365e9bb97"
 }
