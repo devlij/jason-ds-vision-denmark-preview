@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Vang/dk-01-245-16x9.png",
   "file_4x5": "Denmark/Vang/dk-01-245-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: Jons Kapel cliff face with an arched cave mouth at the waterline, boulder-strewn foreshore with white surf, sheer dark rock rising into low cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Jons Kapel, Vang', scenario '25 September 2026 · 06:33 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:31:59 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
+  "approved_at": "2026-09-26T14:24:22.989805+00:00",
+  "sha256_16x9": "c8c6a93c49be7ece040ba1eab3eff780c0cf9ff679ac23b3602fce6102198559",
+  "sha256_4x5": "05945939c34610d27e2c7abdaffb172141c26dba811b79fad5d7ab67402bc8c9"
 }
