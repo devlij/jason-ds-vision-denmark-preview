@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: cobbled street of half-timbered houses with a whitewashed church tower beyond, lit street lamps at night; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Mariager Old Town, Mariager', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:27:01 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:27:01 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
+  "approved_at": "2026-09-26T06:25:07.617350+00:00",
+  "sha256_16x9": "21f0b5fc21803ff8dfc6a133b1cf543d48b60eaa9ef972dfddcee1af09e76872",
+  "sha256_4x5": "624098a9213166c9789fa605916972832bba1535caf25b8f51db9db87ba7e1c9"
 }
