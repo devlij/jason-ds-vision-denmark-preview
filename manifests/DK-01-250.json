@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Bøur/dk-01-250-16x9.png",
   "file_4x5": "Denmark/Bøur/dk-01-250-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: Bøur village of turf-roofed black houses and the white church above the fjord, jagged sea pinnacles offshore under ragged dawn cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Bøur, Bøur', scenario '25 September 2026 · 06:36 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:03 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
+  "approved_at": "2026-09-26T14:24:44.916861+00:00",
+  "sha256_16x9": "a7ad5164b35565ea4d0eb13274e7b43154651ba6c45ff565f6f55a40668f783b",
+  "sha256_4x5": "82b1369fd3ccd0e542252470cd0fdca6771fa4c2b46b023c54883abb81947333"
 }
