@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Anholt/dk-01-320-16x9.png",
   "file_4x5": "Denmark/Anholt/dk-01-320-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: the 16:9 master shows Anholt Harbour as a concrete slipway with three small white boats (two hauled out, one moored), a row of gabled houses along the shore and sandy dunes rising behind under an overcast morning sky; the 4:5 master shows the same slipway quay, three small white boats, houses and dune backdrop — both formats agree on the subject identity, a plausible tourist view of the small island harbour. Gate 2: exact 1920x1080 + 864x1080, caption 'Anholt Harbour, Anholt', scenario '25 September 2026 · 08:22 Europe/Copenhagen' verified on-image, signature bottom-right, AI-disclosure bottom-left legible; weather retrieved 25 September 2026 08:17:38 Europe/Copenhagen (unique to this scene repo-wide), scenario 08:22 inside the cited 08:00–08:59 model-valid hour. Gate 3: notes claim text-prompt-only lineage, no photographic reference pixels. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T20:22:49.549931+00:00",
+  "sha256_16x9": "49a882220ed2281721037fadc754d46ae6b904f968deef80d5ddf64298458e1c",
+  "sha256_4x5": "d0c6e1c7dde8ba7dbf469100a47b5e1c965d85faf51843d1481682286c99e8ad"
 }
