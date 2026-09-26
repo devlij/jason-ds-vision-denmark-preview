@@ -17,5 +17,35 @@
   "approval_basis": "Church of Our Saviour at night: the world-famous external spiral staircase spire rises over dark rooftops, its balustrade lit gold against a cloudy sky, the gilded figure at the very top; on-image caption 'Church of Our Saviour, Copenhagen' with scenario '25 September 2026 · 00:35 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:39 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public church; notes-only.",
   "approved_at": "2026-09-25T23:24:06.885462+00:00",
   "sha256_16x9": "d5f95d2721db4047cc4464b337c714605df77521db9cf254eb3a24525a48354d",
-  "sha256_4x5": "874abe389a58741caf83364b622f31ace8b2b8d898bdd9e45bda461ba742cb76"
+  "sha256_4x5": "874abe389a58741caf83364b622f31ace8b2b8d898bdd9e45bda461ba742cb76",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-025",
+    "derived_from": "Approved night master Denmark/Copenhagen/dk-01-025-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-025-16x9.png",
+        "sha256": "d5f95d2721db4047cc4464b337c714605df77521db9cf254eb3a24525a48354d"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-025-4x5.png",
+        "sha256": "874abe389a58741caf83364b622f31ace8b2b8d898bdd9e45bda461ba742cb76"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Copenhagen/dk-01-025-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Copenhagen/dk-01-025-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "e76a8cc3bc63dbd79ab90be312fae2d0649debd7761410d202a0359fc00a39b4",
+      "4x5": "42a6b50380a2a2f8514f65b443bbd5bd5286531850db7af22a6109d39ac7ca7d"
+    },
+    "created_date": "2026-09-25",
+    "on_image_caption": "Church of Our Saviour, Copenhagen",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

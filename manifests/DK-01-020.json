@@ -21,16 +21,31 @@
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-020",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-020-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-020-16x9.png",
+        "sha256": "e24fcbc0f73ccd67f17308d490311f936f6611d6df3b11e563d23ac728833cd9"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-020-4x5.png",
+        "sha256": "13dbeacb67b056571c661d008eca8d8e31c8c3748f622b7ea3456c40fe08b9c5"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
     "files": {
       "16x9": "library/world/Denmark/Copenhagen/dk-01-020-daylight-16x9.png",
       "4x5": "library/world/Denmark/Copenhagen/dk-01-020-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "dde1d70b032a05114c6edaabd43339975a0fe43dee9b231b81402b9c8ce9e841",
-      "4x5": "76029657a93180838b6d17d5d6015c8f1cd1ddce4fc78940019a96fc1b0d68d2"
+      "16x9": "a62e4fae7ebe9a51f288a9b47ba6703e413ec9e1542fb98565ee7675154aa275",
+      "4x5": "2b89f7075c2648c89c92bf0bf968eacd8ca5bf9b1050a0003fe172baa13579e1"
     },
     "created_date": "2026-09-25",
-    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
-    "on_image_marking": "Daylight variant - derived from the night interpretation"
+    "on_image_caption": "Rosenborg Castle, Copenhagen",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   }
 }

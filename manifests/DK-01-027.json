@@ -17,5 +17,35 @@
   "approval_basis": "Louisiana Museum at night: the museum's low horizontal glass gallery pavilions glow warm on a grassy slope above the dark Oresund, tall trees at left, distant ship lights on the horizon; on-image caption 'Louisiana Museum, Humlebæk' with scenario '25 September 2026 · 00:33 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:43 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public museum; notes-only.",
   "approved_at": "2026-09-25T23:24:19.897710+00:00",
   "sha256_16x9": "7e2f0ae4fe7ad6aa2011cf45cbef087d407cc414c5766fbee765ddf0713f3276",
-  "sha256_4x5": "f31d2c8c50fa5736074a5d85715e64fd22a66304f60032a05e91aef670530233"
+  "sha256_4x5": "f31d2c8c50fa5736074a5d85715e64fd22a66304f60032a05e91aef670530233",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-027",
+    "derived_from": "Approved night master Denmark/Humlebæk/dk-01-027-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Humlebæk/dk-01-027-16x9.png",
+        "sha256": "7e2f0ae4fe7ad6aa2011cf45cbef087d407cc414c5766fbee765ddf0713f3276"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Humlebæk/dk-01-027-4x5.png",
+        "sha256": "f31d2c8c50fa5736074a5d85715e64fd22a66304f60032a05e91aef670530233"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Humlebæk/dk-01-027-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Humlebæk/dk-01-027-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "137ba183c72a9e028fe23c15581e9b4a74dbc94bf16838fc2bc5f282a5ce9e50",
+      "4x5": "c535dd5c84fa600b901b2ec95808004f5df5d2b730a5b7073f3f074a34904db9"
+    },
+    "created_date": "2026-09-25",
+    "on_image_caption": "Louisiana Museum, Humlebæk",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

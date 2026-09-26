@@ -17,5 +17,35 @@
   "approval_basis": "Dragør Harbour at night: ochre cottages with red tile roofs line a cobbled street, warm wall lanterns and a white picket fence, moored sailboats in the dark harbour at right; on-image caption 'Dragør Harbour, Dragør' with scenario '25 September 2026 · 00:34 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:49 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public harbour; notes-only. Art. 50 chunks (Title/Description/Copyright/Software/Comment) verified present on both masters.",
   "approved_at": "2026-09-25T23:24:39.319850+00:00",
   "sha256_16x9": "dfb80bc018bdb4c0371485c939e0cf47455e9ede9736b63a6aac055b86be8b12",
-  "sha256_4x5": "6e532cdbfc85c6ae10fbf0a49cba535e81fe49daf33cee7c4e9079be63f0d4ca"
+  "sha256_4x5": "6e532cdbfc85c6ae10fbf0a49cba535e81fe49daf33cee7c4e9079be63f0d4ca",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-030",
+    "derived_from": "Approved night master Denmark/Dragør/dk-01-030-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Dragør/dk-01-030-16x9.png",
+        "sha256": "dfb80bc018bdb4c0371485c939e0cf47455e9ede9736b63a6aac055b86be8b12"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Dragør/dk-01-030-4x5.png",
+        "sha256": "6e532cdbfc85c6ae10fbf0a49cba535e81fe49daf33cee7c4e9079be63f0d4ca"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Dragør/dk-01-030-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Dragør/dk-01-030-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "1914ea165c897702dd47978fdd525c6253d4a664e8375ae1c0fb1e582ef20d82",
+      "4x5": "055732ed52eec657e2f9b697710c4c53d05f1b29a18e55a3f403b207095d15fe"
+    },
+    "created_date": "2026-09-25",
+    "on_image_caption": "Dragør Harbour, Dragør",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

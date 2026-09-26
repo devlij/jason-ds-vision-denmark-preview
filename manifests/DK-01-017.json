@@ -21,16 +21,31 @@
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-017",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-017-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-017-16x9.png",
+        "sha256": "e6dba7b101141b9d847a74695fb10b86fdb188e2d969a42893133ad2825750f2"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-017-4x5.png",
+        "sha256": "56f7c973170392e56a824362ae455ba99f0322ffc58f8817fe41cd60b6253531"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
     "files": {
       "16x9": "library/world/Denmark/Copenhagen/dk-01-017-daylight-16x9.png",
       "4x5": "library/world/Denmark/Copenhagen/dk-01-017-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "3dfa4a3b70e67add6628b69932da1c8d0413231a492568fb666aeb2dafefb93e",
-      "4x5": "da8eb6970d2e351c5d1c10399dd462d13b92b00125c635bf8414bb0eaa2fc8be"
+      "16x9": "a00e75cc20cca489e371fa028811f1dabe62d00ddfa93a193747f12cf33603a2",
+      "4x5": "20c257c70d37291fe8797cf722d4c86da26d017b3d9b01f49b9c8c90c48fdf57"
     },
     "created_date": "2026-09-25",
-    "note": "AI-generated daylight conversion of the approved night interpretation. Viewpoint, composition, architecture and landscape preserved; only the lighting was changed from night to daylight. No weather evidence invented; scenario labels remain those of the original night scene.",
-    "on_image_marking": "Daylight variant - derived from the night interpretation"
+    "on_image_caption": "Tivoli Gardens, Copenhagen",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   }
 }

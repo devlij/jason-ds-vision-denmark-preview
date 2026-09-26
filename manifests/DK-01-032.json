@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Store Heddinge/dk-01-032-16x9.png",
   "file_4x5": "Denmark/Store Heddinge/dk-01-032-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-032",
+    "derived_from": "Approved night master Denmark/Store Heddinge/dk-01-032-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Store Heddinge/dk-01-032-16x9.png",
+        "sha256": "95cf3ac385c23c6da4778b833c84b3284e47f2e78d61fde7242757c553a0e7a9"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Store Heddinge/dk-01-032-4x5.png",
+        "sha256": "b64ab352ac60ccc7e7a608a7ff047c995611a1e6c27ea2d5cf00c225b33a3d6d"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Store Heddinge/dk-01-032-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Store Heddinge/dk-01-032-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "38f8a5415aa7d4955934455c355895eee53408a344a9fc46dc1bb62d30b08f6e",
+      "4x5": "202db114cca515cb638e0250b0149be80e898a3780ca9bd776c7c4d123c67b50"
+    },
+    "created_date": "2026-09-25",
+    "on_image_caption": "Stevns Klint, Store Heddinge",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

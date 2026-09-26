@@ -17,5 +17,35 @@
   "approval_basis": "Fredensborg Palace at night: the pale symmetrical palace with its copper-green central dome and lit windows faces a formal baroque garden of clipped hedges, gravel paths and tall tree avenues; on-image caption 'Fredensborg Palace, Fredensborg' with scenario '25 September 2026 · 00:33 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:45 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public royal palace gardens; notes-only.",
   "approved_at": "2026-09-25T23:24:26.382413+00:00",
   "sha256_16x9": "30a338d0168c47c7d3f4ea00d9abf8a67f4e7f1cfad9836bc0a2c8fe4f4ebe4c",
-  "sha256_4x5": "e5600be07aaaf906e86074c235d2e133aac14c209b79165493dc5e997e1506c4"
+  "sha256_4x5": "e5600be07aaaf906e86074c235d2e133aac14c209b79165493dc5e997e1506c4",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-028",
+    "derived_from": "Approved night master Denmark/Fredensborg/dk-01-028-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Fredensborg/dk-01-028-16x9.png",
+        "sha256": "30a338d0168c47c7d3f4ea00d9abf8a67f4e7f1cfad9836bc0a2c8fe4f4ebe4c"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Fredensborg/dk-01-028-4x5.png",
+        "sha256": "e5600be07aaaf906e86074c235d2e133aac14c209b79165493dc5e997e1506c4"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Fredensborg/dk-01-028-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Fredensborg/dk-01-028-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "af15f46b10288d0fe596b03070c26587da508983c6b2f1cfb74cd776af8f8914",
+      "4x5": "f0716ba6da77268c11a84bc51fd43c97b3499a4f60368c4fb4598936d78aa3c5"
+    },
+    "created_date": "2026-09-25",
+    "on_image_caption": "Fredensborg Palace, Fredensborg",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

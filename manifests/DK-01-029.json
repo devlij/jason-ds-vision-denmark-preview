@@ -17,5 +17,35 @@
   "approval_basis": "Maritime Museum at night: the old dry dock with its distinctive zigzag steel pedestrian bridges, flanked by the historic Helsingør shipyard brick warehouse buildings, dock lamps on the walls; on-image caption 'Maritime Museum, Helsingør' with scenario '25 September 2026 · 00:34 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:47 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public museum precinct; notes-only.",
   "approved_at": "2026-09-25T23:24:32.826044+00:00",
   "sha256_16x9": "28c66568b1b609b0d51037b706f8dd5c8c732ffa9b0669b622dd321bdd10ea21",
-  "sha256_4x5": "2f75ca84d4edc8809f851621b3b6a95e963dfacc0296e7b09fe6efefb4881053"
+  "sha256_4x5": "2f75ca84d4edc8809f851621b3b6a95e963dfacc0296e7b09fe6efefb4881053",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-029",
+    "derived_from": "Approved night master Denmark/Helsingør/dk-01-029-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Helsingør/dk-01-029-16x9.png",
+        "sha256": "28c66568b1b609b0d51037b706f8dd5c8c732ffa9b0669b622dd321bdd10ea21"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Helsingør/dk-01-029-4x5.png",
+        "sha256": "2f75ca84d4edc8809f851621b3b6a95e963dfacc0296e7b09fe6efefb4881053"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Helsingør/dk-01-029-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Helsingør/dk-01-029-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "e0671f950e3dc2e5cbf62ab7ff374886d6745a29372a3428101b1f3d37368924",
+      "4x5": "6cf0a4434cceead809db3e9e441eb32290cff375b9b701165eea1b0795e8638f"
+    },
+    "created_date": "2026-09-25",
+    "on_image_caption": "Maritime Museum, Helsingør",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

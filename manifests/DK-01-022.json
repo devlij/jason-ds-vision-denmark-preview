@@ -17,5 +17,35 @@
   "approval_basis": "Christianshavn canal at night: colorful gabled row houses in yellow, red and blue flank the canal, lit houseboats moored along the quay, a lamp-lit bridge mid-frame with golden reflections on the water; on-image caption 'Christianshavn, Copenhagen' with scenario '25 September 2026 · 00:32 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims verified by sweep, retrieval 25 September 2026 23:08:33 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no visible people or logos — public waterfront; notes-only. Art. 50 chunks present per builder note.",
   "approved_at": "2026-09-25T23:23:47.803700+00:00",
   "sha256_16x9": "7f030a46480438e5e9e740045d74d52e266750d4c3d5cd8b149476b8f0f02ecc",
-  "sha256_4x5": "7847d62d701fff8768c0106bd99072f6eb1a966974ad762b4931faf9e5fe4f27"
+  "sha256_4x5": "7847d62d701fff8768c0106bd99072f6eb1a966974ad762b4931faf9e5fe4f27",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-022",
+    "derived_from": "Approved night master Denmark/Copenhagen/dk-01-022-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-022-16x9.png",
+        "sha256": "7f030a46480438e5e9e740045d74d52e266750d4c3d5cd8b149476b8f0f02ecc"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-022-4x5.png",
+        "sha256": "7847d62d701fff8768c0106bd99072f6eb1a966974ad762b4931faf9e5fe4f27"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Copenhagen/dk-01-022-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Copenhagen/dk-01-022-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "8627c3b8b4fa21b1a3a51a85cad7b0ed28ead02bc6180d278d48c0b84cd711b7",
+      "4x5": "ee629f56bce7b317457aaf5800b663205d5edb19a4b5cf665f134c12efd45e21"
+    },
+    "created_date": "2026-09-25",
+    "on_image_caption": "Christianshavn, Copenhagen",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }
