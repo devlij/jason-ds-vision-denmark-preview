@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "G1: stone lighthouse tower with red lantern room and lit keeper's house on a grassy headland, storm-clouded night sky; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:35:53 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no lettering on tower; G5: clean.",
+  "approved_at": "2026-09-26T11:20:17.023497+00:00",
+  "sha256_16x9": "e03a24dd7c6219ba0810fc9748d843be6023886c21a200137a9cbd5abe87ad75",
+  "sha256_4x5": "e26407ae9403049b7bceffa42292a98b9ea51c391baa2063c4d092e8179a28f5"
 }
