@@ -23,5 +23,11 @@
       "by": "Cosmo QC",
       "note": "Gate 2 re-verification: the shared-retrieval hold is resolved and cleared. The builder's weather rework (approvals/BATCH-DK-fixes-274-275-129-159-161.txt) documents a fresh per-scene Open-Meteo fetch for this scene: retrieved 26 September 2026 01:40:01 Europe/Copenhagen, HTTP Date Fri, 25 Sep 2026 23:40:01 GMT (timezones consistent), model-valid hour 07:00-07:59 Europe/Copenhagen containing the 07:14 scenario. Cosmo independently scanned all 408 approvals note files repo-wide: this timestamp is unique to the second and the old shared 07:13:10 citation is gone from the current notes. Masters visually consistent with the cited conditions (partly cloudy dawn chalk cliff). Re-audit complete; ready for approval."
     }
-  ]
+  ],
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Dawn",
+  "approval_basis": "Gate 1: a pale chalk cliff with a grassy top drops to a shingle beach, dawn light breaking through cloud over the water — a plausible Ristinge Klint tourist view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (cliff face + beach + dawn sky). On-image caption 'Ristinge Klint, Ristinge', scenario '25 September 2026 · 07:14 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible on the scrim. Weather: reworked per-scene Open-Meteo retrieval 26 September 2026 01:40:01 Europe/Copenhagen (HTTP Date Fri, 25 Sep 2026 23:40:01 GMT consistent), unique to the second across all 408 repo note files; scenario 07:14 inside model-valid hour 07:00–07:59. The earlier shared-retrieval hold is resolved — the old 07:13:10 citation is gone from the current notes. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no people, no logos, no structures. Gate 5: publication-ready.",
+  "approved_at": "2026-09-26T16:35:16.735141+00:00",
+  "sha256_16x9": "ba95f43980f16756f6cf37b7695f27f42cb63ab519376bba6a6667e9ded4e3e1",
+  "sha256_4x5": "c1c3b8ebf00b6177349481ab3ec5768a26f1e9fb8abf9d74dcdbed5f1f3a21d2"
 }
