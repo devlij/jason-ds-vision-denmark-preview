@@ -17,6 +17,11 @@
       "at": "2026-09-25T22:29:35.369285+00:00",
       "by": "Cosmo QC",
       "note": "Gate 2 HOLD: builder note cites weather retrieval timestamp '25 September 2026 07:13:10 Europe/Copenhagen', identical to the second with DK-01-275's note — a shared/batch Open-Meteo retrieval across two scenes, which fails Gate 2 under the hardened weather law. Held as Candidate until the builder re-fetches per-scene weather with an own retrieval timestamp and re-pushes."
+    },
+    {
+      "at": "2026-09-26T16:31:30.149423+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 re-verification: the shared-retrieval hold is resolved and cleared. The builder's weather rework (approvals/BATCH-DK-fixes-274-275-129-159-161.txt) documents a fresh per-scene Open-Meteo fetch for this scene: retrieved 26 September 2026 01:40:01 Europe/Copenhagen, HTTP Date Fri, 25 Sep 2026 23:40:01 GMT (timezones consistent), model-valid hour 07:00-07:59 Europe/Copenhagen containing the 07:14 scenario. Cosmo independently scanned all 408 approvals note files repo-wide: this timestamp is unique to the second and the old shared 07:13:10 citation is gone from the current notes. Masters visually consistent with the cited conditions (partly cloudy dawn chalk cliff). Re-audit complete; ready for approval."
     }
   ]
 }
