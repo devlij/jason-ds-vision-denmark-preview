@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Copenhagen/dk-01-264-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-264-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
+  "approval_basis": "Gate 1 pass: the 16:9 master shows modern office blocks and a round brick building along the canal with lamp reflections, a bridge and overcast dawn sky — a plausible Emil Holms Kanal (Copenhagen South Harbour) view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Emil Holms Kanal, Copenhagen' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:42, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable signage or logos. All five gates pass.",
+  "approved_at": "2026-09-26T15:27:08.706711+00:00",
+  "sha256_16x9": "2b80e058ce2342a19368f588d8bb02c70add04e73878ee09a6b83ad072352358",
+  "sha256_4x5": "df5ce10ec3395bb4c82e88a400cf1bcb13c699d50dbff410bafeebb3a4420e20"
 }
