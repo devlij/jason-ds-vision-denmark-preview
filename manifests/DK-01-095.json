@@ -41,5 +41,12 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "qc_notes": [
+    {
+      "at": "2026-09-26T04:26:07.531157+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 1 open: Men at Sea (Mennesket ved Havet, Esbjerg) rendered with five seated figures; the actual sculpture has exactly four 9-metre white concrete figures. The landmark-defining figure count is wrong. Held as Candidate pending builder re-push with four figures. Gates 2-4 are otherwise fine (mechanical dims exact, caption/scenario/disclosure/signature on-image, weather retrieved 25 September 2026 23:19:11 Europe/Copenhagen verified unique repo-wide, text-prompt-only inputs)."
+    }
+  ]
 }
