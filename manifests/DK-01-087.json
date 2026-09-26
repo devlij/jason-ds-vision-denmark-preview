@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: red-brick church with five towers (tall central spire plus four smaller corner towers) on a grassy hill above town houses - Kalundborg Church of Our Lady's famous five-tower form, clean night framing. Gate 2: exact masters; signature/caption 'Church of Our Lady, Kalundborg'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 99% cloud/13.7C; retrieval 23:19:03 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only per note. Gate 4: no people, no logos - documented only.",
+  "approved_at": "2026-09-26T03:23:10.092448+00:00",
+  "sha256_16x9": "ce9ca3690f9323d9519cb2dc052cc216cc20e9e9768c3db60f793c17b8b56d32",
+  "sha256_4x5": "79d7226410abc166da062af5bcb744f313f58120e26f06a0b8d5fb54d723276b"
 }
