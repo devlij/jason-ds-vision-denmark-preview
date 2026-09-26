@@ -11,5 +11,12 @@
   "file_16x9": "Denmark/Løgstør/dk-01-292-16x9.png",
   "file_4x5": "Denmark/Løgstør/dk-01-292-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "qc_notes": [
+    {
+      "at": "2026-09-26T18:30:38.377137+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 1 hold: inter-format disagreement on the anchored bridge. The card description says 'a low swing bridge lying flat across the canal' and the 4:5 master shows a low flat bridge, but the 16:9 master shows a tall steel through-truss bridge that contradicts both the description and the other format. Held as Candidate until the 16:9 is re-rendered with the low flat swing bridge both formats agree on."
+    }
+  ]
 }
