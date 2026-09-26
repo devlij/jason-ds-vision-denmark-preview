@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Hobro/dk-01-289-16x9.png",
   "file_4x5": "Denmark/Hobro/dk-01-289-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Approved 5/5 Daylight. Gate 1 PASS: 16:9 shows a large thatched-roof timber Viking longhouse in the left foreground with the great circular grass-covered turf rampart curving behind it under a heavy overcast sky, sheep grazing as small white dots inside the ring; 4:5 from the opposite side — the same circular rampart ring, the thatched longhouse at the right edge, forested treeline beyond. Cross-format subject identity agrees (rampart ring + longhouse pairing is Fyrkat's signature as the Viking ring fortress outside Hobro). Gate 2 PASS: on-image caption \"Fyrkat, Hobro\", scenario \"25 September 2026 · 07:43 Europe/Copenhagen\", disclosure \"AI-generated artistic interpretation · Not a photograph.\" bottom-left on dark scrim, \"Jason D's Vision\" with curly apostrophe bottom-right — all exact and legible. Weather law verified repo-wide: Open-Meteo retrieval 25 September 2026 07:36:28 Europe/Copenhagen (grid 56.62384, 9.76988, model step 07:30, hour 07:00–07:59) cited only by this scene's note, unique to the second — no shared retrieval; scenario 07:43 inside the model-valid hour, after the cited step. Gate 3 PASS per record: notes document text-prompt-only generation, no photographic inputs reported. Gate 4 documented only: no people, no logos or signage, no identifiable private property. Gate 5 PASS — publication-ready.",
+  "approved_at": "2026-09-26T17:34:00.489319+00:00",
+  "sha256_16x9": "8ce3f9913e582adf1784e26fa19a7f09491e23aed40a7a0d0f233ad89ea14cb5",
+  "sha256_4x5": "1c6870c499f16ad806419e94697d02bac7a260c0c079cf32e3526f7dcf4abcc5"
 }
