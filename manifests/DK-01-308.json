@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Hammel/dk-01-308-16x9.png",
   "file_4x5": "Denmark/Hammel/dk-01-308-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: the 16:9 master shows Frijsenborg as a red-brick manor with Dutch gables, white quoining, a central tower with a copper onion dome, set behind a moat with trees — a plausible visitor viewpoint, clean framing, no artifacts. Gate 2: exact 1920x1080 / 864x1080; on-image signature 'Jason D's Vision', caption 'Frijsenborg Castle, Hammel', scenario '25 September 2026 · 08:21 Europe/Copenhagen', and AI disclosure legible on the scrim; weather retrieval 25 September 2026 08:17:25 Europe/Copenhagen inside the valid 08:00–08:59 hour and unique repo-wide (365/365 distinct). The 4:5 master shows the same brick castle, spire tower and moat reflection — formats agree. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no visible people or logos. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T19:25:05.003946+00:00",
+  "sha256_16x9": "dfaf70d304adae15c7be7f430f5524caab5d225a6920055f9d0dcd64cc1dc885",
+  "sha256_4x5": "8f7e1204c6e865e9b707c1f08b1362251721af6d5997262bb0c3b8334b797e93"
 }
