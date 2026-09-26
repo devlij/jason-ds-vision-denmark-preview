@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Ikast/dk-01-296-16x9.png",
   "file_4x5": "Denmark/Ikast/dk-01-296-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: both masters show Ikast Church — red-brick church with pyramid-capped tower and cross finial, red tile roofs, churchyard with gravestones and autumn trees under light cloud; same church, formats agree on the tower crown, clean framing, no artifacts. Gate 2: exact dims; 'Ikast Church, Ikast', 'Scenario: 25 September 2026 · 07:46 Europe/Copenhagen' inside model hour 07:00-07:59, disclosure and signature legible on scrim; retrieval 25 Sep 2026 07:36:41 unique repo-wide (neighbors :39 and :43), cloud cover 48% consistent with the light cloud; Art. 50 metadata present. Gate 3: text-prompt-only. Gate 4: no people, no readable lettering; documented only. Gate 5: publish.",
+  "approved_at": "2026-09-26T18:32:02.999693+00:00",
+  "sha256_16x9": "5436d29078a5d05a236d3a99955b55eda755a058a9bd0ebee95971c6e67fe6e5",
+  "sha256_4x5": "c41aa7b9f899f32a5c0d7eed68633d61be901e838f4a18dcf67562c4112cd5c7"
 }
