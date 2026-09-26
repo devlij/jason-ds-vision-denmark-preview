@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: steep grass-and-clay cliff with a row of houses along its crest, two small fishing boats hauled onto the dark sand, dark choppy sea — no lighthouse and no standing church, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Lønstrup Beach, Lønstrup', scenario '25 September 2026 · 06:22 Europe/Copenhagen', 'Jason D's Vision' signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:10:23 for this scene's own coords, scenario inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable names. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T13:23:20.588291+00:00",
+  "sha256_16x9": "3bb053b04ca263237234be1e310198651a7ef1d23f0c92825b1a6fe1633062ca",
+  "sha256_4x5": "78eb2cf1c727299487f246dcd91bd38a02192c27d27e7ec84f30079be2429141"
 }
