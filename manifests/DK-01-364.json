@@ -11,5 +11,12 @@
   "file_16x9": "Denmark/Aasiaat/dk-01-364-16x9.png",
   "file_4x5": "Denmark/Aasiaat/dk-01-364-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "qc_notes": [
+    {
+      "at": "2026-09-26T23:31:59.819757+00:00",
+      "by": "Cosmo QC",
+      "note": "QC hold (Cosmo, 2026-09-26): Gate 1 + 2 inter-format disagreement. Independent read of both downloaded masters: the 16:9 shows the card-described subject (row of colourful wooden houses on dark rock, quay with fishing boats, open water) under a heavily clouded sky; the 4:5 shows a different composition entirely (stone-breakwater marina with sailboat docks, town on a rocky hill behind) under a clear blue sky. The 4:5 does not match the card description ('row of colourful wooden houses on dark rock, with a few small boats and open water') and the two formats disagree materially on sky conditions (overcast vs clear) for the same scenario minute. Hold as Candidate until the builder re-pushes a matching 4:5."
+    }
+  ]
 }
