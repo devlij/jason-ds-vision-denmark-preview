@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: night beach scene matches the anchors — wide empty sand, marram-grass dune ridge sweeping left, dark choppy surf under broken cloud, no pier and no umbrellas. Gate 2: 1920x1080 and 864x1080 verified mechanically; on-image caption 'Blokhus Beach, Blokhus', scenario '25 September 2026 · 06:22 Europe/Copenhagen', 'Jason D's Vision' signature and AI-disclosure all legible; weather retrieved 25 Sep 2026 06:10:22 for this scene's own coords, scenario minute inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable private signage — empty shore. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T13:23:02.710932+00:00",
+  "sha256_16x9": "35fec626a489eb1f54e281f7ccf80d48998396d9282ca772163232a40e2f896c",
+  "sha256_4x5": "9968a07c38ecadc1fe00952958c6f972d9983810a8eb99a5b7a2ecd5d2e99d25"
 }
