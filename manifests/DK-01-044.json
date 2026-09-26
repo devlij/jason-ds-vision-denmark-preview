@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Christiansfeld/dk-01-044-16x9.png",
   "file_4x5": "Denmark/Christiansfeld/dk-01-044-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-044",
+    "derived_from": "Night master Denmark/Christiansfeld/dk-01-044-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Christiansfeld/dk-01-044-16x9.png",
+        "sha256": "fb023fab16a5997a5ed6e2e04c9e39863b80403aeb9ea2c2df1a11f56f24b667"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Christiansfeld/dk-01-044-4x5.png",
+        "sha256": "aeea288bce0ab43cb536d3f5c00a2da05025e815512ddf2468ce7171f8668da9"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Christiansfeld/dk-01-044-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Christiansfeld/dk-01-044-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "12a8338cc2b28cba41348ba5231f3acf8427512459dc0c6de7b673f83f832895",
+      "4x5": "68ab4e26e312a03b24b9212d3b39fdc257e2ec3ef8445db7022d2b0707b82488"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Christiansfeld, Christiansfeld",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

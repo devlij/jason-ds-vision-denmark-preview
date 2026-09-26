@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Sønderborg/dk-01-041-16x9.png",
   "file_4x5": "Denmark/Sønderborg/dk-01-041-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-041",
+    "derived_from": "Night master Denmark/Sønderborg/dk-01-041-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Sønderborg/dk-01-041-16x9.png",
+        "sha256": "fe804298419872bc66aaa16f16d4be695c62712c6e9407d96da7a1bf90c318a2"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Sønderborg/dk-01-041-4x5.png",
+        "sha256": "127b78564dfd8224884e69dc4517df020435c8dfa343bf8af79992c4dd47db57"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Sønderborg/dk-01-041-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Sønderborg/dk-01-041-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "fb9b96da297f76b56e57b3a406be6c1299fd6334da1f77603b2e622b1c029bed",
+      "4x5": "d56d94488dddce018407146d7e8277e4cffd072b40be6e5a801e55f66b7a5698"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Sønderborg Castle, Sønderborg",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

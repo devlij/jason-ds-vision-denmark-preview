@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Gedser/dk-01-035-16x9.png",
   "file_4x5": "Denmark/Gedser/dk-01-035-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-035",
+    "derived_from": "Night master Denmark/Gedser/dk-01-035-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Gedser/dk-01-035-16x9.png",
+        "sha256": "8526e6a30743d27a12ab96c3c8c975c445e6f08bdd13fe3c67dac3f025ae611c"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Gedser/dk-01-035-4x5.png",
+        "sha256": "2e23a500200cb3345b5882deb00e23d4acb4cb77d32bc63c18cb1627e7c30791"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Gedser/dk-01-035-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Gedser/dk-01-035-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "b21bbf11d27a99fae8ed9d4287be95d6e63e3f764d5e484a30db0ecf947c5b15",
+      "4x5": "dea5213c40cb16e805c7c6dfc4c38a9fafd6e6ba341512d73cdfb10a410cc7c9"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Gedser Odde, Gedser",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Maribo/dk-01-034-16x9.png",
   "file_4x5": "Denmark/Maribo/dk-01-034-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-034",
+    "derived_from": "Night master Denmark/Maribo/dk-01-034-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Maribo/dk-01-034-16x9.png",
+        "sha256": "1fb3773fc861ae30825e9c2a94bc720b121ed8e2cd40c3b5d42cb081c4c76da2"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Maribo/dk-01-034-4x5.png",
+        "sha256": "c41f4d3be308d0d430fae66d2cebc42e12d34300257c5e70750ae56c50f91aee"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Maribo/dk-01-034-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Maribo/dk-01-034-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "1b14f3acf5c6e63e549a769be17d36999863b0a66561425187f2e5586ddc8a90",
+      "4x5": "735ce10611371ca37abd103e4091b8eae9ed116babefafd3f1ac904bb5c7c7f7"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Knuthenborg, Maribo",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }
