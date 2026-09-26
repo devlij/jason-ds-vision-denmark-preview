@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Nordborg/dk-01-317-16x9.png",
   "file_4x5": "Denmark/Nordborg/dk-01-317-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: the 16:9 master shows Nordborg Castle as a white two-storey manor house with a dark hipped roof and dormers plus a gatehouse wing with an arched entry, set on a wooded peninsula above the lake with a clean reflection, morning light; the 4:5 master shows the same white manor, dark roof, granite base and arched gatehouse from a different angle with the lakeside trees and reflection — both formats agree on the subject identity. Gate 2: exact 1920x1080 + 864x1080, caption 'Nordborg Castle, Nordborg', scenario '25 September 2026 · 08:22 Europe/Copenhagen' verified on-image, signature bottom-right, AI-disclosure bottom-left legible; weather retrieved 25 September 2026 08:17:35 Europe/Copenhagen (unique to this scene repo-wide), scenario 08:22 inside the cited 08:00–08:59 model-valid hour. Gate 3: notes claim text-prompt-only lineage, no photographic reference pixels. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T20:22:32.278186+00:00",
+  "sha256_16x9": "cb2ebae961a6402e89e76dd4ce8b5ae63dc0fa920667c72e0be1602dc7635499",
+  "sha256_4x5": "47d572425df678f0add9c41c5d60fe5b12e43c075e9ced0afb296f9ab49cd597"
 }
