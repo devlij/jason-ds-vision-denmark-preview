@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: Bellevue Beach's blue-and-white striped lifeguard towers on poles at the waterline, the small white beach kiosk, empty sand and overcast night water — the Arne Jacobsen signature structures are unmistakable, plausible shoreline viewpoint, no artifacts. Gate 2: on-image caption 'Bellevue Beach, Klampenborg', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:38 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique to this scene repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T08:32:45.635034+00:00",
+  "sha256_16x9": "792cf8f896d21900e9fe67a9c409a1ca5cb7f9577ad76310ab41b57c808a0a01",
+  "sha256_4x5": "378f209867e39c09c9921741c2cb2fb9419e8bf467d8ef91774540175c1410d0"
 }
