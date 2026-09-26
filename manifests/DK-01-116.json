@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: freestanding yellow-brick bell tower with stone corner buttresses, blue arched door, red-tiled dome roof and open belfry spire, rising from a cobbled knoll, framed by old gabled houses with red roofs and glowing street lamps — matches Klokketårn's distinctive form, plausible street-level tourist viewpoint, no misconfiguration or artifacts. Noted: lighting reads nearer dusk than 02:33 deep night, but the landmark rendering is coherent — not a gate failure. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Klokketårnet, Faaborg', scenario 'Scenario: 25 September 2026 · 02:33 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:33 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:26:42 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T05:29:21.337336+00:00",
+  "sha256_16x9": "7beb62afd2e93b7a216af19980cdcfd7ea4bb09075f646ee569df049c9d6e03d",
+  "sha256_4x5": "9df0619f36ce0c4b6678d40de79c558ea8ff9dc14aad2a8559f0aa10c1d93320"
 }
