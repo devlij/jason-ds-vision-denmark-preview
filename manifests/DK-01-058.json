@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Utzon Center at night: the white concrete sail-shell complex on the Aalborg waterfront, lit interiors glowing through the shells; on-image caption 'Utzon Center, Aalborg', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:34 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no marks; all five gates pass.",
+  "approved_at": "2026-09-26T01:22:03.518549+00:00",
+  "sha256_16x9": "934adf900e64cd52ec794f253d9476c3e2822f22faf98937e1652ff5c3051a8e",
+  "sha256_4x5": "4fef68c61ddf75c6d0f93a01181c68aa1a9e44af3087522df77294143ce2bfa1"
 }
