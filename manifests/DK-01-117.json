@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: night harbour basin with five moored fishing boats, gabled quay houses in yellow/white/red with lit windows and warm street lamps along the quay midground, white church tower with dark cupola rising behind the rooftops, lamp-light reflections on dark water under overcast sky — matches Bogense Harbour's basin/quay anchors, plausible harbour-side viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Bogense Harbour, Bogense', scenario 'Scenario: 25 September 2026 · 02:34 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:34 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:26:44 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T05:29:29.628201+00:00",
+  "sha256_16x9": "ea3d639a2e93d6ba7b5c95196ba6b85ee0da37067e4994f003b06b6fcdcba978",
+  "sha256_4x5": "d71fb07fb00b552846209ea9d177c02000eab7476efbe8bae79b7a00710a5021"
 }
