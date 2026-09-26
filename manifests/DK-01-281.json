@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Drejø/dk-01-281-16x9.png",
   "file_4x5": "Denmark/Drejø/dk-01-281-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Approved 5/5 Daylight. Gate 1 PASS: 16:9 shot from a rock breakwater — large white double-ended ferry broadside at the mid-harbour pier, choppy wind-rippled water, a sailboat and two small motorboats anchored right, low green island shore dotted with red-roofed farmhouses across the water under streaky morning cloud; 4:5 from the outer end of the stone breakwater — a white vessel stern-on at the pier walkway, three sailboats moored left, the same red-roofed shoreline and low green hills behind, sunrise glowing right. Cross-format subject identity agrees (ferry-type vessel, rocky breakwater, sailboats, red-roofed shore in both). Gate 2 PASS: on-image caption \"Drejø Harbour, Drejø\", scenario \"25 September 2026 · 07:18 Europe/Copenhagen\", disclosure \"AI-generated artistic interpretation · Not a photograph.\" bottom-left on dark scrim, \"Jason D's Vision\" with curly apostrophe bottom-right — all exact and legible. Weather law verified repo-wide: Open-Meteo retrieval 25 September 2026 07:17:39 Europe/Copenhagen (grid 54.96876, 10.42480, model step 07:15, hour 07:00–07:59) cited only by this scene's note, unique to the second — no shared retrieval; scenario 07:18 inside the model-valid hour, after the cited step. Gate 3 PASS per record: notes document text-prompt-only generation, no photographic inputs reported. Gate 4 documented only: no people, no logos or branded signage, unmarked vessels, generic shoreline houses. Gate 5 PASS — publication-ready.",
+  "approved_at": "2026-09-26T17:30:07.590230+00:00",
+  "sha256_16x9": "bf322367939453dd2e2c7dc2c3210ff6e4e919b32b2508845a35861d63029625",
+  "sha256_4x5": "fd4dc56c434c531c4bf3b1c3a84ca5c66848b75fbc7656115900c36fce656f41"
 }
