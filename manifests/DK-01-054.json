@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Randers Riverfront at night: a long row of half-timbered gabled houses along the quay, warm windows and street lamps reflected in the river; on-image caption 'Randers Riverfront, Randers', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:30 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no readable shop names; all five gates pass.",
+  "approved_at": "2026-09-26T01:21:42.367602+00:00",
+  "sha256_16x9": "f5b528b252d9d94fdb1e3728c3a3a18e6464f2239ddd3f7a7047ac87c63b361e",
+  "sha256_4x5": "dfbb1abb9b30b1702dafe11174b6669e761412a9a59cd1f32dcd39460c36a87f"
 }
