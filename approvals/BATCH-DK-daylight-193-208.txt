@@ -1,0 +1,223 @@
+BATCH DK daylight variants DK-01-193 through DK-01-208
+Date: 2026-09-26
+Country: Denmark
+Scenes selected: 0. Variant masters: 0.
+Skips: 16. Every ID DK-01-193 through DK-01-208 is a daylight-only scene (approved afternoon master pair). None has a night 16:9 and 4:5 master pair. None already had a *-daylight-* file. No daylight variant was written for a daylight-only scene.
+DK-209+ left untouched. Other countries untouched.
+Parent tip at batch start: 342877f1ed405b784322cddc2c4280e3cf50cd39
+Fast-forwarded onto origin/main before work: 342877f1ed405b784322cddc2c4280e3cf50cd39 (includes overlay-cleanup c75f4ea: format tabs and daylight toggle below the image, and conditional 9:16 gallery logic from 4aa6224). That gallery logic was preserved and not rewritten. Daylight button logic in index.html was not edited. No gallery record gained file_16x9_day or file_4x5_day. No manifest was edited. Weather and Open-Meteo fields were not rewritten.
+Existing masters: byte-unchanged. SHA-256 recorded before the report and again after. Pre and post are identical for every 16:9 and 4:5 file in this range. These files are the approved afternoon masters, not night masters, so they were not used as daylight-variant sources and were not regenerated.
+Qualification: a scene qualifies only with a night 16:9 and 4:5 master pair and no existing *-daylight-* file. Each scene below fails that test because both masters are the afternoon daylight interpretation (scenario 25 September 2026 · 14:32 or 14:33 Europe/Copenhagen; Cosmo QC marked Afternoon or Daylight). Sky luminance on both masters is in the daylight range, consistent with the prior night masters (for example DK-01-001 and DK-01-209) being much darker and with DK-01-177's night sky being darker than its daylight variant.
+
+DK-01-193  Christiansminde, Svendborg
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Afternoon
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Svendborg/dk-01-193-16x9.png
+    sha256 before  4fe1dc78f32a9fc86273fa4455c7d40db1947dc3e740d2177578531e3b871605
+    sha256 after   4fe1dc78f32a9fc86273fa4455c7d40db1947dc3e740d2177578531e3b871605
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Svendborg/dk-01-193-4x5.png
+    sha256 before  b25fca5c46ab42d5a2da974709deb40c50ede7d6292fff57c79acc1a6c288c9f
+    sha256 after   b25fca5c46ab42d5a2da974709deb40c50ede7d6292fff57c79acc1a6c288c9f
+    master         IDENTICAL
+
+DK-01-194  Horne Church, Horne
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Afternoon
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Horne/dk-01-194-16x9.png
+    sha256 before  094280bd1f247cca6d19132465037d4ebf5bb7bf66882c110ca40b612556152f
+    sha256 after   094280bd1f247cca6d19132465037d4ebf5bb7bf66882c110ca40b612556152f
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Horne/dk-01-194-4x5.png
+    sha256 before  b83feb14c76b3426605755f55d6b0deae0324b95db4193b7b4f3bc48fba3b63b
+    sha256 after   b83feb14c76b3426605755f55d6b0deae0324b95db4193b7b4f3bc48fba3b63b
+    master         IDENTICAL
+
+DK-01-195  Vor Frue, Assens
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Afternoon
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Assens/dk-01-195-16x9.png
+    sha256 before  b7176b48882db8ca68a720fe06dc131d7732217e0b23be5298c0beb19cf36c56
+    sha256 after   b7176b48882db8ca68a720fe06dc131d7732217e0b23be5298c0beb19cf36c56
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Assens/dk-01-195-4x5.png
+    sha256 before  835ed0d8007fecadd5cbec16c7a504e597aa333cacd8f1b0634ce88095522db3
+    sha256 after   835ed0d8007fecadd5cbec16c7a504e597aa333cacd8f1b0634ce88095522db3
+    master         IDENTICAL
+
+DK-01-196  Hindsgavl Castle, Middelfart
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Afternoon
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Middelfart/dk-01-196-16x9.png
+    sha256 before  bc49dd36047473fea0e8cb579d44bcf90dca5b23e1beddcaf6fcb883091ae39a
+    sha256 after   bc49dd36047473fea0e8cb579d44bcf90dca5b23e1beddcaf6fcb883091ae39a
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Middelfart/dk-01-196-4x5.png
+    sha256 before  63fc529198d5f9d29863c7228239651d3c01da335d825449d5b8d0a22efee58c
+    sha256 after   63fc529198d5f9d29863c7228239651d3c01da335d825449d5b8d0a22efee58c
+    master         IDENTICAL
+
+DK-01-197  Landporten, Nyborg
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Afternoon
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Nyborg/dk-01-197-16x9.png
+    sha256 before  f8baf1dba62946b327af270cf31d271a9cb556577860e3c326737bed669b87cd
+    sha256 after   f8baf1dba62946b327af270cf31d271a9cb556577860e3c326737bed669b87cd
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Nyborg/dk-01-197-4x5.png
+    sha256 before  fe47a928d76236d88563d59c11d36221de40f698d08e0efa06c332ab19a00692
+    sha256 after   fe47a928d76236d88563d59c11d36221de40f698d08e0efa06c332ab19a00692
+    master         IDENTICAL
+
+DK-01-198  Ladby Ship, Ladby
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Afternoon
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Ladby/dk-01-198-16x9.png
+    sha256 before  d391921731298513e839606e58e4740fa8717c24cf20bb390cf4e6288e704bd1
+    sha256 after   d391921731298513e839606e58e4740fa8717c24cf20bb390cf4e6288e704bd1
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Ladby/dk-01-198-4x5.png
+    sha256 before  3308d06acbc5af2828dab3fd01cba02046a9dc3c535515b7563a7dbde0fda095
+    sha256 after   3308d06acbc5af2828dab3fd01cba02046a9dc3c535515b7563a7dbde0fda095
+    master         IDENTICAL
+
+DK-01-199  Odense Canal, Odense
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Afternoon
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Odense/dk-01-199-16x9.png
+    sha256 before  5883d3fbe1600d038701e13a3893879a8d0e58d27ebe125bd5a4215afc26ed1a
+    sha256 after   5883d3fbe1600d038701e13a3893879a8d0e58d27ebe125bd5a4215afc26ed1a
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Odense/dk-01-199-4x5.png
+    sha256 before  ddd9f5b639ecb108acbbf69e836c890e7d40db37ebc94849e3fece9b49371ddf
+    sha256 after   ddd9f5b639ecb108acbbf69e836c890e7d40db37ebc94849e3fece9b49371ddf
+    master         IDENTICAL
+
+DK-01-200  Søby Harbour, Søby
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Afternoon
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Søby/dk-01-200-16x9.png
+    sha256 before  65b611543b5710aedbb870b0c7dff029ebd7d4727fa6eb1cae50c2159738212e
+    sha256 after   65b611543b5710aedbb870b0c7dff029ebd7d4727fa6eb1cae50c2159738212e
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Søby/dk-01-200-4x5.png
+    sha256 before  6427e69313b93c94962b915d73cc6ece9942db2f0a1c9bd10b5f71ef2b103692
+    sha256 after   6427e69313b93c94962b915d73cc6ece9942db2f0a1c9bd10b5f71ef2b103692
+    master         IDENTICAL
+
+DK-01-201  Ærøskøbing Harbour, Ærøskøbing
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Afternoon
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Ærøskøbing/dk-01-201-16x9.png
+    sha256 before  8843efd7446dc757fa53a31ae6a6ca822521b005b77e23add4aa86040a0451f4
+    sha256 after   8843efd7446dc757fa53a31ae6a6ca822521b005b77e23add4aa86040a0451f4
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Ærøskøbing/dk-01-201-4x5.png
+    sha256 before  5a2c82a575780845aae4fdda3a61ef2c770a045bb17541d40c1ee303448d8631
+    sha256 after   5a2c82a575780845aae4fdda3a61ef2c770a045bb17541d40c1ee303448d8631
+    master         IDENTICAL
+
+DK-01-202  Bregninge Church, Bregninge
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Afternoon
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Bregninge/dk-01-202-16x9.png
+    sha256 before  cbd0d308a3e95d71852eb09f20367e2947f4e7eba5d1284e4548a01abb14a958
+    sha256 after   cbd0d308a3e95d71852eb09f20367e2947f4e7eba5d1284e4548a01abb14a958
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Bregninge/dk-01-202-4x5.png
+    sha256 before  fa4cb53e9e66c0cfe2704a2b4d8ec2d5da222c8eb1a9c1b9b5de50be0d718f51
+    sha256 after   fa4cb53e9e66c0cfe2704a2b4d8ec2d5da222c8eb1a9c1b9b5de50be0d718f51
+    master         IDENTICAL
+
+DK-01-203  Gråsten Palace, Gråsten
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Gråsten/dk-01-203-16x9.png
+    sha256 before  e7486a5fd34b321ad35a8c576ec81f8d20b327a1d0692dba63755e2d52672c12
+    sha256 after   e7486a5fd34b321ad35a8c576ec81f8d20b327a1d0692dba63755e2d52672c12
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Gråsten/dk-01-203-4x5.png
+    sha256 before  ca8e34978d1b7e121983d893561c36cd610f6f00fd35421fdcc0e2d0af211353
+    sha256 after   ca8e34978d1b7e121983d893561c36cd610f6f00fd35421fdcc0e2d0af211353
+    master         IDENTICAL
+
+DK-01-204  Brundlund Castle, Aabenraa
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Aabenraa/dk-01-204-16x9.png
+    sha256 before  a5a700384b62a91bc566168589a2a8d491ddae71e02a00e317f87ffbc884d7f7
+    sha256 after   a5a700384b62a91bc566168589a2a8d491ddae71e02a00e317f87ffbc884d7f7
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Aabenraa/dk-01-204-4x5.png
+    sha256 before  505c70f598c026edab06b5ca9473d0eb2fb344c9dbc498104277e13562b852d2
+    sha256 after   505c70f598c026edab06b5ca9473d0eb2fb344c9dbc498104277e13562b852d2
+    master         IDENTICAL
+
+DK-01-205  Haderslev Dam, Haderslev
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Haderslev/dk-01-205-16x9.png
+    sha256 before  d5039c8338430a0af11b3bb3a950f49d8fd6b9b4840e25d6f5cec92a4ef6a8b9
+    sha256 after   d5039c8338430a0af11b3bb3a950f49d8fd6b9b4840e25d6f5cec92a4ef6a8b9
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Haderslev/dk-01-205-4x5.png
+    sha256 before  03857c9822a88787deb65872587b3674fabdc87e9a984de5647116d6455872bb
+    sha256 after   03857c9822a88787deb65872587b3674fabdc87e9a984de5647116d6455872bb
+    master         IDENTICAL
+
+DK-01-206  Kolding Fjord, Kolding
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 14:32 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Kolding/dk-01-206-16x9.png
+    sha256 before  72aa06315079b725a7812461fda706668bb357fff833c377fe8f3195c98d165a
+    sha256 after   72aa06315079b725a7812461fda706668bb357fff833c377fe8f3195c98d165a
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Kolding/dk-01-206-4x5.png
+    sha256 before  a817ae8c4f526c7f3e80970a6eabb32c6f1f1ba37c5e3fde42a7008f6f8f76aa
+    sha256 after   a817ae8c4f526c7f3e80970a6eabb32c6f1f1ba37c5e3fde42a7008f6f8f76aa
+    master         IDENTICAL
+
+DK-01-207  Kalø Castle, Rønde
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 14:33 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Rønde/dk-01-207-16x9.png
+    sha256 before  71ddd5807704d1ca7e22a7e399994f7238473a50377e0ac0d4bd2c2c4b867949
+    sha256 after   71ddd5807704d1ca7e22a7e399994f7238473a50377e0ac0d4bd2c2c4b867949
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Rønde/dk-01-207-4x5.png
+    sha256 before  8bb9c644f23ad5232b328923a51f2733bc68291c0976af9555b9b6f5e4975fef
+    sha256 after   8bb9c644f23ad5232b328923a51f2733bc68291c0976af9555b9b6f5e4975fef
+    master         IDENTICAL
+
+DK-01-208  Fredericia Harbour, Fredericia
+  skip reason  daylight-only. Approved afternoon master pair. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 14:33 Europe/Copenhagen
+  master 16x9  library/world/Denmark/Fredericia/dk-01-208-16x9.png
+    sha256 before  0be43069909299e9e8c39c787c83fa9bcdb939e5b0124eee881f7de759836a12
+    sha256 after   0be43069909299e9e8c39c787c83fa9bcdb939e5b0124eee881f7de759836a12
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Fredericia/dk-01-208-4x5.png
+    sha256 before  b5561b4f1353cc1db371b98be472b77272770de8752e010290425f14ca8ee472
+    sha256 after   b5561b4f1353cc1db371b98be472b77272770de8752e010290425f14ca8ee472
+    master         IDENTICAL
+
+Confirmation: all 32 existing masters (16 scenes x 16x9 and 4x5) are byte-unchanged. Pre-report and post-report SHA-256 match for every file. No night PNG exists in this range, and no PNG was rewritten.
+Counts: 0 scenes selected, 16 skipped (daylight-only), 0 variant masters.
+Selected IDs: none.
+Skipped IDs: DK-01-193, DK-01-194, DK-01-195, DK-01-196, DK-01-197, DK-01-198, DK-01-199, DK-01-200, DK-01-201, DK-01-202, DK-01-203, DK-01-204, DK-01-205, DK-01-206, DK-01-207, DK-01-208.
