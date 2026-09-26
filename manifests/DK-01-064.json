@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: tall white Hirtshals lighthouse with lit lantern on a grassy hill above the night port — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Hirtshals Lighthouse, Hirtshals', 'Scenario: 25 September 2026 · 01:24 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:40 Europe/Copenhagen, valid 01:15 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
+  "approved_at": "2026-09-26T02:24:45.392436+00:00",
+  "sha256_16x9": "014dbd1779363eb6ec52f262995b267894bbe7d77c69ffea5c3110a591baf15a",
+  "sha256_4x5": "af7a48fe6e419c26f68503fc10cb6ad57c21d2ff9ce5c248b15eabb86f0aa870"
 }
