@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Svendborg/dk-01-113-16x9.png",
   "file_4x5": "Denmark/Svendborg/dk-01-113-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-113",
+    "derived_from": "Night master Denmark/Svendborg/dk-01-113-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Svendborg/dk-01-113-16x9.png",
+        "sha256": "dab0ff27b2ee1a05924f3073c71b7f9e7bc624393a35b9f25004ae1b52490a36"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Svendborg/dk-01-113-4x5.png",
+        "sha256": "478b780bf31f4d6290ac2a1ef242767c7d475cf5533ec513e0a02dc0a35c73e6"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Svendborg/dk-01-113-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Svendborg/dk-01-113-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "9c5a6ac7d047ffe04b65d96f59fa33e3556bce0e4c6d87afb73a8721d81a49f7",
+      "4x5": "418cf2c3eaae271250f1a9e8cdde521c8a06523b6cfabdeb79c47a233962da46"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Vor Frue, Svendborg",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

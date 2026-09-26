@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Marstal/dk-01-114-16x9.png",
   "file_4x5": "Denmark/Marstal/dk-01-114-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-114",
+    "derived_from": "Night master Denmark/Marstal/dk-01-114-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Marstal/dk-01-114-16x9.png",
+        "sha256": "27a2c26bc7f05621107307e40dd46b7deff5e9ed21238c0a26b2f722de2c39f5"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Marstal/dk-01-114-4x5.png",
+        "sha256": "a316cfa9fec5625cf75521bb7a5bb3429f9f1d718a4f1e9bed5f4657fcdd2d08"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Marstal/dk-01-114-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Marstal/dk-01-114-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "fee4ab169a64e41887b6ba0987c0d68416fa1b5215f3b08cf65376d7939d538b",
+      "4x5": "a631151d59ddac5ebac30cc84c38cd1a2ac2ea8780ab68139c41f79ab79a113c"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Marstal Harbour, Marstal",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

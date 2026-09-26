@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Faaborg/dk-01-116-16x9.png",
   "file_4x5": "Denmark/Faaborg/dk-01-116-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-116",
+    "derived_from": "Night master Denmark/Faaborg/dk-01-116-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Faaborg/dk-01-116-16x9.png",
+        "sha256": "7beb62afd2e93b7a216af19980cdcfd7ea4bb09075f646ee569df049c9d6e03d"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Faaborg/dk-01-116-4x5.png",
+        "sha256": "9df0619f36ce0c4b6678d40de79c558ea8ff9dc14aad2a8559f0aa10c1d93320"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Faaborg/dk-01-116-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Faaborg/dk-01-116-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "b74e039281c2d6f14c43e902867d9bdace4862e9be895398e8f4938fc2c5600c",
+      "4x5": "d6d1e74955b8011e2f0abfbe27fb4b870ce1b3d4a766026ab34ea777f358ff05"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Klokketårnet, Faaborg",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }
