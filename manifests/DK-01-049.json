@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Dokk1 Aarhus at night: the glass cultural centre with its sweeping dark roof plane, lit from within, steps and harbour quay in front; on-image caption 'Dokk1, Aarhus', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:25 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no logos or marks; all five gates pass.",
+  "approved_at": "2026-09-26T01:21:16.685392+00:00",
+  "sha256_16x9": "9596ae8f606190dd84c3a3c353b69192d6e900a709474cc11206be8a880eb673",
+  "sha256_4x5": "2cb641f43f2769cd744d8c1c2b2ea13e32809600d0175b63b5f22075821ba846"
 }
