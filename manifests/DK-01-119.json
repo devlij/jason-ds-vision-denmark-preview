@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: wide fjord at night: dark water center frame, wooded hills on both shores dotted with scattered town lights and street lamps, a long low lit bridge spanning the water in the distance (Vejlefjord Bridge character), three small sailboats moored along a stone quay in the right foreground under moonlit cloud — matches Vejle Fjord's fjord/bridge anchors, plausible harbour-quay viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Vejle Fjord, Vejle', scenario 'Scenario: 25 September 2026 · 02:34 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:34 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:26:47 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T05:29:43.784111+00:00",
+  "sha256_16x9": "e2462b98e4918a2deee36496aa85e98f4fa55b2b1ef273973d2878a2981f461a",
+  "sha256_4x5": "b52497bd228f285fd18baeaf19f793e0d3837ee2d3f327f6ed901dd1d2419777"
 }
