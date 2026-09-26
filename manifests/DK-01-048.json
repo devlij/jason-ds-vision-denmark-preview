@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Tønder Old Town at night: cobbled street of red-brick gabled houses with glowing windows and gas lamps, church spire closing the vista; on-image caption 'Tønder Old Town, Tønder', scenario 25 September 2026 00:56 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:09:24 Europe/Copenhagen (unique), valid from 00:45, scenario inside the model hour; text-prompt-only provenance; no logos or marks; all five gates pass.",
+  "approved_at": "2026-09-26T01:21:12.226903+00:00",
+  "sha256_16x9": "7836c7c770ed316f8693d0495f6f21769a843c3a4480e1792a2f3a946cc2ad55",
+  "sha256_4x5": "0d3858848197326299cee0be6afd33e292f1f3a78ed28dd35ce248ae063cfb23"
 }
