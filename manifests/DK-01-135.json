@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: moonlit night harbour with long brick warehouse buildings along the quay, moored fishing boats and a bright full moon with reflections on the water — a plausible Thisted night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Thisted Harbour, Thisted', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature present and legible; Open-Meteo retrieval 2026-09-25 23:27:13 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or readable boat names — documented, final call Jason's. Gate 5 clear.",
+  "approved_at": "2026-09-26T07:24:05.698917+00:00",
+  "sha256_16x9": "06b73d0189d441d32108e26cdfb4ee3657d142bd8fd6725901724ff950191ca9",
+  "sha256_4x5": "c81db6452347d761b5462da4b70396d1364dcb7da945611e7c48576d7551c3ff"
 }
