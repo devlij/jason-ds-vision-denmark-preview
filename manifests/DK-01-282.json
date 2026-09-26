@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Strynø/dk-01-282-16x9.png",
   "file_4x5": "Denmark/Strynø/dk-01-282-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Approved 5/5 Daylight. Gate 1 PASS: 16:9 looks down a long weathered concrete breakwater toward the harbour head — big white ferry moored at the far end of the causeway, a smaller white workboat alongside, three sailboats berthed at a wooden jetty right, a low green headland at the left horizon under streaked-cirrus sunrise over choppy dark water; 4:5 is the same causeway from a higher vantage behind — the identical white ferry at the head of the breakwater, the same cluster of sailboats and motorboats on wooden docks right, the same green wooded headland behind the ferry under a peach-and-blue dawn sky. Cross-format subject identity agrees. Gate 2 PASS: on-image caption \"Strynø Harbour, Strynø\", scenario \"25 September 2026 · 07:18 Europe/Copenhagen\", disclosure \"AI-generated artistic interpretation · Not a photograph.\" bottom-left on dark scrim, \"Jason D's Vision\" with curly apostrophe bottom-right — all exact and legible. Weather law verified repo-wide: Open-Meteo retrieval 25 September 2026 07:17:41 Europe/Copenhagen (grid 54.90508, 10.61914, model step 07:15, hour 07:00–07:59) cited only by this scene's note, unique to the second — no shared retrieval; scenario 07:18 inside the model-valid hour, after the cited step. Gate 3 PASS per record: notes document text-prompt-only generation, no photographic inputs reported. Gate 4 documented only: no people, no logos or signage, unmarked vessels, generic breakwater infrastructure. Gate 5 PASS — publication-ready.",
+  "approved_at": "2026-09-26T17:30:35.526862+00:00",
+  "sha256_16x9": "65637ef1c84a13a69d1ec97d3666f2b210b7cb951569285b97dab10a4a914695",
+  "sha256_4x5": "eb0cccf83401d135373aedfa01b0e6bc40f63d496579e70dfe93247545845b47"
 }
