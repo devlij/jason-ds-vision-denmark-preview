@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: lit brick manor with a round tower on a wooded lakeshore, warm window glow and lamp reflections on the dark water; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Skanderborg Lake, Skanderborg', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:54 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:54 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
+  "approved_at": "2026-09-26T06:24:47.041632+00:00",
+  "sha256_16x9": "2f1b0f745b1dfeeab5f919d0e4c75ba200cecad42d39d7d6323cd61bda8d4831",
+  "sha256_4x5": "f98b6e7e4035cf2d8531309001dbf7c328220700273cb7d0f2bb4567283bbae2"
 }
