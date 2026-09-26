@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Vejen/dk-01-300-16x9.png",
   "file_4x5": "Denmark/Vejen/dk-01-300-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: both masters show Vejen Anlæg — broad lawn with mature trees in early-autumn gold, curving gravel paths, wooden bench, low sun raking through the canopy; same park, formats agree, clean framing, no artifacts. Gate 2: exact dims; 'Vejen Anlæg, Vejen', 'Scenario: 25 September 2026 · 07:41 Europe/Copenhagen' inside model hour 07:00-07:59, disclosure and signature legible on scrim; retrieval 25 Sep 2026 07:36:48 unique repo-wide (neighbors :47 and :50), cloud cover 23% matches the mainly clear sky; Art. 50 metadata present. Gate 3: text-prompt-only. Gate 4: no people or logos; documented only. Gate 5: publish.",
+  "approved_at": "2026-09-26T18:32:55.101566+00:00",
+  "sha256_16x9": "a367c5735593f36f6cbb8c81fd549511c1dba8a527b40fa277b844d294ca20df",
+  "sha256_4x5": "fa9f17305115b81dafb214f4e382086914c4723aaf545930b68578b7b75e099e"
 }
