@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved - Cosmo QC 5/5 - Night",
+  "approval_basis": "Gate 1: night lake with a wooden jetty, grassy shoreline and reeds in the foreground, treeline across the water, distant town lights, overcast night — clean framing, no artifacts, plausible lakeside viewpoint. Gate 2: masters exact 1920x1080/864x1080; caption 'Maribo Lake, Maribo', scenario '25 September 2026 - 04:07 Europe/Copenhagen', and 'AI-generated artistic interpretation - Not a photograph.' disclosure bottom-left, 'Jason D's Vision' signature bottom-right, legible; scenario 04:07 inside model-valid hour 04:00-04:59; Open-Meteo retrieval 25 September 2026 23:29:25 Europe/Copenhagen per the builder note, verified unique across all 365 Denmark notes. Gate 3: text-prompt-only, no photographic inputs reported. Gate 4: no identifiable people, logos, or readable signs — documented only. Gate 5: ready.",
+  "approved_at": "2026-09-26T10:23:18.533971+00:00",
+  "sha256_16x9": "a938579f69bde28471c18eacbe4c851e17feb5d57457c394d90aec0945d55762",
+  "sha256_4x5": "5efc3ec061878a8434fd6157b14e504eb17b868215b2ec13ebdaadc30be6fe8d"
 }
