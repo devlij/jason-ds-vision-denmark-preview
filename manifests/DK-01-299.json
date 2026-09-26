@@ -11,5 +11,12 @@
   "file_16x9": "Denmark/Give/dk-01-299-16x9.png",
   "file_4x5": "Denmark/Give/dk-01-299-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "qc_notes": [
+    {
+      "at": "2026-09-26T18:30:38.314643+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 1 hold: inter-format disagreement on the west tower crown. The 16:9 master shows a plain red-tile pyramid cap; the 4:5 master shows a crenellated parapet with a needle spire rising from it — the defining tower silhouettes do not agree. Held as Candidate until both formats show the same tower."
+    }
+  ]
 }
