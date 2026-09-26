@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: night harbour basin with ~7 moored motorboats, warehouses on the left quay, low red-tile-roof houses across, prominent red-brick quay building with domed tower right (customs house character) — matches Rudkøbing Harbour's quay anchors, plausible harbour-side viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Rudkøbing Harbour, Rudkøbing', scenario 'Scenario: 25 September 2026 · 02:17 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:17 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:20:06 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs; generic warehouses and houses. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T05:28:16.789552+00:00",
+  "sha256_16x9": "5ef2e1e70b9cdaee7c4a16a6c5654ea2f1842a4654a263500c1062e4b93e1f92",
+  "sha256_4x5": "83a83f2555e04cf0e45e7045e646e81a1a851343d4bfae55edd7fca251f3d215"
 }
