@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gates 1-5 PASS. G1: Nykøbing Sjælland harbour at night — short wooden pier, a handful of small boats, low lit houses across the quiet water on the Isefjord; calm and plausible, no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Nykøbing Sjælland Harbour, Nykøbing Sjælland', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:29:10 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
+  "approved_at": "2026-09-26T09:27:01.245758+00:00",
+  "sha256_16x9": "dde49a65a2ce38fb7b9c771f8ef0ef7ed5449914ffcce204905c6109661204c5",
+  "sha256_4x5": "fff5af5d296258aa921b6759c0d416135882391d3b3643d947ca6249af3cc0e4"
 }
