@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Night harbour view of Nykøbing Falster Harbour: moored boats along the quay in the foreground, lamp-lit waterfront buildings, and a low bridge on the horizon over Guldborgsund under heavy overcast. Gate 1: plausible tourist viewpoint matching the caption. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Nykøbing Falster Harbour, Nykøbing Falster', scenario '25 September 2026 · 02:00 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:19:07 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people, logos, or readable marks — documented only, commercial call remains Jason's. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
+  "approved_at": "2026-09-26T04:24:53.916575+00:00",
+  "sha256_16x9": "5c79ba8854b6364a072ce9c6d81278af6ca79e81bc10ac51fe72386b37f55910",
+  "sha256_4x5": "f62cf524470754d87a628a6593a27b5b5b4ab5e4017e6e3d0f91223a10131073"
 }
