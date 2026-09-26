@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: moonlit Disko Bay with drifting icebergs and a wooden shore church (Zion Church form) under a starry sky - the classic Ilulissat night viewpoint, no artifacts. Gate 2: exact masters, signature/caption 'Disko Bay, Ilulissat'/scenario '25 September 2026 · 01:43 Europe/Copenhagen'/disclosure all verified on-image; scenario hour inside model hour 01:00-01:59; clear starry moonlit sky is consistent with the note's Clear/0% cloud/-0.5C evidence; retrieval 23:18:54 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos - documented only.",
+  "approved_at": "2026-09-26T03:22:24.440119+00:00",
+  "sha256_16x9": "31915050b362ec67eeb5f794b617d75e3e3e9c5a4d2228b7bec49228ff8fdbde",
+  "sha256_4x5": "d4fbc6cc5e8f618ad1d9e5a0bd7c50dfec8260af02235d4672a582e43aeeabc2"
 }
