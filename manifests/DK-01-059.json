@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Sand-Buried Church at night: the whitewashed tower with stepped gable rising from the Skagen dunes, marram grass and low pines around; on-image caption 'Sand-Buried Church, Skagen', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:35 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no signs; all five gates pass.",
+  "approved_at": "2026-09-26T01:22:09.399901+00:00",
+  "sha256_16x9": "90f2e744880f91f1a85e0055c5724fb0dab92a9add6c8af1da8bb2ed9cfe7bf8",
+  "sha256_4x5": "806fd7a5be07faef9ac5bb88f5a1d9e075a3073572d084f4479c88dc8e4be78f"
 }
