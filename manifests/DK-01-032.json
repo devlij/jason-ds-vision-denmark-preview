@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: moonlit night — small stone chapel with gabled belfry on a grassy white chalk cliff edge (Hojerup Old Church form), full moon over the sea with glittering reflection path, dirt footpath — matches Stevns Klint anchors. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Stevns Klint, Store Heddinge', scenario '25 September 2026 · 00:34 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:08:53 Europe/Copenhagen (HTTP Date 21:08:53 GMT), valid 00:30 step, is_day 0, partly cloudy 11.7C 61% cloud, wind 9.4 km/h — unique to the second batch-wide and vs neighboring build window; scenario inside 00:00-00:59. Gate 3: text-prompt-only per builder notes, no photo pixels. Gate 4: no people/logos (documented only). Gate 5 PASS.",
+  "approved_at": "2026-09-26T00:27:13.124835+00:00",
+  "sha256_16x9": "95cf3ac385c23c6da4778b833c84b3284e47f2e78d61fde7242757c553a0e7a9",
+  "sha256_4x5": "b64ab352ac60ccc7e7a608a7ff047c995611a1e6c27ea2d5cf00c225b33a3d6d"
 }
