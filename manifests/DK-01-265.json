@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Copenhagen/dk-01-265-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-265-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
+  "approval_basis": "Gate 1 pass: the 16:9 master shows the Christianshavn canal with historic gabled houses, moored boats, a cobblestone quay and warm lamps under overcast dawn — a plausible Wilders Kanal view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Wilders Kanal, Copenhagen' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:44, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable signage. All five gates pass.",
+  "approved_at": "2026-09-26T15:27:13.046374+00:00",
+  "sha256_16x9": "213981a994669b28b62bfdfc3765e3835c5e4914a0b23a08d81998d7e91fa65c",
+  "sha256_4x5": "52c35ee1a81d5c23b446f3f05fe8ef4a4a7d0ef365cec22f96cab7121a5b4d87"
 }
