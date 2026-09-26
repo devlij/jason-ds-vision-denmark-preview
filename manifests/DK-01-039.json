@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: night harbor — moored fishing boats, half-timbered and brick warehouses along the quay, prominent brick church tower behind, wet quay with lamp reflections — matches Faaborg Harbour. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Faaborg Harbour, Faaborg', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:06 Europe/Copenhagen (HTTP Date 21:09:06 GMT), valid 00:45 step, is_day 0, overcast 12.8C 98% cloud, wind 17.6 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
+  "approved_at": "2026-09-26T00:29:19.592055+00:00",
+  "sha256_16x9": "2b0517edc4826c1faade681bf26bea31cdc534b0d6ea271d4306f1155b1aadd0",
+  "sha256_4x5": "d4fb95f1cecddfbb6af103d50adc8148cb49fc5ce293521f14da4872792f78d7"
 }
