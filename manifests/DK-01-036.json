@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: night — red-brick Gothic cathedral with tall west tower topped by an illuminated open belfry lantern, on a lamplit square — matches Odense Cathedral (Sankt Knuds) form. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Odense Cathedral, Odense', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:00 Europe/Copenhagen (HTTP Date 21:09:00 GMT), valid 00:45 step, is_day 0, overcast 12.9C 100% cloud, wind 13.3 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
+  "approved_at": "2026-09-26T00:28:27.803993+00:00",
+  "sha256_16x9": "42428ad79ec92905e8447c79b59acc5952f8cf54ed8b67f0023a17d4b4cb5e84",
+  "sha256_4x5": "14a96a9c29830f44e6e05a6181756ffffd36167bdf81fed46f492b375a2253f6"
 }
