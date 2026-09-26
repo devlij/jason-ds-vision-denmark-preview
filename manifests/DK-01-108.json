@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Rudkøbing/dk-01-108-16x9.png",
   "file_4x5": "Denmark/Rudkøbing/dk-01-108-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-108",
+    "derived_from": "Night master Denmark/Rudkøbing/dk-01-108-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Rudkøbing/dk-01-108-16x9.png",
+        "sha256": "5ef2e1e70b9cdaee7c4a16a6c5654ea2f1842a4654a263500c1062e4b93e1f92"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Rudkøbing/dk-01-108-4x5.png",
+        "sha256": "83a83f2555e04cf0e45e7045e646e81a1a851343d4bfae55edd7fca251f3d215"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Rudkøbing/dk-01-108-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Rudkøbing/dk-01-108-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "8346873032447d9e789efb9806e578364927692ce9722c43dad9cfdb3923f12c",
+      "4x5": "6d376711adbdeeb368f9be3d24a40724a234fb0d5385ee404a9e167905b2851a"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Rudkøbing Harbour, Rudkøbing",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

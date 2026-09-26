@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Helsingør/dk-01-097-16x9.png",
   "file_4x5": "Denmark/Helsingør/dk-01-097-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-097",
+    "derived_from": "Night master Denmark/Helsingør/dk-01-097-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Helsingør/dk-01-097-16x9.png",
+        "sha256": "430d68178071f148c63c4f278f65f50f7db7ed8360ed39d738945357b1e569b5"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Helsingør/dk-01-097-4x5.png",
+        "sha256": "c28bbc2aab605b0c862478ba10a44793df6d55f2a1609df4bd83ec6fc7362107"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Helsingør/dk-01-097-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Helsingør/dk-01-097-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "2fe7eae06ccd71ac8d2546386c000f5d30154a787d336fde9d626b05098f4eb8",
+      "4x5": "6ba1fd1534f681038c1c1a14f2599ee98f31c3b750c9e3702df6859be81bfe3c"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Sankt Olai, Helsingør",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

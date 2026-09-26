@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Tranekær/dk-01-109-16x9.png",
   "file_4x5": "Denmark/Tranekær/dk-01-109-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-109",
+    "derived_from": "Night master Denmark/Tranekær/dk-01-109-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Tranekær/dk-01-109-16x9.png",
+        "sha256": "824e8f0483d7aa27ca506fc0ee0f767f4c064a36f3df78434c115ac3de35e708"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Tranekær/dk-01-109-4x5.png",
+        "sha256": "979d0f633ea4f51fee2f6101d87a3a1ff62c4cb389f71a3ae7b8903837d05411"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Tranekær/dk-01-109-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Tranekær/dk-01-109-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "aabd19ed6d6f5ca3209f6adcae220edad87b696bb67bb20b237ee312f646f596",
+      "4x5": "ee0b8d001a08b40487421611cd75898156b075afb49944284379569ff4072573"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Tranekær Castle, Tranekær",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

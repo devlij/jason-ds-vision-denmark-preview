@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Korsør/dk-01-104-16x9.png",
   "file_4x5": "Denmark/Korsør/dk-01-104-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-104",
+    "derived_from": "Night master Denmark/Korsør/dk-01-104-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Korsør/dk-01-104-16x9.png",
+        "sha256": "82377fcc82bc9e5f0c8a89dd9444cf28ac69059af2608de91cabb93a2b45b609"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Korsør/dk-01-104-4x5.png",
+        "sha256": "62888c40157b3252e0a83c1d296367d3a75723bc2e9005a51b1fa292e0ff4624"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Korsør/dk-01-104-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Korsør/dk-01-104-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "c1eb2d2a53ee583a564295fa4f75a319718cd72ed24648c638004a4cc3e613d4",
+      "4x5": "ab08a1cee29664b5d0cc93394b88bb40e133c07d1c75b0fdf658a842397cf895"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Korsør Harbour, Korsør",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }
