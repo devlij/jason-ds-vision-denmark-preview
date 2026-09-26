@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Hadsund/dk-01-291-16x9.png",
   "file_4x5": "Denmark/Hadsund/dk-01-291-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Approved 5/5 Daylight. Gate 1 PASS: 16:9 shows a concrete multi-span road bridge crossing a wide calm fjord, a small marina with moored yachts on the right bank, wooded autumn hills on both sides, overcast sky; 4:5 from closer and lower — the bridge's twin central concrete tower-pier pair (the bascule section) rising from the water, the marina to the right, autumn-foliaged trees on the left bank. Cross-format subject identity agrees (Hadsund's concrete bridge over Mariager Fjord, bascule piers, fjord setting, adjacent marina in both). Gate 2 PASS: on-image caption \"Hadsund Bridge, Hadsund\", scenario \"25 September 2026 · 07:39 Europe/Copenhagen\", disclosure \"AI-generated artistic interpretation · Not a photograph.\" bottom-left on dark scrim, \"Jason D's Vision\" with curly apostrophe bottom-right — all exact and legible. Weather law verified repo-wide: Open-Meteo retrieval 25 September 2026 07:36:32 Europe/Copenhagen (grid 56.71061, 10.11655, model step 07:30, hour 07:00–07:59) cited only by this scene's note, unique to the second — no shared retrieval; scenario 07:39 inside the model-valid hour, after the cited step. Weather rework behind Denmark is done per scene and the builder's DK-193–208 pattern was the separate earlier batch — this scene's retrieval is its own. Gate 3 PASS per record: notes document text-prompt-only generation, no photographic inputs reported. Gate 4 documented only: no people, no logos or readable signage on vessels or bridge, no identifiable private property. Gate 5 PASS — publication-ready.",
+  "approved_at": "2026-09-26T17:34:59.396877+00:00",
+  "sha256_16x9": "d435a25e2bcc4c07bd6024cbd15ac70bdf932073f0f3ad7f5502d89c739483fc",
+  "sha256_4x5": "e009408bd40d512b1dfde0bf9083726392b6708ee795ccac4883179f91cca0df"
 }
