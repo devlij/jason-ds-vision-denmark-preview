@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: night — large red-brick Gothic cathedral with tall west spire floodlit warm, beside reedy lake water (Maribo Sonderso), lamp-lit path right — matches Maribo Cathedral form. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Maribo Cathedral, Maribo', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:08:55 Europe/Copenhagen (HTTP Date 21:08:55 GMT), valid 00:45 step, is_day 0, partly cloudy 12.2C 58% cloud, wind 11.3 km/h — unique to the second; scenario 00:56 inside 00:00-00:59, at/after 00:45 step. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
+  "approved_at": "2026-09-26T00:27:47.955165+00:00",
+  "sha256_16x9": "0ab604b82ce0892935c1332d477439dc5c4b08f617c74cb1562b0f90c07a4f66",
+  "sha256_4x5": "25f048db4de98d30f178a2e5086ad172eb39fc0f2dff8f8414f960aa05507022"
 }
