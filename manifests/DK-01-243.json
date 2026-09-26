@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Åkirkeby/dk-01-243-16x9.png",
   "file_4x5": "Denmark/Åkirkeby/dk-01-243-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: Aa Church from the churchyard — greenish sandstone and rust-brown shale choir and apse, paler limestone west tower, dark roof, old gravestones in lamplit grass; recognizably a Romanesque parish church, not a round church, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Aa Church, Åkirkeby', scenario '25 September 2026 · 06:33 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:31:57 for this scene's own coords, scenario after the 06:30 model step inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable gravestone text. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T13:26:19.629531+00:00",
+  "sha256_16x9": "098373fa622f17c0fa826e4a82d0ec99f4243e4caff8e0f07c7b346463e4cc6f",
+  "sha256_4x5": "90d0f80103228b4ada9f9e9c4cd86f4dead19f294c05680ac2ec1df21013b0cc"
 }
