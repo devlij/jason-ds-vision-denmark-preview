@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: Allinge's harbour with fishing boats along the granite quay and the colourful gabled houses (white, ochre, red) lit under a cloudy night sky — the classic Bornholm harbour look, anchors all present, no artifacts. Gate 2: on-image caption 'Allinge Harbour, Allinge', scenario '25 September 2026 · 03:10 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:50 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no readable boat names or people visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T08:33:41.414995+00:00",
+  "sha256_16x9": "71d71dc1aa6b5ae08c940d289898008df1d30997161b1ed32e2347c193547994",
+  "sha256_4x5": "61f05ecbb48ab8f21b82175a37064dcea9a43b18338112fced96c71751501b01"
 }
