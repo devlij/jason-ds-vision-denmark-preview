@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: pale domed baroque palace with warmly lit windows, park lawn and curved drive in front, big trees flanking - Charlottenlund Palace read at night, clean framing. Gate 2: exact masters; signature/caption 'Charlottenlund Palace, Charlottenlund'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 91% cloud/11.7C; retrieval 23:19:01 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only per note. Gate 4: no people, no logos - documented only.",
+  "approved_at": "2026-09-26T03:22:59.973173+00:00",
+  "sha256_16x9": "498f087138d4324ea233c642f8f35cee37663e0e829aa95c12ee289c891f70c3",
+  "sha256_4x5": "bd5249b636d4dd92d3b351203ca0843d8a947011c37e655104ad190d5fd872e7"
 }
