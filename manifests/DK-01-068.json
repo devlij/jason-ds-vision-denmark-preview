@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Dueodde/dk-01-068-16x9.png",
   "file_4x5": "Denmark/Dueodde/dk-01-068-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-068",
+    "derived_from": "Night master Denmark/Dueodde/dk-01-068-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Dueodde/dk-01-068-16x9.png",
+        "sha256": "e352861f0d504da9fb5187b0c26683cdb25e7f3f34d555cd58e9d6a42c0a7e30"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Dueodde/dk-01-068-4x5.png",
+        "sha256": "c9bcd02b094637eed2659d749530b68b3fa11cb7e8a45a093e38694eddb4497e"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Dueodde/dk-01-068-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Dueodde/dk-01-068-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "98f5d03f3a2c06276731e5a938c30a8805dd6c88286281b47f53a92b3e670523",
+      "4x5": "b9da60d9c72c7161a93b7b527410792d044ea7662c9e9dadbef23949d751a25b"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Dueodde Beach, Dueodde",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Trøllanes/dk-01-074-16x9.png",
   "file_4x5": "Denmark/Trøllanes/dk-01-074-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-074",
+    "derived_from": "Night master Denmark/Trøllanes/dk-01-074-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Trøllanes/dk-01-074-16x9.png",
+        "sha256": "94fee9448bc2e3b0d102615733310f4a4e238a862851796f70364f0637e69feb"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Trøllanes/dk-01-074-4x5.png",
+        "sha256": "71aeea1ef07318dce76084e9b3c77975104e575bf848ad5bbe36c8eb3053daa7"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Trøllanes/dk-01-074-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Trøllanes/dk-01-074-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "28220396ed47ac8ac13cccf5e0fea1ac1595ee44281ab764a126d612aed9d7b5",
+      "4x5": "395229be9bbccf86ba6f4728b385f3b74d5973d8e9001b10cc31410230232755"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Kallur Lighthouse, Trøllanes",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

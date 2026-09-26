@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Ilulissat/dk-01-079-16x9.png",
   "file_4x5": "Denmark/Ilulissat/dk-01-079-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-079",
+    "derived_from": "Night master Denmark/Ilulissat/dk-01-079-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Ilulissat/dk-01-079-16x9.png",
+        "sha256": "53ac7adc8af1342ed8af26ad9462cba5479a86be9fb21e0cc6049839b1223262"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Ilulissat/dk-01-079-4x5.png",
+        "sha256": "d3b060c379c9785f6b0b18220947cd7c009407bfbb970a2af8f1be3ca770e0c5"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Ilulissat/dk-01-079-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Ilulissat/dk-01-079-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "e73a480d37f304a3d8701734d08933e92cdf3a1cec5106d3be988ab83e3ecd82",
+      "4x5": "e50c8fd0b1b2047c132ff582e12be1876dbd10c02d3e2f2c66f7594cf333c174"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Eqi Glacier, Ilulissat",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

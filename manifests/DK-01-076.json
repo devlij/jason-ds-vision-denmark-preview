@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Nuuk/dk-01-076-16x9.png",
   "file_4x5": "Denmark/Nuuk/dk-01-076-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-076",
+    "derived_from": "Night master Denmark/Nuuk/dk-01-076-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Nuuk/dk-01-076-16x9.png",
+        "sha256": "905f39158e0c861698c5a8efe56879fd77ad6f41b03c63a6afdad72d0380d5db"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Nuuk/dk-01-076-4x5.png",
+        "sha256": "00394e60ce2b2b8c04f5739cceddb8ab60293f329ce4b51ac52b073adc153799"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Nuuk/dk-01-076-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Nuuk/dk-01-076-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "3de98794682a3a7cbeeb2679debca0d0292a3ba0b0e1b72b2eed64279cc2b8ef",
+      "4x5": "a779e088f108a9a88493a827082fcd9d2468cbb4515aec54a647fee6c27912f9"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Sermitsiaq, Nuuk",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

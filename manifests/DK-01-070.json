@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Tórshavn/dk-01-070-16x9.png",
   "file_4x5": "Denmark/Tórshavn/dk-01-070-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-070",
+    "derived_from": "Night master Denmark/Tórshavn/dk-01-070-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Tórshavn/dk-01-070-16x9.png",
+        "sha256": "e0d1835f8d7ab0aac44b8fc36a6e09151cac65e48d3c24d5fe935e9ea6cef063"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Tórshavn/dk-01-070-4x5.png",
+        "sha256": "ed075aabbfab2bb7c3cf1ec8f6fd75e7d04d32fee064c56ce75629323c8c2573"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Tórshavn/dk-01-070-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Tórshavn/dk-01-070-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "6c1d16888226a616409e37d2dff395f934bb69287b2b76b6c082f2b78b4fa7b1",
+      "4x5": "95f667ab05ca9315a46f1300da9ac6b550f29725ea3feed7ede988f70a157f31"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Tinganes, Tórshavn",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }
