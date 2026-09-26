@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: dark smooth river with a simple low bridge crossing it, brick buildings set back behind still-green late-September trees, lamp-lit reflections on the water — no sculpture on this bank, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Storåen, Holstebro', scenario '25 September 2026 · 06:22 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:10:29 for this scene's own coords, scenario inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable shop names. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T13:24:48.903848+00:00",
+  "sha256_16x9": "73dab7f8cd8b5466d8644f8de7ce5f223a0d968651815e2d2fc6f724d304ab40",
+  "sha256_4x5": "007e10c977fc6bc95cf30ee97c53c3b15aec0149e6e87de369cdc044136ef333"
 }
