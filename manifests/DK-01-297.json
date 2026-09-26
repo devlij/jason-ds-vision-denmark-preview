@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Herning/dk-01-297-16x9.png",
   "file_4x5": "Denmark/Herning/dk-01-297-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gate 1: both masters show Søndre Anlæg's park pond — mirror reflections of mature trees turning gold and green, gravel path curving round the water, benches; same pond from matching viewpoints, clean framing, no artifacts. Gate 2: exact dims; 'Søndre Anlæg, Herning', 'Scenario: 25 September 2026 · 07:40 Europe/Copenhagen' inside model hour, disclosure and signature legible; retrieval 25 Sep 2026 07:36:43 unique repo-wide (neighbors :41 and :44), cloud cover 64% matches the broken cloud; Art. 50 metadata present. Gate 3: text-prompt-only. Gate 4: no people or logos; documented only. Gate 5: publish.",
+  "approved_at": "2026-09-26T18:32:07.503381+00:00",
+  "sha256_16x9": "1c1090b67b94333329b47b1c7d3e1ba8acb20b66e0d5c4d4c3a5c7cadd0a606e",
+  "sha256_4x5": "bab40269ba4289437a28a1d85c6d5978896a8dbe27d9adeb53ae2f5e1a582bbb"
 }
