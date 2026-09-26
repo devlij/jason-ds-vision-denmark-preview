@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Nexø/dk-01-242-16x9.png",
   "file_4x5": "Denmark/Nexø/dk-01-242-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: Nexø harbour with fishing boats moored along a concrete breakwater mole, low sheds behind, dark rippled water under heavy cloud, lamps on — no beach and no dunes, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Nexø Harbour, Nexø', scenario '25 September 2026 · 06:35 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:32:57 for this scene's own coords, scenario after the 06:30 model step inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable boat names. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T13:26:00.880915+00:00",
+  "sha256_16x9": "f18503a661108665a0234c976f64ead353e4639186f07d79ccb8dd453736a07d",
+  "sha256_4x5": "2031733abec4d8fc889fb058f1e7cc7328e7c15da567d8857f216daa396739f6"
 }
