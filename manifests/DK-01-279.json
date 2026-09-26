@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Lyø/dk-01-279-16x9.png",
   "file_4x5": "Denmark/Lyø/dk-01-279-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Dawn",
+  "approval_basis": "Gate 1: a small white ferry is moored at a stone breakwater with rowboats and a sailboat nearby, village houses with red roofs behind, warm sunrise light on the water — a plausible Lyø Harbour morning view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (ferry + breakwater + village). On-image caption 'Lyø Harbour, Lyø', scenario '25 September 2026 · 07:17 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible. Weather: Open-Meteo retrieval 25 September 2026 07:15:55 Europe/Copenhagen — unique to the second across all 408 repo note files; scenario 07:17 inside model-valid hour 07:00–07:59. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no visible people; ferry and boats bear no readable names or logos. Gate 5: publication-ready.",
+  "approved_at": "2026-09-26T16:36:20.566680+00:00",
+  "sha256_16x9": "4c5bbf0c9d754def2ff2f1de7151ef19f35d8a765bf9388f363402bb7ad2b082",
+  "sha256_4x5": "72f67d895921c123eb83c91b356c8576e04fcad7ed02dcf819b8570f1e6d081e"
 }
