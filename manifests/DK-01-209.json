@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "G1: moonlit marina with masted sailboats along a lamp-lit stone pier, mooring ropes and bollards in foreground; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:35:47 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no readable boat names; G5: clean.",
+  "approved_at": "2026-09-26T11:20:02.987855+00:00",
+  "sha256_16x9": "02aea45f62ac0fe5c721246f3551359676ac625071d68afaa3338ee27bd115ed",
+  "sha256_4x5": "6e4c1415c203211f787538b2f807622c1402a36523fbef86b924ae64e8dadc19"
 }
