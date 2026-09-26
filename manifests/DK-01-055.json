@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Horsens Harbour at night: moored sailboats in the marina basin, gabled warehouses and lamp posts lining the quay with reflections on the water; on-image caption 'Horsens Harbour, Horsens', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:31 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no readable boat names or marks; all five gates pass.",
+  "approved_at": "2026-09-26T01:21:47.904647+00:00",
+  "sha256_16x9": "856718400af46433d46533cdb985b8d3933fde882cbc54a98d51cb1c611a51b8",
+  "sha256_4x5": "e10d957b8b7a42994d26f92ae38a328ec1d88430aafff5e29f61dde0ef438282"
 }
