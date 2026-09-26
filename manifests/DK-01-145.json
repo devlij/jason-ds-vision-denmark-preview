@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: night view of Børsen from the water — long red-brick building with green copper roof, ornate gables and tall spire, left wing under scaffolding with black tarpaulin and an empty roofline; an honest depiction of the post-April-2024-fire reconstruction, no invented dragon spire. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Børsen, Copenhagen', scenario '25 September 2026 · 03:09 Europe/Copenhagen' inside cited model-valid hour 03:00–03:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:30 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or readable signs — documented, final call Jason's. Gate 5 clear.",
+  "approved_at": "2026-09-26T07:24:56.547423+00:00",
+  "sha256_16x9": "31195f8e57e9b55d42fda5c5e55ca16a577c28e309ee79276158d5a87914d20a",
+  "sha256_4x5": "e122d8f67adaa407b6d4bf50aba77dd5605df48b51a892e4ef2f953ed2f18393"
 }
