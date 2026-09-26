@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Viborg/dk-01-053-16x9.png",
   "file_4x5": "Denmark/Viborg/dk-01-053-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-053",
+    "derived_from": "Night master Denmark/Viborg/dk-01-053-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Viborg/dk-01-053-16x9.png",
+        "sha256": "1f0d82da4c5536fa1ef20e0ec1a56976bcf2b26924f9f86b08ae41714b333780"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Viborg/dk-01-053-4x5.png",
+        "sha256": "90352ecdabdcfdb2a7152172ed4abfa0ffa75cbfcd42016acb98e766f0a3d1f2"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Viborg/dk-01-053-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Viborg/dk-01-053-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "d122fd566cc2d032333d0fe0e761c86b14ec591d0cb5c80572b025c59bd8c985",
+      "4x5": "a156dd226bb898963083b33e993efc4d3ff63a9fb0f1ab1778268b177207a64c"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Viborg Cathedral, Viborg",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }
