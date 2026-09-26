@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Aalborg/dk-01-225-16x9.png",
   "file_4x5": "Denmark/Aalborg/dk-01-225-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-225",
+    "derived_from": "Night master Denmark/Aalborg/dk-01-225-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Aalborg/dk-01-225-16x9.png",
+        "sha256": "77ca0501f798df12b26ef0f182837edaf5d3e15b43bcf6196e58c0d605051e1f"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Aalborg/dk-01-225-4x5.png",
+        "sha256": "3a029e7021af62a6390e90f7315919042917a54b5464d27b0d967bd1883d8d8d"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Aalborg/dk-01-225-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Aalborg/dk-01-225-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "450623f964d8ce6a2a2c08f8f2a999003e56353c97ca4015bef9387919956d84",
+      "4x5": "d168e065c4b30c53b2aff96f2eafb9bb8046ef956a7638301bbfa4b9a89ff760"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Aalborghus, Aalborg",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Vestervig/dk-01-234-16x9.png",
   "file_4x5": "Denmark/Vestervig/dk-01-234-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-234",
+    "derived_from": "Night master Denmark/Vestervig/dk-01-234-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Vestervig/dk-01-234-16x9.png",
+        "sha256": "7e59f2dccdd21ba5923e76bbbc927dd00dd4a144747fa224c1a030df0bf86708"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Vestervig/dk-01-234-4x5.png",
+        "sha256": "a7928654cecf4a3d08660fb277c8f08ad2a96f078c6a23a8792f1c48c846cb20"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Vestervig/dk-01-234-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Vestervig/dk-01-234-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "c31127968de6f15e4774eaca1f93df1b646901de9746b228c72a2388d0085b1c",
+      "4x5": "6bb22bfcc0e90e0b0ee49427c23860fe77bdd5b3fcf9d070fe059a8778e65c62"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Vestervig Church, Vestervig",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

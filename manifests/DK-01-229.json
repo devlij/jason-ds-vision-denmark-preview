@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Sæby/dk-01-229-16x9.png",
   "file_4x5": "Denmark/Sæby/dk-01-229-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-229",
+    "derived_from": "Night master Denmark/Sæby/dk-01-229-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Sæby/dk-01-229-16x9.png",
+        "sha256": "061abb6726ea6a926dcd6f0632ec166c3cb32a32bdfbd7c922644e896b04af0b"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Sæby/dk-01-229-4x5.png",
+        "sha256": "efcedb9b25cd2daf2269765eba7dbfd3be45f557c163cdea4eb67e6c75a63a30"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Sæby/dk-01-229-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Sæby/dk-01-229-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "cd1f08413cd36e7ebdf27731bda62ebb48c24bef5e168d32f3fbaf4e9e3f27c7",
+      "4x5": "26124dbda57d0cde9d343b113cc22db22a2cf21e262ab7f43066490589a39319"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Sæby Church, Sæby",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }

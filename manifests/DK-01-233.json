@@ -11,5 +11,35 @@
   "file_16x9": "Denmark/Lønstrup/dk-01-233-16x9.png",
   "file_4x5": "Denmark/Lønstrup/dk-01-233-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-233",
+    "derived_from": "Night master Denmark/Lønstrup/dk-01-233-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Lønstrup/dk-01-233-16x9.png",
+        "sha256": "3bb053b04ca263237234be1e310198651a7ef1d23f0c92825b1a6fe1633062ca"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Lønstrup/dk-01-233-4x5.png",
+        "sha256": "78eb2cf1c727299487f246dcd91bd38a02192c27d27e7ec84f30079be2429141"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Lønstrup/dk-01-233-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Lønstrup/dk-01-233-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "93fe8094855ccea53db4c911b751d4e3e55ede668f55f21ae425211081917d72",
+      "4x5": "5fe7dd721fffd7960129dd216ba0df53000986c37adbe4da17085b01d4de1d7b"
+    },
+    "created_date": "2026-09-26",
+    "on_image_caption": "Lønstrup Beach, Lønstrup",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  }
 }
