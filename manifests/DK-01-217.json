@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "G1: the red-brick hilltop tower on a grassy knoll under the moon, night landscape with scattered town lights; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:36:02 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no readable plaque; G5: clean.",
+  "approved_at": "2026-09-26T11:20:39.639734+00:00",
+  "sha256_16x9": "4d52d57886c959ea9648fdc85c29d74ee367fb15cf559a7ecec9e58c1ec6a249",
+  "sha256_4x5": "84002cf5a09ecad82b013f193cb9cef853328bf2ecc635cb03c021e147252597"
 }
