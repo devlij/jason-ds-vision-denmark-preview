@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the old stone bridge with three arches over the river, warm lamp reflections, lit brick houses along the bank and a starry sky; plausible tourist viewpoint for 'Varde Å, Varde', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Varde Å, Varde', 'Scenario: 25 September 2026 · 05:56 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-222 claims one Open-Meteo retrieval at 25 September 2026 05:43:30 Europe/Copenhagen valid 25 September 2026 05:30 Europe/Copenhagen — scenario 05:56 falls inside the cited 05:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
+  "approved_at": "2026-09-26T12:25:04.527901+00:00",
+  "sha256_16x9": "b4951d8bccbf38175dd6370abb57a80e9829f9ab4ad065a7c1d5769e28e1de94",
+  "sha256_4x5": "2776f7e9ecfb799e8de812b2df40e137fbb4b22885845867a807c34ec908dcd5"
 }
