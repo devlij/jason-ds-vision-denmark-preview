@@ -57,6 +57,11 @@
       "at": "2026-09-26T07:22:26.084397+00:00",
       "by": "Cosmo QC",
       "note": "Gate-1 hold: master renders FIVE seated white figures on the dune overlooking the sea; the real Svend Wiig Hansen 'Men at Sea' sculpture is four figures, so the figure count is a glaring misconfiguration and the note's 'four figures' claim does not match the image. Also flagging for Jason's commercial-use call: the sculpture is by Svend Wiig Hansen (d. 1997), so copyright may still subsist. Held as Candidate until the builder regenerates with four figures and the note is corrected."
+    },
+    {
+      "at": "2026-09-26T10:22:14.125525+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 1 hold: the 16:9 master renders five white seated figures, but the captioned site (Men at Sea / Mennesket ved Havet, Esbjerg) has exactly four — the build note's own geometry anchor #1 requires 'Exactly four white seated figures in a row'. Scene-specific miscount visible on the grass bank facing the sea. Hold for builder re-render with four figures; gates 2-4 otherwise clear (dims exact, on-image caption/scenario/disclosure/signature verified, Open-Meteo retrieval 25 September 2026 23:19:11 unique repo-wide, text-prompt-only)."
     }
   ]
 }
