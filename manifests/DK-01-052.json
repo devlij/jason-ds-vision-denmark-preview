@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Jelling Stones at night: the two rune stones in glass display cases in the foreground, Jelling church between the two grass burial mounds behind; on-image caption 'Jelling Stones, Jelling', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:28 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no modern marks; all five gates pass.",
+  "approved_at": "2026-09-26T01:21:31.293894+00:00",
+  "sha256_16x9": "0211adeadbb2f354110fc5b0d7a82319f0870376cb346bc85249445adea23ba2",
+  "sha256_4x5": "2a8ed59153c44123aa9f30a5a883abe3049fdba0a03cdd1f53c0de3da3673b33"
 }
