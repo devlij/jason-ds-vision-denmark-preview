@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the white lighthouse with black lantern on moonlit dunes beside the keeper's house, moonlight on the sea; plausible tourist viewpoint for 'Lyngvig Lighthouse, Nørre Lyngvig', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Lyngvig Lighthouse, Nørre Lyngvig', 'Scenario: 25 September 2026 · 05:56 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-224 claims one Open-Meteo retrieval at 25 September 2026 23:36:13 Europe/Copenhagen (HTTP Date 21:36:13 GMT) valid 25 September 2026 05:45 Europe/Copenhagen — scenario 05:56 falls inside the cited 05:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
+  "approved_at": "2026-09-26T12:25:14.229068+00:00",
+  "sha256_16x9": "44b518629b21702bf828e4fd1530dc4994da2c37b5f2c2711b0f957c11be00f8",
+  "sha256_4x5": "676b4cb1e08ab07fdf602ed071bf686dbae332a43ca2f384bce5412a9b069be2"
 }
