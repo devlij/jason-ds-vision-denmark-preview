@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: the red-brick neo-Gothic town hall with its corner tower, the statue on a plinth in the centre of the paved square, lit street lamps and historic gabled houses around Torvet — recognizably Hillerod's market square, clean framing, no artifacts. Gate 2: on-image caption 'Torvet, Hillerod', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:41 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T08:33:01.039400+00:00",
+  "sha256_16x9": "f526d800927c64588b210a42d14a59a9c18811c8550ffdccdc9ef2b45e5ea369",
+  "sha256_4x5": "d616fda8192321e0ebf56c0bf299cd42a7196434be799d30d3595005d28e83b8"
 }
