@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: night view of half-timbered gabled houses with red tile roofs ringing a cobbled square under heavy cloud, warm streetlamps lit — matches Koge Old Town anchors (Torvet). Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image caption 'Koge Old Town, Koge', scenario '25 September 2026 · 00:34 Europe/Copenhagen', AI disclosure, curly-apostrophe 'Jason D's Vision' signature legible on gradient scrim. Weather retrieval cited 25 September 2026 23:08:51 Europe/Copenhagen (HTTP Date Fri, 25 Sep 2026 21:08:51 GMT), valid 00:30 step, is_day 0, overcast 12.0C 90% cloud, wind 10.4 km/h — unique to the second across the audit batch and no exact-second match in neighboring scenes DK-046-055 (which cite 23:09:20+); scenario 00:34 inside model-valid hour 00:00-00:59, at/after the 00:30 step. Gate 3: builder notes document text-prompt-only, no photographic reference pixels. Gate 4: no people or logos observed (documented only, final commercial call is Jason's). Gate 5 PASS.",
+  "approved_at": "2026-09-26T00:26:49.840658+00:00",
+  "sha256_16x9": "f119f2a8986bdb215cff45e01bc8279550609c1f3256a67ad089e84daae62753",
+  "sha256_4x5": "7f2ed4334ef10c85e20bcd22c7e59c92adb2bd047cec5a2ed5d0ab5f6fdc985f"
 }
