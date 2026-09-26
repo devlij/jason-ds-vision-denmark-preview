@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the concrete tidal-sluice channel and twin gates opening onto Wadden Sea flats, with the grass dike at right; plausible tourist viewpoint for 'Kammerslusen, Ribe', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Kammerslusen, Ribe', 'Scenario: 25 September 2026 · 05:56 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-220 claims one Open-Meteo retrieval at 25 September 2026 23:36:07 Europe/Copenhagen (HTTP Date 21:36:07 GMT) valid 25 September 2026 05:45 Europe/Copenhagen — scenario 05:56 falls inside the cited 05:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
+  "approved_at": "2026-09-26T12:24:55.462734+00:00",
+  "sha256_16x9": "712262e5b280ac7cbad76049adcb5e13af5e3284712719c3db125d205a54b9c0",
+  "sha256_4x5": "9400c822e7de76eaf1a2eeb2de7bad4c616b4611d3667fb6863b9b227788f009"
 }
