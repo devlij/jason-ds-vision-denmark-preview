@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: moonlit churchyard view — bare grey granite nave and apse masonry, whitewashed west tower with a plain saddle roof (no spire), lead-grey roofs, two path lamps; the tower/nave material contrast matches the documented anchors exactly. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Vestervig Church, Vestervig', scenario '25 September 2026 · 06:22 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:10:24 for this scene's own coords, scenario inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable gravestone signage. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T13:23:37.875121+00:00",
+  "sha256_16x9": "7e59f2dccdd21ba5923e76bbbc927dd00dd4a144747fa224c1a030df0bf86708",
+  "sha256_4x5": "a7928654cecf4a3d08660fb277c8f08ad2a96f078c6a23a8792f1c48c846cb20"
 }
