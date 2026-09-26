@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: night — stone gatehouse and iron fence in foreground, tree-lined avenue leading to a lit white manor with a tower — matches Knuthenborg estate gate view anchors. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Knuthenborg, Maribo', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:08:56 Europe/Copenhagen (HTTP Date 21:08:56 GMT), valid 00:45 step, is_day 0, partly cloudy 12.0C 65% cloud, wind 10.3 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: private estate/manor visible behind gates — documented only, no legal certification; no people/logos. Gate 5 PASS.",
+  "approved_at": "2026-09-26T00:27:56.267081+00:00",
+  "sha256_16x9": "1fb3773fc861ae30825e9c2a94bc720b121ed8e2cd40c3b5d42cb081c4c76da2",
+  "sha256_4x5": "c41f4d3be308d0d430fae66d2cebc42e12d34300257c5e70750ae56c50f91aee"
 }
