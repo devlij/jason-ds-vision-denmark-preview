@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1 PASS: night — large red-brick waterfront castle with lit windows, streetlamps on the quay reflecting in the water — matches Sonderborg Castle's waterfront form. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Sonderborg Castle, Sonderborg', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:10 Europe/Copenhagen (HTTP Date 21:09:10 GMT), valid 00:45 step, is_day 0, overcast 12.9C 92% cloud, wind 14.0 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
+  "approved_at": "2026-09-26T00:29:47.479542+00:00",
+  "sha256_16x9": "fe804298419872bc66aaa16f16d4be695c62712c6e9407d96da7a1bf90c318a2",
+  "sha256_4x5": "127b78564dfd8224884e69dc4517df020435c8dfa343bf8af79992c4dd47db57"
 }
