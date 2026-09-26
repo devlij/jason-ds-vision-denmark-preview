@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Aalborg Harbour at night: the lit waterfront promenade and the steel truss Limfjordsbroen spanning the fjord, city lights and reflections; on-image caption 'Aalborg Harbour, Aalborg', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:33 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no operator marks; all five gates pass.",
+  "approved_at": "2026-09-26T01:21:58.796516+00:00",
+  "sha256_16x9": "1c694458ff6d21a725aa4872a2edcf9b38014d1131c57724ce44d9a2e30b8adf",
+  "sha256_4x5": "fc2640267fcfff77becf32a5efdb42ae70f9f694936565bfd6448855a17b09aa"
 }
