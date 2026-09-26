@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: night view of a tall brick church with dark spire left, narrow fjord waterway crossed mid-frame by a low bridge, red-tile town roofs — matches Sakskøbing's fjord/bridge/spire anchors, plausible waterfront viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Sakskøbing, Sakskøbing', scenario 'Scenario: 25 September 2026 · 02:16 Europe/Copenhagen', 'AI-generated artistic interpretation · Not a photograph.' disclosure, 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:16 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:20:04 Europe/Copenhagen — unique to this scene, verified repo-wide against the covering BATCH notes, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs; generic roofs only. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T05:28:00.633771+00:00",
+  "sha256_16x9": "e91d7cac99eaad417b60ca5420d88c9bd1180e98837a3313d13b62b6917a4727",
+  "sha256_4x5": "1440a20cbda31ab78abad658b575ec2ca60af1f8ec609c760a86b28158ec0e1c"
 }
