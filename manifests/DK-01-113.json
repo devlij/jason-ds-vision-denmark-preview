@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: night view across a wet cobbled square: large red-brick church with prominent west tower, stepped gables, tall lancet windows, verdigris onion-dome spire topped with a cross — consistent with Vor Frue Kirke's tower-and-spire anchors; warm street lamps, low yellow/white townhouses flanking both sides, large leafy tree left, wet cobblestones reflecting lamp light — plausible square viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Vor Frue, Svendborg', scenario 'Scenario: 25 September 2026 · 02:33 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:33 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:26:37 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs, no recognizable private property. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T05:28:57.780011+00:00",
+  "sha256_16x9": "dab0ff27b2ee1a05924f3073c71b7f9e7bc624393a35b9f25004ae1b52490a36",
+  "sha256_4x5": "478b780bf31f4d6290ac2a1ef242767c7d475cf5533ec513e0a02dc0a35c73e6"
 }
