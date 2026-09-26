@@ -11,5 +11,11 @@
   "file_16x9": "Denmark/Rønne/dk-01-241-16x9.png",
   "file_4x5": "Denmark/Rønne/dk-01-241-4x5.png",
   "license_badge": "Free · no credit needed",
-  "license_anchor": "#license"
+  "license_anchor": "#license",
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gate 1: Rønne harbour basin with fishing boats in the foreground, a large plain white ferry at the quay, low red and ochre warehouses with town roofs rising behind, quay lamps reflecting on dark water — no cobbled half-timber lane in frame, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Rønne Harbour, Rønne', scenario '25 September 2026 · 06:35 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:31:56 for this scene's own coords, scenario after the 06:30 model step inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable ferry name. Gate 5: no open blockers.",
+  "approved_at": "2026-09-26T13:25:42.908229+00:00",
+  "sha256_16x9": "14f91c7c5b465a75fbd7d2b7071339c2f1e8122897e353580d10f51a5d3a9e2c",
+  "sha256_4x5": "b0d6c0e2d2a97521950910ee46cc06b2f3dcb77a7ccb4fbc0e19abf4594852bf"
 }
