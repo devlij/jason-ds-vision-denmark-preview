@@ -41,5 +41,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Hjejlen paddle steamer at night: the white side-wheel steamer moored at a wooden pier on still water, lakeside houses with lamps behind; on-image caption 'Hjejlen, Silkeborg', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:26 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no readable boat name or marks; all five gates pass.",
+  "approved_at": "2026-09-26T01:21:21.823999+00:00",
+  "sha256_16x9": "575250fcb992930d0c67500776895fd7eb6d77b752e1fb281555ea84b9b0c34f",
+  "sha256_4x5": "7a2703a57d2ea0972d58faf9af17cc1e713865c0c2d32878984f4ec3586bac7c"
 }
