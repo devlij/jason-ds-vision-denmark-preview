@@ -10,6 +10,12 @@
   "alt_text": "AI-generated artistic interpretation of Frederik VII's Canal in Løgstør on a partly cloudy morning, white houses and a low bridge",
   "file_16x9": "Denmark/Løgstør/dk-01-292-16x9.png",
   "file_4x5": "Denmark/Løgstør/dk-01-292-4x5.png",
+  "file_9x16": "Denmark/Løgstør/dk-01-292-9x16.png",
+  "master_sha256": {
+    "16x9": "b6741ff679f518c0ce3b78e6d4ccb5e72eea82b3f8c1d64bc0550da2121109ff",
+    "4x5": "cff05a004f42eb19e38c6bce340b95e2880f8126e3388e223b3dd65e4e9d1bd2",
+    "9x16": "53e30e6989b07b39263d04ba150ea4227d51fecdfb9a58ae49fa5a630641fb67"
+  },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -18,5 +24,10 @@
       "by": "Cosmo QC",
       "note": "Gate 1 hold: inter-format disagreement on the anchored bridge. The card description says 'a low swing bridge lying flat across the canal' and the 4:5 master shows a low flat bridge, but the 16:9 master shows a tall steel through-truss bridge that contradicts both the description and the other format. Held as Candidate until the 16:9 is re-rendered with the low flat swing bridge both formats agree on."
     }
-  ]
+  ],
+  "hold_rerender": {
+    "at": "2026-09-27",
+    "status": "Candidate",
+    "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
+  }
 }

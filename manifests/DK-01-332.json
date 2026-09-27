@@ -10,6 +10,12 @@
   "alt_text": "AI-generated artistic interpretation of the Eiði headland in the Faroe Islands on a clear windy afternoon, two sea stacks",
   "file_16x9": "Denmark/Eiði/dk-01-332-16x9.png",
   "file_4x5": "Denmark/Eiði/dk-01-332-4x5.png",
+  "file_9x16": "Denmark/Eiði/dk-01-332-9x16.png",
+  "master_sha256": {
+    "16x9": "4c38be1af7e01bb3d197ef29a9d4ab90b2e4a789ad23c26ddc853c2a20abef80",
+    "4x5": "99efec59c35cc0858ad7ebaed90d66bf255a88692b50418a138fb6b1bf8ac92e",
+    "9x16": "ee3b1ab105a4759e0b872b31c3ccd7ed5d9f261b43cb59c4f2ea53cae62e7b4c"
+  },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -18,5 +24,10 @@
       "by": "Cosmo QC",
       "note": "QC hold (Cosmo, 2026-09-26): Gate 1+2 inter-format sky disagreement. Independent read of both downloaded masters: the 16:9 shows a clear blue sky, but the 4:5 shows a heavy overcast gray sky — the two formats of the same scene depict incompatible skies, and the 4:5's overcast contradicts the recorded per-scene weather evidence (Open-Meteo retrieved 25 September 2026 14:54:56 Europe/Copenhagen, model step 14:45: clear, cloud cover 0%). Hold pending a re-render so both formats match the clear-sky scenario."
     }
-  ]
+  ],
+  "hold_rerender": {
+    "at": "2026-09-27",
+    "status": "Candidate",
+    "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
+  }
 }

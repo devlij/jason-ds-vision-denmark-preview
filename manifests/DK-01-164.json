@@ -10,6 +10,12 @@
   "alt_text": "AI-generated artistic interpretation of Trekroner Fort at night, a low sea fort seen from Copenhagen harbour",
   "file_16x9": "Denmark/Copenhagen/dk-01-164-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-164-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-164-9x16.png",
+  "master_sha256": {
+    "16x9": "56bbd37e1a43a49b034f9006a50b5ebd42a386542835cffbd89a0abc2f580a2c",
+    "4x5": "5e928f31c78e75842526cfb020e7e00b465b0acdf98de51107ae525f6858ec51",
+    "9x16": "2ec3934f05c761dc8fbef0d1dc2f0c95fe86a621d1fe62479077e0cb6acc055b"
+  },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -18,13 +24,17 @@
     "source_night": {
       "16x9": {
         "path": "library/world/Denmark/Copenhagen/dk-01-164-16x9.png",
-        "sha256": "84b6c21acf7bd2cb9bd174e14282cf852ba2f19812b1c2c98789620baded42ca"
+        "sha256": "84b6c21acf7bd2cb9bd174e14282cf852ba2f19812b1c2c98789620baded42ca",
+        "sha256_at_daylight_derivation": "84b6c21acf7bd2cb9bd174e14282cf852ba2f19812b1c2c98789620baded42ca",
+        "sha256_after_hold_rerender": "56bbd37e1a43a49b034f9006a50b5ebd42a386542835cffbd89a0abc2f580a2c"
       },
       "4x5": {
         "path": "library/world/Denmark/Copenhagen/dk-01-164-4x5.png",
-        "sha256": "ead5f4acb6a37f7bc120c1148fdaeb96b5d3dd3d2092dfd21b059eff276ab9ae"
+        "sha256": "ead5f4acb6a37f7bc120c1148fdaeb96b5d3dd3d2092dfd21b059eff276ab9ae",
+        "sha256_at_daylight_derivation": "ead5f4acb6a37f7bc120c1148fdaeb96b5d3dd3d2092dfd21b059eff276ab9ae",
+        "sha256_after_hold_rerender": "5e928f31c78e75842526cfb020e7e00b465b0acdf98de51107ae525f6858ec51"
       },
-      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+      "recorded": "sha256 is the night file the daylight variant was derived from. Night masters were re-rendered on 2026-09-27 for the recorded Cosmo hold; sha256_after_hold_rerender is the current night file. Daylight masters were not rewritten."
     },
     "files": {
       "16x9": "library/world/Denmark/Copenhagen/dk-01-164-daylight-16x9.png",
@@ -48,5 +58,10 @@
       "by": "Cosmo QC",
       "note": "Gate-1 hold: the master renders a prominent windmill on Trekroner Fort’s grass ramparts; the real fort has no windmill, and the card description itself claims ‘There is no tall castle and no windmill’, contradicting the image. The scene needs a re-render without the invented windmill (or a description that no longer claims its absence) before approval."
     }
-  ]
+  ],
+  "hold_rerender": {
+    "at": "2026-09-27",
+    "status": "Candidate",
+    "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
+  }
 }

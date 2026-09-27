@@ -10,6 +10,12 @@
   "alt_text": "AI-generated artistic interpretation of Aasiaat harbour on a mainly clear cold afternoon, colourful wooden houses on dark rock",
   "file_16x9": "Denmark/Aasiaat/dk-01-364-16x9.png",
   "file_4x5": "Denmark/Aasiaat/dk-01-364-4x5.png",
+  "file_9x16": "Denmark/Aasiaat/dk-01-364-9x16.png",
+  "master_sha256": {
+    "16x9": "218972f9cfad7a0a752580ac7ccb67329835dc4ede8a35a4760e286e411560cb",
+    "4x5": "98cd1787bac49ab06815ebb8f1b303d584e8cb710640436aff1ad6d157711173",
+    "9x16": "5d948b88ffe1420e943d60d78412c57e668eb1a91e700be575f9cdb51feb90ec"
+  },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -18,5 +24,10 @@
       "by": "Cosmo QC",
       "note": "QC hold (Cosmo, 2026-09-26): Gate 1 + 2 inter-format disagreement. Independent read of both downloaded masters: the 16:9 shows the card-described subject (row of colourful wooden houses on dark rock, quay with fishing boats, open water) under a heavily clouded sky; the 4:5 shows a different composition entirely (stone-breakwater marina with sailboat docks, town on a rocky hill behind) under a clear blue sky. The 4:5 does not match the card description ('row of colourful wooden houses on dark rock, with a few small boats and open water') and the two formats disagree materially on sky conditions (overcast vs clear) for the same scenario minute. Hold as Candidate until the builder re-pushes a matching 4:5."
     }
-  ]
+  ],
+  "hold_rerender": {
+    "at": "2026-09-27",
+    "status": "Candidate",
+    "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
+  }
 }

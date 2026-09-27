@@ -10,6 +10,12 @@
   "alt_text": "AI-generated artistic interpretation of Børglum Abbey at night, a white baroque complex on a hill",
   "file_16x9": "Denmark/Børglum/dk-01-231-16x9.png",
   "file_4x5": "Denmark/Børglum/dk-01-231-4x5.png",
+  "file_9x16": "Denmark/Børglum/dk-01-231-9x16.png",
+  "master_sha256": {
+    "16x9": "d0438866ac85e61252ef33fb81a0fee9dd3ac11c7b86561228eab6dc0a80218b",
+    "4x5": "b7636bfb41c932cdb1651afb8db1b899f1b53e7b57758bd6952ace56f1d222aa",
+    "9x16": "2f8eb686cc06b57e9b29a442189a9bbd1279ba65269dca46e855f86d7a240c6a"
+  },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -18,13 +24,17 @@
     "source_night": {
       "16x9": {
         "path": "library/world/Denmark/Børglum/dk-01-231-16x9.png",
-        "sha256": "6498f1ee3f1c62b63c003199733076b545ef0ccdba377f4eed906b0d2718cc04"
+        "sha256": "6498f1ee3f1c62b63c003199733076b545ef0ccdba377f4eed906b0d2718cc04",
+        "sha256_at_daylight_derivation": "6498f1ee3f1c62b63c003199733076b545ef0ccdba377f4eed906b0d2718cc04",
+        "sha256_after_hold_rerender": "d0438866ac85e61252ef33fb81a0fee9dd3ac11c7b86561228eab6dc0a80218b"
       },
       "4x5": {
         "path": "library/world/Denmark/Børglum/dk-01-231-4x5.png",
-        "sha256": "6dfe1716569ec392cda995d68c15d8119680eb0c3fa837af491db6745efab0b6"
+        "sha256": "6dfe1716569ec392cda995d68c15d8119680eb0c3fa837af491db6745efab0b6",
+        "sha256_at_daylight_derivation": "6dfe1716569ec392cda995d68c15d8119680eb0c3fa837af491db6745efab0b6",
+        "sha256_after_hold_rerender": "b7636bfb41c932cdb1651afb8db1b899f1b53e7b57758bd6952ace56f1d222aa"
       },
-      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+      "recorded": "sha256 is the night file the daylight variant was derived from. Night masters were re-rendered on 2026-09-27 for the recorded Cosmo hold; sha256_after_hold_rerender is the current night file. Daylight masters were not rewritten."
     },
     "files": {
       "16x9": "library/world/Denmark/Børglum/dk-01-231-daylight-16x9.png",
@@ -48,5 +58,10 @@
       "by": "Cosmo QC",
       "note": "Gate 1 hold: the 16:9 master renders two prominent crow-stepped gable ends on the rear range, but the evidence card's own geometry anchors say 'No stepped gables' and the independent description documents de Thurah's 1750-55 rebuilding as removing the stepped gables. Builder to re-render without crow-steps or cite sources proving they belong on the present complex."
     }
-  ]
+  ],
+  "hold_rerender": {
+    "at": "2026-09-27",
+    "status": "Candidate",
+    "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
+  }
 }

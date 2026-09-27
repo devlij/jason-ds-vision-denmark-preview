@@ -10,6 +10,12 @@
   "alt_text": "AI-generated artistic interpretation of Men at Sea at Esbjerg at night, four white seated figures facing the water",
   "file_16x9": "Denmark/Esbjerg/dk-01-095-16x9.png",
   "file_4x5": "Denmark/Esbjerg/dk-01-095-4x5.png",
+  "file_9x16": "Denmark/Esbjerg/dk-01-095-9x16.png",
+  "master_sha256": {
+    "16x9": "1d8f96be452657c4b50728f1bdc1e92bb9839566d0a59618c00a9128b528dcb0",
+    "4x5": "edadbc3881386fcbe1cf363301b154b3801c90867a146a612ee0aa93495f91ae",
+    "9x16": "1004c005000124873cb68a9c913b2392ab28fd7dcba7aab776e041adfda20fa0"
+  },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -18,13 +24,17 @@
     "source_night": {
       "16x9": {
         "path": "library/world/Denmark/Esbjerg/dk-01-095-16x9.png",
-        "sha256": "91e6244f8da675ff899845b1e1188950de8dc5ec0d545ce7f40744a158ca308e"
+        "sha256": "91e6244f8da675ff899845b1e1188950de8dc5ec0d545ce7f40744a158ca308e",
+        "sha256_at_daylight_derivation": "91e6244f8da675ff899845b1e1188950de8dc5ec0d545ce7f40744a158ca308e",
+        "sha256_after_hold_rerender": "1d8f96be452657c4b50728f1bdc1e92bb9839566d0a59618c00a9128b528dcb0"
       },
       "4x5": {
         "path": "library/world/Denmark/Esbjerg/dk-01-095-4x5.png",
-        "sha256": "95d622d26d69fee4bb19a4b83bbf18e3475f69b492780fd10d824f6eba0be131"
+        "sha256": "95d622d26d69fee4bb19a4b83bbf18e3475f69b492780fd10d824f6eba0be131",
+        "sha256_at_daylight_derivation": "95d622d26d69fee4bb19a4b83bbf18e3475f69b492780fd10d824f6eba0be131",
+        "sha256_after_hold_rerender": "edadbc3881386fcbe1cf363301b154b3801c90867a146a612ee0aa93495f91ae"
       },
-      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+      "recorded": "sha256 is the night file the daylight variant was derived from. Night masters were re-rendered on 2026-09-27 for the recorded Cosmo hold; sha256_after_hold_rerender is the current night file. Daylight masters were not rewritten."
     },
     "files": {
       "16x9": "library/world/Denmark/Esbjerg/dk-01-095-daylight-16x9.png",
@@ -68,5 +78,10 @@
       "by": "Cosmo QC",
       "note": "Gate 1 hold: the 16:9 master shows FIVE white seated figures in a row; Men at Sea is exactly four figures (per the note's own geometry anchor 1 and its independent description of Svend Wiig Hansen's four 9-metre figures). The fifth figure is a generation misconfiguration. Held as Candidate — regenerate with exactly four figures before re-audit."
     }
-  ]
+  ],
+  "hold_rerender": {
+    "at": "2026-09-27",
+    "status": "Candidate",
+    "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
+  }
 }

@@ -10,6 +10,12 @@
   "alt_text": "AI-generated artistic interpretation of Paamiut harbour under a clear late-morning sky, colourful houses on rock",
   "file_16x9": "Denmark/Paamiut/dk-01-335-16x9.png",
   "file_4x5": "Denmark/Paamiut/dk-01-335-4x5.png",
+  "file_9x16": "Denmark/Paamiut/dk-01-335-9x16.png",
+  "master_sha256": {
+    "16x9": "1facf0723b1c75612a9fb74ee12043a44b18f2b336ca56c212fd4465408d2019",
+    "4x5": "bfe108ca8893b68d96ad131c05415ec2a3ce25648414b9fb9ead3efacdab1680",
+    "9x16": "85d15cd300733949cb262ecca8d7b83211b84328afaa2dfdc4d4532397fb71f2"
+  },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -18,5 +24,10 @@
       "by": "Cosmo QC",
       "note": "QC hold (Cosmo, 2026-09-26): Gate 1+2 solar-direction contradiction in the 4:5 master. It shows the sun at the horizon (sunrise/sunset light), but the recorded scenario is 25 September 2026 14:56 Europe/Copenhagen = 11:56 America/Nuuk local, computed sun altitude about 22.2 degrees with sunset at 19:57 Nuuk — midday, sun well up. The 16:9 correctly shows a higher clear-day sun. Hold pending a 4:5 re-render with midday solar geometry matching the evidence (Open-Meteo retrieved 25 September 2026 14:54:57 Europe/Copenhagen, clear, cloud cover 0%)."
     }
-  ]
+  ],
+  "hold_rerender": {
+    "at": "2026-09-27",
+    "status": "Candidate",
+    "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
+  }
 }
