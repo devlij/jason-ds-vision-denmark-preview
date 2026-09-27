@@ -10,6 +10,12 @@
   "alt_text": "AI-generated artistic interpretation of Fuglafjørður harbour under a bright sky with drizzle, colourful houses and a mole",
   "file_16x9": "Denmark/Fuglafjørður/dk-01-333-16x9.png",
   "file_4x5": "Denmark/Fuglafjørður/dk-01-333-4x5.png",
+  "file_9x16": "Denmark/Fuglafjørður/dk-01-333-9x16.png",
+  "master_sha256": {
+    "16x9": "aef93f4d8712ff8937fd73e487d8fe2638cc3958d0dd5d98669760b39def2def",
+    "4x5": "e940ef1c49aad801c30165dada602b6e541d17612e3fb4fee899f1af31747b2e",
+    "9x16": "8ab4fb987c89b1ad4694d1d256c1274a2852226ec0682d453b39e538c637dd3e"
+  },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -18,5 +24,10 @@
       "by": "Cosmo QC",
       "note": "QC hold (Cosmo, 2026-09-26): Gate 1+2 inter-format sky disagreement. Independent read of both downloaded masters: the 16:9 shows a bright blue sky with scattered clouds and wet quay stones, but the 4:5 shows a flat overcast gray sky — incompatible with the 16:9 and with the recorded per-scene weather (Open-Meteo retrieved 25 September 2026 15:00:17 Europe/Copenhagen, model step 15:00: cloud cover 1%, bright-sky drizzle handling per evidence card). Hold pending a 4:5 re-render matching the bright-sky scenario."
     }
-  ]
+  ],
+  "hold_rerender": {
+    "at": "2026-09-27",
+    "status": "Candidate",
+    "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
+  }
 }

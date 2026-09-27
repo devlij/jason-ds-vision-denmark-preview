@@ -10,6 +10,12 @@
   "alt_text": "AI-generated artistic interpretation of Aars Church on a partly cloudy morning, a pale church and tower by an empty square",
   "file_16x9": "Denmark/Aars/dk-01-293-16x9.png",
   "file_4x5": "Denmark/Aars/dk-01-293-4x5.png",
+  "file_9x16": "Denmark/Aars/dk-01-293-9x16.png",
+  "master_sha256": {
+    "16x9": "566f4b2b849f8a5d89f193a3d485f71b9536e1cb8020ee2e993d6e61603ea931",
+    "4x5": "392a64a1907c3d3393ff9b3ab627300b913adce0c99c747f76e07eec02288f07",
+    "9x16": "747cc5efa5d3c6503e2c047d2a7ece408194334365c59c59557579c004d33560"
+  },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -18,5 +24,10 @@
       "by": "Cosmo QC",
       "note": "Gate 1 hold: inter-format subject disagreement. The 16:9 master shows a whitewashed church with a tall red spire and clock; the 4:5 master shows an exposed-stone church with a squat pyramid-capped tower and no spire — the two formats read as different buildings. Held as Candidate until both formats depict the same church."
     }
-  ]
+  ],
+  "hold_rerender": {
+    "at": "2026-09-27",
+    "status": "Candidate",
+    "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
+  }
 }

@@ -10,6 +10,12 @@
   "alt_text": "AI-generated artistic interpretation of Rise Church in Store Rise on an overcast morning, a whitewashed church with a copper spire",
   "file_16x9": "Denmark/Store Rise/dk-01-318-16x9.png",
   "file_4x5": "Denmark/Store Rise/dk-01-318-4x5.png",
+  "file_9x16": "Denmark/Store Rise/dk-01-318-9x16.png",
+  "master_sha256": {
+    "16x9": "ce7584fdff47acad3ca70590745421fbe4fac973c43e230f2bdab2bcec1e0730",
+    "4x5": "3966e14ea3e356188df8275830616e1a53bc1908059a1ae5fd4932a7c280ba42",
+    "9x16": "b3c86a50e4261a20431a21a01c11b258445ceb63c83eb7a61eec47e865a84e7b"
+  },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -18,5 +24,10 @@
       "by": "Cosmo QC",
       "note": "Gate 1 hold: inter-format disagreement on the west tower. The 16:9 master shows an exposed-stone/ashlar west tower with a broad green-copper spire and round-arched belfry openings, while the 4:5 master shows a whitewashed plastered west tower with a slimmer, darker spire above a louvered belfry stage and a front churchyard full of gravestones. The two formats read as different towers on the same church — the defining tower features do not agree. Held as Candidate until both formats are re-rendered to agree on the tower's identity."
     }
-  ]
+  ],
+  "hold_rerender": {
+    "at": "2026-09-27",
+    "status": "Candidate",
+    "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
+  }
 }

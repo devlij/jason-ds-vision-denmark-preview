@@ -10,6 +10,12 @@
   "alt_text": "AI-generated artistic interpretation of Give Church on a mainly clear morning, pale stone walls and a west tower",
   "file_16x9": "Denmark/Give/dk-01-299-16x9.png",
   "file_4x5": "Denmark/Give/dk-01-299-4x5.png",
+  "file_9x16": "Denmark/Give/dk-01-299-9x16.png",
+  "master_sha256": {
+    "16x9": "16e1383e811f7726f345aafc49da594aa747efd19c7401e90eb26cdc55c789d8",
+    "4x5": "dfe3bf67dfc1fab6f502dcc3dfca9b945705585a2f6873b39d915ca3d93ffe75",
+    "9x16": "373ea8c23781289596dd6a5ce8ba4b934be364a8853c87d0bf290cae855f8fd1"
+  },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -18,5 +24,10 @@
       "by": "Cosmo QC",
       "note": "Gate 1 hold: inter-format disagreement on the west tower crown. The 16:9 master shows a plain red-tile pyramid cap; the 4:5 master shows a crenellated parapet with a needle spire rising from it — the defining tower silhouettes do not agree. Held as Candidate until both formats show the same tower."
     }
-  ]
+  ],
+  "hold_rerender": {
+    "at": "2026-09-27",
+    "status": "Candidate",
+    "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
+  }
 }
