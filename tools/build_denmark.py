@@ -742,6 +742,7 @@ PAGE = r"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PDJ4WSS725"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -764,19 +765,15 @@ PAGE = r"""<!DOCTYPE html>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "WebSite",
-      "name": "Jason D’s Vision — Denmark",
-      "url": "https://devlij.github.io/jason-ds-vision-denmark-preview/",
-      "inLanguage": "en"
-    },
-    {
-      "@type": "Organization",
-      "name": "Jason D's Vision",
-      "url": "https://jdvision.org/"
-    }
-  ]
+  "@type": "ImageGallery",
+  "name": "Jason D's Vision \u2014 Denmark",
+  "url": "https://devlij.github.io/jason-ds-vision-denmark-preview/",
+  "description": "AI-generated artistic interpretations of Denmark, the Faroe Islands and Greenland. Free to use, no credit required.",
+  "inLanguage": "en",
+  "creator": {
+    "@type": "Organization",
+    "name": "Jason D's Vision"
+  }
 }
 </script>
 <style>
@@ -918,8 +915,8 @@ PAGE = r"""<!DOCTYPE html>
     .flag-chip.flag-es{background:linear-gradient(to bottom,#AA151B 0 25%,#F1BF00 0 75%,#AA151B 0)}
     .flag-chip.flag-gr{background:repeating-linear-gradient(to bottom,#0D5EAF 0 3px,#fff 0 6px)}
     .flag-chip.flag-nl{background:linear-gradient(to bottom,#AE1C28 0 33.34%,#fff 0 66.67%,#21468B 0)}
-    .flag-chip.flag-ch{background:#DA291C;position:relative}
-    .flag-chip.flag-dk{background:linear-gradient(to bottom,transparent 38%,#fff 38%,#fff 62%,transparent 62%),linear-gradient(to right,transparent 28%,#fff 28%,#fff 44%,transparent 44%),#C8102E}.flag-chip.flag-no,.flag-no{background:linear-gradient(#00205B,#00205B) center/100% 20% no-repeat,linear-gradient(#00205B,#00205B) center/22% 100% no-repeat,linear-gradient(#fff,#fff) center/100% 38% no-repeat,linear-gradient(#fff,#fff) center/40% 100% no-repeat,#BA0C2F}
+    .flag-chip.flag-ch{background:linear-gradient(#fff,#fff) center/45% 22% no-repeat,linear-gradient(#fff,#fff) center/22% 65% no-repeat,#DA291C}
+    .flag-chip.flag-dk{background:linear-gradient(to bottom,transparent 38%,#fff 38%,#fff 62%,transparent 62%),linear-gradient(to right,transparent 28%,#fff 28%,#fff 44%,transparent 44%),#C8102E}.flag-chip.flag-no,.flag-no{background:linear-gradient(to bottom,transparent 35%,#00205B 35%,#00205B 65%,transparent 65%),linear-gradient(to bottom,transparent 25%,#fff 25%,#fff 75%,transparent 75%),linear-gradient(to right,transparent 25%,#00205B 25%,#00205B 45%,transparent 45%),linear-gradient(to right,transparent 15%,#fff 15%,#fff 55%,transparent 55%),#BA0C2F}
     .lb{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;background:rgba(13,18,24,.93)}
 .lb.open{display:flex}
 .lb figure{margin:0;max-width:94vw;display:flex;flex-direction:column;align-items:center}
@@ -1162,7 +1159,7 @@ const DENMARK_META = __DENMARK_META__;
               ${dl('16x9', file16, 'Download 16:9')}
               ${dl('4x5', file45, 'Download 4:5')}
               ${dl('9x16', file916, 'Download 9:16')}
-              ${s.audio ? `<button type="button" class="narrate" data-audio="${esc(s.audio)}" aria-pressed="false" aria-label="Listen to the scene description">\u0001F50A Listen</button>` : ''}
+              ${s.audio ? `<button type="button" class="narrate" data-audio="${esc(s.audio)}" aria-pressed="false" aria-label="Listen to the scene description">🔊 Listen</button>` : ''}
               <button type="button" class="copy-link" aria-label="Copy link to this scene">Copy link</button>
             </div>
           ${relatedHTML(s.entry_id)}</div>`;
@@ -1172,7 +1169,7 @@ const DENMARK_META = __DENMARK_META__;
     const cardAudio = { el: null, btn: null };
     function stopCardAudio() {
       if (cardAudio.el) { cardAudio.el.pause(); cardAudio.el = null; }
-      if (cardAudio.btn) { cardAudio.btn.classList.remove('playing'); cardAudio.btn.setAttribute('aria-pressed','false'); cardAudio.btn.innerHTML = '\u0001F50A Listen'; cardAudio.btn = null; }
+      if (cardAudio.btn) { cardAudio.btn.classList.remove('playing'); cardAudio.btn.setAttribute('aria-pressed','false'); cardAudio.btn.innerHTML = '🔊 Listen'; cardAudio.btn = null; }
     }
     grid.addEventListener('click', (event) => {
       const nbtn = event.target.closest('.narrate');
@@ -1183,7 +1180,7 @@ const DENMARK_META = __DENMARK_META__;
         stopCardAudio();
         const a = new Audio(src);
         cardAudio.el = a; cardAudio.btn = nbtn;
-        nbtn.classList.add('playing'); nbtn.setAttribute('aria-pressed','true'); nbtn.innerHTML = '\u0023F8\u00FE0E Pause';
+        nbtn.classList.add('playing'); nbtn.setAttribute('aria-pressed','true'); nbtn.innerHTML = '\u23F8\uFE0E Pause';
         a.addEventListener('ended', stopCardAudio);
         a.addEventListener('error', stopCardAudio);
         a.play().catch(stopCardAudio);
@@ -1211,7 +1208,7 @@ const DENMARK_META = __DENMARK_META__;
           const f = a.getAttribute('data-dl');
           const dk = f === '4x5' ? (isDay ? 'data-src-45-day' : 'data-src-45') : f === '9x16' ? (isDay ? 'data-src-916-day' : 'data-src-916') : (isDay ? 'data-src-16-day' : 'data-src-16');
           const u = dimg && dimg.getAttribute(dk);
-          if (u) a.href = u;
+          if (u) { a.href = u; a.setAttribute("download", fileName(u)); }
         });
         const sc = dcard.querySelector('p.scenario');
         if (sc) sc.textContent = isDay ? '\u2600 Daylight variant \u00b7 derived from the night interpretation' : 'Scenario: ' + sc.getAttribute('data-scenario');
@@ -1616,12 +1613,21 @@ def write_site(scenes: list) -> None:
         "fmt-tab",
         "How our images are made",
         'id="wotd"',
+        "ImageGallery",
+        "center/45% 22%",
+        'getAttribute("data-src-45")',
+        "\\u23F8\\uFE0E",
+        "🔊 Listen",
     ]
     for item in required:
         if item not in html:
             raise SystemExit(f"gallery missing {item}")
     if "G-FPVHCRLKD2" in html:
         raise SystemExit("stale analytics id")
+    if "\\u0001F50A" in html or "\\u0023F8" in html:
+        raise SystemExit("broken Listen glyph")
+    if "background:#DA291C;position:relative" in html:
+        raise SystemExit("switzerland chip missing cross")
     if "__SCENES__" in html or "__DENMARK_META__" in html:
         raise SystemExit("unsubstituted gallery placeholder")
 
