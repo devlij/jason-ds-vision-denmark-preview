@@ -1056,6 +1056,18 @@ const DENMARK_META = __DENMARK_META__;
       const slash = path.lastIndexOf("/");
       return slash >= 0 ? path.slice(slash + 1) : path;
     }
+    /* Gallery site name (same string as the page title). Image alts are
+       "{caption} — {site}, {City}". */
+    const SITE_NAME = "Jason D\u2019s Vision";
+    function sceneById(id) {
+      for (var i = 0; i < SCENES.length; i++) {
+        if (SCENES[i].entry_id === id) return SCENES[i];
+      }
+      return null;
+    }
+    function sceneAlt(caption, city) {
+      return caption + " \u2014 " + SITE_NAME + ", " + city;
+    }
 
     /* Phase 1: related scenes (Spain algorithm, DENMARK_META substituted). */
     /* Same-region first, then more shared mood tags, then entry id. Skip a scene with no master. */
@@ -1081,8 +1093,10 @@ const DENMARK_META = __DENMARK_META__;
       var items = rel.map(function(rid) {
         var m = DENMARK_META[rid];
         if (!m || !m[3]) return '';
+        var scene = sceneById(rid);
+        var alt = scene ? sceneAlt(scene.caption, scene.city) : m[4];
         return '<a class="related-link" href="#' + rid + '"><img loading="lazy" src="' +
-               esc(m[3]) + '" alt="' + esc(m[4]) + '"><span>' + esc(m[4]) + '</span></a>';
+               esc(m[3]) + '" alt="' + esc(alt) + '"><span>' + esc(m[4]) + '</span></a>';
       }).filter(Boolean).join('');
       if (!items) return '';
       return '<div class="related"><p class="related-h">Related scenes</p>' +
@@ -1130,7 +1144,7 @@ const DENMARK_META = __DENMARK_META__;
           + (day916 ? ` data-src-916-day="${esc(day916)}"` : '');
         const thumb = thumbSrc ? `
             <a class="thumb${activeFmt === '4x5' ? ' tall' : ''}${activeFmt === '9x16' ? ' tall916' : ''}" href="${esc(thumbSrc)}" target="_blank" rel="noopener">
-              <img src="${esc(thumbSrc)}" alt="${esc(s.alt_text)}" loading="lazy"${imgAttrs} />
+              <img src="${esc(thumbSrc)}" alt="${esc(sceneAlt(s.caption, s.city))}" loading="lazy"${imgAttrs} />
             </a>` : '';
         const tab = (fmt, label) => {
           const on = fmt === activeFmt;
@@ -1333,12 +1347,13 @@ const DENMARK_META = __DENMARK_META__;
         var daySrc='';if(im){var nk=lbFormat==='4x5'?'data-src-45':lbFormat==='9x16'?'data-src-916':'data-src-16',dk=lbFormat==='4x5'?'data-src-45-day':lbFormat==='9x16'?'data-src-916-day':'data-src-16-day';if(lbDay==='day'){daySrc=im.getAttribute(dk)||'';}src=daySrc||im.getAttribute(nk);}
         if(!src){var a=c.querySelector('a.thumb');src=a?a.href:'';}
         var capT=t?t.textContent:'';if(daySrc)capT=capT+' \u2014 \u2600 Daylight variant';
-        return{src:src,cap:capT};
+        var altT=im&&im.alt?im.alt:'';if(daySrc&&altT)altT=altT+' \u2014 \u2600 Daylight variant';
+        return{src:src,cap:capT,alt:altT};
       }).filter(function(x){return x.src;});
       if(!items.length)return;
       idx=(i+items.length)%items.length;
       stopNarr();
-      img.src=items[idx].src;img.alt=items[idx].cap;cap.textContent=items[idx].cap;
+      img.src=items[idx].src;img.alt=items[idx].alt||items[idx].cap;cap.textContent=items[idx].cap;
       var curCard=visibleCards()[idx];var hasA=!!(curCard&&curCard.getAttribute('data-audio'));
       narrBtn.style.display=hasA?'':'none';
       count.textContent=(idx+1)+' / '+items.length;
@@ -1557,10 +1572,9 @@ def write_site(scenes: list) -> None:
         if audio and not (ROOT / audio).is_file():
             raise SystemExit(f"missing narration {card['entry_id']} {audio}")
     (ROOT / "index.html").write_text(html, encoding="utf-8")
-    (ROOT / "robots.txt").write_text(
-        "User-agent: *\nAllow: /\n\nSitemap: https://devlij.github.io/jason-ds-vision-denmark-preview/sitemap.xml\n",
-        encoding="utf-8",
-    )
+    import build_image_sitemap
+
+    (ROOT / "robots.txt").write_text(build_image_sitemap.robots_txt(), encoding="utf-8")
     (ROOT / "sitemap.xml").write_text(
         """<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -1571,6 +1585,7 @@ def write_site(scenes: list) -> None:
 """,
         encoding="utf-8",
     )
+    build_image_sitemap.write_image_sitemap(ROOT)
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
     required = [
         "G-PDJ4WSS725",
@@ -1592,6 +1607,8 @@ def write_site(scenes: list) -> None:
         "independently approved",
         "lightbox-session format",
         "s.approval_status",
+        "function sceneAlt",
+        "SITE_NAME",
         "lb-play",
         "INTERVAL=6000",
         'id="q"',
