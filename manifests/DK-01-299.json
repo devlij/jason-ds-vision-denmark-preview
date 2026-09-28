@@ -34,5 +34,11 @@
     "at": "2026-09-27",
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gates 1–5 pass. Gate 1: the SAME pale-stone church in both formats, red tile roof, west tower with crow-stepped gable crown, churchyard with gravestones (lettering unreadable), morning sun (the plain-pyramid-cap vs crenellated-spire disagreement is gone) — recognizable Give Church, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Give Church, Give\", scenario 07:41 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T07:36:47Z unique to the second, valid 07:30, scenario 07:41 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
+  "approved_at": "2026-09-28T02:35:39.173276+00:00",
+  "sha256_16x9": "773103aea6e4550446f307f14702e5a9c1c9813cf92eac7a4bfefb7385ddd0a2",
+  "sha256_4x5": "3dde278d2dfa0667cc8de9a61653deaebb82fc0f2ab4d0defc9a4379e666b4aa"
 }
