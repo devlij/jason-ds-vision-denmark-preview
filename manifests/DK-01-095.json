@@ -88,5 +88,11 @@
     "at": "2026-09-27",
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gates 1–5 pass. Gate 1: both formats show exactly FOUR white seated figures on the grass bank facing the moonlit North Sea (the fifth-figure misconfiguration is gone); night scene, beach below, faint moonlight on concrete — recognizable Men at Sea, clean framing, no artifacts. Gate 2: 16:9 1920×1270 and 4:5 864×1270 exact; label bar carries \"Men at Sea, Esbjerg\", \"Scenario: 25 September 2026 · 02:00 Europe/Copenhagen\", AI-generated artistic interpretation disclosure, and exact Jason D's Vision + Jason A. Devlin signature; per-scene Open-Meteo retrieval 2026-09-27T23:19:11Z unique to the second, valid 02:00, scenario 02:00 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: sculpture by Svend Wiig Hansen (d. 1997) — copyright may subsist; figures read as monument, no living people, no logos — for Jason's commercial call.",
+  "approved_at": "2026-09-28T02:35:07.399560+00:00",
+  "sha256_16x9": "75f3be2174de45f60f90ae6269ee12c94d90b86e0ca071fa32aa48fec7d1bba2",
+  "sha256_4x5": "689291ebba898896076a59b4191708b534ce4b8233741e670fbd16e1cd603f08"
 }
