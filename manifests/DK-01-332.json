@@ -23,6 +23,11 @@
       "at": "2026-09-26T21:24:39.056545+00:00",
       "by": "Cosmo QC",
       "note": "QC hold (Cosmo, 2026-09-26): Gate 1+2 inter-format sky disagreement. Independent read of both downloaded masters: the 16:9 shows a clear blue sky, but the 4:5 shows a heavy overcast gray sky — the two formats of the same scene depict incompatible skies, and the 4:5's overcast contradicts the recorded per-scene weather evidence (Open-Meteo retrieved 25 September 2026 14:54:56 Europe/Copenhagen, model step 14:45: clear, cloud cover 0%). Hold pending a re-render so both formats match the clear-sky scenario."
+    },
+    {
+      "at": "2026-09-28T02:35:48.594512+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate-1 hold resolved 2026-09-28 (Cosmo re-audit): the re-rendered masters show the two Risin og Kellingin sea stacks off the grassy cliff under a CLEAR blue sky in both formats (the overcast 4:5 is gone), matching the recorded clear-sky weather; all five gates re-verified pass. Hold cleared."
     }
   ],
   "hold_rerender": {
