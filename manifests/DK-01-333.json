@@ -23,6 +23,11 @@
       "at": "2026-09-26T21:24:40.925123+00:00",
       "by": "Cosmo QC",
       "note": "QC hold (Cosmo, 2026-09-26): Gate 1+2 inter-format sky disagreement. Independent read of both downloaded masters: the 16:9 shows a bright blue sky with scattered clouds and wet quay stones, but the 4:5 shows a flat overcast gray sky — incompatible with the 16:9 and with the recorded per-scene weather (Open-Meteo retrieved 25 September 2026 15:00:17 Europe/Copenhagen, model step 15:00: cloud cover 1%, bright-sky drizzle handling per evidence card). Hold pending a 4:5 re-render matching the bright-sky scenario."
+    },
+    {
+      "at": "2026-09-28T02:35:54.840238+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate-1 hold resolved 2026-09-28 (Cosmo re-audit): the re-rendered masters show bright blue sky with scattered clouds, stone mole with wet quay stones, fishing boats and colourful waterfront houses in both formats (the flat-overcast 4:5 is gone), matching the recorded 1% cloud weather; all five gates re-verified pass. Hold cleared."
     }
   ],
   "hold_rerender": {
