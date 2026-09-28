@@ -23,6 +23,11 @@
       "at": "2026-09-26T21:24:42.543333+00:00",
       "by": "Cosmo QC",
       "note": "QC hold (Cosmo, 2026-09-26): Gate 1+2 solar-direction contradiction in the 4:5 master. It shows the sun at the horizon (sunrise/sunset light), but the recorded scenario is 25 September 2026 14:56 Europe/Copenhagen = 11:56 America/Nuuk local, computed sun altitude about 22.2 degrees with sunset at 19:57 Nuuk — midday, sun well up. The 16:9 correctly shows a higher clear-day sun. Hold pending a 4:5 re-render with midday solar geometry matching the evidence (Open-Meteo retrieved 25 September 2026 14:54:57 Europe/Copenhagen, clear, cloud cover 0%)."
+    },
+    {
+      "at": "2026-09-28T02:36:00.942117+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate-1 hold resolved 2026-09-28 (Cosmo re-audit): the re-rendered masters show colourful houses on the rocky shore with HIGH midday sun and short shadows in both formats (the horizon-sun 4:5 is gone; correct for the local solar position); all five gates re-verified pass. Hold cleared."
     }
   ],
   "hold_rerender": {
