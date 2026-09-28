@@ -34,5 +34,11 @@
     "at": "2026-09-27",
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gates 1–5 pass. Gate 1: bright blue sky with scattered clouds in both formats, stone mole with wet quay stones, fishing boats, colourful waterfront houses, green mountains (the flat-overcast 4:5 is gone); matches 1% cloud evidence — recognizable Fuglafjørður Harbour, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Fuglafjørður Harbour, Fuglafjørður\", scenario 15:02 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T15:00:17Z unique to the second, valid 15:00, scenario 15:02 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
+  "approved_at": "2026-09-28T02:35:57.473935+00:00",
+  "sha256_16x9": "9586b1c5e365eb97fc933ef10503057d6cb947be8b432c0586178bb10dec5dcc",
+  "sha256_4x5": "5be30a24ef973e81ad393a94aa196c4bfc5cbc8e99dfe90c2deeb11484fad6f5"
 }
