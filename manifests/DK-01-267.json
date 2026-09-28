@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Charlottenlund/dk-01-267-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-267",
+    "derived_from": "Night master Denmark/Charlottenlund/dk-01-267-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Charlottenlund/dk-01-267-16x9.png",
+        "sha256": "071d3a1453b4d26275f7307a615d38d080751fa92746938dbe82777684173423"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Charlottenlund/dk-01-267-4x5.png",
+        "sha256": "2e083ccfefe2d47cb0f86eda34da2af0ed28c976d851bac15262233e32c8ae26"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Charlottenlund/dk-01-267-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Charlottenlund/dk-01-267-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "bcaf0d8c8b3b961f3278b5d22d8bd3df59a825279ee3425a26e9542d69f8e25c",
+      "4x5": "793340f5d27dbe182b3d68c0bd19983bf60a34e5f04e8aa9bc6a803335305122"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Charlottenlund Fort, Charlottenlund",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows grass-covered coastal ramparts and casemates along the Øresund shoreline with dawn light breaking through overcast — a plausible Charlottenlund Fort view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Charlottenlund Fort, Charlottenlund' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:48, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no logos. All five gates pass.",

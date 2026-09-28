@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Hundested/dk-01-260-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-260",
+    "derived_from": "Night master Denmark/Hundested/dk-01-260-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Hundested/dk-01-260-16x9.png",
+        "sha256": "9e09322a37fbbfcf3f4b10d7773d5166ff1565187a1d7364781a6b6ee2824834"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Hundested/dk-01-260-4x5.png",
+        "sha256": "21983feb6d36ed038e2f8d49fe593b6e822e743e03f91286bfb536d4e161c7e4"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Hundested/dk-01-260-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Hundested/dk-01-260-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "efc538725993b9651be873b84bd68f95fd91447976bd7405c15917682d3d6721",
+      "4x5": "2077f49ab2851404ddb07915e43cca488a9858c453e4af40c21e66a576315159"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Hundested Harbour, Hundested",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows fishing cutters moored beside red harbour sheds and stone breakwaters, with dawn light breaking over a choppy Kattegat — a plausible Hundested harbour view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Hundested Harbour, Hundested' and scenario '25 September 2026 · 06:56 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:35, confirmed unique repo-wide across all 365 notes, and 06:56 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable boat names or logos. All five gates pass.",

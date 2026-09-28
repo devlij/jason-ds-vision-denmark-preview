@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Orø/dk-01-272-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-272",
+    "derived_from": "Night master Denmark/Orø/dk-01-272-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Orø/dk-01-272-16x9.png",
+        "sha256": "dc2fefd9bb32adaad8071e4cb517f502e350dfc118a132f78e8b917e812fa7e7"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Orø/dk-01-272-4x5.png",
+        "sha256": "48ba55a86e3322468f5354054dc5041de003091d69aa51cb55416c2c6e553875"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Orø/dk-01-272-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Orø/dk-01-272-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "224327a1d9e7fb1be67eb3c989be74dd98f4c183c0ec5a472cbb5f1325c5a18b",
+      "4x5": "e80fc926d24c9488ec0b95f59760920a1ddc293eeab4d8a7d223e9fc78844e2a"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Orø Harbour, Orø",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Dawn",
   "approval_basis": "Gate 1: a white ferry lies off a stone breakwater with fishing boats moored along the quay, shoreline houses with lit windows behind, dawn breaking through cloud — a plausible Orø Harbour tourist view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (ferry + breakwater + harbour town). On-image caption 'Orø Harbour, Orø', scenario '25 September 2026 · 06:57 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible. Weather: Open-Meteo retrieval 25 September 2026 06:54:24 Europe/Copenhagen — unique to the second across all 408 repo note files; scenario inside model-valid hour 06:00–06:59. Gate 3: per-entry note claims text-prompt-only, no photographic pixels. Gate 4: no visible people; the ferry is a plain unmarked vessel, no readable logos. Gate 5: publication-ready.",

@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Copenhagen/dk-01-266-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-266",
+    "derived_from": "Night master Denmark/Copenhagen/dk-01-266-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-266-16x9.png",
+        "sha256": "a79fca04b4a7d6c2caaf1798a774ffb0b537dfca11cd7e29c8a0848d26ac9ad5"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Copenhagen/dk-01-266-4x5.png",
+        "sha256": "fac84700a5400c98bfb14e0cd950642f2c7799c697b6abe99fea3d6a82eca787"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Copenhagen/dk-01-266-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Copenhagen/dk-01-266-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "cdc9383859a27706ff3bdc4292879011091457ac6a523d5183949051a062c368",
+      "4x5": "6b8e0b4b769694c933b03e255440df8d8f0a59c57f7e07acd633b74640b87625"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Sluseholmen, Copenhagen",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows modern red-brick residential blocks along the canal with lamp reflections, a bridge and overcast sky — a plausible Sluseholmen (South Harbour) view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Sluseholmen, Copenhagen' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:46, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable signage. All five gates pass.",
