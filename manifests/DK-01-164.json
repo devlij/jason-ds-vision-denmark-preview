@@ -57,6 +57,11 @@
       "at": "2026-09-26T09:27:09.220063+00:00",
       "by": "Cosmo QC",
       "note": "Gate-1 hold: the master renders a prominent windmill on Trekroner Fort’s grass ramparts; the real fort has no windmill, and the card description itself claims ‘There is no tall castle and no windmill’, contradicting the image. The scene needs a re-render without the invented windmill (or a description that no longer claims its absence) before approval."
+    },
+    {
+      "at": "2026-09-28T02:35:11.029700+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate-1 hold resolved 2026-09-28 (Cosmo re-audit): the re-rendered masters show the low sea fort on its island with grass ramparts, low red-roofed buildings and a small jetty — the invented windmill is gone (matches the card description 'no windmill') — in both formats; all five gates re-verified pass. Hold cleared."
     }
   ],
   "hold_rerender": {
