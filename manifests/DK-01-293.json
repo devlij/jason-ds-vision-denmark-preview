@@ -34,5 +34,11 @@
     "at": "2026-09-27",
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gates 1–5 pass. Gate 1: the SAME whitewashed church in both formats, red tile roofs, tall slender spire with cross, paved square, early-autumn trees, low morning sun (the exposed-stone squat-tower version is gone) — recognizable Aars Church, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Aars Church, Aars\", scenario 07:39 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T07:36:35Z unique to the second, valid 07:30, scenario 07:39 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
+  "approved_at": "2026-09-28T02:35:32.907842+00:00",
+  "sha256_16x9": "2afca99528b7ce1d0482db9cf17c6ce3d45f2260bc10ea564f7f776cfa99f260",
+  "sha256_4x5": "8afad774b86cc9ab9cf34dbd7225eab64b687c83a94ed33c790298786ee61491"
 }
