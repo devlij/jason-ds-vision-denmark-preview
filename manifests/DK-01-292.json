@@ -34,5 +34,11 @@
     "at": "2026-09-27",
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gates 1–5 pass. Gate 1: straight canal of still water, grass banks, whitewashed keeper houses with red tile roofs, and a LOW steel bridge lying flat across the canal (the tall through-truss is gone); broken cloud veiling the low morning sun — recognizable Løgstør Canal, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Løgstør Canal, Løgstør\", scenario 07:45 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T07:36:33Z unique to the second, valid 07:30, scenario 07:45 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
+  "approved_at": "2026-09-28T02:35:26.523369+00:00",
+  "sha256_16x9": "c3c4be43ea032b96edcfa781bc0a9a06fc1aa8ead7e0f40b853e84a4650d34bd",
+  "sha256_4x5": "84d0b4ff675286ccd96d6379e3b54278fee6e97578ca44f3b9f91ec1d5e64215"
 }
