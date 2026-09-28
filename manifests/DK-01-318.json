@@ -34,5 +34,11 @@
     "at": "2026-09-27",
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gates 1–5 pass. Gate 1: the SAME whitewashed west tower in both formats, broad green-copper spire, round-arched belfry openings with visible bells, white nave, red tile roofs, white churchyard wall, overcast morning (the exposed-stone tower version is gone) — recognizable Rise Church, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Rise Church, Store Rise\", scenario 08:22 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T08:17:36Z unique to the second, valid 08:15, scenario 08:22 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
+  "approved_at": "2026-09-28T02:35:45.417879+00:00",
+  "sha256_16x9": "c565e428c11b0df588c13ec3b02d33fdb8821a1bb4e6bd18dfce95fb5f1b9569",
+  "sha256_4x5": "880fb8a401611bc4e4becc546600fa6e5814dcd1e5b76885461efda022c9a25e"
 }
