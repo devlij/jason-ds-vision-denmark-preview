@@ -23,6 +23,11 @@
       "at": "2026-09-26T21:24:44.107236+00:00",
       "by": "Cosmo QC",
       "note": "QC hold (Cosmo, 2026-09-26): Gate 1 inter-format defining-feature disagreement. Independent read of both downloaded masters: the 4:5 shows a roof cupola with dome and spire rising from the manor's roof center; the 16:9 shows no such cupola — the two formats depict incompatible buildings. Hold pending a re-render so both formats agree on the roofline (Open-Meteo retrieved 25 September 2026 16:01:31 Europe/Copenhagen)."
+    },
+    {
+      "at": "2026-09-28T02:36:07.099392+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate-1 hold resolved 2026-09-28 (Cosmo re-audit): the re-rendered masters show the SAME yellow baroque manor at the end of the tree-lined avenue with a dark mansard roof and dormers — NO roof cupola (the domed cupola is gone) — in both formats; all five gates re-verified pass. Hold cleared."
     }
   ],
   "hold_rerender": {
