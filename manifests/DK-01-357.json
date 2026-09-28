@@ -34,5 +34,11 @@
     "at": "2026-09-27",
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gates 1–5 pass. Gate 1: the SAME yellow baroque manor in both formats at the end of the tree-lined avenue, dark mansard roof with dormers, NO roof cupola (the domed cupola is gone) — recognizable Lerchenborg, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Lerchenborg, Kalundborg\", scenario 16:03 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T16:01:31Z unique to the second, valid 16:00, scenario 16:03 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
+  "approved_at": "2026-09-28T02:36:15.061133+00:00",
+  "sha256_16x9": "4010bc6440eb40e0734116a79a13ea1cf1794dc5c8cb7ddd9edf8ab1cab83dd7",
+  "sha256_4x5": "07719b7bebd5fabcf78c79d36e07c532651c94f9338e1283d26b72ccf92fe70d"
 }
