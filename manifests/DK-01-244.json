@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Rø/dk-01-244-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-244",
+    "derived_from": "Night master Denmark/Rø/dk-01-244-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Rø/dk-01-244-16x9.png",
+        "sha256": "95289dd236aa0cee8378b4f16d553b7ab3176100011c1b39fc4612df96c21c20"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Rø/dk-01-244-4x5.png",
+        "sha256": "bf1b650888be65af05dbed0cbefba34e28bbab0eb6cabe84774796b6c282b7a2"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Rø/dk-01-244-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Rø/dk-01-244-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "d340858423b72c7b820372a50f985b49eb64e7237013fc5ad4bbe6cb515f4096",
+      "4x5": "434f9681f27ad93221a0b7c0d4ed8435461f5058ebc0ae69e304b4770ccd9234"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Helligdomsklipperne, Rø",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: granite sea cliffs at Helligdomsklipperne with a dark sea-cave mouth at the waterline, moss-streaked rock faces, slate-grey water, storm-broken dawn cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Helligdomsklipperne, Rø', scenario '25 September 2026 · 06:33 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:31:58 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",

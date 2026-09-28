@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Bøur/dk-01-250-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-250",
+    "derived_from": "Night master Denmark/Bøur/dk-01-250-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Bøur/dk-01-250-16x9.png",
+        "sha256": "ec27d3d3fcacecbd528d73645ec7f781a9692ec14317a51e8496ec91e0a33f15"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Bøur/dk-01-250-4x5.png",
+        "sha256": "bcc13490c9ff8c10974fd30515fc8edec6ee380399a545d5bcf3b3358a2bf141"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Bøur/dk-01-250-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Bøur/dk-01-250-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "0c45cd9a2168b64b149611155482f2dc1dabd80c4baa33059ea9084bcf055886",
+      "4x5": "dcd4b771c91fa71a645c2bb85ba50d1e20a2175edd4910febab8650c91e7c645"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Bøur, Bøur",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: Bøur village of turf-roofed black houses and the white church above the fjord, jagged sea pinnacles offshore under ragged dawn cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Bøur, Bøur', scenario '25 September 2026 · 06:36 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:03 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",

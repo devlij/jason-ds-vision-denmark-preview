@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Åkirkeby/dk-01-243-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-243",
+    "derived_from": "Night master Denmark/Åkirkeby/dk-01-243-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Åkirkeby/dk-01-243-16x9.png",
+        "sha256": "49140d00dca13696000fca0b8c13ace7e40722d8457e41d4182e2247697d232a"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Åkirkeby/dk-01-243-4x5.png",
+        "sha256": "3f2003acffac729cdd0db92b78b6104d26d765dc85a63c1e1acfba02acb7e3e0"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Åkirkeby/dk-01-243-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Åkirkeby/dk-01-243-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "ae3975b5d73e47430b8ece35ee2389c709a2562374ba84beeaa3663519c9871e",
+      "4x5": "2b10823ccbc2b6ac2000be2fd150a4a7b215b1bb2312580fe59b49e1d7857691"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Aa Church, Åkirkeby",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Aa Church from the churchyard — greenish sandstone and rust-brown shale choir and apse, paler limestone west tower, dark roof, old gravestones in lamplit grass; recognizably a Romanesque parish church, not a round church, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Aa Church, Åkirkeby', scenario '25 September 2026 · 06:33 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:31:57 for this scene's own coords, scenario after the 06:30 model step inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable gravestone text. Gate 5: no open blockers.",

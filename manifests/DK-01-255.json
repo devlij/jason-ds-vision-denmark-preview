@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Kangerlussuaq/dk-01-255-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-255",
+    "derived_from": "Night master Denmark/Kangerlussuaq/dk-01-255-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Kangerlussuaq/dk-01-255-16x9.png",
+        "sha256": "1ea1922c38121da6a861faa90260a2c4d724d8e22bc00cd4c11f7a6d803a59ef"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Kangerlussuaq/dk-01-255-4x5.png",
+        "sha256": "180780abadf615e977e555bc397c5a9882cb0597eb4d8254144c82a6762855d2"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Kangerlussuaq/dk-01-255-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Kangerlussuaq/dk-01-255-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "8d636a5b6f921e022fcc1d3171a951d43d0fe33fef29a21404d9937b28d71eb0",
+      "4x5": "e6ca5d2a64c6c092e866c730b0e2097639567ef39147e16daeaf11286979ffe7"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Kangerlussuaq Fjord, Kangerlussuaq",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: broad Kangerlussuaq fjord under low cloud, barren autumn-brown hills on both shores, distant settlement lights at the far end. Gate 2: 1920x1080 + 864x1080 exact, caption 'Kangerlussuaq Fjord, Kangerlussuaq', scenario '25 September 2026 · 06:37 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:07 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",

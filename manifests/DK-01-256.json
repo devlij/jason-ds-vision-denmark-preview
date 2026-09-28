@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Ittoqqortoormiit/dk-01-256-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-256",
+    "derived_from": "Night master Denmark/Ittoqqortoormiit/dk-01-256-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Ittoqqortoormiit/dk-01-256-16x9.png",
+        "sha256": "9ea2ca0b290dc60c3ce57c69bef4e413d2eb295951cdafe8105e5f8ca230b02c"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Ittoqqortoormiit/dk-01-256-4x5.png",
+        "sha256": "89486d9a570c105e9fdc4fe8c8699341407a0db01983a2a60849fbde36cc2f33"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Ittoqqortoormiit/dk-01-256-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Ittoqqortoormiit/dk-01-256-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "2885d7dd9f199b8d767fe3246eeb7e5e5acf821f81ac68424ef807da0f8b0676",
+      "4x5": "e9a7a99095fa4658c4e54c62a72d26eb4b9707ad9a1dc7486c9232ed69817ddc"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Ittoqqortoormiit Harbour, Ittoqqortoormiit",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows colorful red, yellow and blue houses climbing a snow-dusted hillside above the harbour, fishing boats at the quay, snow-capped East Greenland peaks across dark water, and rain/snow streaks in the pre-dawn sky — a plausible East Greenland settlement view matching the harbour anchors. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Ittoqqortoormiit Harbour, Ittoqqortoormiit' and scenario '25 September 2026 · 06:39 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:32:08, confirmed unique repo-wide across all 365 notes, and 06:39 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable logos or boat names. All five gates pass.",
