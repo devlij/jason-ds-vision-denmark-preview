@@ -596,7 +596,7 @@ const DENMARK_META = {"DK-01-001": ["Capital Region", "night", "coastal,urban", 
     }
     var items=[],idx=0;
     var playing=false,timer=null;
-    var INTERVAL=6000;/* 6s slideshow autoplay, no autostart */
+    var INTERVAL=4000;/* 4s slideshow autoplay, no autostart */
     var lbFormat='16x9';
     var lbDay='night';/* lightbox-session day/night: seeded from the opening card's active day tab; persists across prev/next and slideshow navigation *//* lightbox-session format: seeded from the opening card's active tab; persists across prev/next and slideshow navigation, never reset to 16:9 */
     function visibleCards(){return Array.prototype.filter.call(document.querySelectorAll('.card'),function(c){return c.style.display!=='none';});}
