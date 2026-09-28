@@ -34,5 +34,11 @@
     "at": "2026-09-27",
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gates 1–5 pass. Gate 1: the SAME row of colourful wooden houses (red, yellow, blue) in both formats on dark rock, quay with fishing boats, open water, bright blue sky with scattered clouds (the stone-breakwater sailboat-marina composition is gone) — recognizable Aasiaat Harbour, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Aasiaat Harbour, Aasiaat\", scenario 16:05 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T16:01:51Z unique to the second, valid 16:00, scenario 16:05 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
+  "approved_at": "2026-09-28T02:36:21.275198+00:00",
+  "sha256_16x9": "8940cba241e8360e93b4b70046746b601f806f7ab8e702454afe5ee82d84b2ae",
+  "sha256_4x5": "82b3ceb22e89dfe4862fdd3fadc3a8cd03a96b2012d15a9d90528e61868bacb6"
 }
