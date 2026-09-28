@@ -34,5 +34,11 @@
     "at": "2026-09-27",
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
+  "approval_basis": "Gates 1–5 pass. Gate 1: the two Risin og Kellingin sea stacks off the grassy cliff under a CLEAR blue sky in both formats (the overcast 4:5 is gone); matches the recorded per-scene weather (clear, 0% cloud). Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Eiði, Eiði\", scenario 14:56 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T14:54:56Z unique to the second, valid 14:45, scenario 14:56 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
+  "approved_at": "2026-09-28T02:35:51.317793+00:00",
+  "sha256_16x9": "843990395c70c6a319c31588db054019e447f85a80a58f27fcfa6794f9dfed56",
+  "sha256_4x5": "6ba095ff465b67c72dcb6b4d23c9d605652be51aa1dddc252179b83b3084b258"
 }
