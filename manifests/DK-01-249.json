@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Tjørnuvík/dk-01-249-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-249",
+    "derived_from": "Night master Denmark/Tjørnuvík/dk-01-249-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Tjørnuvík/dk-01-249-16x9.png",
+        "sha256": "c125c2d703dbf73dc9770a61c447915db104c6079a238c825831f70a316631e4"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Tjørnuvík/dk-01-249-4x5.png",
+        "sha256": "c0b0706785940066af5664cc443c923df213efeb4b7ca22137f025f685bba5f2"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Tjørnuvík/dk-01-249-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Tjørnuvík/dk-01-249-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "5939f87b1ef7b3755790da20453aae8cf8f5f90d95eedead851ae6864fe335d1",
+      "4x5": "a42ec5363fb22e8f3fddc71073a88a049266e3baba51022d919c2621bc389289"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Tjørnuvík, Tjørnuvík",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: Tjørnuvík black-sand beach with white surf lines, turf-roofed village at the foot of green crags, twin sea stacks offshore under breaking cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Tjørnuvík, Tjørnuvík', scenario '25 September 2026 · 06:38 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:02 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",

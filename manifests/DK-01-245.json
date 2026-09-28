@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Vang/dk-01-245-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-245",
+    "derived_from": "Night master Denmark/Vang/dk-01-245-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Vang/dk-01-245-16x9.png",
+        "sha256": "8d3fda6831dfbed8a532571f143b34203c87cd350e731493db8ade464777c4ab"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Vang/dk-01-245-4x5.png",
+        "sha256": "8011d5d82f6d711d041aa6465d0d1ea6e2602e494de97cea06796fbd0cd3f190"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Vang/dk-01-245-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Vang/dk-01-245-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "edd8fe08bb7bb7ff4a1f8e4bfff7963869d1ebc267c3ca6d9be194ec53e79df6",
+      "4x5": "3bd9a58274ad4c5c8d291f9054fb41d32d49322abe19402484ed853da0b051bf"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Jons Kapel, Vang",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: Jons Kapel cliff face with an arched cave mouth at the waterline, boulder-strewn foreshore with white surf, sheer dark rock rising into low cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Jons Kapel, Vang', scenario '25 September 2026 · 06:33 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:31:59 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",

@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Sisimiut/dk-01-254-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-254",
+    "derived_from": "Night master Denmark/Sisimiut/dk-01-254-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Sisimiut/dk-01-254-16x9.png",
+        "sha256": "15f050d2ab0b86247c78f226ca105b3944da215feabe921e99dd8b301e9a278e"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Sisimiut/dk-01-254-4x5.png",
+        "sha256": "e4c00069cb404c36df26087ea00e6f1c28f3a8011d855ea17e4371538095f510"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Sisimiut/dk-01-254-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Sisimiut/dk-01-254-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "e2285f536f666df01f61c4735967441026ce0391ccda21e6ed2d1bf39219aeea",
+      "4x5": "909be1809403cdf508d1d5f9eb1800b6211f6954752191fe861ff73870ea6074"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Bethel Church, Sisimiut",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Bethel Church — blue wooden church with dark spire — among dim houses under an overcast night sky, lit windows. Gate 2: 1920x1080 + 864x1080 exact, caption 'Bethel Church, Sisimiut', scenario '25 September 2026 · 06:39 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:33:00 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",

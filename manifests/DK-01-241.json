@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Rønne/dk-01-241-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-241",
+    "derived_from": "Night master Denmark/Rønne/dk-01-241-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Rønne/dk-01-241-16x9.png",
+        "sha256": "428a73fc3bdf56943a58bc54a13e6478e895e018bfc15037ad2857fcd0dcb7a1"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Rønne/dk-01-241-4x5.png",
+        "sha256": "fcab2387999ae228bd2647e54c0266899462564879aea63c95848360ba742fc6"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Rønne/dk-01-241-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Rønne/dk-01-241-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "42e133226329fe3d120b577f37e887447420f1c4fc2ad7ef82870f365c32799b",
+      "4x5": "15de4b029cc0084e318922a55f27ab5ee9dc27012f3109257cc05899108a97ab"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Rønne Harbour, Rønne",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Rønne harbour basin with fishing boats in the foreground, a large plain white ferry at the quay, low red and ochre warehouses with town roofs rising behind, quay lamps reflecting on dark water — no cobbled half-timber lane in frame, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Rønne Harbour, Rønne', scenario '25 September 2026 · 06:35 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:31:56 for this scene's own coords, scenario after the 06:30 model step inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable ferry name. Gate 5: no open blockers.",

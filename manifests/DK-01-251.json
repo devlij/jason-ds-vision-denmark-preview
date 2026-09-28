@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Uummannaq/dk-01-251-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-251",
+    "derived_from": "Night master Denmark/Uummannaq/dk-01-251-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Uummannaq/dk-01-251-16x9.png",
+        "sha256": "6f2816e8f3dd258783297da4aad43a3339067076d4907aaa5022efb61131285e"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Uummannaq/dk-01-251-4x5.png",
+        "sha256": "96147477c64cd1e46914bd698b576e44ee64bca0207700f6821056473d467db5"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Uummannaq/dk-01-251-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Uummannaq/dk-01-251-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "8bf7a45b998e5248db7b898b902fc5ad3cd2de42774e1832ce61399bf8add6d0",
+      "4x5": "7128fde47433d40e4a8dd9a6a85dcc711489d030ed671f1d6b3a0b3e69ccf45a"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Uummannaq, Uummannaq",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Uummannaq's heart-shaped snow-dusted peak rising behind lit red, blue and yellow houses on dark rock under a full moon. Gate 2: 1920x1080 + 864x1080 exact, caption 'Uummannaq, Uummannaq', scenario '25 September 2026 · 06:36 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:04 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
