@@ -68,5 +68,11 @@
     "at": "2026-09-27",
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gates 1–5 pass. Gate 1: low sea fort on its island seen from the water — grass ramparts, low red-roofed buildings, small jetty, NO windmill (the invented windmill is gone; matches the card description 'no windmill'); overcast night, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Trekroner Fort, Copenhagen\", scenario 03:42 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-27T23:28:48Z unique to the second, valid 03:30, scenario 03:42 inside the 03:00–03:59 model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
+  "approved_at": "2026-09-28T02:35:13.744095+00:00",
+  "sha256_16x9": "78c30fd2cbf114a1c00def3c4517db8dde9ae316173840db77e2afefa28fd41f",
+  "sha256_4x5": "3e3eba4bb0f5d865eedea482d777fc168e9f485d046c2cc4fd115f2ca5fa780b"
 }
