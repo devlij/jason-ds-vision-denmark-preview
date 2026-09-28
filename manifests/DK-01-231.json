@@ -68,5 +68,11 @@
     "at": "2026-09-27",
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
-  }
+  },
+  "approval_status": "Approved",
+  "qc_status": "Approved · Cosmo QC 5/5 · Night",
+  "approval_basis": "Gates 1–5 pass. Gate 1: whitewashed two-storey baroque complex on an open hill, hipped red/black tile roofs, triangular pediment over the central gateway, NO crow-stepped gables (matches the evidence anchor 'No stepped gables'); warm windows, overcast night, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Børglum Abbey, Børglum\", scenario 06:22 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T06:10:21Z unique to the second, valid 06:00, scenario 06:22 inside the 06:00–06:59 model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
+  "approved_at": "2026-09-28T02:35:20.081890+00:00",
+  "sha256_16x9": "7b13063b5a2f6e8400aad76535b6b6d134f7b15c74b75ee2f0ef68058d97ff78",
+  "sha256_4x5": "8d56f1bf226cacec540df89276f0d02970b36764de3f3b015af1cacb19697fdb"
 }
