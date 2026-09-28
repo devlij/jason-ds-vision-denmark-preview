@@ -1,0 +1,1418 @@
+BATCH DK daylight variants from DK-01-273
+Date: 2026-09-28
+Country: Denmark
+Scenes selected: 0. Variant masters: 0.
+Skips: 93. Walked DK-01-273 through DK-01-365, the last catalogue ID. None qualify.
+Qualification requires all of: Night / before sunrise; Open-Meteo is_day 0; both night masters present; no existing *-daylight-* file; not daylight-only, afternoon, or dusk. Every ID in this walk fails that test. No daylight variant was written.
+DK-01-273, DK-01-274, and DK-01-276: the stored Open-Meteo step is is_day 0, and the solar note still classifies the frame as first daylight after sunrise, not lamplight. They are not night scenes.
+DK-01-275: the approval's cited 07:15 step is is_day 1 (first daylight). The stored wx snapshot still says is_day 0; the scene note governs the cited step.
+DK-01-277 through DK-01-320: After today's sunrise, Open-Meteo is_day 1.
+DK-01-321 through DK-01-365: daylight afternoon, midday, or late morning, Open-Meteo is_day 1. Midday IDs: DK-01-332, DK-01-352, DK-01-364, DK-01-365. Late morning IDs: DK-01-334, DK-01-335, DK-01-336. The rest of that span are afternoon.
+Catalogue ends at DK-01-365. Nothing remains after this walk. Other countries untouched. Sweden untouched. No afternoon or daylight master was rewritten. No Denmark label-bar finish was run.
+Parent tip at batch start: 800aca96d19da850b1e048e8de4c4335b510b87b
+Branched from cursor/dk-daylight-from-257-9e58 before this report: 800aca96d19da850b1e048e8de4c4335b510b87b. That tip is the DK-01-257 through DK-01-272 daylight batch (PR #9), stacked on PR #8. It keeps studio narration through DK-01-130 and the gallery features already on that branch. Conditional 9:16 gallery logic was preserved and not rewritten. origin/main does not yet contain DK-01-241 through DK-01-272, so this report stacks on that branch rather than on main.
+Existing masters: byte-unchanged. SHA-256 recorded before this report and again after. Pre and post are identical for every 16:9 and 4:5 file in DK-01-273 through DK-01-365. These files are first-daylight, morning, midday, or afternoon masters, not night masters, so they were not used as daylight-variant sources and were not regenerated. No night PNG exists in this range.
+Gallery: index.html was not edited. No scene gained file_16x9_day or file_4x5_day. Daylight button toggle logic was not edited. Weather and Open-Meteo fields were not rewritten. approval_status was not flipped. Art. 50 was not stamped onto these masters. No manifest was edited.
+
+DK-01-273  Spodsbjerg Harbour, Spodsbjerg
+  skip reason  first daylight after sunrise, not a night scene. Solar note starts 'After today's sunrise'. The cited 07:00 Open-Meteo step is is_day 0 because that step is before sunrise, but the scenario minute is after sunrise, so the frame is first daylight, not lamplight. Fails Night / before sunrise. Not daylight-only afternoon, and not a night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Dawn
+  scenario      25 September 2026 · 07:14 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  0
+  master 16x9  library/world/Denmark/Spodsbjerg/dk-01-273-16x9.png
+    sha256 before  85171924467de16d739f250e7eb673f52f59378604a6a4da83245813a27d82c5
+    sha256 after   85171924467de16d739f250e7eb673f52f59378604a6a4da83245813a27d82c5
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Spodsbjerg/dk-01-273-4x5.png
+    sha256 before  a00b9d70c246a897a837dee3e9b58711a070101fd3b092b00e953fbc610d8d26
+    sha256 after   a00b9d70c246a897a837dee3e9b58711a070101fd3b092b00e953fbc610d8d26
+    master         IDENTICAL
+
+DK-01-274  Ristinge Klint, Ristinge
+  skip reason  first daylight after sunrise, not a night scene. Solar note starts 'After today's sunrise'. The cited 07:00 Open-Meteo step is is_day 0 because that step is before sunrise, but the scenario minute is after sunrise, so the frame is first daylight, not lamplight. Fails Night / before sunrise. Not daylight-only afternoon, and not a night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Dawn
+  scenario      25 September 2026 · 07:14 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  0
+  master 16x9  library/world/Denmark/Ristinge/dk-01-274-16x9.png
+    sha256 before  c9217e789bd8bcf4dc6ff8bfe2ed06ba027de87897424958332c11fb753ea996
+    sha256 after   c9217e789bd8bcf4dc6ff8bfe2ed06ba027de87897424958332c11fb753ea996
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Ristinge/dk-01-274-4x5.png
+    sha256 before  4b9af18b488ad666b7c377b6e2245a86b990ce153382d2d2e6f6dbc7ce9c99ee
+    sha256 after   4b9af18b488ad666b7c377b6e2245a86b990ce153382d2d2e6f6dbc7ce9c99ee
+    master         IDENTICAL
+
+DK-01-275  Lohals Harbour, Lohals
+  skip reason  first daylight after sunrise, not a night scene. Solar note starts 'After today's sunrise'. The approval's cited 07:15 model step is is_day 1 and the frame is first daylight, not lamplight. The stored snapshot tools/wx-dk-01-273-288.json still records is_day 0 for this id; the scene note's cited step is is_day 1. Fails Night / before sunrise. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Dawn
+  scenario      25 September 2026 · 07:15 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  0
+  master 16x9  library/world/Denmark/Lohals/dk-01-275-16x9.png
+    sha256 before  7bdd5e4fd58bf1dcdd4cc74151ba431861b1f79e53e356f217e8b9608d526b20
+    sha256 after   7bdd5e4fd58bf1dcdd4cc74151ba431861b1f79e53e356f217e8b9608d526b20
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Lohals/dk-01-275-4x5.png
+    sha256 before  c2e2b2af2553cbe43010dc250d1e6faec64b1b94306a3e795f18c4b2a19a8cd5
+    sha256 after   c2e2b2af2553cbe43010dc250d1e6faec64b1b94306a3e795f18c4b2a19a8cd5
+    master         IDENTICAL
+
+DK-01-276  Thurø Harbour, Thurø
+  skip reason  first daylight after sunrise, not a night scene. Solar note starts 'After today's sunrise'. The cited 07:00 Open-Meteo step is is_day 0 because that step is before sunrise, but the scenario minute is after sunrise, so the frame is first daylight, not lamplight. Fails Night / before sunrise. Not daylight-only afternoon, and not a night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Dawn
+  scenario      25 September 2026 · 07:15 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  0
+  master 16x9  library/world/Denmark/Thurø/dk-01-276-16x9.png
+    sha256 before  a3b60b97429e7cb8a3b3c83810e231ad2a2c103218c8c4272a247228cc147abe
+    sha256 after   a3b60b97429e7cb8a3b3c83810e231ad2a2c103218c8c4272a247228cc147abe
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Thurø/dk-01-276-4x5.png
+    sha256 before  d989fcb64c89c1cc8b0832be14e02c9a0da2dafd6009de7cadd1c32fc1acf8ec
+    sha256 after   d989fcb64c89c1cc8b0832be14e02c9a0da2dafd6009de7cadd1c32fc1acf8ec
+    master         IDENTICAL
+
+DK-01-277  Vindeby Harbour, Vindeby
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Dawn
+  scenario      25 September 2026 · 07:16 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Vindeby/dk-01-277-16x9.png
+    sha256 before  8ec4e679fadc6e856136855eeb0b8af5ec46a0875491eca5d16bc260eb89c4c8
+    sha256 after   8ec4e679fadc6e856136855eeb0b8af5ec46a0875491eca5d16bc260eb89c4c8
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Vindeby/dk-01-277-4x5.png
+    sha256 before  c2cc51b0fda2f99351d0bb25744e559bbc0a9a0290a17f60711208be47dc6895
+    sha256 after   c2cc51b0fda2f99351d0bb25744e559bbc0a9a0290a17f60711208be47dc6895
+    master         IDENTICAL
+
+DK-01-278  Voderup Klint, Voderup
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Dawn
+  scenario      25 September 2026 · 07:18 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Voderup/dk-01-278-16x9.png
+    sha256 before  028cbdbfa9aa54d0b1c6a94a1b2a34328c401a01094eab4559ecec2deb81587b
+    sha256 after   028cbdbfa9aa54d0b1c6a94a1b2a34328c401a01094eab4559ecec2deb81587b
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Voderup/dk-01-278-4x5.png
+    sha256 before  b903e554a2a0a975de25d996d704bf891389dfb1711f98cb597287325a1e6707
+    sha256 after   b903e554a2a0a975de25d996d704bf891389dfb1711f98cb597287325a1e6707
+    master         IDENTICAL
+
+DK-01-279  Lyø Harbour, Lyø
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Dawn
+  scenario      25 September 2026 · 07:17 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Lyø/dk-01-279-16x9.png
+    sha256 before  d440d0f1a4872b55ba9da0b0b1b2240e25f27e254efe56fb7d2ea4e237ca0fc5
+    sha256 after   d440d0f1a4872b55ba9da0b0b1b2240e25f27e254efe56fb7d2ea4e237ca0fc5
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Lyø/dk-01-279-4x5.png
+    sha256 before  72cfca5c5bc0cabd23421578bc2a1b30bb30673507fc0da1255f08d409fff8e5
+    sha256 after   72cfca5c5bc0cabd23421578bc2a1b30bb30673507fc0da1255f08d409fff8e5
+    master         IDENTICAL
+
+DK-01-280  Avernakø Harbour, Avernakø
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:17 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Avernakø/dk-01-280-16x9.png
+    sha256 before  e6b60daac33678cf919c73ddc9e7f2796fb711d726da9ebf9cfaf0b9b766aa21
+    sha256 after   e6b60daac33678cf919c73ddc9e7f2796fb711d726da9ebf9cfaf0b9b766aa21
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Avernakø/dk-01-280-4x5.png
+    sha256 before  fc4548d30fcdbe556433b712eb4ae7161b36767cc27c44bdfdc3f2b4d4ffa193
+    sha256 after   fc4548d30fcdbe556433b712eb4ae7161b36767cc27c44bdfdc3f2b4d4ffa193
+    master         IDENTICAL
+
+DK-01-281  Drejø Harbour, Drejø
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:18 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Drejø/dk-01-281-16x9.png
+    sha256 before  a3767c336a48ac189ab2525a71e53e9be33b50daf839633c55e94da72ae73f06
+    sha256 after   a3767c336a48ac189ab2525a71e53e9be33b50daf839633c55e94da72ae73f06
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Drejø/dk-01-281-4x5.png
+    sha256 before  86ffffd9a8e75ca94f34c172f3f5fcb1b00b9d4057ec6c1b32f97b329611627f
+    sha256 after   86ffffd9a8e75ca94f34c172f3f5fcb1b00b9d4057ec6c1b32f97b329611627f
+    master         IDENTICAL
+
+DK-01-282  Strynø Harbour, Strynø
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:18 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Strynø/dk-01-282-16x9.png
+    sha256 before  d648136b8af7c9f47a179647a737034841f26d5a463953e25c652c7bc3c0c310
+    sha256 after   d648136b8af7c9f47a179647a737034841f26d5a463953e25c652c7bc3c0c310
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Strynø/dk-01-282-4x5.png
+    sha256 before  e8d9966c72dd5c9072547e2c03b73416ecdd315ed1f9b83e1daf5f0d1a81f3b3
+    sha256 after   e8d9966c72dd5c9072547e2c03b73416ecdd315ed1f9b83e1daf5f0d1a81f3b3
+    master         IDENTICAL
+
+DK-01-283  Omø Harbour, Omø
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:18 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Omø/dk-01-283-16x9.png
+    sha256 before  5a2365a21d64eb5aec38b9e5849f77195ef8b37f94544dec45317c9a656d447c
+    sha256 after   5a2365a21d64eb5aec38b9e5849f77195ef8b37f94544dec45317c9a656d447c
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Omø/dk-01-283-4x5.png
+    sha256 before  7c00b162c87b4c3e3e9ddd823ebdb33fe4de2fd044ad237574737eb77f56252c
+    sha256 after   7c00b162c87b4c3e3e9ddd823ebdb33fe4de2fd044ad237574737eb77f56252c
+    master         IDENTICAL
+
+DK-01-284  Agersø Harbour, Agersø
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:18 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Agersø/dk-01-284-16x9.png
+    sha256 before  be4f5ca218f9c48052865e68c7c0c5ce2650433cb9540c1f02cebb2f2e116053
+    sha256 after   be4f5ca218f9c48052865e68c7c0c5ce2650433cb9540c1f02cebb2f2e116053
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Agersø/dk-01-284-4x5.png
+    sha256 before  88c79680d905a8d83e4b96a4e848eba358bea6f1a6869aa63620f75f2d7ce015
+    sha256 after   88c79680d905a8d83e4b96a4e848eba358bea6f1a6869aa63620f75f2d7ce015
+    master         IDENTICAL
+
+DK-01-285  Ballen Harbour, Ballen
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:21 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Ballen/dk-01-285-16x9.png
+    sha256 before  2b9df5f5dbb7a781924f08e27a51bdfb7252d1fb4f703933af34245c33bbd7cf
+    sha256 after   2b9df5f5dbb7a781924f08e27a51bdfb7252d1fb4f703933af34245c33bbd7cf
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Ballen/dk-01-285-4x5.png
+    sha256 before  8d52865886f1fa2ecd80ca24178b3e7b45f52f4c7ac16cc76d4a62688c6069cb
+    sha256 after   8d52865886f1fa2ecd80ca24178b3e7b45f52f4c7ac16cc76d4a62688c6069cb
+    master         IDENTICAL
+
+DK-01-286  Nordby village street, Nordby
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:20 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Nordby/dk-01-286-16x9.png
+    sha256 before  66d196585203947ad5b6427df7114197bef9e8f0ec9e62ffa8c24b865450a8e9
+    sha256 after   66d196585203947ad5b6427df7114197bef9e8f0ec9e62ffa8c24b865450a8e9
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Nordby/dk-01-286-4x5.png
+    sha256 before  9898d3acf2db6b098538d878046de58325e55bb34ce960a6717113f376b9d44f
+    sha256 after   9898d3acf2db6b098538d878046de58325e55bb34ce960a6717113f376b9d44f
+    master         IDENTICAL
+
+DK-01-287  Tunø Harbour, Tunø
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:20 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Tunø/dk-01-287-16x9.png
+    sha256 before  4716662193503ece96cd091eb49f34f216b5a90b6a0af57ab196b314e949bc8c
+    sha256 after   4716662193503ece96cd091eb49f34f216b5a90b6a0af57ab196b314e949bc8c
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Tunø/dk-01-287-4x5.png
+    sha256 before  eac4c0ea2b017b203c0543cb8b570ffac146711148e0aeff310aae9cfcd01d38
+    sha256 after   eac4c0ea2b017b203c0543cb8b570ffac146711148e0aeff310aae9cfcd01d38
+    master         IDENTICAL
+
+DK-01-288  Endelave Harbour, Endelave
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:20 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Endelave/dk-01-288-16x9.png
+    sha256 before  aca4f10367aa52d42337cc7f2cdfacb1cb47b1680a103700b493594b65681d59
+    sha256 after   aca4f10367aa52d42337cc7f2cdfacb1cb47b1680a103700b493594b65681d59
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Endelave/dk-01-288-4x5.png
+    sha256 before  0b606e3dcbdf49360be8dd0ceb9d0999288c7b121e1a43254cd4ab73cf958623
+    sha256 after   0b606e3dcbdf49360be8dd0ceb9d0999288c7b121e1a43254cd4ab73cf958623
+    master         IDENTICAL
+
+DK-01-289  Fyrkat, Hobro
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:43 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Hobro/dk-01-289-16x9.png
+    sha256 before  4833f2c591f963fbf2efed3f50af0f15871789d6264099b4c87a7782f6e26eae
+    sha256 after   4833f2c591f963fbf2efed3f50af0f15871789d6264099b4c87a7782f6e26eae
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Hobro/dk-01-289-4x5.png
+    sha256 before  aa173af6681d38032299ff188763af3439c81f15badb3a212d657cca3fbe8bcb
+    sha256 after   aa173af6681d38032299ff188763af3439c81f15badb3a212d657cca3fbe8bcb
+    master         IDENTICAL
+
+DK-01-290  Mariager Harbour, Mariager
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:37 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Mariager/dk-01-290-16x9.png
+    sha256 before  fc1492985024b16f9e0baedefa27edf07f677a428a1228483cc1e5e77399eb6b
+    sha256 after   fc1492985024b16f9e0baedefa27edf07f677a428a1228483cc1e5e77399eb6b
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Mariager/dk-01-290-4x5.png
+    sha256 before  0357cc1eb298f50d73832858ccab72cc09041e0b24b8ee4ef3db0ccec33882c1
+    sha256 after   0357cc1eb298f50d73832858ccab72cc09041e0b24b8ee4ef3db0ccec33882c1
+    master         IDENTICAL
+
+DK-01-291  Hadsund Bridge, Hadsund
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:39 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Hadsund/dk-01-291-16x9.png
+    sha256 before  3d712afc258d9a2e8886aa3702eb8b4c495736a72a79a48858a6d597ba533aac
+    sha256 after   3d712afc258d9a2e8886aa3702eb8b4c495736a72a79a48858a6d597ba533aac
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Hadsund/dk-01-291-4x5.png
+    sha256 before  dfb58847d257477c72ae0651cb96b82c046de86797fb06570210a31e718cea8a
+    sha256 after   dfb58847d257477c72ae0651cb96b82c046de86797fb06570210a31e718cea8a
+    master         IDENTICAL
+
+DK-01-292  Løgstør Canal, Løgstør
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:45 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Løgstør/dk-01-292-16x9.png
+    sha256 before  c3c4be43ea032b96edcfa781bc0a9a06fc1aa8ead7e0f40b853e84a4650d34bd
+    sha256 after   c3c4be43ea032b96edcfa781bc0a9a06fc1aa8ead7e0f40b853e84a4650d34bd
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Løgstør/dk-01-292-4x5.png
+    sha256 before  84d0b4ff675286ccd96d6379e3b54278fee6e97578ca44f3b9f91ec1d5e64215
+    sha256 after   84d0b4ff675286ccd96d6379e3b54278fee6e97578ca44f3b9f91ec1d5e64215
+    master         IDENTICAL
+
+DK-01-293  Aars Church, Aars
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:39 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Aars/dk-01-293-16x9.png
+    sha256 before  2afca99528b7ce1d0482db9cf17c6ce3d45f2260bc10ea564f7f776cfa99f260
+    sha256 after   2afca99528b7ce1d0482db9cf17c6ce3d45f2260bc10ea564f7f776cfa99f260
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Aars/dk-01-293-4x5.png
+    sha256 before  8afad774b86cc9ab9cf34dbd7225eab64b687c83a94ed33c790298786ee61491
+    sha256 after   8afad774b86cc9ab9cf34dbd7225eab64b687c83a94ed33c790298786ee61491
+    master         IDENTICAL
+
+DK-01-294  Skive Harbour, Skive
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:39 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Skive/dk-01-294-16x9.png
+    sha256 before  ddc1a286a22e86ba588a7648a2a35b7269ae4e76a19582a05fe76bc727159fcb
+    sha256 after   ddc1a286a22e86ba588a7648a2a35b7269ae4e76a19582a05fe76bc727159fcb
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Skive/dk-01-294-4x5.png
+    sha256 before  005773ee6fb20a1b7d70143d5eed30194667d56a855692865bbcbef4551dcf8b
+    sha256 after   005773ee6fb20a1b7d70143d5eed30194667d56a855692865bbcbef4551dcf8b
+    master         IDENTICAL
+
+DK-01-295  Hald Hovedgård, Dollerup
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:40 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Dollerup/dk-01-295-16x9.png
+    sha256 before  a0163cc2e4db0f7acead3cdd14920d1fc4290cc60b05bf902f02d1946ae79d7f
+    sha256 after   a0163cc2e4db0f7acead3cdd14920d1fc4290cc60b05bf902f02d1946ae79d7f
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Dollerup/dk-01-295-4x5.png
+    sha256 before  03ada470ae2a9493be3d1fe9089c724eeb9d2b996d3f62e1b06b41a193a4e9b5
+    sha256 after   03ada470ae2a9493be3d1fe9089c724eeb9d2b996d3f62e1b06b41a193a4e9b5
+    master         IDENTICAL
+
+DK-01-296  Ikast Church, Ikast
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:46 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Ikast/dk-01-296-16x9.png
+    sha256 before  5aca50b12efdc5a138ec67068a700988587b37cbc6f25c3ddafb0f546b49b9db
+    sha256 after   5aca50b12efdc5a138ec67068a700988587b37cbc6f25c3ddafb0f546b49b9db
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Ikast/dk-01-296-4x5.png
+    sha256 before  078cb436de857914bf23eac8c82c18d962d422adb299f32c0bf2d2d34cb1abcf
+    sha256 after   078cb436de857914bf23eac8c82c18d962d422adb299f32c0bf2d2d34cb1abcf
+    master         IDENTICAL
+
+DK-01-297  Søndre Anlæg, Herning
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:40 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Herning/dk-01-297-16x9.png
+    sha256 before  4f0af7dea427f8a9f25f1a8268db26605e0039e05eeff6074515d6f68f56b03f
+    sha256 after   4f0af7dea427f8a9f25f1a8268db26605e0039e05eeff6074515d6f68f56b03f
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Herning/dk-01-297-4x5.png
+    sha256 before  8c10fa8ba3b7b3610777c823b50b1e615e77cdb649d6d3024a8afd9a2a9bceeb
+    sha256 after   8c10fa8ba3b7b3610777c823b50b1e615e77cdb649d6d3024a8afd9a2a9bceeb
+    master         IDENTICAL
+
+DK-01-298  Brande Church, Brande
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:40 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Brande/dk-01-298-16x9.png
+    sha256 before  b77b0098d8e43cfefb95003edfcbdb07631e4cf74ba429e0f9eb49ac4dd037b9
+    sha256 after   b77b0098d8e43cfefb95003edfcbdb07631e4cf74ba429e0f9eb49ac4dd037b9
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Brande/dk-01-298-4x5.png
+    sha256 before  a97ca11919d8bcf78d78d2b0a8c8d2568256a2a83a76ff8976eb6f64b9b1e603
+    sha256 after   a97ca11919d8bcf78d78d2b0a8c8d2568256a2a83a76ff8976eb6f64b9b1e603
+    master         IDENTICAL
+
+DK-01-299  Give Church, Give
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:41 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Give/dk-01-299-16x9.png
+    sha256 before  773103aea6e4550446f307f14702e5a9c1c9813cf92eac7a4bfefb7385ddd0a2
+    sha256 after   773103aea6e4550446f307f14702e5a9c1c9813cf92eac7a4bfefb7385ddd0a2
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Give/dk-01-299-4x5.png
+    sha256 before  3dde278d2dfa0667cc8de9a61653deaebb82fc0f2ab4d0defc9a4379e666b4aa
+    sha256 after   3dde278d2dfa0667cc8de9a61653deaebb82fc0f2ab4d0defc9a4379e666b4aa
+    master         IDENTICAL
+
+DK-01-300  Vejen Anlæg, Vejen
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:41 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Vejen/dk-01-300-16x9.png
+    sha256 before  1eb66699c5d337e20009587403fda10a9d36302344e3d146209e894d4996953f
+    sha256 after   1eb66699c5d337e20009587403fda10a9d36302344e3d146209e894d4996953f
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Vejen/dk-01-300-4x5.png
+    sha256 before  c8b93960bf1f4f48b7d8a252adf1e5cfb0eb839c6a65a2a68f3824c5c3a76c73
+    sha256 after   c8b93960bf1f4f48b7d8a252adf1e5cfb0eb839c6a65a2a68f3824c5c3a76c73
+    master         IDENTICAL
+
+DK-01-301  Vamdrup Church, Vamdrup
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:41 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Vamdrup/dk-01-301-16x9.png
+    sha256 before  382cdc896168463aabb5d2c94dd16eb5150bdc6238c12a66b325e6ad92722b2a
+    sha256 after   382cdc896168463aabb5d2c94dd16eb5150bdc6238c12a66b325e6ad92722b2a
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Vamdrup/dk-01-301-4x5.png
+    sha256 before  2307d3512589a472102a08912f45bb30bab8b6713c3f337725e43e91cd6f5668
+    sha256 after   2307d3512589a472102a08912f45bb30bab8b6713c3f337725e43e91cd6f5668
+    master         IDENTICAL
+
+DK-01-302  Gram Castle, Gram
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:41 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Gram/dk-01-302-16x9.png
+    sha256 before  f023f650dd0b676a5704df65fb0be4d9a50eb563c8cfc8f55f37fabb395cf161
+    sha256 after   f023f650dd0b676a5704df65fb0be4d9a50eb563c8cfc8f55f37fabb395cf161
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Gram/dk-01-302-4x5.png
+    sha256 before  b2d628c33b38b99d6f886f0436d378c5b70d6e02cdea6d7d2e5167d9d576f68e
+    sha256 after   b2d628c33b38b99d6f886f0436d378c5b70d6e02cdea6d7d2e5167d9d576f68e
+    master         IDENTICAL
+
+DK-01-303  Wadden Sea Centre, Vester Vedsted
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:42 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Vester Vedsted/dk-01-303-16x9.png
+    sha256 before  6560c8382e172873fec443fc0d0e9eaef6d544e9a77819a8de82a70fac088fa9
+    sha256 after   6560c8382e172873fec443fc0d0e9eaef6d544e9a77819a8de82a70fac088fa9
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Vester Vedsted/dk-01-303-4x5.png
+    sha256 before  82ccb871c9293a58e4f7fe4a8dc2ee0a8ca9fa6c6adce277272071af523b67c1
+    sha256 after   82ccb871c9293a58e4f7fe4a8dc2ee0a8ca9fa6c6adce277272071af523b67c1
+    master         IDENTICAL
+
+DK-01-304  Højer Mill, Højer
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 07:42 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Højer/dk-01-304-16x9.png
+    sha256 before  df9069400c30711e8585f3613bd6fee8f4a449d1263405e529747945dccfb3e4
+    sha256 after   df9069400c30711e8585f3613bd6fee8f4a449d1263405e529747945dccfb3e4
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Højer/dk-01-304-4x5.png
+    sha256 before  736b1b32e18b581f303508da95d41b8d8d433c802af77fd21723453e3f5693d8
+    sha256 after   736b1b32e18b581f303508da95d41b8d8d433c802af77fd21723453e3f5693d8
+    master         IDENTICAL
+
+DK-01-305  Sankt Catharinæ Church, Hjørring
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:21 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Hjørring/dk-01-305-16x9.png
+    sha256 before  790986d1db3e2182400576ca8890c5feef95ca3a8ebaecf28e8e31fc421f4604
+    sha256 after   790986d1db3e2182400576ca8890c5feef95ca3a8ebaecf28e8e31fc421f4604
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Hjørring/dk-01-305-4x5.png
+    sha256 before  aab55922a41152d9adc0e164c6bb5b6053da1afdac5317be7b474313c9f61167
+    sha256 after   aab55922a41152d9adc0e164c6bb5b6053da1afdac5317be7b474313c9f61167
+    master         IDENTICAL
+
+DK-01-306  Bulbjerg, Frøstrup
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:20 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Frøstrup/dk-01-306-16x9.png
+    sha256 before  29b09c5306bc1568c5e3ba757c31f120e1d6792c1166e5501334d64c1b9a9445
+    sha256 after   29b09c5306bc1568c5e3ba757c31f120e1d6792c1166e5501334d64c1b9a9445
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Frøstrup/dk-01-306-4x5.png
+    sha256 before  5404c019d8204dcbccf56d405440449923c3c6dc1f03d4e9d52ea3b71cb6a54e
+    sha256 after   5404c019d8204dcbccf56d405440449923c3c6dc1f03d4e9d52ea3b71cb6a54e
+    master         IDENTICAL
+
+DK-01-307  Kongernes Jelling, Jelling
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:20 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Jelling/dk-01-307-16x9.png
+    sha256 before  f4620cd6639d92fa2e6d2950c96151f3e6c181e78ecebae57e80bffcbb1f972a
+    sha256 after   f4620cd6639d92fa2e6d2950c96151f3e6c181e78ecebae57e80bffcbb1f972a
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Jelling/dk-01-307-4x5.png
+    sha256 before  efb2da3cc068f9519a302b2e58c3cf72950ba62930235b474029683749f47e28
+    sha256 after   efb2da3cc068f9519a302b2e58c3cf72950ba62930235b474029683749f47e28
+    master         IDENTICAL
+
+DK-01-308  Frijsenborg Castle, Hammel
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:21 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Hammel/dk-01-308-16x9.png
+    sha256 before  54857d03fcf19e8e7ab3c552d7d58cd68687c26b89128d7aefebc46723b0316a
+    sha256 after   54857d03fcf19e8e7ab3c552d7d58cd68687c26b89128d7aefebc46723b0316a
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Hammel/dk-01-308-4x5.png
+    sha256 before  af90ce3ad688bc2ec0f784760687902917cc8aaf008e637000941b0057c2a4e7
+    sha256 after   af90ce3ad688bc2ec0f784760687902917cc8aaf008e637000941b0057c2a4e7
+    master         IDENTICAL
+
+DK-01-309  Rosenholm Castle, Hornslet
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:21 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Hornslet/dk-01-309-16x9.png
+    sha256 before  ed5897e334c397bc32562e80eeb20b9fed46450e6ecbe57402bcd454cea3c0a9
+    sha256 after   ed5897e334c397bc32562e80eeb20b9fed46450e6ecbe57402bcd454cea3c0a9
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Hornslet/dk-01-309-4x5.png
+    sha256 before  44bd7b7b98739862ee07b05b52ce7fb8e15a0b6cb3786f00013a6621626af7e3
+    sha256 after   44bd7b7b98739862ee07b05b52ce7fb8e15a0b6cb3786f00013a6621626af7e3
+    master         IDENTICAL
+
+DK-01-310  Voergaard Castle, Dronninglund
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:21 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Dronninglund/dk-01-310-16x9.png
+    sha256 before  cf896dbf72ae61e397677f321a0513ddd4a7c504550c7b538023bfe9c0e586c3
+    sha256 after   cf896dbf72ae61e397677f321a0513ddd4a7c504550c7b538023bfe9c0e586c3
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Dronninglund/dk-01-310-4x5.png
+    sha256 before  e6a407b36e5e09d571fe040a92761ed500374829d77a485b1245700f8863deeb
+    sha256 after   e6a407b36e5e09d571fe040a92761ed500374829d77a485b1245700f8863deeb
+    master         IDENTICAL
+
+DK-01-311  Spøttrup Castle, Spøttrup
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:21 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Spøttrup/dk-01-311-16x9.png
+    sha256 before  a782c302f01ecbe2c143b3efd98a10aa2eaf31a090091ef9388d0456c5057ee4
+    sha256 after   a782c302f01ecbe2c143b3efd98a10aa2eaf31a090091ef9388d0456c5057ee4
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Spøttrup/dk-01-311-4x5.png
+    sha256 before  6f470be7b41447084fefc635e1501f265934470e35c3876c4d75cc0c2ff7b2de
+    sha256 after   6f470be7b41447084fefc635e1501f265934470e35c3876c4d75cc0c2ff7b2de
+    master         IDENTICAL
+
+DK-01-312  Nørre Vosborg, Vemb
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:21 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Vemb/dk-01-312-16x9.png
+    sha256 before  cebebe0600a972523bbabf019b9d9055c5a19ab32f5227daa85e2817f8c2f9d8
+    sha256 after   cebebe0600a972523bbabf019b9d9055c5a19ab32f5227daa85e2817f8c2f9d8
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Vemb/dk-01-312-4x5.png
+    sha256 before  21445aadfd57f0606b554035a80e24bc44d4eec39606956893137561ce0546cf
+    sha256 after   21445aadfd57f0606b554035a80e24bc44d4eec39606956893137561ce0546cf
+    master         IDENTICAL
+
+DK-01-313  Vrå Church, Vrå
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:28 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Vrå/dk-01-313-16x9.png
+    sha256 before  0eb7d1e92343fdd68a165eb8c8e2c8831a226f72b71e324f3ebcc8b96ff45238
+    sha256 after   0eb7d1e92343fdd68a165eb8c8e2c8831a226f72b71e324f3ebcc8b96ff45238
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Vrå/dk-01-313-4x5.png
+    sha256 before  af591828a29bba0cc36852e70e6e3fe555ed4af0450cf65790cf56cd4ea00664
+    sha256 after   af591828a29bba0cc36852e70e6e3fe555ed4af0450cf65790cf56cd4ea00664
+    master         IDENTICAL
+
+DK-01-314  Sønderho Church, Sønderho
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:21 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Sønderho/dk-01-314-16x9.png
+    sha256 before  2b9c18945b25e035902098fc9fae7f534549c0b95ab11c1683d6d712e9e113e7
+    sha256 after   2b9c18945b25e035902098fc9fae7f534549c0b95ab11c1683d6d712e9e113e7
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Sønderho/dk-01-314-4x5.png
+    sha256 before  68dd0d57225b4b8a8ef53efede78a8245aa46efe555a70c448d27edffb247d59
+    sha256 after   68dd0d57225b4b8a8ef53efede78a8245aa46efe555a70c448d27edffb247d59
+    master         IDENTICAL
+
+DK-01-315  Havneby Harbour, Havneby
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:21 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Havneby/dk-01-315-16x9.png
+    sha256 before  249731412e43d901d8b2dcd108b942d53a6cda0c49340503d64e3a0a76bf1469
+    sha256 after   249731412e43d901d8b2dcd108b942d53a6cda0c49340503d64e3a0a76bf1469
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Havneby/dk-01-315-4x5.png
+    sha256 before  eea820ea9c76706f1f7e401c5003941e41a6e62ef827bb5317a55747b1b56173
+    sha256 after   eea820ea9c76706f1f7e401c5003941e41a6e62ef827bb5317a55747b1b56173
+    master         IDENTICAL
+
+DK-01-316  Mandø Causeway, Mandø
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:22 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Mandø/dk-01-316-16x9.png
+    sha256 before  0c3ca7693e1ef9ac0649cdbfa2b5b49ce7fc66efd03f6bc6329954e9c03729aa
+    sha256 after   0c3ca7693e1ef9ac0649cdbfa2b5b49ce7fc66efd03f6bc6329954e9c03729aa
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Mandø/dk-01-316-4x5.png
+    sha256 before  6699c842273ced9216fca45b4a48ce63fc4642dc5be1813e9ab7032c86075b10
+    sha256 after   6699c842273ced9216fca45b4a48ce63fc4642dc5be1813e9ab7032c86075b10
+    master         IDENTICAL
+
+DK-01-317  Nordborg Castle, Nordborg
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:22 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Nordborg/dk-01-317-16x9.png
+    sha256 before  04b0a695efa4cb57682b60c7d45ce85cab876de750c221698ac16ad6d6dcfb95
+    sha256 after   04b0a695efa4cb57682b60c7d45ce85cab876de750c221698ac16ad6d6dcfb95
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Nordborg/dk-01-317-4x5.png
+    sha256 before  78d4141d751d7cc13463a8e1dd0f3d2f2bd45e95e7c4d927874ed0fd4f4781ce
+    sha256 after   78d4141d751d7cc13463a8e1dd0f3d2f2bd45e95e7c4d927874ed0fd4f4781ce
+    master         IDENTICAL
+
+DK-01-318  Rise Church, Store Rise
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:22 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Store Rise/dk-01-318-16x9.png
+    sha256 before  c565e428c11b0df588c13ec3b02d33fdb8821a1bb4e6bd18dfce95fb5f1b9569
+    sha256 after   c565e428c11b0df588c13ec3b02d33fdb8821a1bb4e6bd18dfce95fb5f1b9569
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Store Rise/dk-01-318-4x5.png
+    sha256 before  880fb8a401611bc4e4becc546600fa6e5814dcd1e5b76885461efda022c9a25e
+    sha256 after   880fb8a401611bc4e4becc546600fa6e5814dcd1e5b76885461efda022c9a25e
+    master         IDENTICAL
+
+DK-01-319  Vesterø Harbour, Vesterø Havn
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:22 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Vesterø Havn/dk-01-319-16x9.png
+    sha256 before  2c449206bfd4c7e8ae6b343fd62bd0b13ad4574b24c40985737c0513b0932202
+    sha256 after   2c449206bfd4c7e8ae6b343fd62bd0b13ad4574b24c40985737c0513b0932202
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Vesterø Havn/dk-01-319-4x5.png
+    sha256 before  05e0cccc79b0738f3c3f9be9f512d81f3aac1f617a958adf169bb8abff4689cb
+    sha256 after   05e0cccc79b0738f3c3f9be9f512d81f3aac1f617a958adf169bb8abff4689cb
+    master         IDENTICAL
+
+DK-01-320  Anholt Harbour, Anholt
+  skip reason  first daylight / morning after sunrise, not a night scene. Open-Meteo is_day 1. Solar note starts 'After today's sunrise'. Fails Night / before sunrise and is_day 0. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 08:22 Europe/Copenhagen
+  solar head    After today's sunrise
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Anholt/dk-01-320-16x9.png
+    sha256 before  9dc08f85898ae8e10b2086a476051ca96b601749fa5b856fcf53297520e4984c
+    sha256 after   9dc08f85898ae8e10b2086a476051ca96b601749fa5b856fcf53297520e4984c
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Anholt/dk-01-320-4x5.png
+    sha256 before  3662a6668dfec4fd7943d05fa07dce6724cf455f2e10fd64ec5dd53b75c8e11c
+    sha256 after   3662a6668dfec4fd7943d05fa07dce6724cf455f2e10fd64ec5dd53b75c8e11c
+    master         IDENTICAL
+
+DK-01-321  Marienlyst Castle, Helsingør
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 14:57 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Helsingør/dk-01-321-16x9.png
+    sha256 before  3de3e2f9665c86142e73e71bf3a7af25bdc8c282505e0930a562d5c6de0ee587
+    sha256 after   3de3e2f9665c86142e73e71bf3a7af25bdc8c282505e0930a562d5c6de0ee587
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Helsingør/dk-01-321-4x5.png
+    sha256 before  137c00822d3e9d91b99ae9ade84d00e06c465dc181de030525967cc29a3cf92c
+    sha256 after   137c00822d3e9d91b99ae9ade84d00e06c465dc181de030525967cc29a3cf92c
+    master         IDENTICAL
+
+DK-01-322  Nyker Round Church, Nyker
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:04 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Nyker/dk-01-322-16x9.png
+    sha256 before  34d20a06382f13b22ac8ecf1dc89b2db1a464179d6e9e4a9d39d6612288bbcdc
+    sha256 after   34d20a06382f13b22ac8ecf1dc89b2db1a464179d6e9e4a9d39d6612288bbcdc
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Nyker/dk-01-322-4x5.png
+    sha256 before  e6b469804e39c185651ce32eba974aa10bc921dfe6914ccad617301e030a32eb
+    sha256 after   e6b469804e39c185651ce32eba974aa10bc921dfe6914ccad617301e030a32eb
+    master         IDENTICAL
+
+DK-01-323  Liselund, Borre
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:01 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Borre/dk-01-323-16x9.png
+    sha256 before  eec7f401bd5cc3e87c45c17102390ef50df3406f911f748f869b3f74b0e1e373
+    sha256 after   eec7f401bd5cc3e87c45c17102390ef50df3406f911f748f869b3f74b0e1e373
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Borre/dk-01-323-4x5.png
+    sha256 before  7aa37b5836746bb11bb35ef0d5b01cde5342416c828f025ef7db8b2369238af8
+    sha256 after   7aa37b5836746bb11bb35ef0d5b01cde5342416c828f025ef7db8b2369238af8
+    master         IDENTICAL
+
+DK-01-324  Jægerspris Castle, Jægerspris
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 14:52 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Jægerspris/dk-01-324-16x9.png
+    sha256 before  13e643aa8be35447628708510d7f385204d667bcca219a00d1d18d2ecd294f50
+    sha256 after   13e643aa8be35447628708510d7f385204d667bcca219a00d1d18d2ecd294f50
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Jægerspris/dk-01-324-4x5.png
+    sha256 before  10923bd5d15eda34d8a815c92d9120a5a38e1574597371db0ad6f3ac28ee6010
+    sha256 after   10923bd5d15eda34d8a815c92d9120a5a38e1574597371db0ad6f3ac28ee6010
+    master         IDENTICAL
+
+DK-01-325  Brandts, Odense
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:01 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Odense/dk-01-325-16x9.png
+    sha256 before  e59e2e7359379f95138c625fccb1a7b4bde8daf09fd2c4459743b37ad16db35e
+    sha256 after   e59e2e7359379f95138c625fccb1a7b4bde8daf09fd2c4459743b37ad16db35e
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Odense/dk-01-325-4x5.png
+    sha256 before  c40271fc73d4096dd312290ba2d95a2295ff843e9a225d9302cecb5a2753798a
+    sha256 after   c40271fc73d4096dd312290ba2d95a2295ff843e9a225d9302cecb5a2753798a
+    master         IDENTICAL
+
+DK-01-326  Aarhus Cathedral, Aarhus
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:01 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Aarhus/dk-01-326-16x9.png
+    sha256 before  9bfe78367fc01dc2f4921eae96adb1364964138460be68a982a49c0b5c94ef2b
+    sha256 after   9bfe78367fc01dc2f4921eae96adb1364964138460be68a982a49c0b5c94ef2b
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Aarhus/dk-01-326-4x5.png
+    sha256 before  082ff4420ee34f836e2663c1edfb9a4fecbd42e0f2f0482e42e2e47f0bdd698f
+    sha256 after   082ff4420ee34f836e2663c1edfb9a4fecbd42e0f2f0482e42e2e47f0bdd698f
+    master         IDENTICAL
+
+DK-01-327  Kunsten, Aalborg
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 14:54 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Aalborg/dk-01-327-16x9.png
+    sha256 before  56c0643b45c3307a7aefdd9a63bd4f631a650049c9e2cf9e76d5c938d3f1b380
+    sha256 after   56c0643b45c3307a7aefdd9a63bd4f631a650049c9e2cf9e76d5c938d3f1b380
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Aalborg/dk-01-327-4x5.png
+    sha256 before  29dae0b8bddc4a80f199998970348ba36d229e298bfc2b1b285365e98e7700c4
+    sha256 after   29dae0b8bddc4a80f199998970348ba36d229e298bfc2b1b285365e98e7700c4
+    master         IDENTICAL
+
+DK-01-328  Fisheries Museum, Esbjerg
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:03 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Esbjerg/dk-01-328-16x9.png
+    sha256 before  6d9a3fee4a85870b8aaca88d50fe8a288ce999b328b1d9b3b6b3ef4a779f749d
+    sha256 after   6d9a3fee4a85870b8aaca88d50fe8a288ce999b328b1d9b3b6b3ef4a779f749d
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Esbjerg/dk-01-328-4x5.png
+    sha256 before  af63102acb7a59758ef78c3413c7e7f8d0f5baac76941e781ec886b8a0c712b3
+    sha256 after   af63102acb7a59758ef78c3413c7e7f8d0f5baac76941e781ec886b8a0c712b3
+    master         IDENTICAL
+
+DK-01-329  Grey Lighthouse, Skagen
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 14:55 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Skagen/dk-01-329-16x9.png
+    sha256 before  c1b5a72dbaa34eb251bfb321ab6c6efa1b7ef3119ca8f95ad290ea2999978395
+    sha256 after   c1b5a72dbaa34eb251bfb321ab6c6efa1b7ef3119ca8f95ad290ea2999978395
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Skagen/dk-01-329-4x5.png
+    sha256 before  0906ec2da7e72da673c3b3782f50d464a6717bfb7e80069fb33bf50a66147bbd
+    sha256 after   0906ec2da7e72da673c3b3782f50d464a6717bfb7e80069fb33bf50a66147bbd
+    master         IDENTICAL
+
+DK-01-330  Klintholm Harbour, Klintholm Havn
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:01 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Klintholm Havn/dk-01-330-16x9.png
+    sha256 before  194bcd4da83cd39cf0d0613f22cf6956a970f6df4df8755a7128ace9f8a0540d
+    sha256 after   194bcd4da83cd39cf0d0613f22cf6956a970f6df4df8755a7128ace9f8a0540d
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Klintholm Havn/dk-01-330-4x5.png
+    sha256 before  019015447fc6bd80f479566aca7995b73e6044339bd41391ffd1aa104288a500
+    sha256 after   019015447fc6bd80f479566aca7995b73e6044339bd41391ffd1aa104288a500
+    master         IDENTICAL
+
+DK-01-331  Christiansø Harbour, Christiansø
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:02 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Christiansø/dk-01-331-16x9.png
+    sha256 before  386d36215086bfe7adc88d86187b0092a93338033903e22d69ea388cd2761322
+    sha256 after   386d36215086bfe7adc88d86187b0092a93338033903e22d69ea388cd2761322
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Christiansø/dk-01-331-4x5.png
+    sha256 before  8e5a6081fcd14d5837bac7f69fd3116b6926cee4253c98a81e22318889373078
+    sha256 after   8e5a6081fcd14d5837bac7f69fd3116b6926cee4253c98a81e22318889373078
+    master         IDENTICAL
+
+DK-01-332  Eiði, Eiði
+  skip reason  daylight-only, midday. Open-Meteo is_day 1. Solar note starts 'Daylight, midday'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 14:56 Europe/Copenhagen
+  solar head    Daylight, midday
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Eiði/dk-01-332-16x9.png
+    sha256 before  843990395c70c6a319c31588db054019e447f85a80a58f27fcfa6794f9dfed56
+    sha256 after   843990395c70c6a319c31588db054019e447f85a80a58f27fcfa6794f9dfed56
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Eiði/dk-01-332-4x5.png
+    sha256 before  6ba095ff465b67c72dcb6b4d23c9d605652be51aa1dddc252179b83b3084b258
+    sha256 after   6ba095ff465b67c72dcb6b4d23c9d605652be51aa1dddc252179b83b3084b258
+    master         IDENTICAL
+
+DK-01-333  Fuglafjørður Harbour, Fuglafjørður
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:02 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Fuglafjørður/dk-01-333-16x9.png
+    sha256 before  9586b1c5e365eb97fc933ef10503057d6cb947be8b432c0586178bb10dec5dcc
+    sha256 after   9586b1c5e365eb97fc933ef10503057d6cb947be8b432c0586178bb10dec5dcc
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Fuglafjørður/dk-01-333-4x5.png
+    sha256 before  5be30a24ef973e81ad393a94aa196c4bfc5cbc8e99dfe90c2deeb11484fad6f5
+    sha256 after   5be30a24ef973e81ad393a94aa196c4bfc5cbc8e99dfe90c2deeb11484fad6f5
+    master         IDENTICAL
+
+DK-01-334  Qeqertarsuaq Harbour, Qeqertarsuaq
+  skip reason  daylight-only, late morning. Open-Meteo is_day 1. Solar note starts 'Daylight, late morning'. No night master pair. No *-daylight-* file.
+  qc            approved
+  scenario      25 September 2026 · 14:58 Europe/Copenhagen
+  solar head    Daylight, late morning
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Qeqertarsuaq/dk-01-334-16x9.png
+    sha256 before  7f566ace475a4f545f0e5debac536c9ab03db408e42a479443b2a96adaf31ebc
+    sha256 after   7f566ace475a4f545f0e5debac536c9ab03db408e42a479443b2a96adaf31ebc
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Qeqertarsuaq/dk-01-334-4x5.png
+    sha256 before  16e7e028736f34e02bfa2466d3d3f2b0be9ddd60cdda91775971d054a12df16b
+    sha256 after   16e7e028736f34e02bfa2466d3d3f2b0be9ddd60cdda91775971d054a12df16b
+    master         IDENTICAL
+
+DK-01-335  Paamiut Harbour, Paamiut
+  skip reason  daylight-only, late morning. Open-Meteo is_day 1. Solar note starts 'Daylight, late morning'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 14:56 Europe/Copenhagen
+  solar head    Daylight, late morning
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Paamiut/dk-01-335-16x9.png
+    sha256 before  8ce612fef4c7abd06332a6b5465a2e0ff46f8c59cda567603b0db23af867b047
+    sha256 after   8ce612fef4c7abd06332a6b5465a2e0ff46f8c59cda567603b0db23af867b047
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Paamiut/dk-01-335-4x5.png
+    sha256 before  2a9134e7472e9f0f31367fa10f707a956f9f72428fbc00ce09487e744b600360
+    sha256 after   2a9134e7472e9f0f31367fa10f707a956f9f72428fbc00ce09487e744b600360
+    master         IDENTICAL
+
+DK-01-336  Narsaq Harbour, Narsaq
+  skip reason  daylight-only, late morning. Open-Meteo is_day 1. Solar note starts 'Daylight, late morning'. No night master pair. No *-daylight-* file.
+  qc            approved
+  scenario      25 September 2026 · 14:56 Europe/Copenhagen
+  solar head    Daylight, late morning
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Narsaq/dk-01-336-16x9.png
+    sha256 before  00cb3956d7b260eb4411e13b6b91da972707f3c5076746c62499cea96bc8dc51
+    sha256 after   00cb3956d7b260eb4411e13b6b91da972707f3c5076746c62499cea96bc8dc51
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Narsaq/dk-01-336-4x5.png
+    sha256 before  3065fb21eae187493276e7260456600e846aa5c357353d7d2cf128f31aa83248
+    sha256 after   3065fb21eae187493276e7260456600e846aa5c357353d7d2cf128f31aa83248
+    master         IDENTICAL
+
+DK-01-337  Assistens Cemetery, Copenhagen
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:24 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Copenhagen/dk-01-337-16x9.png
+    sha256 before  3624da2607af0372b9e574507ce12a06b4b23ac5ffdbf7a84b9f47db5cb950e2
+    sha256 after   3624da2607af0372b9e574507ce12a06b4b23ac5ffdbf7a84b9f47db5cb950e2
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Copenhagen/dk-01-337-4x5.png
+    sha256 before  55e6acef90fe901a5b4d8bf3f3a23491a3230dfa08d8182eedde9b185d45c296
+    sha256 after   55e6acef90fe901a5b4d8bf3f3a23491a3230dfa08d8182eedde9b185d45c296
+    master         IDENTICAL
+
+DK-01-338  Grundtvig's Church, Copenhagen
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:26 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Copenhagen/dk-01-338-16x9.png
+    sha256 before  491606a001bce207155057cfe7ac5299f518c188af1cd149420bd9278670476c
+    sha256 after   491606a001bce207155057cfe7ac5299f518c188af1cd149420bd9278670476c
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Copenhagen/dk-01-338-4x5.png
+    sha256 before  10603d5d90725c1fd1d218912d2e0e60e72c43ac4fba826a736b682ab370e4c0
+    sha256 after   10603d5d90725c1fd1d218912d2e0e60e72c43ac4fba826a736b682ab370e4c0
+    master         IDENTICAL
+
+DK-01-339  Sankt Mariæ Kirke, Helsingør
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:33 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Helsingør/dk-01-339-16x9.png
+    sha256 before  f0fb63a929227b9e53d181d3664b74c658df93d7b9fa09893092b2cc33e1e0ef
+    sha256 after   f0fb63a929227b9e53d181d3664b74c658df93d7b9fa09893092b2cc33e1e0ef
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Helsingør/dk-01-339-4x5.png
+    sha256 before  96f8638379c80e91435e89837bbdeb864a230ed25f7f629ab54ebb837a551084
+    sha256 after   96f8638379c80e91435e89837bbdeb864a230ed25f7f629ab54ebb837a551084
+    master         IDENTICAL
+
+DK-01-340  Sankt Jørgensbjerg, Roskilde
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:26 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Roskilde/dk-01-340-16x9.png
+    sha256 before  6db20d6434de02af6158d16ccc09e29f6c424010c931938f3f683f52bec63b35
+    sha256 after   6db20d6434de02af6158d16ccc09e29f6c424010c931938f3f683f52bec63b35
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Roskilde/dk-01-340-4x5.png
+    sha256 before  c11b428e5e8d5a38f34299f03f76fe1b553f60703c4636928bfda8ee62bd1daf
+    sha256 after   c11b428e5e8d5a38f34299f03f76fe1b553f60703c4636928bfda8ee62bd1daf
+    master         IDENTICAL
+
+DK-01-341  Mølleporten, Stege
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:27 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Stege/dk-01-341-16x9.png
+    sha256 before  b1ae3899d406d5394effd61e2e29c71d439b29b0a6215efb91fb1a730e8d4797
+    sha256 after   b1ae3899d406d5394effd61e2e29c71d439b29b0a6215efb91fb1a730e8d4797
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Stege/dk-01-341-4x5.png
+    sha256 before  920a736e82f628677ce9ae7ad65fb7bc53b13b96423ede1c8434ef53890c0b7a
+    sha256 after   920a736e82f628677ce9ae7ad65fb7bc53b13b96423ede1c8434ef53890c0b7a
+    master         IDENTICAL
+
+DK-01-342  Czarens Hus, Nykøbing Falster
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:27 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Nykøbing Falster/dk-01-342-16x9.png
+    sha256 before  0637d6d0e4220544a2b932098c483812d840c3de2fd07a0d50d7b80a4d630d8d
+    sha256 after   0637d6d0e4220544a2b932098c483812d840c3de2fd07a0d50d7b80a4d630d8d
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Nykøbing Falster/dk-01-342-4x5.png
+    sha256 before  90e47c63fb28c7bff408dee671436e3d4427c5e0671f6fa6ab91c4bbc3162b48
+    sha256 after   90e47c63fb28c7bff408dee671436e3d4427c5e0671f6fa6ab91c4bbc3162b48
+    master         IDENTICAL
+
+DK-01-343  Sankt Laurentii, Kerteminde
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:28 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Kerteminde/dk-01-343-16x9.png
+    sha256 before  341297ba667e7f605195badc48708ccb4acd391e9e7a0d06f75db88713d766f9
+    sha256 after   341297ba667e7f605195badc48708ccb4acd391e9e7a0d06f75db88713d766f9
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Kerteminde/dk-01-343-4x5.png
+    sha256 before  9edbfc0ac235408c0c67b39393f93af556ad58c74b6e134174857dc15de5969f
+    sha256 after   9edbfc0ac235408c0c67b39393f93af556ad58c74b6e134174857dc15de5969f
+    master         IDENTICAL
+
+DK-01-344  Strandgade, Troense
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:28 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Troense/dk-01-344-16x9.png
+    sha256 before  90a28b42e8fe6d95731a9e6b72673de257a55e7ade163f5b2b4af673d1a39bac
+    sha256 after   90a28b42e8fe6d95731a9e6b72673de257a55e7ade163f5b2b4af673d1a39bac
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Troense/dk-01-344-4x5.png
+    sha256 before  5ccbf31e8ac5b9b3b2a1e735193f0e75eb9874b1019b189afa0a0a8ab8f5eb23
+    sha256 after   5ccbf31e8ac5b9b3b2a1e735193f0e75eb9874b1019b189afa0a0a8ab8f5eb23
+    master         IDENTICAL
+
+DK-01-345  Sankt Nicolai Kirke, Vejle
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:28 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Vejle/dk-01-345-16x9.png
+    sha256 before  0b8b4370b8e45c7b24d37f8ce8dfa095a3d5047f8bd0c0001c203382e649b91d
+    sha256 after   0b8b4370b8e45c7b24d37f8ce8dfa095a3d5047f8bd0c0001c203382e649b91d
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Vejle/dk-01-345-4x5.png
+    sha256 before  978ad8604a508ce3326a92791c51febd3fe31870c7da0d8f70c15a709d653706
+    sha256 after   978ad8604a508ce3326a92791c51febd3fe31870c7da0d8f70c15a709d653706
+    master         IDENTICAL
+
+DK-01-346  Horsens Statsfængsel, Horsens
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 15:28 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Horsens/dk-01-346-16x9.png
+    sha256 before  a044f904c5d62f18ae49dcd96cf5a8323e5949f1034615c24b2b0285282986c5
+    sha256 after   a044f904c5d62f18ae49dcd96cf5a8323e5949f1034615c24b2b0285282986c5
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Horsens/dk-01-346-4x5.png
+    sha256 before  76732a21b525ba4e960eb6546a82541f1363e69d863d65009d1473dd4976d563
+    sha256 after   76732a21b525ba4e960eb6546a82541f1363e69d863d65009d1473dd4976d563
+    master         IDENTICAL
+
+DK-01-347  Sankt Mortens Kirke, Randers
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved
+  scenario      25 September 2026 · 15:29 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Randers/dk-01-347-16x9.png
+    sha256 before  411d3594a6870c796051e59c36509ee77e59cff15097eed894461285ef8fc22d
+    sha256 after   411d3594a6870c796051e59c36509ee77e59cff15097eed894461285ef8fc22d
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Randers/dk-01-347-4x5.png
+    sha256 before  5b4899f43133ae08e0f390113bdbbb7c8e56228ef559faf1527384aa50b58cb1
+    sha256 after   5b4899f43133ae08e0f390113bdbbb7c8e56228ef559faf1527384aa50b58cb1
+    master         IDENTICAL
+
+DK-01-348  Øm Abbey, Emborg
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved
+  scenario      25 September 2026 · 15:29 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Emborg/dk-01-348-16x9.png
+    sha256 before  1986a456b0bb91dff2d32f1b7c4e7597644603746ed0962a9c5c7af6989576b7
+    sha256 after   1986a456b0bb91dff2d32f1b7c4e7597644603746ed0962a9c5c7af6989576b7
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Emborg/dk-01-348-4x5.png
+    sha256 before  eda76af5fb6548ccd426a6f3b908b9a501ce65f4abff47bf9f82846aab0ba552
+    sha256 after   eda76af5fb6548ccd426a6f3b908b9a501ce65f4abff47bf9f82846aab0ba552
+    master         IDENTICAL
+
+DK-01-349  Skagen Odde, Skagen
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved
+  scenario      25 September 2026 · 15:29 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Skagen/dk-01-349-16x9.png
+    sha256 before  d6791a9d9e6e19981f367dc72b6f954a9511a6a09c3efdbc3d569b1fe118acea
+    sha256 after   d6791a9d9e6e19981f367dc72b6f954a9511a6a09c3efdbc3d569b1fe118acea
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Skagen/dk-01-349-4x5.png
+    sha256 before  fa57782f9ac3699c0882eea084f02938a01d87b8cb983caefd52e759f02e8c35
+    sha256 after   fa57782f9ac3699c0882eea084f02938a01d87b8cb983caefd52e759f02e8c35
+    master         IDENTICAL
+
+DK-01-350  Mykines, Mykines
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved
+  scenario      25 September 2026 · 15:29 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Mykines/dk-01-350-16x9.png
+    sha256 before  f4a2f3385eb649cd264831e057b67462045f9e3177a55e6c683cd339fc5ea9aa
+    sha256 after   f4a2f3385eb649cd264831e057b67462045f9e3177a55e6c683cd339fc5ea9aa
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Mykines/dk-01-350-4x5.png
+    sha256 before  8b064367f64757d5d3526d16bcfe68d6891bf2f1f72680c14e9071a2a14c3f1c
+    sha256 after   8b064367f64757d5d3526d16bcfe68d6891bf2f1f72680c14e9071a2a14c3f1c
+    master         IDENTICAL
+
+DK-01-351  Trælanípan, Miðvágur
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved
+  scenario      25 September 2026 · 15:30 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Miðvágur/dk-01-351-16x9.png
+    sha256 before  9ddcc0bec7560e831f2511da8677dd2f5c4b116ef8e5fb554c68e7ba84568d1f
+    sha256 after   9ddcc0bec7560e831f2511da8677dd2f5c4b116ef8e5fb554c68e7ba84568d1f
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Miðvágur/dk-01-351-4x5.png
+    sha256 before  61401a2f6acae1382b3b6324cfd61633b16323c7f6e9d263c368f611816aa111
+    sha256 after   61401a2f6acae1382b3b6324cfd61633b16323c7f6e9d263c368f611816aa111
+    master         IDENTICAL
+
+DK-01-352  Tasiilaq Harbour, Tasiilaq
+  skip reason  daylight-only, midday. Open-Meteo is_day 1. Solar note starts 'Daylight, midday'. No night master pair. No *-daylight-* file.
+  qc            Approved
+  scenario      25 September 2026 · 15:30 Europe/Copenhagen
+  solar head    Daylight, midday
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Tasiilaq/dk-01-352-16x9.png
+    sha256 before  d387cbbcf1f299aaa085074cbfe22f53570ca19b6487c168e3cc626e7f41b8ad
+    sha256 after   d387cbbcf1f299aaa085074cbfe22f53570ca19b6487c168e3cc626e7f41b8ad
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Tasiilaq/dk-01-352-4x5.png
+    sha256 before  050526efc3c95a1a4b1a88bdaadbdff5759f4cdddbc37a3aca5688b137fa1f63
+    sha256 after   050526efc3c95a1a4b1a88bdaadbdff5759f4cdddbc37a3aca5688b137fa1f63
+    master         IDENTICAL
+
+DK-01-353  Marble Church, Copenhagen
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved
+  scenario      25 September 2026 · 16:02 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Copenhagen/dk-01-353-16x9.png
+    sha256 before  fe264b0c086608a1c2d49cc6c594ce6c120a92f0b8c68e5bad827ba54e3016dd
+    sha256 after   fe264b0c086608a1c2d49cc6c594ce6c120a92f0b8c68e5bad827ba54e3016dd
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Copenhagen/dk-01-353-4x5.png
+    sha256 before  ecd7de7152588a25fa27d7eb0566e899d9278afebb9d392c2002c1560a67108c
+    sha256 after   ecd7de7152588a25fa27d7eb0566e899d9278afebb9d392c2002c1560a67108c
+    master         IDENTICAL
+
+DK-01-354  Ridebanen, Copenhagen
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved
+  scenario      25 September 2026 · 16:03 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Copenhagen/dk-01-354-16x9.png
+    sha256 before  fc2ed3a5d7a656da8d9260b589785f2435614fdc970d98b02705457df9fd037f
+    sha256 after   fc2ed3a5d7a656da8d9260b589785f2435614fdc970d98b02705457df9fd037f
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Copenhagen/dk-01-354-4x5.png
+    sha256 before  02bd4684cf566d53f0d3b958f82ea2ba1b485836a30884476374127bc5d3463e
+    sha256 after   02bd4684cf566d53f0d3b958f82ea2ba1b485836a30884476374127bc5d3463e
+    master         IDENTICAL
+
+DK-01-355  Nylars Round Church, Nylars
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved
+  scenario      25 September 2026 · 16:03 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Nylars/dk-01-355-16x9.png
+    sha256 before  03cbdd264acf554af7784ddab46a84a2e25cd3f25a876979021190c05e58544f
+    sha256 after   03cbdd264acf554af7784ddab46a84a2e25cd3f25a876979021190c05e58544f
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Nylars/dk-01-355-4x5.png
+    sha256 before  699360028ecc494ab8e1880c2540ce3500081705cb050a30de09f37d715d7627
+    sha256 after   699360028ecc494ab8e1880c2540ce3500081705cb050a30de09f37d715d7627
+    master         IDENTICAL
+
+DK-01-356  Slotskirken, Hillerød
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved
+  scenario      25 September 2026 · 16:03 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Hillerød/dk-01-356-16x9.png
+    sha256 before  ccb1207dac185b5908d50ab506bc78938527bc2adad263b02a9c3ba440e78553
+    sha256 after   ccb1207dac185b5908d50ab506bc78938527bc2adad263b02a9c3ba440e78553
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Hillerød/dk-01-356-4x5.png
+    sha256 before  dc8e94c44bd24aa36e574ec7fa6b05082b615ae190058014416681eb53db47aa
+    sha256 after   dc8e94c44bd24aa36e574ec7fa6b05082b615ae190058014416681eb53db47aa
+    master         IDENTICAL
+
+DK-01-357  Lerchenborg, Kalundborg
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 16:03 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Kalundborg/dk-01-357-16x9.png
+    sha256 before  4010bc6440eb40e0734116a79a13ea1cf1794dc5c8cb7ddd9edf8ab1cab83dd7
+    sha256 after   4010bc6440eb40e0734116a79a13ea1cf1794dc5c8cb7ddd9edf8ab1cab83dd7
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Kalundborg/dk-01-357-4x5.png
+    sha256 before  07719b7bebd5fabcf78c79d36e07c532651c94f9338e1283d26b72ccf92fe70d
+    sha256 after   07719b7bebd5fabcf78c79d36e07c532651c94f9338e1283d26b72ccf92fe70d
+    master         IDENTICAL
+
+DK-01-358  Gavnø Castle, Næstved
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            approved
+  scenario      25 September 2026 · 16:08 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Næstved/dk-01-358-16x9.png
+    sha256 before  509373202f76c62d6d6cc7b8ebd69735d6a78aef63a350cec7498e90e282999c
+    sha256 after   509373202f76c62d6d6cc7b8ebd69735d6a78aef63a350cec7498e90e282999c
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Næstved/dk-01-358-4x5.png
+    sha256 before  5aa24c91860d41ab1655fb5d0b5163bae0a1d23ddb0cd2dba962742dbf3d000f
+    sha256 after   5aa24c91860d41ab1655fb5d0b5163bae0a1d23ddb0cd2dba962742dbf3d000f
+    master         IDENTICAL
+
+DK-01-359  Helligåndskirken, Faaborg
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            approved
+  scenario      25 September 2026 · 16:08 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Faaborg/dk-01-359-16x9.png
+    sha256 before  5a299a199402335d7e5f8abc81d776d81b885442f621a46ded8272c1d5476646
+    sha256 after   5a299a199402335d7e5f8abc81d776d81b885442f621a46ded8272c1d5476646
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Faaborg/dk-01-359-4x5.png
+    sha256 before  353db24ebbb29647a5a8233f229305f2dd762f2ad0b38f409bd169eda6395e6f
+    sha256 after   353db24ebbb29647a5a8233f229305f2dd762f2ad0b38f409bd169eda6395e6f
+    master         IDENTICAL
+
+DK-01-360  Skibbroen, Ribe
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 16:05 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Ribe/dk-01-360-16x9.png
+    sha256 before  ca5d2200708b1531ba586aae83ece4405b3a833f3b391f804cf7fd55f53b0f8c
+    sha256 after   ca5d2200708b1531ba586aae83ece4405b3a833f3b391f804cf7fd55f53b0f8c
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Ribe/dk-01-360-4x5.png
+    sha256 before  3f046e0111aa465fa2b863929dd9ed2fd70001ea1811b05bc371349d43b7febd
+    sha256 after   3f046e0111aa465fa2b863929dd9ed2fd70001ea1811b05bc371349d43b7febd
+    master         IDENTICAL
+
+DK-01-361  Løgumkloster, Løgumkloster
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 16:08 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Løgumkloster/dk-01-361-16x9.png
+    sha256 before  eb486be4ba0275173aa4a329fc188596e408b88840b66d989050ca94d822af25
+    sha256 after   eb486be4ba0275173aa4a329fc188596e408b88840b66d989050ca94d822af25
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Løgumkloster/dk-01-361-4x5.png
+    sha256 before  7d2f168ac30b9568d635c5f8eda4a0bb0c3101f9fdb926d30e8b8a17c695b9f9
+    sha256 after   7d2f168ac30b9568d635c5f8eda4a0bb0c3101f9fdb926d30e8b8a17c695b9f9
+    master         IDENTICAL
+
+DK-01-362  Thisted Church, Thisted
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 16:05 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Thisted/dk-01-362-16x9.png
+    sha256 before  3f014cd133f6d78ca1232deb0b676309828c13a6eebcf10f632fa25b0cf6aa7b
+    sha256 after   3f014cd133f6d78ca1232deb0b676309828c13a6eebcf10f632fa25b0cf6aa7b
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Thisted/dk-01-362-4x5.png
+    sha256 before  db5276c8e1672313192798f7c83051a7a6842a46d98b00bf5b00ae091368ae3b
+    sha256 after   db5276c8e1672313192798f7c83051a7a6842a46d98b00bf5b00ae091368ae3b
+    master         IDENTICAL
+
+DK-01-363  Viðareiði, Viðareiði
+  skip reason  daylight-only, afternoon. Open-Meteo is_day 1. Solar note starts 'Daylight, afternoon'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 16:05 Europe/Copenhagen
+  solar head    Daylight, afternoon
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Viðareiði/dk-01-363-16x9.png
+    sha256 before  8ccfa8cf116f42d6dd76cedce325a771e45e04f2b76b04ba004a8f3c787e92a4
+    sha256 after   8ccfa8cf116f42d6dd76cedce325a771e45e04f2b76b04ba004a8f3c787e92a4
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Viðareiði/dk-01-363-4x5.png
+    sha256 before  6d734684b11a054283035d12eb6e870f89fce127ba2cb6b579adf27d990ce4ea
+    sha256 after   6d734684b11a054283035d12eb6e870f89fce127ba2cb6b579adf27d990ce4ea
+    master         IDENTICAL
+
+DK-01-364  Aasiaat Harbour, Aasiaat
+  skip reason  daylight-only, midday. Open-Meteo is_day 1. Solar note starts 'Daylight, midday'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 16:05 Europe/Copenhagen
+  solar head    Daylight, midday
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Aasiaat/dk-01-364-16x9.png
+    sha256 before  8940cba241e8360e93b4b70046746b601f806f7ab8e702454afe5ee82d84b2ae
+    sha256 after   8940cba241e8360e93b4b70046746b601f806f7ab8e702454afe5ee82d84b2ae
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Aasiaat/dk-01-364-4x5.png
+    sha256 before  82b3ceb22e89dfe4862fdd3fadc3a8cd03a96b2012d15a9d90528e61868bacb6
+    sha256 after   82b3ceb22e89dfe4862fdd3fadc3a8cd03a96b2012d15a9d90528e61868bacb6
+    master         IDENTICAL
+
+DK-01-365  Kolonihavnen, Nuuk
+  skip reason  daylight-only, midday. Open-Meteo is_day 1. Solar note starts 'Daylight, midday'. No night master pair. No *-daylight-* file.
+  qc            Approved · Cosmo QC 5/5 · Daylight
+  scenario      25 September 2026 · 16:05 Europe/Copenhagen
+  solar head    Daylight, midday
+  open-meteo is_day (stored wx)  1
+  master 16x9  library/world/Denmark/Nuuk/dk-01-365-16x9.png
+    sha256 before  5becff55115066965d0fb9ccf66024874934c4d9b52b812fd351eb2f071351c9
+    sha256 after   5becff55115066965d0fb9ccf66024874934c4d9b52b812fd351eb2f071351c9
+    master         IDENTICAL
+  master 4x5  library/world/Denmark/Nuuk/dk-01-365-4x5.png
+    sha256 before  19fda9421ad80b9ba0b8befe9b0030cd434696ae4efc3b03e0885e241b7ade0c
+    sha256 after   19fda9421ad80b9ba0b8befe9b0030cd434696ae4efc3b03e0885e241b7ade0c
+    master         IDENTICAL
+
+Confirmation: all 186 existing masters (93 scenes x 16x9 and 4x5) are byte-unchanged. Pre-report and post-report SHA-256 match for every file. No night PNG exists in DK-01-273 through DK-01-365, and no PNG was rewritten.
+Counts: 0 scenes selected, 93 skipped, 0 variant masters.
+Selected IDs: none.
+Skipped IDs: DK-01-273, DK-01-274, DK-01-275, DK-01-276, DK-01-277, DK-01-278, DK-01-279, DK-01-280, DK-01-281, DK-01-282, DK-01-283, DK-01-284, DK-01-285, DK-01-286, DK-01-287, DK-01-288, DK-01-289, DK-01-290, DK-01-291, DK-01-292, DK-01-293, DK-01-294, DK-01-295, DK-01-296, DK-01-297, DK-01-298, DK-01-299, DK-01-300, DK-01-301, DK-01-302, DK-01-303, DK-01-304, DK-01-305, DK-01-306, DK-01-307, DK-01-308, DK-01-309, DK-01-310, DK-01-311, DK-01-312, DK-01-313, DK-01-314, DK-01-315, DK-01-316, DK-01-317, DK-01-318, DK-01-319, DK-01-320, DK-01-321, DK-01-322, DK-01-323, DK-01-324, DK-01-325, DK-01-326, DK-01-327, DK-01-328, DK-01-329, DK-01-330, DK-01-331, DK-01-332, DK-01-333, DK-01-334, DK-01-335, DK-01-336, DK-01-337, DK-01-338, DK-01-339, DK-01-340, DK-01-341, DK-01-342, DK-01-343, DK-01-344, DK-01-345, DK-01-346, DK-01-347, DK-01-348, DK-01-349, DK-01-350, DK-01-351, DK-01-352, DK-01-353, DK-01-354, DK-01-355, DK-01-356, DK-01-357, DK-01-358, DK-01-359, DK-01-360, DK-01-361, DK-01-362, DK-01-363, DK-01-364, DK-01-365.
+Next ID to continue: END. Catalogue ends at DK-01-365.
+Night SHA proof summary: 0 night masters in this range. 186/186 existing masters IDENTICAL before and after. 0 PNG bytes changed.
+Tip SHA at batch start / branch base: 800aca96d19da850b1e048e8de4c4335b510b87b
