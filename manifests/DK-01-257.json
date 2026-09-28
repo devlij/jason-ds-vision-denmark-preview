@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Helsingør/dk-01-257-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-257",
+    "derived_from": "Night master Denmark/Helsingør/dk-01-257-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Helsingør/dk-01-257-16x9.png",
+        "sha256": "e971db5fbfd236f852b01d6e5e1357368ec3dbe55a3278ee8573c44ae2130414"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Helsingør/dk-01-257-4x5.png",
+        "sha256": "a395d1bcf07618aab58c1c1db0be7a84d5e4555ae3167577aad4909b467f7569"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Helsingør/dk-01-257-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Helsingør/dk-01-257-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "66538a03a05b2564d85b65f5466f79e30108d1503baab9cee80a3287ab06ccaa",
+      "4x5": "735ab88bbf627f19e6989781234a7d2ab326fc2613e790c642a6e75db5d4ecca"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Helsingør Harbour, Helsingør",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows the harbour basin with fishing boats and a plain unmarked ferry, Kronborg small and distant on the northern point, dark Øresund water, a lamp-lit quay and overcast pre-dawn sky — matches the note's three geometry anchors (basin with boats, distant castle not filling the frame, dark water and faint far shore). Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Helsingør Harbour, Helsingør' and scenario '25 September 2026 · 06:56 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:29, confirmed unique repo-wide across all 365 notes, and 06:56 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable ferry name or company marks. All five gates pass.",

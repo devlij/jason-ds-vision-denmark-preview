@@ -12,6 +12,36 @@
   "file_4x5": "Denmark/Bagsværd/dk-01-263-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
+  "daylight_variant": {
+    "variant_of_entry_id": "DK-01-263",
+    "derived_from": "Night master Denmark/Bagsværd/dk-01-263-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
+    "source_night": {
+      "16x9": {
+        "path": "library/world/Denmark/Bagsværd/dk-01-263-16x9.png",
+        "sha256": "6fe94f11b99fef915daaff84c664f4cb6713b589491b5d63b6f9b180ba851eb4"
+      },
+      "4x5": {
+        "path": "library/world/Denmark/Bagsværd/dk-01-263-4x5.png",
+        "sha256": "d61a36b9637e9ec87219c9dd9b189d61f3081afd83d3a93e9d6bcef917b2526b"
+      },
+      "recorded": "SHA-256 of the night masters immediately before this daylight batch. Post-write hashes are identical; night masters were not rewritten."
+    },
+    "files": {
+      "16x9": "library/world/Denmark/Bagsværd/dk-01-263-daylight-16x9.png",
+      "4x5": "library/world/Denmark/Bagsværd/dk-01-263-daylight-4x5.png"
+    },
+    "sha256": {
+      "16x9": "1eaf1326353d7f5ebce22ae0569ac33929a6f2825aa9d93afeaa65c98fdb3e90",
+      "4x5": "64825f996389dafa3065e7739c54d80c10d2cb1699ce8385d0a9c6ac294fae1b"
+    },
+    "created_date": "2026-09-28",
+    "on_image_caption": "Bagsværd Lake, Bagsværd",
+    "on_image_signature": "Jason D’s Vision",
+    "on_image_disclosure": "AI-generated artistic interpretation · Not a photograph.",
+    "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
+    "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
+    "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows the gravel lakeside path with reeds and autumn trees along calm water under an overcast pre-dawn sky — a plausible quiet Bagsværd Lake view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Bagsværd Lake, Bagsværd' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:40, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no logos. All five gates pass.",
