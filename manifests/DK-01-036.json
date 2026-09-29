@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Odense/dk-01-036-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b9a2ed5d62db8f7a4be2fa21613723ad71fe5c73a1ca887a98247ea273f9bda3",
-      "4x5": "6fe16337f40029b67ad93842b9a079502c6229b1a572d7983079767b2fd18f06"
+      "16x9": "f6330e9160fa1e4a4e0860adcb7650e71f8ebf1996f7b3fa532d290b49bae0c2",
+      "4x5": "25dd5ea56bf0c4afa6c03d72d58d9f1a5fac6882d73032bae3d9d631915a2031"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Odense Cathedral, Odense",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: night — red-brick Gothic cathedral with tall west tower topped by an illuminated open belfry lantern, on a lamplit square — matches Odense Cathedral (Sankt Knuds) form. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Odense Cathedral, Odense', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:00 Europe/Copenhagen (HTTP Date 21:09:00 GMT), valid 00:45 step, is_day 0, overcast 12.9C 100% cloud, wind 13.3 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
   "approved_at": "2026-09-26T00:28:27.803993+00:00",
-  "sha256_16x9": "42428ad79ec92905e8447c79b59acc5952f8cf54ed8b67f0023a17d4b4cb5e84",
-  "sha256_4x5": "14a96a9c29830f44e6e05a6181756ffffd36167bdf81fed46f492b375a2253f6"
+  "sha256_16x9": "07dfe95c4757c2310e02c86b861a3e0695882aeb7c3f1ce70aa9c081e73d7c0c",
+  "sha256_4x5": "8248fc5d458c7f9ae6a091a29cbd2f61814aaad0d5fa39ddf20e9d9c560b76f4"
 }

@@ -51,8 +51,8 @@
   ],
   "approval_status": "Approved",
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "sha256_16x9": "4bdd44df5a975dadb281f9845e7e0b16d89443280dd1d1499af737681d8be667",
-  "sha256_4x5": "cd6d0f54811df6c717a17594e3fe1ba8dfdd1af2a01b7606a63bc4d02ea37106",
+  "sha256_16x9": "cbd3af4cdde13d0f3552b7d5015e3b4a805b27a1756dfb2d2dbb85c8381a7ac8",
+  "sha256_4x5": "5aa885280a21690a5c9b54de256e7d5bae7742aed51d51872663a363d39c77c7",
   "approval_basis": "Gate 1: night H.C. Andersen Quarter — cobbled Hans Jensens Stræde lane, the low ochre corner house with red tile roof, half-timbered neighbours, glowing windows and street lamps under an overcast dark sky; no modern glass block in frame (per note anchors); plausible Odense viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'H.C. Andersen Quarter, Odense', scenario '25 September 2026 · 00:00 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:06 Europe/Copenhagen, valid 25 Sep 00:00 (Overcast, 13.2°C, cloud 100%), unique to the second repo-wide, scenario inside the 00:00–00:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T21:34:31.673723+00:00",
   "daylight_variant": {
@@ -74,8 +74,8 @@
       "4x5": "library/world/Denmark/Odense/dk-01-008-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "48c6eac1ada1e1905894583df7ce87f2117c5554a6c0967b30c5d60317fee54c",
-      "4x5": "638f03b4dad2446f8ae1151e3fe93057e47eb37b5fa2e651cb748f5cad10b88f"
+      "16x9": "6d19ec972cb5006e03160e60d61d27ca96673e2c06b8bebae1267129f757a8cd",
+      "4x5": "3717d34aaec0e957ec8ee351ff1be1b95c17be6201966ca2d50c2d24ce368b31"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "H.C. Andersen Quarter, Odense",

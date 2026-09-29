@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Auning/dk-01-126-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b85acad7303eac3f232e17bda596c7a43bdcaae4019e2c9b79f88b97dda744ad",
-      "4x5": "cba98b270c41d947293db5f99171c6dd6e78332bfe171a6e3c4860b5b9f95f33"
+      "16x9": "a26c3461871f2e36e7ca4f94012bdcbb17a2ab2531da15dfac742acfe69b9eef",
+      "4x5": "56afa2d260e4838c4a379cf46241ea509bee522cbc8380250398621f485feaf7"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Gammel Estrup, Auning",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: moated red-brick Renaissance manor with stepped gables and round corner towers, cobbled bridge, lit windows at night; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Gammel Estrup, Auning', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:59 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:59 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:02.612510+00:00",
-  "sha256_16x9": "11c5466aa2eae3ed0f5caee371ec8a959effeb263d0fb6240ecc0b598f967cd5",
-  "sha256_4x5": "b65cee28c0e0816626cb5ea4df4ac22c0e71700523646f4a11275cce3510d1a9"
+  "sha256_16x9": "b7f5bfeeda0e516cd41e81e40475f7b89c3ec33710f7a2fc8429ff56c65bd307",
+  "sha256_4x5": "693ff7a7326e81e52a9c29dbe8cf0e71291d34cb5255dc8e79fb1258ec500588"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Kangerlussuaq/dk-01-255-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "8d636a5b6f921e022fcc1d3171a951d43d0fe33fef29a21404d9937b28d71eb0",
-      "4x5": "e6ca5d2a64c6c092e866c730b0e2097639567ef39147e16daeaf11286979ffe7"
+      "16x9": "ac6ec48c897c72dd3f846bcb67d65556bda129b8992567c562f6f1c5b5ce8504",
+      "4x5": "b11cac2b6caf9833acf3592f2bd9a801936537a83207540de39c7165fc54d9cd"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Kangerlussuaq Fjord, Kangerlussuaq",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: broad Kangerlussuaq fjord under low cloud, barren autumn-brown hills on both shores, distant settlement lights at the far end. Gate 2: 1920x1080 + 864x1080 exact, caption 'Kangerlussuaq Fjord, Kangerlussuaq', scenario '25 September 2026 · 06:37 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:07 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:25:07.894455+00:00",
-  "sha256_16x9": "3580263a591e54a7e05985e6e36930a728eff1c816ffaffe60247811c2048fdb",
-  "sha256_4x5": "97ef978db5bcfdcbd26dc555fbee00ba4b84e62a92c98f888b0998dc4fecf884"
+  "sha256_16x9": "c0217d9ed80abe6643a85c4c05f5a4a0d8f9515aec598c24c62219bd931b0131",
+  "sha256_4x5": "f8dd7d41cd2e7c9d9a10b86761bf592f83f9c5bcca5e81cfd9973c2cf87ec94e"
 }

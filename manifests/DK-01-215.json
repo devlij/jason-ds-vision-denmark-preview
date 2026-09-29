@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Silkeborg/dk-01-215-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "6f341ced1a5eaf4b5ef676a3fbcc446fe9856ac611899bf574a8f7a6483f7b5f",
-      "4x5": "ee43c59a0d247e3960705a3f636938442e26419a2ba61f46d2a0d6497c69f3ca"
+      "16x9": "283bf62ab0d1999efd9e2eb4da694a86e386e6be819b3ab0db28bceb27c53bc1",
+      "4x5": "415f174c629c9cd68edab5877ae9729f7e349f686a1d104040026d629e306828"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Langsø, Silkeborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "G1: starry night lake with a lamp-lit lakeside path and dark tree-lined shore reflections; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 05:43:25 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no boat names; G5: clean.",
   "approved_at": "2026-09-26T11:20:30.650484+00:00",
-  "sha256_16x9": "c64ba3fee6c834ed7fe8dba81559d6b0e1ae30743c1c8a6e52e36c71377452bf",
-  "sha256_4x5": "f89d86053ce1f577cc42ae39017003144fefd3a58c2aa7a51c1a3a191cb6a994"
+  "sha256_16x9": "c5bb299b4e5e1799deb7c466c576201929c13f6c75dc8de5fa3c1d54b805e371",
+  "sha256_4x5": "e1a1eb64850a4daf5e9617f747e08e4ab97ac606295336dceb96e7210197a5c4"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Ærøskøbing/dk-01-038-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b40a577d54a6cfb6e369a9e19e43a791153f5bfaa9a50b59050bc92965fe339e",
-      "4x5": "f4ddf172ba390fe1c5117783d31a27c7ee758b3e403d6dd76ad220ef7fa4ce20"
+      "16x9": "4723a03679059cb5eb216e8291fb7449dcf13b0c2d09982082bb6a82d0a5e57d",
+      "4x5": "0b2073fa121f7a408abd0724fb9662ff4724c4ecec89d62b1b51b908dd62b32b"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Ærøskøbing, Ærøskøbing",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: night cobbled street lined with small colorful cottages (yellow, pink, blue, red) with red tile roofs and glowing streetlamps — matches Aeroeskobing's preserved old-town houses. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Aeroeskobing, Aeroeskobing', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:04 Europe/Copenhagen (HTTP Date 21:09:04 GMT), valid 00:45 step, is_day 0, partly cloudy 13.0C 80% cloud, wind 20.7 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
   "approved_at": "2026-09-26T00:29:07.799458+00:00",
-  "sha256_16x9": "0e29da0a3d97939d5c95ead811a404d0de3cdcca15716d0bc931e99bb74fd185",
-  "sha256_4x5": "3304623c3e72e4c6696714839c523f47c31d1180bf009c6a38587ad79dd9da72"
+  "sha256_16x9": "8965429af770b81afdcec56d80f204da23968701b60ef8c3a3dfdb421cdfbd0f",
+  "sha256_4x5": "fd54f1cd2099dbce47e6c0ab07725ee410ac11af196a9c6ebcece2aaf12bb39b"
 }

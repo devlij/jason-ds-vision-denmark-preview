@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Kastrup/dk-01-166-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "280ac23d747b8e3de16006c76b55c1aef593743d745fb9ad641cc5acab4c8e84",
-      "4x5": "7ac8ba1a66063c34dfce5cfb54059a1173c06f7c780255d8911ae5649b417bef"
+      "16x9": "7733aecb2187fdd00e861f911c85b95932109cb2c58b0ec2cfd305be5b9ce2ff",
+      "4x5": "25cdd175705a2035cc290fbac0600546b3be09d7b4d19f5e0cfd39c4f24a6749"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Kastrup Sea Bath, Kastrup",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1-5 PASS. G1: Kastrup Sea Bath at night — dark wooden pier running from an empty beach and curling into a circular deck on posts above the water, open toward the shore with a raised end, small deck lights; matches the real sea bath’s distinctive form; no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Kastrup Sea Bath, Kastrup', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:28:51 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:24.783923+00:00",
-  "sha256_16x9": "6e741e146056e4e6c8dff8c44d65b8eba0c13bdb499698da80125cbd8756cb75",
-  "sha256_4x5": "61f02922a77a771d4ad0f5434d42ff88881d025dcb285e04b6389788be84a2d8"
+  "sha256_16x9": "580c4af2996b903619a58c187d5bef6d2852bbaa6f1a22caa706ecad2ac67d14",
+  "sha256_4x5": "495e5d3cbc9fb9ebe2af5e4d2d13c962ac09685ad65e446d90a5866d3f52767a"
 }

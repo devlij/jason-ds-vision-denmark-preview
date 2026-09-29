@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Billund/dk-01-094-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c60fcb022ba17724765398d7ca1fb7c04b6255c1e8f8b4ea99f87377b8231ffe",
-      "4x5": "dffa566e66af3e183cc89f0cc3cc22db8ab1bf68cd26869af16c1b4dab84e021"
+      "16x9": "c83ce04c0397d3b35162d88b3490202c9c2a381e51122b15b5b8f3d2a63ef977",
+      "4x5": "ad2d7c03906af22c7fc93582409455ef21a1365c7fc87fb24791790df0ce6a4d"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Billund Church, Billund",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Night view of Billund Church: a modernist red-brick church with a large glass-fronted corner and a separate slender brick bell tower, softly floodlit against dark sky, with bare trees framing the left. Gate 1: plausible street viewpoint matching the caption. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Billund Church, Billund', scenario '25 September 2026 · 02:00 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:19:10 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
   "approved_at": "2026-09-26T04:25:08.033475+00:00",
-  "sha256_16x9": "0180dca9f24969a32002e91dd7ed5bc707014cc9e359d46e429195f1ada4b22e",
-  "sha256_4x5": "ce181fd8d6b514c121ebfb85f1496f7c5b6d91eef4e5ac4e5f47769aaf9f6d18"
+  "sha256_16x9": "28e21e1cb89da72613fb0638c845bfcb4db946876878dd0d94ec469922c81cd1",
+  "sha256_4x5": "85a9a3eb1133a6847a7d356c55b31aac0efa802cb575e345c692872bd14dabe5"
 }

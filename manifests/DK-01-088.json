@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Holbæk/dk-01-088-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "f45d6b45c1e9b1608f669b9e64bd978edbf1227981f9e46cbadc1cedd140e767",
-      "4x5": "1e88640e700df9c075d4347de9ea14ec0ab2586b81c9ae75bbcb8c067792c75a"
+      "16x9": "463b00d46c67805bc382295f910300278cb5ec61061219cd6d760ec6f47fce16",
+      "4x5": "8ac2a0c4801de5f16ff1c64536210dd337f3ee0cdd177043dcd70417d461c819"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Holbæk Harbour, Holbæk",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: old wooden warehouses and a tall floodlit white tower on a quay with vintage sailing vessels moored alongside, town lights across the water - Holbaek Harbour's historic waterfront at night, clean framing. Gate 2: exact masters; signature/caption 'Holbæk Harbour, Holbæk'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 100% cloud/14.2C; retrieval 23:19:04 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos - documented only.",
   "approved_at": "2026-09-26T03:23:14.994656+00:00",
-  "sha256_16x9": "3ad3ecb1a727a8af7ecae3061c256ea364c6c68d564bada825ff5253991ac697",
-  "sha256_4x5": "40799e2544e8b4a523a61a8dfb8cbcaaaff664a3a2fba045cbf21ca410917cfd"
+  "sha256_16x9": "1f63c72806e3ac3fa219dbcf6a8741a7a691e272b1681185e472cfbc6e8e7223",
+  "sha256_4x5": "b1abe22bf12b4d1128108a4ed61bf86e3abd0e6b1623ca102ec11ab184d558b3"
 }

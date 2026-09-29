@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Sisimiut/dk-01-254-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "e2285f536f666df01f61c4735967441026ce0391ccda21e6ed2d1bf39219aeea",
-      "4x5": "909be1809403cdf508d1d5f9eb1800b6211f6954752191fe861ff73870ea6074"
+      "16x9": "ba01ba80fe47561d05573acbfd08070a8fecc37e8731dd9e77b93460cf86c566",
+      "4x5": "ff30b07d6fac7c5ff5e2a80115562983fa88ffd47c3abd88ae00c58dc57cb61b"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Bethel Church, Sisimiut",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Bethel Church — blue wooden church with dark spire — among dim houses under an overcast night sky, lit windows. Gate 2: 1920x1080 + 864x1080 exact, caption 'Bethel Church, Sisimiut', scenario '25 September 2026 · 06:39 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:33:00 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:25:02.786760+00:00",
-  "sha256_16x9": "a7851d6a840d3f588cf861fe56bca79300dee5952684a5f22d9d15a2be76099f",
-  "sha256_4x5": "5d23464e802be96fdd25d51ef968720cd238711ec6849565fa5411201a948f63"
+  "sha256_16x9": "0f21d84824dabec0087cc462411094587e790c9a6b2d7e5241ca4352d743225c",
+  "sha256_4x5": "cf9fdca03e025e43e0ed0ea96575e85bde04cbd85f044fdc6612f8e3cfe1a475"
 }

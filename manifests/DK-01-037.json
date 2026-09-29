@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Svendborg/dk-01-037-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "ae3d8065833060d29c52a399d13ac39112970062e134d6eee6fb881c40aaf624",
-      "4x5": "c5fd2ae2ffac8b03bba13e3ef7745d9b676fa13836dd02518ff0c67db8d288d5"
+      "16x9": "b14df1f1104640ea3e81feddb03883cdac4b0df240e47596f13b71e7bef75e1a",
+      "4x5": "ab767e81be7103bad079063f31f8b58ae2718f688e5de1cf858129e29c6349d5"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Svendborg Harbour, Svendborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: night harbor — moored wooden boats in the foreground, row of lit gabled warehouses along the quay, distant lit bridge (Svendborgsund Bridge form), wet cobbles with lamp reflections — matches Svendborg Harbour. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Svendborg Harbour, Svendborg', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:02 Europe/Copenhagen (HTTP Date 21:09:02 GMT), valid 00:45 step, is_day 0, overcast 12.1C 100% cloud, wind 16.6 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
   "approved_at": "2026-09-26T00:28:51.458112+00:00",
-  "sha256_16x9": "0e37f6caac0b7ed2f2fe9b36838891967ba603d353f0c475c3456f258970e79b",
-  "sha256_4x5": "45c6c8c4eab7c0800a5476bc803e14987838e3761f7d74462948d6c960748ec9"
+  "sha256_16x9": "52f78bc9ede89f8241933655e94ba89f974b2a38934f6b5798d889e382d81769",
+  "sha256_4x5": "96957898cdcdcb47c5eeeba1ce47cbb835f94299df48e4a518f63fd4f25b440f"
 }

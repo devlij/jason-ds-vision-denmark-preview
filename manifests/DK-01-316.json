@@ -16,6 +16,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: the 16:9 master shows the Mandø tidal causeway as a gravel track crossing Wadden Sea mudflats and shallow water with a line of wooden guide poles receding to the horizon under an overcast morning sky; the 4:5 master shows the same causeway with guide poles on both sides over the tidal flats — both formats agree on the subject identity, a plausible tourist view of the Ebbevej. Gate 2: exact 1920x1080 + 864x1080, caption 'Mandø Causeway, Mandø', scenario '25 September 2026 · 08:22 Europe/Copenhagen' verified on-image, signature bottom-right, AI-disclosure bottom-left legible; weather retrieved 25 September 2026 08:17:34 Europe/Copenhagen (unique to this scene repo-wide), scenario 08:22 inside the cited 08:00–08:59 model-valid hour. Gate 3: notes claim text-prompt-only lineage, no photographic reference pixels. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T20:22:22.981481+00:00",
-  "sha256_16x9": "874425bddf2b5284b110aa533b84808f8d8b0992c42edf5d3606b962fa0f51ec",
-  "sha256_4x5": "a342d9140d532bea46b1175675c2ced19b678be5bdc9f61bb21e8fc58c2fa50d"
+  "sha256_16x9": "f45978d41b8e06d0850daf96703526fa110c2a4cf1e8486472003d29433aea8d",
+  "sha256_4x5": "69c1815aa557f2e5c77f2f09d36809090acb8a58bb788ba5a34fbb3c48dd1d2e"
 }

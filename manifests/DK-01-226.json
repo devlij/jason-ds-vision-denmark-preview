@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Nørresundby/dk-01-226-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "5827d79d0c6930456d539f25345c527f835fa8d579bf3607d7e5fae22b445b82",
-      "4x5": "4087f8cacdf58903780e4a5a0fd34146bdfa886dabea563153b5666ec4db32c1"
+      "16x9": "4677367336f5168f0f8aeacb8b07a7136201d91420d2bd4945c5216a05db97c1",
+      "4x5": "5305d5d223fd399301e7320ce10bb507679ccacefb4430c228ab356548b52932"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Limfjord Bridge, Nørresundby",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the long modern concrete bridge spanning the fjord under heavy cloud, the lit shoreline beyond; plausible tourist viewpoint for 'Limfjord Bridge, Nørresundby', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Limfjord Bridge, Nørresundby', 'Scenario: 25 September 2026 · 06:22 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-226 claims one Open-Meteo retrieval at 25 September 2026 06:10:16 Europe/Copenhagen valid 25 September 2026 06:00 Europe/Copenhagen — scenario 06:22 falls inside the cited 06:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:25:23.911061+00:00",
-  "sha256_16x9": "41ad9a08d9845d0dd67edc34c32e597c1c744835de7f5cb2b38a71abd9cab099",
-  "sha256_4x5": "a8ef33b517ac9c9237e6393200e9b2e268510aef2f1eb81aaa17e39b3f2e71aa"
+  "sha256_16x9": "e3d7a59a75828981b4c5b40fd715275a293a99c8553ca9dc5cce0115d8da27c7",
+  "sha256_4x5": "2fd909eaf69c15633675ae7bda38c2dda5e84304753f5c55edc506b9d6534fef"
 }

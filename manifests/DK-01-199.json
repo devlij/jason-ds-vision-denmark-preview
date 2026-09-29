@@ -63,6 +63,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Afternoon",
   "approval_basis": "Gate 1: Odense Canal — moored boats between brick warehouses and gabled houses, bridge in the distance, full overcast. Gate 2: caption 'Odense Canal, Odense', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:49 (unique), valid 14:30, scenario inside 14:00–14:59; 94% cloud matches the grey sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
   "approved_at": "2026-09-25T12:53:27.226902+00:00",
-  "sha256_16x9": "5883d3fbe1600d038701e13a3893879a8d0e58d27ebe125bd5a4215afc26ed1a",
-  "sha256_4x5": "ddd9f5b639ecb108acbbf69e836c890e7d40db37ebc94849e3fece9b49371ddf"
+  "sha256_16x9": "e180aabeb95fc7591800c826b15155e97b62b5b57f8b539838580d4f7422c590",
+  "sha256_4x5": "ff98d7de7f45975d952a9a7ec73451a3752f51e4751a1a2f277e8402fa5d862c"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Hobro/dk-01-128-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "a8f0fce4acbd53cf25a109217ce79a31d00b0d412033366e6b0b31cb82ccbb5f",
-      "4x5": "2a442593b9cfb3023c6d8e1c778c6e47650f75a2a5a770adeefe3beb28c45a18"
+      "16x9": "7da081d4e1c9ddb2d8b21cd3e626d138a96f88a09cc95bfa58804aad56485f65",
+      "4x5": "702873497200f148d56a95673efd5f67fb159d59c3d0fc2b5e7304dee6ba15d3"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Hobro Harbour, Hobro",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: marina boats at moorings beside brick warehouses, lit lamps and their reflections on the dark water; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Hobro Harbour, Hobro', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:27:03 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:27:03 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:12.151109+00:00",
-  "sha256_16x9": "8895d748d96f2df4fea76cc8ce5bef947f0737a6d31f02cc19474d960681a2f4",
-  "sha256_4x5": "73a68c32099e88d8f4a5441d3da267b52a07d6fbedab3fc022db595d1d50a6bb"
+  "sha256_16x9": "2d425e525b7277f9918f5cc8ded9c49f60b3ab8a954fa46733f031735294c7eb",
+  "sha256_4x5": "8ea426ee565b6f18d5f9a17db2add74999ff1d38276145ff95cb37c145c54cf4"
 }

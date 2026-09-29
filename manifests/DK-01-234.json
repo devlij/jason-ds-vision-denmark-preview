@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Vestervig/dk-01-234-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c31127968de6f15e4774eaca1f93df1b646901de9746b228c72a2388d0085b1c",
-      "4x5": "6bb22bfcc0e90e0b0ee49427c23860fe77bdd5b3fcf9d070fe059a8778e65c62"
+      "16x9": "48a7dd95579349cbad388dd9dd8eb85a5316f9089a2e93307a26ef4de6553cb2",
+      "4x5": "df5758605b977bf975a29e325bbecd86ae2036cbf708be755fe6fb270bb78cd6"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Vestervig Church, Vestervig",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: moonlit churchyard view — bare grey granite nave and apse masonry, whitewashed west tower with a plain saddle roof (no spire), lead-grey roofs, two path lamps; the tower/nave material contrast matches the documented anchors exactly. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Vestervig Church, Vestervig', scenario '25 September 2026 · 06:22 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:10:24 for this scene's own coords, scenario inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable gravestone signage. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:23:37.875121+00:00",
-  "sha256_16x9": "7e59f2dccdd21ba5923e76bbbc927dd00dd4a144747fa224c1a030df0bf86708",
-  "sha256_4x5": "a7928654cecf4a3d08660fb277c8f08ad2a96f078c6a23a8792f1c48c846cb20"
+  "sha256_16x9": "8a043ef30c345cce4581397a6441983f020344bc230bf319f3ffa287d647bfc8",
+  "sha256_4x5": "a85c835f4e40e64fbf1c08f52eab3971e9d5d90ce6f33ba70b4006a990fd77f6"
 }

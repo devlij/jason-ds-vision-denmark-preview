@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-162-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "203283b01c4d62e65b350e3c6bc0f148cd5384ff621ec30bfdef364c4f8a2e9b",
-      "4x5": "18ec4fab90bc9d7aa3b57c52cbfe7d016c583d536b48e48525b0b64ebb486f4e"
+      "16x9": "7a36b0d0abf4e1aaf6bed11f05e4817cf0d9e54570971f6d09b7ff9947cb1737",
+      "4x5": "03e4d8351a4ed8e7295f613c6339a029e0814ad7db3e36f704f03eb742bdd832"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Jægersborggade, Copenhagen",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1-5 PASS. G1: night view down Jægersborggade, narrow Nørrebro street of four/five-storey brick apartment blocks, closed ground-floor shops, parked bicycles, warm street lamps — recognizable and artifact-free at review depth. G2: 1920x1080 + 864x1080 exact; on-image caption 'Jægersborggade, Copenhagen' and scenario '25 September 2026 · 03:42 Europe/Copenhagen' match the manifest, AI disclosure legible bottom-left, exact 'Jason D’s Vision' signature bottom-right; weather note cites its own Open-Meteo retrieval 25 September 2026 23:27:55 Europe/Copenhagen, unique to this scene across all 365 Denmark notes (no shared/batch retrieval), scenario hour 03 inside the cited 03 model-valid hour. G3: builder note claims text-prompt-only, no photographic inputs. G4: no visible people, no readable logos/signage (documented only; commercial call is Jason’s). G5: no open blockers.",
   "approved_at": "2026-09-26T09:26:09.022351+00:00",
-  "sha256_16x9": "4546d9c7a542a57c7674ea62c7ef3d0ef8ae4a331c5c1bf77fd192fc85fa0796",
-  "sha256_4x5": "914ed73b4305b731a3a0e42fc926ad96ab01d4ac600c3f1dda65d3bbc5e48ec8"
+  "sha256_16x9": "acbb8431d8d2a1a1672c457a8970b3451aa68a2d9ff1163d156d7e17341719c6",
+  "sha256_4x5": "a398b049d78bf3bb3e9a9a1878c9bd8744ef03ea93bac6e97572c3bb346eff7e"
 }

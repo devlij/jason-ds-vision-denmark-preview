@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Ejer/dk-01-217-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "fab83d8ebd99fe95d4f445fe1f8903c728298a3e2cc2a79438f78746ee161c59",
-      "4x5": "d8547467c5d5a4015068871ac6c0eb88157d4c43a4f0be7b483cf856fbba4d2d"
+      "16x9": "a2d63373a994f66e23c10400ece536bf4682347d083233313666e917c2b83600",
+      "4x5": "57107b73e8e3f2bd5a7a351d34d3065f47b224bd890909e7a5716f639852d860"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Ejer Bavnehøj, Ejer",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "G1: the red-brick hilltop tower on a grassy knoll under the moon, night landscape with scattered town lights; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:36:02 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no readable plaque; G5: clean.",
   "approved_at": "2026-09-26T11:20:39.639734+00:00",
-  "sha256_16x9": "4d52d57886c959ea9648fdc85c29d74ee367fb15cf559a7ecec9e58c1ec6a249",
-  "sha256_4x5": "84002cf5a09ecad82b013f193cb9cef853328bf2ecc635cb03c021e147252597"
+  "sha256_16x9": "1f66e4d0d7bfadee69fc2f4e53c6d7e41548a9ceb7b31011bcdce2fd7eb03569",
+  "sha256_4x5": "5bb9ae72e83ab26c4eb89be8fcccdb96ea1ff11fb56fed4d12d40601782236f6"
 }

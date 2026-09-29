@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Roskilde/dk-01-270-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "2c1157466f4a8ec4695ae213c4b8ab37d333b5758bf38c8695f5b9634bf22668",
-      "4x5": "9190d698b5791a0e8c880b4dfce34f78886ab58d56699a0567fe0c69275b289b"
+      "16x9": "f7c9f9243a17273a43e140bd8a1b9baaff69d69b39593a0ad42020ca6ea88824",
+      "4x5": "786bdcd4af81411edc55ee8e341273ab149d1842d872f721a3cac7fce4192c27"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Boserup Forest, Roskilde",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Dawn",
   "approval_basis": "Gate 1: a leaf-strewn path runs through tall autumn beeches along a calm lake shore under heavy overcast — plausible Boserup Forest viewpoint; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (beech avenue + lakeshore path). On-image caption 'Boserup Forest, Roskilde', scenario '25 September 2026 · 06:57 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible. Weather: Open-Meteo retrieval 25 September 2026 06:54:20 Europe/Copenhagen — unique to the second across all 408 repo note files; scenario 06:57 inside model-valid hour 06:00–06:59. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no people, no logos, no structures. Gate 5: publication-ready.",
   "approved_at": "2026-09-26T16:33:21.937988+00:00",
-  "sha256_16x9": "5ae2519fca4eab543812889a057da513dbd6953ce9e3d32526302d41f5df4187",
-  "sha256_4x5": "77d296fe2e83b252e152b0d5a643b571392f86fe99960e403e082353028e917c"
+  "sha256_16x9": "117644796fc0682c65a554a22d9ad58380155d7c9b583d0d73f1eaae36d6bfa6",
+  "sha256_4x5": "059639f787864cbd9848dccd7c0ec61962c15677fb3e965af15e59af76685728"
 }

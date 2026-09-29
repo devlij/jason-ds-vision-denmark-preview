@@ -16,6 +16,6 @@
   "qc_status": "Approved",
   "approval_basis": "Gate 1: red-brick Gothic church with tall tower viewed from the square, plausible Sankt Mortens Kirke; caption and scenario verified on-image. Gate 2: exact 1920x1080/864x1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 25 September 2026 15:25:07 Europe/Copenhagen, model-valid 15:00-15:59, scenario 15:29 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per build-agent notes. Gate 4: commercial/IP noted, Jason's final call. Gate 5: two-format card, both downloads, lightbox-ready.",
   "approved_at": "2026-09-25T15:44:15.626631+00:00",
-  "sha256_16x9": "8fdb875d2e05b274d26ae98cf546384cd70e2a9aad2bd4fdda42bcf5771bb22f",
-  "sha256_4x5": "32bd51906eed32a6514c63f38f25ebc54b408847e5ac09b99a85b7f276f59066"
+  "sha256_16x9": "7a3a7c9a4b004d622fb9b4166f94881c5dc8deadbda32069c7ad38ebfaa8ef3e",
+  "sha256_4x5": "64b0c2b0a91b5d106ad3d05a54cb0fd4bdc33c536ef3d10a229b860c2620ec0c"
 }

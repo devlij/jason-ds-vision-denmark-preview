@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Østerlars/dk-01-067-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "8e70bb1de022566785306d0aecba8b35ed97a86935a1765aecea06a699152942",
-      "4x5": "778af922676fc098eb6681ac6a23368701f6caf2e7dd250dcc5de0cd095681da"
+      "16x9": "c0b579e760d97008ba8a9ee026aae365cd79a097bddf12772477be6e12d07483",
+      "4x5": "a47aa861b306cb390f5f46db23121183f6b1a0706ed7eef5b685d13cc346baf6"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Østerlars Round Church, Østerlars",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: whitewashed Østerlars round church with conical dark roof, central tower and buttresses on a grassy mound — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Østerlars Round Church, Østerlars', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:43 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:24:58.651145+00:00",
-  "sha256_16x9": "8aa61614472c6180a1a1ed9c0ebf37db1f13589f55a2010acbe184efdb6c7fb1",
-  "sha256_4x5": "6060397fac618aec4239db2b0d929f3a1dabd85d82125dbf0562c5e41b91d408"
+  "sha256_16x9": "c36c25bf49463419347dc63caf8d2320a4a9db78fa6c0f9ff6d5e6fda1846b76",
+  "sha256_4x5": "1a61b92211879de20c954db39c7547f6357de47d94bfcf83cf13aa1484a8962f"
 }

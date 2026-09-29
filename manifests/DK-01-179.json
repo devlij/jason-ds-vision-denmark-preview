@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Nysted/dk-01-179-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "3f4eae28c5c3393349306655dd57bfffbc38ebe3aaab1f0f4b372eadfcaad976",
-      "4x5": "1f404b594ca88242eb7b99e856f970ba1965cf523f0b299d73a55ca3e4ba97f1"
+      "16x9": "95406929708a8c97482bd5c83df26d621bd6563ab11d59108907f346ef8f4629",
+      "4x5": "1e85f8c4a5c7d079c05c03a0d638caff643d0359849a2ef32e63c7f51f0c4e42"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Aalholm Castle, Nysted",
@@ -46,6 +46,6 @@
   "qc_status": "Approved - Cosmo QC 5/5 - Night",
   "approval_basis": "Gate 1: whitewashed Renaissance castle with red roofs and round towers, lit windows, set among trees at the water's edge under an overcast night sky — clean framing, no artifacts, plausible viewpoint from the water. Gate 2: masters exact 1920x1080/864x1080; caption 'Aalholm Castle, Nysted', scenario '25 September 2026 - 04:07 Europe/Copenhagen', and 'AI-generated artistic interpretation - Not a photograph.' disclosure bottom-left, 'Jason D's Vision' signature bottom-right, legible; scenario 04:07 inside model-valid hour 04:00-04:59; Open-Meteo retrieval 25 September 2026 23:29:26 Europe/Copenhagen per the builder note, verified unique across all 365 Denmark notes. Gate 3: text-prompt-only, no photographic inputs reported. Gate 4: no identifiable people, logos, or readable signs — documented only. Gate 5: ready.",
   "approved_at": "2026-09-26T10:23:22.964083+00:00",
-  "sha256_16x9": "6fc19c3983edeb6045911890ed4621651fab921dd7068193cefe1a9d303e19d4",
-  "sha256_4x5": "ce09dd206c497fc431e687ee9070f1a6bf2ea14efbdd6445001aa03c20c0b8bc"
+  "sha256_16x9": "03304cc256f23be4ebec74b15951095f00d0239a582051182f139c42d2372805",
+  "sha256_4x5": "d2f1c87661edfda5c8e2741f45c145dea80190d90389bcd619437bb261bf25d6"
 }

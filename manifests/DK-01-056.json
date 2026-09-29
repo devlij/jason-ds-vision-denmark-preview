@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Ebeltoft/dk-01-056-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "49d42447ab354ceacaf48d57dad881d48a1b21f127abbf0953bc36589984e251",
-      "4x5": "bdd385f65afb06b963564ab3c295272f61861a6fbde35822abbc102b70514a36"
+      "16x9": "664a0ffe7567ec75d1d71272d2d2d5a65ac7dc608608494983d4c4bf19dba31d",
+      "4x5": "5de456b0d3db39485a87ec058008b93d159c87c611d51500d8e157412af3d604"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Ebeltoft Old Town, Ebeltoft",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Ebeltoft Old Town at night: cobbled street between half-timbered and ochre houses with shuttered windows, the small yellow town hall with belfry at the end; on-image caption 'Ebeltoft Old Town, Ebeltoft', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:32 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no readable shop names; all five gates pass.",
   "approved_at": "2026-09-26T01:21:53.630497+00:00",
-  "sha256_16x9": "beb596a0f9cd0f780261d74c06cde398ac571fb7476f2c46f4c4d8244cf1b794",
-  "sha256_4x5": "0df158add3c0e0436c2aadb4aa139a61eb60ba381686c9df26f85760e73c48d1"
+  "sha256_16x9": "3a55dac1b9edfa9c91b02cff99abd2a82100a901bef238a425409dc82ef1d1b4",
+  "sha256_4x5": "f39196915382d61aac66ab3ce8cd5c18a8c9e2eb652864793706155658be3ee1"
 }

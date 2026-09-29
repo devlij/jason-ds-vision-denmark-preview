@@ -16,8 +16,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Rundetårn at night: the round brick tower with its decorative frieze band and observatory cupola dominates, adjacent gabled brick buildings and a cobbled lamp-lit street to the left; on-image caption 'Rundetårn, Copenhagen' with scenario '25 September 2026 · 00:32 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:37 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public landmark; notes-only.",
   "approved_at": "2026-09-25T23:24:00.417019+00:00",
-  "sha256_16x9": "934e57c27123bc0723bc1e08bb485a206e86db4744f8f374ca8608de01c364cd",
-  "sha256_4x5": "6b7084127cad8f1767c52e943838720f97f9d8e3d847c6f0ae2469f5a1bbc716",
+  "sha256_16x9": "0ec4a4a3724f11ec130e67e05f81b21144c4aeb7c7e57197673ca12fe0516eb4",
+  "sha256_4x5": "e01adf87c8818549ed3e5315c3c316588087e01ec97cbec8e8bcf4ca5f87b795",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-024",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-024-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-024-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "28a61426b41fbbcf8cd4f940ce0f00815763271043d75fd3abc0202cd41bd2e6",
-      "4x5": "09f030b114130941c17fe0d7fd133b10cc25c656bcd43bb9bc0a3f2a4020b1cc"
+      "16x9": "d5e067e4269f3baaa0e4d50b6ae18d1d886809a389d42804ef0bbdd2926d1341",
+      "4x5": "67350055e76521943b14799866c24977368d2376358dad5332dd4da81269a828"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Rundetårn, Copenhagen",

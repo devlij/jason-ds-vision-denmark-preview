@@ -63,6 +63,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Afternoon",
   "approval_basis": "Gate 1: Landporten — the yellow-washed arched gatehouse over the Nyborg moat between grass ramparts, tree-lined path, afternoon sun; matches the real gate's look. Gate 2: caption 'Landporten, Nyborg', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:47 (unique), valid 14:30, scenario inside 14:00–14:59; 51% cloud matches broken sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
   "approved_at": "2026-09-25T12:53:10.092045+00:00",
-  "sha256_16x9": "f8baf1dba62946b327af270cf31d271a9cb556577860e3c326737bed669b87cd",
-  "sha256_4x5": "fe47a928d76236d88563d59c11d36221de40f698d08e0efa06c332ab19a00692"
+  "sha256_16x9": "cb906e8f07ef6399b18c81f8c245082184e95060236cefac684cbdb5f8fc68ea",
+  "sha256_4x5": "dbf8524ecba85db0e54c577da626e66cac847bb937b4c1a2a85525dd1648179b"
 }

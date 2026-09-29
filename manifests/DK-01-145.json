@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-145-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "9fe87aca1f18b35acada112fd57f6908f42ba41fe0a5ebb3f9be8f62c6e4a602",
-      "4x5": "51bda533fbaf15030353b5ed269c7ecef75b53c30aec333ca27b8ce3b4bdbf47"
+      "16x9": "154cf6e9ac4222a3a925b45b791b4e37292abbbe3cec5663fbacadfc94e13a1a",
+      "4x5": "13087c929cb27aedc2d4a5d0bfddfeac3ce245fce61eb75885112b9f25fc793e"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Børsen, Copenhagen",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: night view of Børsen from the water — long red-brick building with green copper roof, ornate gables and tall spire, left wing under scaffolding with black tarpaulin and an empty roofline; an honest depiction of the post-April-2024-fire reconstruction, no invented dragon spire. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Børsen, Copenhagen', scenario '25 September 2026 · 03:09 Europe/Copenhagen' inside cited model-valid hour 03:00–03:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:30 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or readable signs — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:56.547423+00:00",
-  "sha256_16x9": "31195f8e57e9b55d42fda5c5e55ca16a577c28e309ee79276158d5a87914d20a",
-  "sha256_4x5": "e122d8f67adaa407b6d4bf50aba77dd5605df48b51a892e4ef2f953ed2f18393"
+  "sha256_16x9": "557a56278880e4f41e40314006b8b218c90e92726918f59e95a6c264517a28d9",
+  "sha256_4x5": "e0d5ace30585388fd3fab9d952ba4528c9b7c0373d23b7086d061d4a65ebaf65"
 }

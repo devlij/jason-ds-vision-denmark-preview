@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Holstebro/dk-01-238-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "ea16ac929aa852f6eaf3bce43d59003442de54fd53c013b7cd5f74310c1485bd",
-      "4x5": "a7226d35eff4aa33b16e5cd1e968ff7aa55de464f38ef8cd96d8ac5cd91ccaa2"
+      "16x9": "03ed03b6990a85779ec88f1223995f6f55a419d4069a315e74835bf4f0ea9c58",
+      "4x5": "10269f8e900c4cf09ca456270d6221cbb99f8cb812f71e88a9f7f0de52a3c20c"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Storåen, Holstebro",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: dark smooth river with a simple low bridge crossing it, brick buildings set back behind still-green late-September trees, lamp-lit reflections on the water — no sculpture on this bank, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Storåen, Holstebro', scenario '25 September 2026 · 06:22 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:10:29 for this scene's own coords, scenario inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable shop names. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:24:48.903848+00:00",
-  "sha256_16x9": "73dab7f8cd8b5466d8644f8de7ce5f223a0d968651815e2d2fc6f724d304ab40",
-  "sha256_4x5": "007e10c977fc6bc95cf30ee97c53c3b15aec0149e6e87de369cdc044136ef333"
+  "sha256_16x9": "8b47af2ac8cac1beaed118ea6e08a3abcd5af95d8f72c16353ea337f4cd2acc8",
+  "sha256_4x5": "e2a80e46323f49570b542ef06f5621fab574deebf869719687da69395a09b313"
 }

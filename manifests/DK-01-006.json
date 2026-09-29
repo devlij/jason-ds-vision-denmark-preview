@@ -48,8 +48,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: night Roskilde Cathedral — twin slender spires of the brick Gothic west front lit against a cloudy sky, ornate stone portal, half-timbered houses flanking the square with glowing lamps; plausible viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Roskilde Cathedral, Roskilde', scenario '24 September 2026 · 23:57 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:02 Europe/Copenhagen, valid 24 Sep 23:45 (Partly cloudy, 11.7°C, cloud 76%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T21:33:41.844937+00:00",
-  "sha256_16x9": "edd136468a9109cda6ffbf8d3ee2aa69a80b49ae30e3300a6bdf1eaec855ee52",
-  "sha256_4x5": "588d3ac081b520b309927d8d746402fa98dea8c9b42b02586ccecfccda2e7ceb",
+  "sha256_16x9": "660ebd671a0bf2b38f272362ac153e2cd44a224871bee615f8ba1c53085fdeab",
+  "sha256_4x5": "3a619c85c42edd43ed7219f65a44cb71d197fc40757b9490d0ba59d2f5d6ee54",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-006",
     "derived_from": "Approved night master Denmark/Roskilde/dk-01-006-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -69,8 +69,8 @@
       "4x5": "library/world/Denmark/Roskilde/dk-01-006-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "1038c8fc499dfec288d2495b7d0de08425134003fb9b015eb1dff63d22804a92",
-      "4x5": "753020ee278dedd7b3bde09272767c06aaead38f4f3c810bce663e9d9a3296d9"
+      "16x9": "c202f0ce8b2a9e014b00dedf702719e17367027782d279a8d88144fa06246fd1",
+      "4x5": "54f591571cc1146c36d3a8bb64734261fec8bcaf3eb1e2940041a5c507d4e59a"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Roskilde Cathedral, Roskilde",

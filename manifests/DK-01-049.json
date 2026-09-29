@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Aarhus/dk-01-049-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "e299dba5c59fa6eb30ee178924c31c6fff48ea05a6cfbc040ee48d9bd787d32e",
-      "4x5": "d5c162a55c7a3d3beba6067a6e2ca0bf91562fa9ac7301d0c4ca8c4ac587f944"
+      "16x9": "c36c8385e0d724d541a8fbe6be751f8d229dedbd3c8ca069f507b586ecc17502",
+      "4x5": "81a07cfad3f64af1f0a616d4eb582618ab52ecc8bcd9ba8ef3349da129be78db"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Dokk1, Aarhus",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Dokk1 Aarhus at night: the glass cultural centre with its sweeping dark roof plane, lit from within, steps and harbour quay in front; on-image caption 'Dokk1, Aarhus', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:25 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no logos or marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:16.685392+00:00",
-  "sha256_16x9": "9596ae8f606190dd84c3a3c353b69192d6e900a709474cc11206be8a880eb673",
-  "sha256_4x5": "2cb641f43f2769cd744d8c1c2b2ea13e32809600d0175b63b5f22075821ba846"
+  "sha256_16x9": "c9a19ae0a97a1f4f8bada462a35cb71bfb540d02bfecae16deacbd60dee343ac",
+  "sha256_4x5": "e6a39396d615123e10fa6d77a8cc68d37b7784d6c81ec326c6d21e49a7894e07"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Roskilde/dk-01-086-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "5665f0b9c48e774113ca164bd581ae5ae4f20d7e7ac9192f92b029c84a727b29",
-      "4x5": "933ea0cb4ca154251db71e3a0a6961a91e362461c1a2d5fc477110ba52b53804"
+      "16x9": "13cc1fda99171f3abf122aef01a0a7112bc297ad5474200bd1e9271a91651afe",
+      "4x5": "f6f0b6827fa96ce9bce108a788e2aac72b93215ddc59a44547402d6bdd393d0e"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Viking Ship Museum, Roskilde",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: the concrete-and-glass Viking Ship Museum ship hall with glowing window bands and five viking ships moored at the quay in front - the museum's distinctive waterfront form at night, clean framing. Gate 2: exact masters; signature/caption 'Viking Ship Museum, Roskilde'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 100% cloud/13.5C; retrieval 23:19:02 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos - documented only.",
   "approved_at": "2026-09-26T03:23:05.147581+00:00",
-  "sha256_16x9": "21fdcd450fcc0201dc831ac43da74acca872c8986d043cd141bf032679e4ffea",
-  "sha256_4x5": "27dd2b69d80333c534b879db960c130d84d22009e97e565c9263d4c7bf313ab4"
+  "sha256_16x9": "b0125472928f4ac0512ecfeb1a6a2c39aa7bb13bed0c0abda629e731f0074d8c",
+  "sha256_4x5": "e7ed50017071cb8ebe7c46fcb606d39c0a24c254e17f5fe2ebe1d209bf357f97"
 }

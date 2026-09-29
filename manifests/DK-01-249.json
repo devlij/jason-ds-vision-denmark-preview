@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Tjørnuvík/dk-01-249-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "5939f87b1ef7b3755790da20453aae8cf8f5f90d95eedead851ae6864fe335d1",
-      "4x5": "a42ec5363fb22e8f3fddc71073a88a049266e3baba51022d919c2621bc389289"
+      "16x9": "68561ae619476cee0b38d23fa39bc2ce199dc60f19f7123451a38bb9c6dc6e94",
+      "4x5": "a545a81c758cecc436ef7e54159be32e80089227d06e25e144a29f77524f0dd2"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Tjørnuvík, Tjørnuvík",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: Tjørnuvík black-sand beach with white surf lines, turf-roofed village at the foot of green crags, twin sea stacks offshore under breaking cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Tjørnuvík, Tjørnuvík', scenario '25 September 2026 · 06:38 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:02 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:40.656686+00:00",
-  "sha256_16x9": "467ddb848ed25b31bb439ca56a2341045121225479fc69fc330124a262b5b870",
-  "sha256_4x5": "01d209868924cc108da59735e33dfd83f1c5ef39d045868450190a982dcecc55"
+  "sha256_16x9": "c0c47481d5cce04a2b18637718d3f74821388a574abf8e2759b093abb111e92d",
+  "sha256_4x5": "d4c3ef9c4ad7aca7b3d06445f0e0ad836edf60acd485abebdd1e3da21d82811d"
 }

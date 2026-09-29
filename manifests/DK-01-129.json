@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Aalborg/dk-01-129-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "f6a7b5bf7a7b7415ee44faf7f427988eb20e51aa9585bfdf3031f8bb5f2c5e7d",
-      "4x5": "b0b7becfbe22707f056561491410af80862a9f4ffed01c8f66987044f9095542"
+      "16x9": "724b7862c28dc7269de2b3700df839d414c2b63be05e82c2422fef57dfe1c2d4",
+      "4x5": "c03b515b8524da5ec0c43b8bae339afb717da2fae59cab678203e0ec381c9e32"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Budolfi, Aalborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: white Gothic cathedral with tall baroque spire, glowing windows, wet cobblestone square and townhouses at night; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Budolfi, Aalborg', scenario '25 September 2026 · 02:49 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 26 Sep 2026 01:40:07 Europe/Copenhagen (HTTP Date 25 Sep 2026 23:40:07 GMT), model-valid 02:45, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:16.482508+00:00",
-  "sha256_16x9": "a09cdd573a05d54e2f5870e464d290f88e71e74669553ea02af0f94ef7ce37f6",
-  "sha256_4x5": "09a6967ac581761fc5082f30791bc78b2d20c57e36a9e7f1b19192350c6886d4"
+  "sha256_16x9": "54f86f16186254558bc02cfa002f1f9db9fffa88402c75da4a5225d11d253613",
+  "sha256_4x5": "6051e909ec2fba6c87154bbd60bfbe41afd2e2e06047e58692ff5df0e6b830c8"
 }

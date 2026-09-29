@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Dueodde/dk-01-068-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "98f5d03f3a2c06276731e5a938c30a8805dd6c88286281b47f53a92b3e670523",
-      "4x5": "b9da60d9c72c7161a93b7b527410792d044ea7662c9e9dadbef23949d751a25b"
+      "16x9": "987c3ed83036c0d2ba52788125de3a6d3e842c3503f75d6d27f95e44c6caf77f",
+      "4x5": "5d9b3017cfe38763532571e109183b6b65c8c755b4f5335941df8ccbf1c4c8ac"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Dueodde Beach, Dueodde",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: white sand beach with dunes and pine forest, Dueodde lighthouse in the distance under overcast night sky — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Dueodde Beach, Dueodde', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:44 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:25:03.186232+00:00",
-  "sha256_16x9": "e352861f0d504da9fb5187b0c26683cdb25e7f3f34d555cd58e9d6a42c0a7e30",
-  "sha256_4x5": "c9bcd02b094637eed2659d749530b68b3fa11cb7e8a45a093e38694eddb4497e"
+  "sha256_16x9": "69941a9a3add3d1fcbb50bce61ad57eee9f55b373b925dea532fb6a12202338e",
+  "sha256_4x5": "548aef269190fb9251c8c4ef06a291f0d2668d1e78e481113034618bde65b413"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Rønne/dk-01-241-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "42e133226329fe3d120b577f37e887447420f1c4fc2ad7ef82870f365c32799b",
-      "4x5": "15de4b029cc0084e318922a55f27ab5ee9dc27012f3109257cc05899108a97ab"
+      "16x9": "b90aa58a1cd049ea6fa608aa7466b0b44ce5b0177dc6f7ba11fdbc075d0e5d7a",
+      "4x5": "8703db09e96023f3a6896dd32e9ab49cb6573565a44bf1c4e075bcbe216a490c"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Rønne Harbour, Rønne",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Rønne harbour basin with fishing boats in the foreground, a large plain white ferry at the quay, low red and ochre warehouses with town roofs rising behind, quay lamps reflecting on dark water — no cobbled half-timber lane in frame, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Rønne Harbour, Rønne', scenario '25 September 2026 · 06:35 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:31:56 for this scene's own coords, scenario after the 06:30 model step inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable ferry name. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:25:42.908229+00:00",
-  "sha256_16x9": "14f91c7c5b465a75fbd7d2b7071339c2f1e8122897e353580d10f51a5d3a9e2c",
-  "sha256_4x5": "b0d6c0e2d2a97521950910ee46cc06b2f3dcb77a7ccb4fbc0e19abf4594852bf"
+  "sha256_16x9": "188e494b7f34e611697b1acb2b5707260a4b9c7b109401c7ae8aed27e7da5a07",
+  "sha256_4x5": "f76b9a3aff805ab9b75e0f5e2d00ca66857e5a5b972500000136833259d25f2e"
 }

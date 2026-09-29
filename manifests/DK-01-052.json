@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Jelling/dk-01-052-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "f25c5de727546530cf7aa9719fcc897c278bb75e9385c651fb3f07237c07c32c",
-      "4x5": "23d89ec20000d177199095b7557871852344ffd0a6ad0485ea00d1c122ec99ba"
+      "16x9": "ea7bc7f19c0dc57e41e4e6886ebc5afec5c9aa4e29dd14619804c5206db66f34",
+      "4x5": "dbf1b736a2c88e5c6e88bfa31e8b7b55bdb420b15c735f54dfcf39ecae8fa89b"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Jelling Stones, Jelling",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Jelling Stones at night: the two rune stones in glass display cases in the foreground, Jelling church between the two grass burial mounds behind; on-image caption 'Jelling Stones, Jelling', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:28 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no modern marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:31.293894+00:00",
-  "sha256_16x9": "0211adeadbb2f354110fc5b0d7a82319f0870376cb346bc85249445adea23ba2",
-  "sha256_4x5": "2a8ed59153c44123aa9f30a5a883abe3049fdba0a03cdd1f53c0de3da3673b33"
+  "sha256_16x9": "2b7c71893220afbec891982e02c2b0eeaf7e070023ea4dd69a735c6cc9972721",
+  "sha256_4x5": "e098c33e91bb7f06a24047ae6092c387880a7d7c10f1d676b72bb5b286cb8bde"
 }

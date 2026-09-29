@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-148-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "6fa390874844d880b11bedff892c46b223cde5dd12a6be546805761fac63f96f",
-      "4x5": "7413d23513bf0c349f5fe1ad6be91e8343b0df6fec14ea906f60804fbf8068f3"
+      "16x9": "2450b5c99af3607682a6d20f4ac20ad969da241a685435898064cd34aaf2a1c4",
+      "4x5": "5783c6ea53243fc03f00057f951c6d017e72f0e89acbb95812c3eb5d333d32ac"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "The Black Diamond, Copenhagen",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: the Black Diamond's two black granite wings split by the illuminated glass atrium, lit historic brick neighbour building at left, harbour lamp reflections on dark water — recognizably the Royal Library extension from the harbour side, clean framing, no artifacts. Gate 2: on-image caption 'The Black Diamond, Copenhagen', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature all exact and legible on the gradient scrim; masters mechanically verified 1920x1080 + 864x1080. Weather: builder's note cites a per-scene Open-Meteo retrieval on 25 September 2026 at 23:27:35 Europe/Copenhagen, model-valid hour 03:00-03:59; the 03:09 scenario minute falls inside it, and this retrieval timestamp is cited by no other scene across all 43 batch notes and per-entry notes repo-wide. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no people, logos, or readable private marks visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:30:47.151600+00:00",
-  "sha256_16x9": "9135f728e4bd1f9cbd8743556fc1c88e9b020d0260bf39d0f8576f281be96dc8",
-  "sha256_4x5": "4c78775526cf102ccabafdf92ab46ab26f29cf34400054272333d7b4444b192a"
+  "sha256_16x9": "6b2c22afa7227bb2f2aca4d0443c0c53c39c904b74395f6158f1b7f6ba2c59fb",
+  "sha256_4x5": "85473099f115d9e3cf51c07626c4faec794db6cf89b63c3fdc1c7bc0f0d7802e"
 }

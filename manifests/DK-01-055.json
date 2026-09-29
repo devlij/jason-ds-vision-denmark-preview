@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Horsens/dk-01-055-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "32136d0bd1c99f34ad393ec8216f9eafe09737f220d44f3ae77431c1fc19a67c",
-      "4x5": "a665b25b3682a18bf454ae83c71f355f885f483cb838c2497337c3d1cd7fd426"
+      "16x9": "10f62e601a5fe249fe1ca6b74e0f16d9d92f64ee2c623eea55a230e51da80f74",
+      "4x5": "95f8c6c0310cbbfd813281f8bafd609e2196195fae47d9efd8406def7061f264"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Horsens Harbour, Horsens",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Horsens Harbour at night: moored sailboats in the marina basin, gabled warehouses and lamp posts lining the quay with reflections on the water; on-image caption 'Horsens Harbour, Horsens', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:31 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no readable boat names or marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:47.904647+00:00",
-  "sha256_16x9": "856718400af46433d46533cdb985b8d3933fde882cbc54a98d51cb1c611a51b8",
-  "sha256_4x5": "e10d957b8b7a42994d26f92ae38a328ec1d88430aafff5e29f61dde0ef438282"
+  "sha256_16x9": "6a17943c41f29bab726193e48a4d210985a800f803a294991262f235aeef8fd1",
+  "sha256_4x5": "11fceae497fbc2dcba5cbba8ae4b6c41ba650ac18b2a0b2e093cd7d238ef92a8"
 }

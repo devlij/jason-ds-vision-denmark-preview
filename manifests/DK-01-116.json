@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Faaborg/dk-01-116-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b74e039281c2d6f14c43e902867d9bdace4862e9be895398e8f4938fc2c5600c",
-      "4x5": "d6d1e74955b8011e2f0abfbe27fb4b870ce1b3d4a766026ab34ea777f358ff05"
+      "16x9": "925deee14ce0b718a12ae5a7f62a9e5dd40593fa90561cfb5c9f0dd5d4569fd4",
+      "4x5": "7d381394c3d121cbff21ad90886e020d8b15ffd502546bf37f843533d19339f3"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Klokketårnet, Faaborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: freestanding yellow-brick bell tower with stone corner buttresses, blue arched door, red-tiled dome roof and open belfry spire, rising from a cobbled knoll, framed by old gabled houses with red roofs and glowing street lamps — matches Klokketårn's distinctive form, plausible street-level tourist viewpoint, no misconfiguration or artifacts. Noted: lighting reads nearer dusk than 02:33 deep night, but the landmark rendering is coherent — not a gate failure. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Klokketårnet, Faaborg', scenario 'Scenario: 25 September 2026 · 02:33 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:33 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:26:42 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:29:21.337336+00:00",
-  "sha256_16x9": "7beb62afd2e93b7a216af19980cdcfd7ea4bb09075f646ee569df049c9d6e03d",
-  "sha256_4x5": "9df0619f36ce0c4b6678d40de79c558ea8ff9dc14aad2a8559f0aa10c1d93320"
+  "sha256_16x9": "6a6c92ecd7e39ef4f85ceced80103a238dd9cb6dbd63e3916ecd9b89580225db",
+  "sha256_4x5": "d76a8d010fa8559d15d4555c024cf377b10fd608436da0de4e97ce2ea4ffe571"
 }

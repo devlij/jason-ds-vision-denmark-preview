@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-082-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "1f5db1a8a0fe206095a7affe1e9bdb8af91e25635b55ce9f394c8d775870a43f",
-      "4x5": "946ef27695d4e0f60ea9bd6e0e7392716da6ac00e87003992d8fed60dc7ee2bf"
+      "16x9": "b006f15899d6cd21b80a2aaca3d3935b7f6956082773985d267676789f7a8036",
+      "4x5": "c1433f372332465f562820c569b43e913944d005fc69685a5b8ab60de76e4d87"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Palm House, Copenhagen",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: the Palm House glass-and-iron dome in the Botanical Garden with a circular reflecting pool in the foreground and garden trees framing - unmistakable Palm House form at night, clean framing. Gate 2: exact masters; signature/caption 'Palm House, Copenhagen'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 95% cloud/13.2C; retrieval 23:18:58 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos - documented only.",
   "approved_at": "2026-09-26T03:22:44.749141+00:00",
-  "sha256_16x9": "deb217b08ea168260aa1976b8069dec2b6807394c0940c5629da88ec220bd6c0",
-  "sha256_4x5": "b7a414b9a43a7a31878e1ebddd20217c79efe3c382ceede8117a95389d108ac0"
+  "sha256_16x9": "603b6cc9980e5dd9e25e1e09dae7cc71f5a27df1d2f86b791d246e0efc1855ac",
+  "sha256_4x5": "8a15c8f04f6c81eb01f62d691c7a79a2eb23d59f97a55cd29013bec804f88da7"
 }

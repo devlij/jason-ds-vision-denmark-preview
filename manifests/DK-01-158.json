@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Hasle/dk-01-158-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "9a59f6bdd22d8bd8e45932e0e334093a06bcc9b8aff8d9b567756be5c07edbab",
-      "4x5": "93e7752565f389b9b1653ea7edf90ac6440b879b69e54a6da2fa587b83eaf7c2"
+      "16x9": "6dda66967326b181db61177154153d4e47f8b8b3be90a49d5cbe582f95dcc139",
+      "4x5": "258bebd620fe078be4ba6a77e19567014698858acb038ec2c30d40d10db74eae"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Hasle Harbour, Hasle",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Hasle Harbour's long white smokehouse building with its five tall chimneys, fishing boats at the stone quay and lamp reflections on dark water — the Hasle rogeri landmark, anchors all present, no artifacts. Gate 2: on-image caption 'Hasle Harbour, Hasle', scenario '25 September 2026 · 03:10 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:52 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no readable boat names or people visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:33:51.215710+00:00",
-  "sha256_16x9": "511648adb85b0a78287785ccb1a4973b51dabc3f5f5c44802e25b042d03c5180",
-  "sha256_4x5": "9baf72de827828bb5fcdba25e60fe0cda60824bf8fbcda44231da71dd33da692"
+  "sha256_16x9": "5649faae690164558eeda6f2afec85aefd04ced71f2cbdd3edea39b50573da7e",
+  "sha256_4x5": "e694a112d5b686af9a7c3542a41c2c239789369e7e471c591ee3d7a6e33921f4"
 }

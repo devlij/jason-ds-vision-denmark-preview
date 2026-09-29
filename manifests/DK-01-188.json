@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Fjenneslev/dk-01-188-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "fc3cfab90e45e789cd3246818022a4a675359020752321fc5f88b606f0742e79",
-      "4x5": "0053ad7c56c9c06fa5165041d4f2616f57b9e3e9afafc9fff40a6ceadbf20fab"
+      "16x9": "3e2e82f1359daae2075f2b5795bf0c7dbc2b8ebe6996b01f174fb182a0664575",
+      "4x5": "84f47002a5a2f076bbfc978b85af903a12b49ceb28df311c14ba7af02d1f8b3d"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Fjenneslev Church, Fjenneslev",
@@ -46,6 +46,6 @@
   "qc_status": "Approved - Cosmo QC 5/5 - Night",
   "approval_basis": "Gate 1: grey fieldstone nave and apse with two matching red-brick west towers under low pyramidal tile roofs, an empty churchyard lane, one pair of towers and no single central spire per the card description; clean framing, no artifacts, plausible lane viewpoint. Gate 2: masters exact 1920x1080/864x1080; caption 'Fjenneslev Church, Fjenneslev', scenario '25 September 2026 - 04:07 Europe/Copenhagen', and 'AI-generated artistic interpretation - Not a photograph.' disclosure bottom-left, 'Jason D's Vision' signature bottom-right, legible; scenario 04:07 inside model-valid hour 04:00-04:59; Open-Meteo retrieval 25 September 2026 23:30:21 Europe/Copenhagen per the builder note, verified unique across all 365 Denmark notes. Gate 3: text-prompt-only, no photographic inputs reported. Gate 4: no identifiable people, logos, or readable signs — documented only. Gate 5: ready.",
   "approved_at": "2026-09-26T10:26:55.926452+00:00",
-  "sha256_16x9": "47cf887fb23e7c84de7521c4ce137b6d5d1d5e4e1b63fe2ac393e4058a9b5567",
-  "sha256_4x5": "e6e913792d3578296bfe4854c5000311a4251ce3bd25a050fd71440214328f7d"
+  "sha256_16x9": "df12c887d31db6dbe796e14dfa1960f196a924c76b45edb161188965be4fe7bd",
+  "sha256_4x5": "1e81b3909e647696616030c045346b669ac91ec416a4e75ae66135c09235f359"
 }

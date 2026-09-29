@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Skagen/dk-01-227-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "52cb75ba879cdeea1ca063f9b0cbc13455fe0d643a17fc7f880357f9335a2de6",
-      "4x5": "b8302c5ea30918b949d932910025fd6d8deb2cd642b475ebbb918d1ae5b7b4c5"
+      "16x9": "03be344afc9dfcc46937ba55496ae0e5111a3e290a1371412232c9598052d693",
+      "4x5": "fb076d1e3e3c735c6389c4e275237de890c0f5b32040a251948144855d3246e9"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Skagen Harbour, Skagen",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — fishing boats moored along the lamplit quay with warehouses and wet quay reflections; plausible tourist viewpoint for 'Skagen Harbour, Skagen', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Skagen Harbour, Skagen', 'Scenario: 25 September 2026 · 06:22 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-227 claims one Open-Meteo retrieval at 25 September 2026 06:10:17 Europe/Copenhagen valid 25 September 2026 06:00 Europe/Copenhagen — scenario 06:22 falls inside the cited 06:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:25:28.492317+00:00",
-  "sha256_16x9": "8ee69d4878f90a599592c2b3abe88096821ebd631e2e8c69f74ae089cac1cbee",
-  "sha256_4x5": "72c80a56bb38d0ded168482736fa84239d7e651bd5306fb13c4fd5e5f9f1cf2a"
+  "sha256_16x9": "7a2957b6c4e919d993733626ddacd7a87b6b0d810408c8650449312e2cebeb11",
+  "sha256_4x5": "d84ccba60909fddfb5f90e4d317ff896aa29317b7155dc8194608cacd59eb9d1"
 }

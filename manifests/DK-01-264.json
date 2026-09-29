@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-264-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b045244228514bfd472af19b6698ef9b195fc438063b85a08baee4ee537e9bab",
-      "4x5": "5d3493ae18b7d3db643093f60e6ec69e0e2439c50e8a10e8edf04c64dbba8fe1"
+      "16x9": "e5579c2df05aec9853d179f6af24c4bda65dde14a3e80037a347d6456b5e95a6",
+      "4x5": "c88b950060863fac5e18623e779d41bf1987c6ae5de60c1cb607eec402979109"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Emil Holms Kanal, Copenhagen",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows modern office blocks and a round brick building along the canal with lamp reflections, a bridge and overcast dawn sky — a plausible Emil Holms Kanal (Copenhagen South Harbour) view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Emil Holms Kanal, Copenhagen' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:42, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable signage or logos. All five gates pass.",
   "approved_at": "2026-09-26T15:27:08.706711+00:00",
-  "sha256_16x9": "2b80e058ce2342a19368f588d8bb02c70add04e73878ee09a6b83ad072352358",
-  "sha256_4x5": "df5ce10ec3395bb4c82e88a400cf1bcb13c699d50dbff410bafeebb3a4420e20"
+  "sha256_16x9": "44a6438661141962e61d426f151c1f9d515ecb50fc7501f62c55427d59161c38",
+  "sha256_4x5": "6ed47ec73ad22763495bc163f2657dfa121667845bb85b29cb2e060a1bf610d1"
 }

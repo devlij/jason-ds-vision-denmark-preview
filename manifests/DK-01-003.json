@@ -53,8 +53,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: night Amalienborg — rococo palaces around the courtyard, equestrian statue of Frederik V center, domed Frederik's Church on the Frederiksgade axis behind, full moon, lamp-lit facades; plausible tourist viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Amalienborg, Copenhagen', scenario '24 September 2026 · 23:57 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:07:56 Europe/Copenhagen, valid 24 Sep 23:45 (Mainly clear, 13.7°C, cloud 34%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T21:32:52.201277+00:00",
-  "sha256_16x9": "c9ba8ac104e7fe9e0824ecca13d9de4841532c59ed51982ed34e657437be1133",
-  "sha256_4x5": "392c3ba729d12a48c3dc24d8ba6b1dc608c86f7b58b32efa57e4ff8d74095ef9",
+  "sha256_16x9": "c6f4337d99420ae7a669ee27be08f120e11e71deb8097170065138bf04e99ec9",
+  "sha256_4x5": "feb03e17e0b69efa5839dc3237eccc8e47bca34996df9486631d463f4ab4e0bd",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-003",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-003-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -74,8 +74,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-003-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "f8d5efe44f81f0b27eceba2b131e42d1f30464fe53944e247a4647a77bf74c3c",
-      "4x5": "4dcfa18884148f31e380c7d7c201fbe5a232ac4b0790ef38345ea38fb5f4fbae"
+      "16x9": "b752490aceb2375dae9c5b1d53051383cdb70fd42b88e515c5c2d9ab8b715dff",
+      "4x5": "6ec0aafe75ecf820ad8cbb95eabd3192a5f657096fb28d7a8a41aac1bdc149e4"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Amalienborg, Copenhagen",

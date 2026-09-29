@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Allinge/dk-01-157-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "9ccebab85c64cf0c5f4d03b388a13b07de6497ad14203586e5beb88dff271074",
-      "4x5": "4c43e5a758131415859d7416c6c041c48000f840999c0cfe6558757e014d3c3b"
+      "16x9": "9ce2ff73c3cfdb218fcd4909879b76ef12a18401f27cdc5176d77477d0fc1736",
+      "4x5": "b6050d1abec4e61cc9169031e76204a30414b406f4bae613359ca2146c744f4e"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Allinge Harbour, Allinge",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Allinge's harbour with fishing boats along the granite quay and the colourful gabled houses (white, ochre, red) lit under a cloudy night sky — the classic Bornholm harbour look, anchors all present, no artifacts. Gate 2: on-image caption 'Allinge Harbour, Allinge', scenario '25 September 2026 · 03:10 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:50 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no readable boat names or people visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:33:41.414995+00:00",
-  "sha256_16x9": "71d71dc1aa6b5ae08c940d289898008df1d30997161b1ed32e2347c193547994",
-  "sha256_4x5": "61f05ecbb48ab8f21b82175a37064dcea9a43b18338112fced96c71751501b01"
+  "sha256_16x9": "e21ceffb9df09de80f33264822bb445fbfca1c20c614d8b4871bbc6498bf986e",
+  "sha256_4x5": "c5d9d33848b9f0f19fe7fc8319d8c1d3be635fb1a79dbd8d4d632228810eb9b8"
 }

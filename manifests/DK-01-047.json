@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Aabenraa/dk-01-047-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c43f74cf580d2eb3f7a2092b085022ee984237c1f3534b7870b4fb57f86da579",
-      "4x5": "f8656d0ee6f01e98f27b67e347eb47744593828f9b76e8b12cad60158a268228"
+      "16x9": "0ba8285b0a2739b8f383052764acff4f4fa935c32e4bc70f96921b9bb2691c1b",
+      "4x5": "b394529e2969db1fddaa1575a0c3ef542ac63ee21395a269ce82f9c4a84b5372"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Aabenraa Harbour, Aabenraa",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Aabenraa Harbour canal at night: rows of colorful gabled merchants' houses on both banks, moored fishing boats, lamp reflections on the water; on-image caption 'Aabenraa Harbour, Aabenraa', scenario 25 September 2026 00:56 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:09:22 Europe/Copenhagen (unique), valid from 00:45, scenario inside the model hour; text-prompt-only provenance; no logos or marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:06.931517+00:00",
-  "sha256_16x9": "f4896b81520cd89209cf26f3b5f4a7bfaa9b1b50d4ad476f84f93ab601b377bd",
-  "sha256_4x5": "c1d455ceaeba26314f7423994864ebef8b2387a71cd7488a033bcbc6780f0eff"
+  "sha256_16x9": "574fa2eb3d69a35119b90900f14ae74a364d6435dc35706829f55ab4381524cb",
+  "sha256_4x5": "46c56948438afb227cd14e3ca1f79c3d7b17e5aaf3042103756eb8aaa7a8df3c"
 }

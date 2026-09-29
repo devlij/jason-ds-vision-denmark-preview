@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Odder/dk-01-124-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "432609ec1559e5e3a938d1f41012566173e38530c8246f6efee6678d318e2a1e",
-      "4x5": "7de0326d0ab56f9298b4a57d132a65a49a2d144a85d6e61f34d023d627cbaf5b"
+      "16x9": "d9925722339971cb4b972a2cda848c10c0587d3da53b1d8202ccd08f6284272a",
+      "4x5": "b01e23846b48781bbc3eef9a84ac585e700e1a8430452d3cb56f8edf6d4f3fdb"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Odder Church, Odder",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: whitewashed Romanesque church with red-tiled tower roof beside a churchyard of gravestones, river reflection, lit lamps; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Odder Church, Odder', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:56 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:56 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:24:52.330614+00:00",
-  "sha256_16x9": "a0b10e9a725e2531dc31e2401beb2ef46a3214623877e99d0a2d23a26d7d25fe",
-  "sha256_4x5": "57a5e6263c3e6ff9c268bd1acb78691c8df6a82e5cb8eec4d469f7debae56f33"
+  "sha256_16x9": "e0e5e9aa2075c459e49c9c583261bef53b2be5dd14c623ab133f99184420c09e",
+  "sha256_4x5": "caeff58df2c6093cc24b6fba5e5aaf79f8532cd8fe2eedd1cc7d8fc45f9deb22"
 }

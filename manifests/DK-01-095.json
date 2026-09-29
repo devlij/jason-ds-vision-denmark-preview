@@ -12,9 +12,9 @@
   "file_4x5": "Denmark/Esbjerg/dk-01-095-4x5.png",
   "file_9x16": "Denmark/Esbjerg/dk-01-095-9x16.png",
   "master_sha256": {
-    "16x9": "1d8f96be452657c4b50728f1bdc1e92bb9839566d0a59618c00a9128b528dcb0",
-    "4x5": "edadbc3881386fcbe1cf363301b154b3801c90867a146a612ee0aa93495f91ae",
-    "9x16": "1004c005000124873cb68a9c913b2392ab28fd7dcba7aab776e041adfda20fa0"
+    "16x9": "8a9ed4fa6f2044717dcdb30b740fbef2ab3deaec57acce0545cc6969a27c96ca",
+    "4x5": "ac4720dd089d4a827a32cf0ccf6ef50ad83896e233e886c9a2476040201d5294",
+    "9x16": "abe906690a81c640d420c26881df49c28ddc2b70fa69ba899b0962ae7297de50"
   },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
@@ -41,8 +41,8 @@
       "4x5": "library/world/Denmark/Esbjerg/dk-01-095-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "96864b205f2a60336fa8673ad52884f31e64a4e3cdba5a71b434bc8f7c88cd7a",
-      "4x5": "4bfbb3202f7e6cde5f73ac569e3868dd3d2ef3cac89e8c2d72a27a92aa715f18"
+      "16x9": "580bc42bde998691becd542f85d09b66dc66ba27747ac78dc5fd3c6b05a88032",
+      "4x5": "60560498170ce2e1ebacbc4350511940bea9d78b3fcd2877933fea31f0db0415"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Men at Sea, Esbjerg",
@@ -93,6 +93,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1–5 pass. Gate 1: both formats show exactly FOUR white seated figures on the grass bank facing the moonlit North Sea (the fifth-figure misconfiguration is gone); night scene, beach below, faint moonlight on concrete — recognizable Men at Sea, clean framing, no artifacts. Gate 2: 16:9 1920×1270 and 4:5 864×1270 exact; label bar carries \"Men at Sea, Esbjerg\", \"Scenario: 25 September 2026 · 02:00 Europe/Copenhagen\", AI-generated artistic interpretation disclosure, and exact Jason D's Vision + Jason A. Devlin signature; per-scene Open-Meteo retrieval 2026-09-27T23:19:11Z unique to the second, valid 02:00, scenario 02:00 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: sculpture by Svend Wiig Hansen (d. 1997) — copyright may subsist; figures read as monument, no living people, no logos — for Jason's commercial call.",
   "approved_at": "2026-09-28T02:35:07.399560+00:00",
-  "sha256_16x9": "75f3be2174de45f60f90ae6269ee12c94d90b86e0ca071fa32aa48fec7d1bba2",
-  "sha256_4x5": "689291ebba898896076a59b4191708b534ce4b8233741e670fbd16e1cd603f08"
+  "sha256_16x9": "8a9ed4fa6f2044717dcdb30b740fbef2ab3deaec57acce0545cc6969a27c96ca",
+  "sha256_4x5": "ac4720dd089d4a827a32cf0ccf6ef50ad83896e233e886c9a2476040201d5294"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Aarhus/dk-01-209-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "98bc212e9738cbb4afc60980a93b70a65e923eda9e6e435a6ec4dccff0f94b0f",
-      "4x5": "a34622bbfe54acf353eda3a6d2e83f8aa651b00647b9f8a106d8f99246bb9245"
+      "16x9": "5ba7f50f565a271d9e5b97ab80bb6ee0ab0bf74f277a0d3dcb8f48eb87821998",
+      "4x5": "95448d19d225dfb23e8004b1f7e023e964de66538a10344b5308edbec311136c"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Aarhus Lystbådehavn, Aarhus",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "G1: moonlit marina with masted sailboats along a lamp-lit stone pier, mooring ropes and bollards in foreground; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:35:47 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no readable boat names; G5: clean.",
   "approved_at": "2026-09-26T11:20:02.987855+00:00",
-  "sha256_16x9": "02aea45f62ac0fe5c721246f3551359676ac625071d68afaa3338ee27bd115ed",
-  "sha256_4x5": "6e4c1415c203211f787538b2f807622c1402a36523fbef86b924ae64e8dadc19"
+  "sha256_16x9": "9b559aa00ddf57155915f433ae62e572f2358b020ee101aa868045d1433a0e21",
+  "sha256_4x5": "8f2cd91801f2823d036a4912b55f02f44e09cd5e2bce59ab9ebe1aa5ba92b798"
 }

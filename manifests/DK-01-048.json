@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Tønder/dk-01-048-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "47d52dc01014ab1b6dc5b6ba80b69d27b7661b5c7fa74f9d1ccc289a462e6e93",
-      "4x5": "2ae810f5cf20b3c0c82dc08d1970d596403019acd0f25ff930847d359b7de2c4"
+      "16x9": "31958f6d2ff4dae34b83ea4ae3628b6311e87e0a5be3792c7e04e3309e14c4e1",
+      "4x5": "68ae91c9c812a442854abb09d1c8bc460255bac2c1bb00b36e32816c9eaf9bea"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Tønder Old Town, Tønder",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Tønder Old Town at night: cobbled street of red-brick gabled houses with glowing windows and gas lamps, church spire closing the vista; on-image caption 'Tønder Old Town, Tønder', scenario 25 September 2026 00:56 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:09:24 Europe/Copenhagen (unique), valid from 00:45, scenario inside the model hour; text-prompt-only provenance; no logos or marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:12.226903+00:00",
-  "sha256_16x9": "7836c7c770ed316f8693d0495f6f21769a843c3a4480e1792a2f3a946cc2ad55",
-  "sha256_4x5": "0d3858848197326299cee0be6afd33e292f1f3a78ed28dd35ce248ae063cfb23"
+  "sha256_16x9": "55ba490a33f02722300a9bfdd3124d0938d70f44746d88107a333e8ecc3f4fc9",
+  "sha256_4x5": "8be72b8c03aa56e38d739d435ed43d1f6295c8bbb5faf560fa2baf1611a858a9"
 }

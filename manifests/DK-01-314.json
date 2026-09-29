@@ -16,6 +16,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: the 16:9 master shows Sønderho Church whitewashed with a steep red-tile roof, gable-end belfry openings, stone-and-brick churchyard wall, gravestones and the flat marsh of Fanø under an overcast morning sky; the 4:5 master shows the same whitewashed church, red-tile roof and gabled belfry with its graveyard, so both formats read as the same building (gable opening count differs by one, ornament-level). Gate 2: exact 1920x1080 + 864x1080, caption 'Sønderho Church, Sønderho', scenario '25 September 2026 · 08:21 Europe/Copenhagen' verified on-image, signature bottom-right, AI-disclosure bottom-left legible; weather retrieved 25 September 2026 08:17:31 Europe/Copenhagen (unique to this scene repo-wide), scenario 08:21 inside the cited 08:00–08:59 model-valid hour. Gate 3: notes claim text-prompt-only lineage, no photographic reference pixels. Gate 4: no visible people, logos, or recognizable private property — documented only. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T20:22:05.457688+00:00",
-  "sha256_16x9": "18866fd7557313eca3104ca79fda0ce413e22e97af39a623a96b37c4cad930df",
-  "sha256_4x5": "212c7db96548a785d745c3c141bc1c58a348defa3a6eb4be8fae7b86ec38b1ad"
+  "sha256_16x9": "fbfdef3a1d61fc9e09b3f4c428317c3b307ddfe3dc283d72acaf4f80068b1a0f",
+  "sha256_4x5": "a09dfbfbd15a6b6a994574ae75183c7909055617977c6dbc52b41dc2e57471f5"
 }

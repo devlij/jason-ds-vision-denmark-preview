@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Raadvad/dk-01-269-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "2b970d84697333c088a6487114a1a5aaa127eac4ccf40a426b03bf9221b515c3",
-      "4x5": "b14ab531c3e79cd41ec687d34315d0223bd968a18e9e50b829f7e4a43b9402e0"
+      "16x9": "af3e29ca603a99018b422cf6a9a426fa05fd58ff6d2321298722d5e73a492e05",
+      "4x5": "bc2466c397a4216a2b75ff9792c58992167a46289788fe4207e4aedb65a06947"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Raadvad Mill, Raadvad",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Dawn",
   "approval_basis": "Gate 1: the brick and half-timbered Raadvad mill with a water wheel sits on a weir stream beside a winding road, autumn trees crowding both banks — a plausible tourist view of the mill settlement; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (mill house + wheel + stream). On-image caption 'Raadvad Mill, Raadvad', scenario '25 September 2026 · 06:57 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible on the scrim. Weather: Open-Meteo retrieval 25 September 2026 06:53:52 Europe/Copenhagen — unique to the second repo-wide per Cosmo's 408-note scan; scenario inside model-valid hour 06:00–06:59. Gate 3: per-entry note claims text-prompt-only, no photographic pixels. Gate 4: no visible people, no logos. Gate 5: publication-ready.",
   "approved_at": "2026-09-26T16:33:14.890569+00:00",
-  "sha256_16x9": "479480a96fa1b1f32f2b6db7831dc48911a93a2da0853071844e78718785861f",
-  "sha256_4x5": "048713f98c341321e8e4d1dc647f1027216b8170074d3b6524da59e3f8f38aa1"
+  "sha256_16x9": "efaa823a6a936a03e18f9143be5334293e83f15289febb94e0b79eb7d97d6029",
+  "sha256_4x5": "b96ab557b4d85600f9aa817c92f243745fa54343bc3ab6b9853204a659f1107e"
 }

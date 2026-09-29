@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Fredericia/dk-01-120-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "710f21f596ec5653bceac13802ebef808b421b724f40fa9dfd2ccb63b58ee3fd",
-      "4x5": "5454cced719e553d50d363db482caa83cbe72ed95079414ebbb7f83064dbd565"
+      "16x9": "96cbc3c56379e437a6a73044e0646fe631e371ccad0df456d6c6d6029b011f42",
+      "4x5": "77043abd72b58f63fc17cf008dc4800371b42f2aa0105fde784179e73a5c0868"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Prinsens Port, Fredericia",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: brick gatehouse with wide arched passage through the ramparts, moat water reflecting the lamps, lit path and trees at night; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Prinsens Port, Fredericia', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:49 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:49 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:24:32.424832+00:00",
-  "sha256_16x9": "0446abdeb811137526e2f4c01e74947268e34fd2212c4a148294df427eac5ebd",
-  "sha256_4x5": "ba668577e8cd0e1f74128e3bf9a8ac7ab0a1c9bb095ccc617f577ecf44b1ed85"
+  "sha256_16x9": "e2119810291b8ef0179e5c67b04909e3bddaa49fb9bae9fd6b2da94fc318e9ae",
+  "sha256_4x5": "a49ecd616b4aef02643ae867d51cc0b77e5899504c7bb5bca79dd8bf63f8664c"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Trøllanes/dk-01-074-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "28220396ed47ac8ac13cccf5e0fea1ac1595ee44281ab764a126d612aed9d7b5",
-      "4x5": "395229be9bbccf86ba6f4728b385f3b74d5973d8e9001b10cc31410230232755"
+      "16x9": "14fc5590c40a2850946ef81fd375ca8730791c86501498367836c613fc06a371",
+      "4x5": "a1fca18f730c3b10ab28611de928b3275cd0d55bf3d7f7051ff7c5695e543c83"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Kallur Lighthouse, Trøllanes",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Kallur lighthouse on the narrow grassy ridge tip between ocean and cliffs, moon and stars — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Kallur Lighthouse, Trøllanes', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:50 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:25:29.036930+00:00",
-  "sha256_16x9": "94fee9448bc2e3b0d102615733310f4a4e238a862851796f70364f0637e69feb",
-  "sha256_4x5": "71aeea1ef07318dce76084e9b3c77975104e575bf848ad5bbe36c8eb3053daa7"
+  "sha256_16x9": "25ca191ef3dde338094ea46e14b390f6362dfd49a85887eab844e1e95773a72a",
+  "sha256_4x5": "a3c1a4193337e7b60e20e517125c5045ed4c80d07c508f93c61b8ca38d90ba01"
 }

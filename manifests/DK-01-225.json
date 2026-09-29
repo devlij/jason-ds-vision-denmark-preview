@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Aalborg/dk-01-225-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "450623f964d8ce6a2a2c08f8f2a999003e56353c97ca4015bef9387919956d84",
-      "4x5": "d168e065c4b30c53b2aff96f2eafb9bb8046ef956a7638301bbfa4b9a89ff760"
+      "16x9": "70893b5392e5ab17f0af9090a617268dde3c891fd336e27da7bfc3896e6c2645",
+      "4x5": "23b37fbb87fff13b8294a79c5fde1a29cb8cdc4ac2fbac5ab6c0ef76a8f733fc"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Aalborghus, Aalborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the half-timbered Aalborghus castle on its grassy rampart above the moat, windows lit; plausible tourist viewpoint for 'Aalborghus, Aalborg', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Aalborghus, Aalborg', 'Scenario: 25 September 2026 · 06:22 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-225 claims one Open-Meteo retrieval at 25 September 2026 06:10:15 Europe/Copenhagen valid 25 September 2026 06:00 Europe/Copenhagen — scenario 06:22 falls inside the cited 06:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:25:19.297522+00:00",
-  "sha256_16x9": "77ca0501f798df12b26ef0f182837edaf5d3e15b43bcf6196e58c0d605051e1f",
-  "sha256_4x5": "3a029e7021af62a6390e90f7315919042917a54b5464d27b0d967bd1883d8d8d"
+  "sha256_16x9": "b372deb552059e51579c0e95c5a90d07f7358664f3752755e9c97917c0636586",
+  "sha256_4x5": "492c95b393489675b56842f4430fa9a51520472e1fe3cf13d6be51540b74539c"
 }

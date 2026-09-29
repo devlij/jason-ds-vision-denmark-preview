@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Hirtshals/dk-01-064-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "20dc59c04f4af9ba087f1fe5565b0a4ebaf2646f43083f1ba6eb49da766476b5",
-      "4x5": "2a65b688c5e87dc3b681af9f197cbbe9dc947ce18348402d027c46d483f30e89"
+      "16x9": "8122675dd0c63d8fee51d67e9a445cbb3e0c4a581892eeae76c3a6732895fe3a",
+      "4x5": "86006d2bfd28089865a595022ceff78fc0496cafdfd2c882f3869c5b178a99d5"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Hirtshals Lighthouse, Hirtshals",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: tall white Hirtshals lighthouse with lit lantern on a grassy hill above the night port — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Hirtshals Lighthouse, Hirtshals', 'Scenario: 25 September 2026 · 01:24 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:40 Europe/Copenhagen, valid 01:15 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:24:45.392436+00:00",
-  "sha256_16x9": "014dbd1779363eb6ec52f262995b267894bbe7d77c69ffea5c3110a591baf15a",
-  "sha256_4x5": "af7a48fe6e419c26f68503fc10cb6ad57c21d2ff9ce5c248b15eabb86f0aa870"
+  "sha256_16x9": "7cbba9780f10d04f47de26bb2e9b227e5451d964dc0e37d22a77962576d9d5af",
+  "sha256_4x5": "c59b3d33463bd44934092b7687b61097e3756ee141901fb515a6f4a3072225f5"
 }

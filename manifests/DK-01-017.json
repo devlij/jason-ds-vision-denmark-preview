@@ -16,8 +16,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: Tivoli Gardens main entrance at night — closed ornate stone-and-iron gate with carved pediment, wall lamps, tree-lined Vesterbrogade sidewalk receding right, plausible tourist viewpoint from the street. Gate 2 PASS: masters exact 1920x1080/864x1080; on-image 'Tivoli Gardens, Copenhagen', scenario '25 September 2026 · 00:33 Europe/Copenhagen', AI disclosure and 'Jason D's Vision' curly signature on bottom gradient, legible; weather retrieved 25 September 2026 23:08:24 Europe/Copenhagen for 55.6738,12.5680 (separate request, unique repo-wide), model-valid hour 00:00–00:59 and 00:30 model step containing scenario 00:33, is_day 0. Gate 3 PASS: text-prompt-only, no photographic reference pixels per note. Gate 4 noted: no people or logos — documented only. Art. 50 chunks present.",
   "approved_at": "2026-09-25T22:28:17.114916+00:00",
-  "sha256_16x9": "e6dba7b101141b9d847a74695fb10b86fdb188e2d969a42893133ad2825750f2",
-  "sha256_4x5": "56f7c973170392e56a824362ae455ba99f0322ffc58f8817fe41cd60b6253531",
+  "sha256_16x9": "53b0ea04a0de479a2f5449a8ecd132cd247e33acaabae881ce18545bd45ff42c",
+  "sha256_4x5": "5e294e2b7003e61b7458c26dd056778f31391eef7ba60980b30ec61e30ed1064",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-017",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-017-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-017-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "a00e75cc20cca489e371fa028811f1dabe62d00ddfa93a193747f12cf33603a2",
-      "4x5": "20c257c70d37291fe8797cf722d4c86da26d017b3d9b01f49b9c8c90c48fdf57"
+      "16x9": "75f7969c9ee89a8dd445931575ae0094198b351e1a2e1b40c367b86116fd1707",
+      "4x5": "ab9d87bcefc546c9d9feb7e0f91ac90fc502b1744818716c88becd3c337c09b5"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Tivoli Gardens, Copenhagen",

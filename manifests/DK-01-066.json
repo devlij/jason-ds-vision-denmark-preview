@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Gudhjem/dk-01-066-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "da15529f5e828d0ab029bd715d3561fda3b9d1e37f3f0a77ef72fc0684ceb802",
-      "4x5": "0ae06addb4018175fcd8f8993eeb6cda76d603754edc3768fb5413d0af9d6731"
+      "16x9": "bdbe4021c1898d3ae650b6c459e286859d65d0cbba9a4ed621a2a12845de8ad7",
+      "4x5": "e223ad82c83e2aacae5da09a1486f9f495f8a1b107d3dd5f3963127d17a4cd12"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Gudhjem Harbour, Gudhjem",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: rocky shoreline with moored fishing boats and houses on the rock, the smokehouse with its three tall chimneys — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Gudhjem Harbour, Gudhjem', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:42 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:24:54.460056+00:00",
-  "sha256_16x9": "cb93e08d86be0854cda5b00e62632086ce847b06c2f7c4a11b0ae212beed2319",
-  "sha256_4x5": "0d1be379e942a4b4ac1aa3c3f438ae54734e6784cb1905b9193e682ac9fe0c09"
+  "sha256_16x9": "1824d2608554c3d5541c2c9b3e894e73c958de2a5f664c5d2bd5e02abaf12691",
+  "sha256_4x5": "beab226e90013f5c1e73d08e5382bdfb779586b71d5b7cd44cd98fb89aee8e3e"
 }

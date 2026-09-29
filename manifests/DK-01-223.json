@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Ringkøbing/dk-01-223-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "a376624956f29a9c00754196822ac2238981f1361b87752d2acb25930a8161f6",
-      "4x5": "5bce18d630978a9d11cdbb475fbf98136b0bacb3f32284c69037e65130ba401e"
+      "16x9": "82be5870548ef5df19656a27447748f43d4f42d78e0806d0889c9511425ca522",
+      "4x5": "3caf58e5ac4d3538a301bc1f6766202d79a4f287a7a488af42676a87e715a0e1"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Ringkøbing Church, Ringkøbing",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the floodlit red-brick church with its stepped-gable tower standing over the square; plausible tourist viewpoint for 'Ringkøbing Church, Ringkøbing', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Ringkøbing Church, Ringkøbing', 'Scenario: 25 September 2026 · 05:56 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-223 claims one Open-Meteo retrieval at 25 September 2026 23:36:10 Europe/Copenhagen (HTTP Date 21:36:10 GMT) valid 25 September 2026 05:45 Europe/Copenhagen — scenario 05:56 falls inside the cited 05:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:25:08.916824+00:00",
-  "sha256_16x9": "eeeaa9f3b03bf73e8ad5931d05fb5b133bf322dde3625c197fee3dabb1bece66",
-  "sha256_4x5": "41dea5203d837c5ff1f8e68051087ed8bdd61f9903b368ca236c4135c03131f0"
+  "sha256_16x9": "ca69ce3e5ad1118fd62b2b0db44f466a129f74eb7e42ddf098ace27644ab7e79",
+  "sha256_4x5": "8b5920a82e51d097637d8526b51d54527bef0e0c838e6df4d0cfc4d72d0321ac"
 }

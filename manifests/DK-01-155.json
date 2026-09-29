@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Troense/dk-01-155-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "ea3ebe9320978531e6426620596a2ee266310b02758fdf9ca1340604125bd43d",
-      "4x5": "be81d0c19a6653248cb83190cbcb357b1dfd53637f74c814c2e8efb823a78681"
+      "16x9": "6ba2fface607240226ee1b9f090649f631829b824f72c2b33ed142c439acb12b",
+      "4x5": "993c64846ab699d6a0728d50bbaf42a44f0bb25dc94750f59fcf655e71fa4655"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Valdemars Slot, Troense",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Valdemars Slot's white baroque manor with central pediment and dark roof, warmly lit windows, lawn and a dark water strip in the foreground — the Tasinge manor house look, plausible approach viewpoint, no artifacts. Gate 2: on-image caption 'Valdemars Slot, Troense', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:46 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:33:24.372406+00:00",
-  "sha256_16x9": "048b246c10317158e492a85348d00e3d9167d926812f7783404085babb0e1b1d",
-  "sha256_4x5": "eb33a51389ba3feeaa434cc858efb81f9c3cd2e91336718072b858636cba1359"
+  "sha256_16x9": "cf684252c26f344df9a249bcf9a2e512e0e99967411fa39ec11184670ba6720d",
+  "sha256_4x5": "34a037a881bb5814ff87b5a929ea7263694c8908cb6573966c68d0d6c7bda449"
 }

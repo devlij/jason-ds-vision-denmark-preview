@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Grindsted/dk-01-218-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "80f3e5a4006eb9429f5269c578f98afb3ce3000f47740d665cca43c6305ceebc",
-      "4x5": "9c06ce74628af0d985841cee0fc1150ec89979e3663a78fb6fba256fc3491013"
+      "16x9": "fcaf9aab12427b43965527a50f456716ba8e4a40089693cb96f71fbae68957ab",
+      "4x5": "3a10efbf60cacf831a17050bb2f34db568ebe7523d3d833e7ac56d2d3f24b8a3"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Grindsted Torv, Grindsted",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the lamplit cobbled town square with red-brick townhouses, globe streetlamps, trees and benches; plausible tourist viewpoint for 'Grindsted Torv, Grindsted', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Grindsted Torv, Grindsted', 'Scenario: 25 September 2026 · 05:56 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-218 claims one Open-Meteo retrieval at 25 September 2026 05:43:27 Europe/Copenhagen valid 25 September 2026 05:30 Europe/Copenhagen — scenario 05:56 falls inside the cited 05:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:24:45.445766+00:00",
-  "sha256_16x9": "a5a787511a65dac012fceb7a960eeb0e3ad408cc3e7b86a8d68c50f5fb7c544e",
-  "sha256_4x5": "0d0fed06e862a89464ca3558b8756a13e760bac826733339261fda4aa423988e"
+  "sha256_16x9": "630d723f58976290b29903db310e7e6d2ab3169df147ca373a41ff48958ea2ed",
+  "sha256_4x5": "4016761d3dedacc0844c16020eaa44e008e6f9fb9e3429aa5a5b9bd2ba9c5d0d"
 }

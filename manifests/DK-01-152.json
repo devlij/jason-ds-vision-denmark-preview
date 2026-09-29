@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Hillerød/dk-01-152-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "7f4a7091de4f97c76bbe88b8275f181a288115852c97631b4b92318103f730ed",
-      "4x5": "a9da3fa61fb79c6f19cb35b2a1e6328d7f065a3a689b328da4b1b4384ac74caa"
+      "16x9": "b7dedcd76d251dacc8199eb7cbbbde45b7247bd712889ea84de20de7e42e62d8",
+      "4x5": "45bc9c36649b92294714697c922efa95d15cd6b985aff3410fb536853d7ebeb3"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Torvet, Hillerød",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: the red-brick neo-Gothic town hall with its corner tower, the statue on a plinth in the centre of the paved square, lit street lamps and historic gabled houses around Torvet — recognizably Hillerod's market square, clean framing, no artifacts. Gate 2: on-image caption 'Torvet, Hillerod', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:41 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:33:01.039400+00:00",
-  "sha256_16x9": "f526d800927c64588b210a42d14a59a9c18811c8550ffdccdc9ef2b45e5ea369",
-  "sha256_4x5": "d616fda8192321e0ebf56c0bf299cd42a7196434be799d30d3595005d28e83b8"
+  "sha256_16x9": "9e732304087724ab30c1046d41f44dac5b27277b5ad6f89c3cf4a5cdcdb46783",
+  "sha256_4x5": "f7dda5691d785f355df3b24177fe8f670302737368855e86433b417ac0b5a9ae"
 }

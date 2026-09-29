@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Tórshavn/dk-01-070-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "6c1d16888226a616409e37d2dff395f934bb69287b2b76b6c082f2b78b4fa7b1",
-      "4x5": "95f667ab05ca9315a46f1300da9ac6b550f29725ea3feed7ede988f70a157f31"
+      "16x9": "55e5469ce9fdae353b4bf00fe48f5b2018289919cd74abe861f651e2b570076a",
+      "4x5": "bfbcd91e5730b310d19fd6514a90ec1ad6ae81704812ef754706ea591112e0a6"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Tinganes, Tórshavn",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: the red Tinganes building with grass roof and black tarred houses on the rocky promontory by the sea — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Tinganes, Tórshavn', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:46 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:25:11.943171+00:00",
-  "sha256_16x9": "e0d1835f8d7ab0aac44b8fc36a6e09151cac65e48d3c24d5fe935e9ea6cef063",
-  "sha256_4x5": "ed075aabbfab2bb7c3cf1ec8f6fd75e7d04d32fee064c56ce75629323c8c2573"
+  "sha256_16x9": "80e902e373418985f01c2a4c00af2da48549f0d22d4d893d26e825e56215b371",
+  "sha256_4x5": "027198e746646acb3b1bc2f7a49a1fa26a25bf5e8703c773b35455e19c7ea4e3"
 }

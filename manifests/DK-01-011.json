@@ -16,8 +16,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: night street-level view of ARoS — dark-brick cubic museum with Olafur Eliasson's rainbow glass ring glowing on the roof, overcast sky, lamps and bare tree at right, clean framing. Gate 2 PASS: masters mechanically exact 1920x1080/864x1080; on-image caption 'ARoS, Aarhus', scenario '24 September 2026 · 23:59 Europe/Copenhagen', 'AI-generated artistic interpretation · Not a photograph.' disclosure and 'Jason D's Vision' curly-apostrophe signature on the bottom gradient, all legible; weather retrieved 25 September 2026 23:08:12 Europe/Copenhagen for 56.1537,10.1997 (separate request, cited to the second, unique repo-wide across 365 notes), model-valid hour 23:00–23:59 containing scenario 23:59, is_day 0 matches the night render. Gate 3 PASS: note documents text-prompt-only, no photographic reference pixels. Gate 4 noted: panorama artwork exterior only, no people/logos — documented only, commercial call is Jason's. Art. 50 iTXt/tEXt chunks verified present.",
   "approved_at": "2026-09-25T22:26:23.097871+00:00",
-  "sha256_16x9": "e7fd880a315c7e3394865b19694449b7b745d73f142b23fb9b6bb593a68a291a",
-  "sha256_4x5": "543e5bf971cdaccb64f1ec1927318c8078ed986627f45e1cd5d583aaacc5edce",
+  "sha256_16x9": "603b40a28d3e397457623047019dd818b5a7a9831ac62d8c40b42e4a4ab1965a",
+  "sha256_4x5": "7d50664e7b6eaa1d5c40fd18a4b42f08fb21156e1740448f5945e32df35b65bb",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-011",
     "derived_from": "Approved night master Denmark/Aarhus/dk-01-011-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Aarhus/dk-01-011-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "adb4d975148567e22e6d69c306447546ec07730dca29899fb516505a6792b78a",
-      "4x5": "06e309a3648a3f9db13ebf1b3b71102e4e5d5c4ebdf911de478d25b1046ac711"
+      "16x9": "9748c52a10326b0d47314e0ee2b852f8197a3dd7a1bce166b34c67585cbc1af6",
+      "4x5": "58c3db808cd3aa5c4dba490830f10b23ac4e83bdf8b82cbac5d3951eef661660"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "ARoS, Aarhus",

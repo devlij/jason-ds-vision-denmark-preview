@@ -68,6 +68,6 @@
   "qc_status": "Approved \u00b7 Cosmo QC 5/5 \u00b7 Afternoon",
   "approval_basis": "Gate 1: wooden bathing jetty curving off the forested Christiansminde shoreline, broken afternoon cloud, clean framing. Gate 2: caption 'Christiansminde, Svendborg', scenario 25 Sept 2026 14:32 Europe/Copenhagen, 'Jason D's Vision' signature and AI disclosure verified on-image; own Open-Meteo retrieval 14:32:43 Europe/Copenhagen (unique to this scene), valid 14:30, scenario inside 14:00\u201314:59; 53% cloud matches depicted sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 PNG metadata present; both masters exact dims.",
   "approved_at": "2026-09-25T12:52:35.384318+00:00",
-  "sha256_16x9": "4fe1dc78f32a9fc86273fa4455c7d40db1947dc3e740d2177578531e3b871605",
-  "sha256_4x5": "b25fca5c46ab42d5a2da974709deb40c50ede7d6292fff57c79acc1a6c288c9f"
+  "sha256_16x9": "5da366edab19d6baa6fdd751e70e356b54296e0c48a1e4254dbb2356442ed29f",
+  "sha256_4x5": "9f331a7ed0d8e82ab0e8551d63df6d8f22df3bd1ad6fe2d062ebc02c3d3ea232"
 }

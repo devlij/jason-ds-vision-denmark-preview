@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Nysted/dk-01-107-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b757cf8b330ba41ca692223173ceab5b0f70a984e850a9e0eeb55aa67d52c643",
-      "4x5": "0444c49a51fbb1fcc8e57c6efae9ebef5c301799c55459486c81c73171149468"
+      "16x9": "95a93862f8f6d2a99cbffc2d625993bbd2c0eaa6b2612571d1ff76d44c73e13f",
+      "4x5": "0c50f1fe9ab2dd9e249cbd99e9de86afe9a1c5fc843875f9bd5e27d8cd49571f"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Nysted Harbour, Nysted",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: night harbour basin with ~5 moored sailboats, half-timbered gabled houses with white plaster and dark timber left, red-roof quay houses, church tower with dome behind the roofs, quay-lamp reflections — matches Nysted Harbour's old-town anchors, plausible quay viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Nysted Harbour, Nysted', scenario 'Scenario: 25 September 2026 · 02:16 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:16 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:20:05 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs; generic boats and houses. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:28:08.959856+00:00",
-  "sha256_16x9": "d8ecc36ad7c80c46455bee41233ad538ce484400b29445e7a7317d6fa8381765",
-  "sha256_4x5": "2c181a8205d93873c6d41a7d509fabdac38b83dcdec92319bb215c09dcb5e426"
+  "sha256_16x9": "3415139b049a39bae32e4d2299067d9fa3765d9efaea5732cfb6173c2604531e",
+  "sha256_4x5": "a15d80b1f022ca7cd837986fbd687dfa9ac9960751091dfc9eff0d33786fe0ba"
 }

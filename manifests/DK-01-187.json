@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Sorø/dk-01-187-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "119a7e80b74f35ed1245de338533af67fec09d8e8b3fe8d289470878b08a1d22",
-      "4x5": "e43b7b9038db975c96f90ad4a96039a7ad1f13c1dd73df68f0c092e5f2cb37da"
+      "16x9": "abaef39c36f16f743a3e1df28c2009eac14e820a30010475727a88a5d9e4101f",
+      "4x5": "8b986ac6891a6ea4019c1627b3a57a12bde9e52ea20e71a7a9a247b125b0f07d"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Sorø Lake, Sorø",
@@ -46,6 +46,6 @@
   "qc_status": "Approved - Cosmo QC 5/5 - Night",
   "approval_basis": "Gate 1: from a grassy shore, a simple wooden jetty meeting dark open water with a far tree-lined bank, no swimmers, overcast night — matching the card description; clean framing, no artifacts, plausible bathing-shore viewpoint. Gate 2: masters exact 1920x1080/864x1080; caption 'Soro Lake, Soro', scenario '25 September 2026 - 04:07 Europe/Copenhagen', and 'AI-generated artistic interpretation - Not a photograph.' disclosure bottom-left, 'Jason D's Vision' signature bottom-right, legible; scenario 04:07 inside model-valid hour 04:00-04:59; Open-Meteo retrieval 25 September 2026 23:30:20 Europe/Copenhagen per the builder note, verified unique across all 365 Denmark notes. Gate 3: text-prompt-only, no photographic inputs reported. Gate 4: no identifiable people, logos, or readable signs — documented only. Gate 5: ready.",
   "approved_at": "2026-09-26T10:26:50.907122+00:00",
-  "sha256_16x9": "843bd1ddb107a09b9ef5d6f64b84f5d2b82d2b875f1c2c768b2a74a4c0778252",
-  "sha256_4x5": "485463182963dd8a5c8e79808ad715997b7534f2888aabce377bdd1910669455"
+  "sha256_16x9": "f04bd3343b9c031adeda18e4d32bac8cf87e96bb0fe5466ad2742ed15acceda9",
+  "sha256_4x5": "b9d51068705a3e1befe5ed3d066a0ad219575ff40a9326e4b307975166f2e6b9"
 }

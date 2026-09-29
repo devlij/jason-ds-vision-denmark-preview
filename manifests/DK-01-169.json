@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Holbæk/dk-01-169-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c9334b1ceefba819c244ad019ffbc543a2cbd4265190f2bb0229fd748f859c23",
-      "4x5": "bab40e2ecef1b79d473d18a7e0011c2eef37fbc5e4ea098e65e5ab6832d11213"
+      "16x9": "ce29858ec6977629cf6d2d8513468f9a913b16c7e39d6d2350aa73dd3f0f910c",
+      "4x5": "dedbd357f0bb4c8c6382a3a92adec587fc66f563925a07a1019a131c364cc2c0"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Ahlgade, Holbæk",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1-5 PASS. G1: Ahlgade, Holbæk at night — straight old-town shopping street of two/three-storey plaster buildings, dark shop windows, cobbles, warm street lamps; clean framing, no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Ahlgade, Holbæk', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:28:55 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or readable signage (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:38.360459+00:00",
-  "sha256_16x9": "8ba0bc71ea2226f2d51f391c9089e2cf8a8a4cd33178b9cf5ae9adb5a8ae10a1",
-  "sha256_4x5": "f9101316c2d421b2d99eb67b88e7ab272a4eea2fb1bb05d2d1a891e01b5061df"
+  "sha256_16x9": "d290c0de679780702b83e7d1e524ff35088f558d292b526c7fc4592e2c04315a",
+  "sha256_4x5": "9a0689003c6f27b777c714d923c7a9cf21f433a6e04b1dff94484f3d8d2c5cba"
 }

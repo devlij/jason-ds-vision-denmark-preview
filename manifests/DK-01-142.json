@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Ribe/dk-01-142-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "81c4ce5726694c5fa48b4cf0c16db0f7aa64734608418625b353bed138591a61",
-      "4x5": "b16f4218e152be5d2b67b27e47919c290e426ed4aae9d6a408be67190c9a1798"
+      "16x9": "79338365754232582fd03b7285d19e129ea17ef8ed352957efa9935f09384357",
+      "4x5": "aab0cd61dbc38485a2d3b9bbbc3584e1d409373213af4b992e1f4829ced96df6"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Ribe Old Town, Ribe",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: moonlit cobbled street flanked by half-timbered houses with warm wall lanterns under a starry sky — a plausible Ribe old-town night viewpoint matching its historic core. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Ribe Old Town, Ribe', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:25 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or readable signs — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:40.836341+00:00",
-  "sha256_16x9": "92a667d859b3b6d36895df6ee611926ffb969b98b90fd008dc8495ce4eece456",
-  "sha256_4x5": "8be2c768359351d30f6c5f0a7ae179d1b53faab51536744b2fc7b43fb880c9df"
+  "sha256_16x9": "cc18595130309d78a6051c1f95cd5d73759feacda72687b6d6b0ff728008f65a",
+  "sha256_4x5": "7b494c5c2e3e17ef225a633be8df0fe04ebcf0ee80174cb644d2ef58e43419e4"
 }

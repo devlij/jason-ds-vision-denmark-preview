@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Horsens/dk-01-216-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "46f078af7b2b29a221f30489171873321ef29c8e7ce2284968b5c6c66431020d",
-      "4x5": "419680ad9bcce8bc210558fc3eef7438f502e21fd8fec1c69af5554cf3f8ceb3"
+      "16x9": "4d7a67e2a0ce4591a37d6fedb63c782f9f56d61df8b76d7afe07edcb21ab7c4f",
+      "4x5": "78742bfc1f7b6e7cf53812cba12b937ee1bcbf7975b722d6addd671d0de1b888"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Bygholm Castle, Horsens",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "G1: white manor with red tile roof and glowing windows under the moon, mirrored in the water; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:35:59 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no wordmark (private manor documented); G5: clean.",
   "approved_at": "2026-09-26T11:20:35.153843+00:00",
-  "sha256_16x9": "e28c5f70cdf75fe7e8be476b8f421e1f1c74161543be20036e89b6d360ad49de",
-  "sha256_4x5": "b947ae13224339d9e365ceae3081832f3d8b8ed4ae4a3e7b9265676fc193474d"
+  "sha256_16x9": "65df45e785225d1f559dc98882c1b04d8f1d363de83302ae882b30ce7eceee41",
+  "sha256_4x5": "313402f58b10bfcd2286c7feadb992a5e0af5d5ded8df43b16542256cb709a92"
 }

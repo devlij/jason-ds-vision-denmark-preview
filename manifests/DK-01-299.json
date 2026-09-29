@@ -12,9 +12,9 @@
   "file_4x5": "Denmark/Give/dk-01-299-4x5.png",
   "file_9x16": "Denmark/Give/dk-01-299-9x16.png",
   "master_sha256": {
-    "16x9": "16e1383e811f7726f345aafc49da594aa747efd19c7401e90eb26cdc55c789d8",
-    "4x5": "dfe3bf67dfc1fab6f502dcc3dfca9b945705585a2f6873b39d915ca3d93ffe75",
-    "9x16": "373ea8c23781289596dd6a5ce8ba4b934be364a8853c87d0bf290cae855f8fd1"
+    "16x9": "7eba01096cea4ad2e8c3ec73e93be9101b3750533aaea344aef776a9ca3d3664",
+    "4x5": "d2065e3e5c241ec9e0570dc150498cd932f7cfe3647d861341021a29eba93217",
+    "9x16": "88043428a6f38310a0f2a9dbb060d72ec1dfa799f74b09df912fd8d9664c91df"
   },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
@@ -39,6 +39,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gates 1–5 pass. Gate 1: the SAME pale-stone church in both formats, red tile roof, west tower with crow-stepped gable crown, churchyard with gravestones (lettering unreadable), morning sun (the plain-pyramid-cap vs crenellated-spire disagreement is gone) — recognizable Give Church, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Give Church, Give\", scenario 07:41 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T07:36:47Z unique to the second, valid 07:30, scenario 07:41 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
   "approved_at": "2026-09-28T02:35:39.173276+00:00",
-  "sha256_16x9": "773103aea6e4550446f307f14702e5a9c1c9813cf92eac7a4bfefb7385ddd0a2",
-  "sha256_4x5": "3dde278d2dfa0667cc8de9a61653deaebb82fc0f2ab4d0defc9a4379e666b4aa"
+  "sha256_16x9": "7eba01096cea4ad2e8c3ec73e93be9101b3750533aaea344aef776a9ca3d3664",
+  "sha256_4x5": "d2065e3e5c241ec9e0570dc150498cd932f7cfe3647d861341021a29eba93217"
 }

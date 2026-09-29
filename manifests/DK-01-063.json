@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Frederikshavn/dk-01-063-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "f6ddc1bc3eff3d8cb44a549e8a5f75ce036bd51ffdcca6cca4994827df0185ac",
-      "4x5": "5d4f85b4589a211fa755d77b5ddd3a9b09494b5d152dabef56bcb69d39d33933"
+      "16x9": "0fdb3a51e61b1d4393fe822b4954c7d2f816be95ae987e2c40f34d53407e8dc2",
+      "4x5": "997de2069f7f2c04a0a3b113f286e77dcbe4ef8756f55b6a07c2d6f352ecacd9"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Frederikshavn Harbour, Frederikshavn",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: night harbour with lit lamp posts reflected in the water, moored fishing boats and the lit round Krudttårnet tower — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Frederikshavn Harbour, Frederikshavn', 'Scenario: 25 September 2026 · 01:24 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:39 Europe/Copenhagen, valid 01:15 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:24:40.547516+00:00",
-  "sha256_16x9": "2d983d5e796d03d9b6b855c7e9e3e3ea9fc16d8ab06454a29a44e38d16aee3f8",
-  "sha256_4x5": "bb8daa796ade743b0b07f4c762f5aac90ff4340f88d7b05887f192d0a50bab0c"
+  "sha256_16x9": "10fc3c318ce95e74cd5460e0421bf1d442e6ab7246f64d716a2459a19052c056",
+  "sha256_4x5": "a46aed8ab51b51980decad62b7bd68e3188520192e1c3dbce81f75f509a09f94"
 }

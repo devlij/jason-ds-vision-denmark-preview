@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Charlottenlund/dk-01-267-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "bcaf0d8c8b3b961f3278b5d22d8bd3df59a825279ee3425a26e9542d69f8e25c",
-      "4x5": "793340f5d27dbe182b3d68c0bd19983bf60a34e5f04e8aa9bc6a803335305122"
+      "16x9": "d4e3d36e22e998bf7663a2e8e6c42889ed8223690d961dce194d14ae4d0b4ae6",
+      "4x5": "067c303ff0f849d7dfa8919c2f20178c9b04e99e03a00fe28a8507bd2c639ba0"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Charlottenlund Fort, Charlottenlund",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows grass-covered coastal ramparts and casemates along the Øresund shoreline with dawn light breaking through overcast — a plausible Charlottenlund Fort view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Charlottenlund Fort, Charlottenlund' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:48, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no logos. All five gates pass.",
   "approved_at": "2026-09-26T15:27:22.361300+00:00",
-  "sha256_16x9": "2d76b85b30ff997ab87d65fb4b09b42e1204442fed1d6f1dbaa792c0dfeb42d7",
-  "sha256_4x5": "6cdc2f11cc247246f329ce076cc119351d9de3a1c58be1ae28e66e186eddf2ea"
+  "sha256_16x9": "f3ae355e3bc7da145fc8b84b108a522fa2879e75fdcadfa79e2983b48c46dee7",
+  "sha256_4x5": "b7a7508b80623b859801357f91adc030fa054552ab0a43bb39158c9e5e488d2d"
 }

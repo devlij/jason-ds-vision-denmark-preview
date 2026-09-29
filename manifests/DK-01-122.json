@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Silkeborg/dk-01-122-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "1fbf3f92d9b295f97beace8d3e1b5bc2ff9c1d2dd1e75cf5804f297d3a9b4377",
-      "4x5": "c9a9b5ffa4ef0fc75c5890461665a62686e192f8adb1c2713483c424a220edd3"
+      "16x9": "95f7a7c6759da88ef560c18d8e2e5fdc8de3389f04d58dec261d0d576bc34976",
+      "4x5": "d2e7be65c062f192d0b4144b0b2e2a9d276789537365247c981063da8bad9508"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Silkeborg Church, Silkeborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: red-brick Romanesque church with tall copper spire lit against a cloudy night sky, cobbled square with lit street lamps; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Silkeborg Church, Silkeborg', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:52 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:52 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:24:41.997585+00:00",
-  "sha256_16x9": "6eebe1507719b1d6060b99f5d6096ed35e6522f306720dc00cfef86ff95b6f05",
-  "sha256_4x5": "7c1694bb4c8de009cd6c8fb60b4c77cb5a38fe140a128a118d05e27a7925dde0"
+  "sha256_16x9": "ae0e0b37a187131cf4be65daca1d201fb8ba12c266bfe544bf8eae70067b130d",
+  "sha256_4x5": "f3cd97d2a47fdd06fdac9a34f052b74ef4951cfe2e968db5dba9430ebf8aff60"
 }

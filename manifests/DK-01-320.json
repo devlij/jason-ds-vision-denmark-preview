@@ -16,6 +16,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: the 16:9 master shows Anholt Harbour as a concrete slipway with three small white boats (two hauled out, one moored), a row of gabled houses along the shore and sandy dunes rising behind under an overcast morning sky; the 4:5 master shows the same slipway quay, three small white boats, houses and dune backdrop — both formats agree on the subject identity, a plausible tourist view of the small island harbour. Gate 2: exact 1920x1080 + 864x1080, caption 'Anholt Harbour, Anholt', scenario '25 September 2026 · 08:22 Europe/Copenhagen' verified on-image, signature bottom-right, AI-disclosure bottom-left legible; weather retrieved 25 September 2026 08:17:38 Europe/Copenhagen (unique to this scene repo-wide), scenario 08:22 inside the cited 08:00–08:59 model-valid hour. Gate 3: notes claim text-prompt-only lineage, no photographic reference pixels. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T20:22:49.549931+00:00",
-  "sha256_16x9": "49a882220ed2281721037fadc754d46ae6b904f968deef80d5ddf64298458e1c",
-  "sha256_4x5": "d0c6e1c7dde8ba7dbf469100a47b5e1c965d85faf51843d1481682286c99e8ad"
+  "sha256_16x9": "1a0fead94fffa4406d935ebcf7222cd375f3f1831ccda5f8ce50ba255817ef7c",
+  "sha256_4x5": "52d2eec83ca92b49835ddc5b8517bfc71e4a0bbb7ba9ae877ff3e7f3f44a8dd4"
 }

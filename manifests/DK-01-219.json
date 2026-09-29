@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Esbjerg/dk-01-219-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "fa0a568a75b12904c5d05088a86441a6210577b76df79d6e29a3d9df3ea06780",
-      "4x5": "8bb334c68c881a8cffb9f888979da14dd34a7bf21b07eb65ab1b53a29b439423"
+      "16x9": "0ce1944abfd3978b16b65faea556d16ce1c3a631fe784a1afab5b0c138875610",
+      "4x5": "5c8c57bd8a17ee6dbbb8200c7bfe594eb98f7c81bee892e0bfa6a8b0e2410774"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Esbjerg Harbour, Esbjerg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the tall brick harbour warehouse on the lamplit quay, moored fishing boats with masts and a moonlit harbour basin; plausible tourist viewpoint for 'Esbjerg Harbour, Esbjerg', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Esbjerg Harbour, Esbjerg', 'Scenario: 25 September 2026 · 05:56 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-219 claims one Open-Meteo retrieval at 25 September 2026 23:36:05 Europe/Copenhagen (HTTP Date 21:36:05 GMT) valid 25 September 2026 05:45 Europe/Copenhagen — scenario 05:56 falls inside the cited 05:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:24:51.020252+00:00",
-  "sha256_16x9": "f8e00d3a36c246e2ddbd1592ad3d5be773bd76923d1546ef30e83964b9c62775",
-  "sha256_4x5": "a445f22c239efa5d2ba3ad3895dbadce9e34b41652951642c6c81ece1091f77e"
+  "sha256_16x9": "e05425e2f5312aa4b47660896cd761709cf2c1d96aaf3cb6ce643dbc720a269c",
+  "sha256_4x5": "7fa2f48c240461c9721032fe4f02b7efad842efce86c390f874c6188cc64d80c"
 }

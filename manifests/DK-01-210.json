@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Højbjerg/dk-01-210-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "64ef418b5cad936ac181793152226f19d473269e75c8f724d0d5dc7b67057e22",
-      "4x5": "65c76ed0a6fda8bb12fe127403e47f945b0b5e48dc69334457f985c3305069f0"
+      "16x9": "04fd1454acdfc50b07b134b71673e8cc90383b4e7d5a91083f9b4b00624b637f",
+      "4x5": "94ac5e457ec6cecc5616db01d6a8f54bc4acc589e570045ce125dc3f1636fed5"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Moesgaard Museum, Højbjerg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "G1: the museum's grass-roofed wedge building with timber-slat facade under a full moon, one path lamp, starry night sky; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:35:50 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no signage; G5: clean.",
   "approved_at": "2026-09-26T11:20:07.517445+00:00",
-  "sha256_16x9": "aa8f30a0847283f64a9daf897af22cf41e711dae4a4d0ed2e5548040e3d23ee0",
-  "sha256_4x5": "49a4d55d726cb76c531c2e2fd5ea96e97e555841ed91be4d9c7c094526c338ef"
+  "sha256_16x9": "fe73883180ac5b35bb420ec9dbf8bc9e63a886612afbd4b9a0cb1ed93eefb737",
+  "sha256_4x5": "79634c3f5b409c823830db649caa7e6cf3c0c2b28f7e30a843a8a670a6258577"
 }

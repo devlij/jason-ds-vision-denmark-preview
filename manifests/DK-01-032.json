@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Store Heddinge/dk-01-032-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "38f8a5415aa7d4955934455c355895eee53408a344a9fc46dc1bb62d30b08f6e",
-      "4x5": "202db114cca515cb638e0250b0149be80e898a3780ca9bd776c7c4d123c67b50"
+      "16x9": "1f70418f752322a07010b1674ddb6fa5b80151da1f70a6d685b576294dcd0403",
+      "4x5": "be46ee05b900c36fa02a42777f6084c0121b866256792a02a430d766e5e02416"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Stevns Klint, Store Heddinge",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: moonlit night — small stone chapel with gabled belfry on a grassy white chalk cliff edge (Hojerup Old Church form), full moon over the sea with glittering reflection path, dirt footpath — matches Stevns Klint anchors. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Stevns Klint, Store Heddinge', scenario '25 September 2026 · 00:34 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:08:53 Europe/Copenhagen (HTTP Date 21:08:53 GMT), valid 00:30 step, is_day 0, partly cloudy 11.7C 61% cloud, wind 9.4 km/h — unique to the second batch-wide and vs neighboring build window; scenario inside 00:00-00:59. Gate 3: text-prompt-only per builder notes, no photo pixels. Gate 4: no people/logos (documented only). Gate 5 PASS.",
   "approved_at": "2026-09-26T00:27:13.124835+00:00",
-  "sha256_16x9": "95cf3ac385c23c6da4778b833c84b3284e47f2e78d61fde7242757c553a0e7a9",
-  "sha256_4x5": "b64ab352ac60ccc7e7a608a7ff047c995611a1e6c27ea2d5cf00c225b33a3d6d"
+  "sha256_16x9": "7925d9c1175f1190f85e58ef5b9c785775c477d767fc41ee1488864aed27aea2",
+  "sha256_4x5": "6711e5fd172afdd02fc77dd334c1eacc4f67778637b28017054c5bb8642e62d5"
 }

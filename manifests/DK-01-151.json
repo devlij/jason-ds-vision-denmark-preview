@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Rungsted/dk-01-151-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c63d23ed11268edd7357ba44006b18f70f8499d6e3e63cd94374c06d44f0484f",
-      "4x5": "48061a922f3fd527ae49ae13f1066227a446fc0762ac06994fd2dbd676d7b398"
+      "16x9": "e137314a78653d1ab34426e2549e3f34adb7ba103b1ac1b0659df4f4f670e952",
+      "4x5": "2dd4560729218e3787d2b8f0ec3a9df990d7002d0770a6247a29e2077ab1f21a"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Rungsted Harbour, Rungsted",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Rungsted marina with moored sailboats between stone piers, lit low harbour houses and street lamps, overcast night — a plausible Danish harbour view matching the note's anchors, clean framing, no artifacts. Gate 2: on-image caption 'Rungsted Harbour, Rungsted', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:40 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no readable boat names or people visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:32:53.304796+00:00",
-  "sha256_16x9": "9a43381d6192b78cb7d0475e5fdc7ce5dd1a5d4983e2f869f996bcc5b18b57a6",
-  "sha256_4x5": "f33c4ad39ea4e95f3feae9725681d9ec5cfd6d2dab9845b4fd9f9f200e0ec780"
+  "sha256_16x9": "b19d437e46c7d70754fadf08e310b7d2bdbd7f607a842797eeb98b5125b34543",
+  "sha256_4x5": "c76b8bfc7700b3fa560c105a0d41760829968ad62185fe4be2844a394687547e"
 }

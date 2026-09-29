@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Narsarsuaq/dk-01-160-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "e003f595222970be0816e5c50256072454a4a439955c433753e7e0bf56430902",
-      "4x5": "3430ddb73e1886f1f1e6d3c0deebd9e0a75b1a5c4c7bae30aaebd06a5f3f1e76"
+      "16x9": "a437694269bf8c34d5b9f7218dfea687b7aa2373e4110f4e7c293040914706dc",
+      "4x5": "498306b45e9f8ff9bba137103ecfa26b45e0cdbb730eb9ac0507eca34f504af7"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Narsarsuaq Fjord, Narsarsuaq",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: the Narsarsuaq fjord under a bright moon between snow-capped mountain walls, the small lit settlement below — fjord, steep mountains, a few lights and moon all present, plausible elevated viewpoint, no artifacts. Gate 2: on-image caption 'Narsarsuaq Fjord, Narsarsuaq', scenario '25 September 2026 · 03:10 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:53 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:34:10.247153+00:00",
-  "sha256_16x9": "3b560a8f5641cbdf619da647e428a9723064fc08c1ceecf4fb41c968e89fc2c7",
-  "sha256_4x5": "588fd777cfd23a35f7714cd15cae33f74a463cd0c35a684740c3a37223f6fa8e"
+  "sha256_16x9": "ec7c7906d60295b3a5ba854745a6a85def733651b400e9b4dc86c0d68eddf733",
+  "sha256_4x5": "a88624b18880176d6c4b9bc6d47b311da8b8dff749621de8246bb09bee87c716"
 }

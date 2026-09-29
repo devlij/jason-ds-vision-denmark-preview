@@ -16,8 +16,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Church of Our Saviour at night: the world-famous external spiral staircase spire rises over dark rooftops, its balustrade lit gold against a cloudy sky, the gilded figure at the very top; on-image caption 'Church of Our Saviour, Copenhagen' with scenario '25 September 2026 · 00:35 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:39 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public church; notes-only.",
   "approved_at": "2026-09-25T23:24:06.885462+00:00",
-  "sha256_16x9": "d5f95d2721db4047cc4464b337c714605df77521db9cf254eb3a24525a48354d",
-  "sha256_4x5": "874abe389a58741caf83364b622f31ace8b2b8d898bdd9e45bda461ba742cb76",
+  "sha256_16x9": "d8a0f18488f0be52543b0fe8880d6fc88a7373a9501b094d149a63afffb9b3b8",
+  "sha256_4x5": "1fd945d78133d292b9abd276f43a77f35b7f0c0a1abfa7aedaef0894dcd0e4d4",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-025",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-025-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-025-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "e76a8cc3bc63dbd79ab90be312fae2d0649debd7761410d202a0359fc00a39b4",
-      "4x5": "42a6b50380a2a2f8514f65b443bbd5bd5286531850db7af22a6109d39ac7ca7d"
+      "16x9": "cfb7ebd44213301337dd3ad23ae0d3b08c047772517b3848de025e275b8f2315",
+      "4x5": "e81f354beec9a588585a2ea49e9aee305abf23e84fad156bc5bce0ad4400d22e"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Church of Our Saviour, Copenhagen",

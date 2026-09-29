@@ -53,8 +53,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: night Kronborg Castle — Renaissance castle with copper spires and corner towers on the Øresund shore, moon reflection on the water, lights of Helsingborg across the strait, lit windows on the stonework; plausible viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Kronborg Castle, Helsingør', scenario '24 September 2026 · 23:57 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:07:58 Europe/Copenhagen, valid 24 Sep 23:45 (Mainly clear, 14.1°C, cloud 42%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T21:33:32.929100+00:00",
-  "sha256_16x9": "59a8491937747359420cc6c46bd0a790c9edebfc7fe91cc9e487d0e14c611a32",
-  "sha256_4x5": "7e16921f6d7ceb1ce46b3d8de4b1cf473939558ff765e1447ecc7c4b9d89b06a",
+  "sha256_16x9": "72fb8c714be3642717e55d38db12263837c4946c2d285802b7c9f558c7c47568",
+  "sha256_4x5": "7d11dea025947b3e872b23c732b8b486f6a96d5f3276a2f6e73c33ec5e078054",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-004",
     "derived_from": "Approved night master Denmark/Helsingør/dk-01-004-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -74,8 +74,8 @@
       "4x5": "library/world/Denmark/Helsingør/dk-01-004-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "92c9abc5abb6af6db9539fd2b2bee44da7d236b79c9803a3c7ec9d79297c764a",
-      "4x5": "706906cefd9240f2ed6b992a08e1e93e3a9988166583f8fb8797046ff6e84146"
+      "16x9": "7de287ee65939c3189575b54f817a964ff80b2efba5c589551e569099d0390f9",
+      "4x5": "15077a1adb2b8c522322bee79eea762a9d9bc572e8e1fb74fa28a185fa7391d6"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Kronborg Castle, Helsingør",

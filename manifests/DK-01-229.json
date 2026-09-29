@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Sæby/dk-01-229-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "cd1f08413cd36e7ebdf27731bda62ebb48c24bef5e168d32f3fbaf4e9e3f27c7",
-      "4x5": "26124dbda57d0cde9d343b113cc22db22a2cf21e262ab7f43066490589a39319"
+      "16x9": "0fc81c778cd9e2ce80150bee36ac80fe7afb6d7ce5950e8d9f22654ea7499e6f",
+      "4x5": "1cf9e8a618ba6bd5ddc8d8b93e1ea56d7b01f45b0fe88870e255db48313d412f"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Sæby Church, Sæby",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the whitewashed brick church and tower with lamp-lit walls above the churchyard headstones; plausible tourist viewpoint for 'Sæby Church, Sæby', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Sæby Church, Sæby', 'Scenario: 25 September 2026 · 06:22 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-229 claims one Open-Meteo retrieval at 25 September 2026 06:10:19 Europe/Copenhagen valid 25 September 2026 06:00 Europe/Copenhagen — scenario 06:22 falls inside the cited 06:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:25:37.938260+00:00",
-  "sha256_16x9": "061abb6726ea6a926dcd6f0632ec166c3cb32a32bdfbd7c922644e896b04af0b",
-  "sha256_4x5": "efcedb9b25cd2daf2269765eba7dbfd3be45f557c163cdea4eb67e6c75a63a30"
+  "sha256_16x9": "9cadf54479c93a07fbdee44830f8ada7542c49c75d883161ac730e01e5cce52e",
+  "sha256_4x5": "233a23045674647336bd7598f3c1d1ef0709b73a0cfeb381050b5ba88b388cfc"
 }

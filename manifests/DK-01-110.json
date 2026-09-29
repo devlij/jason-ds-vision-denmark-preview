@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Kerteminde/dk-01-110-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "51a828a114dc8bd1ff5b940a3343cc49ce77082b0dfa400b68b4ecaf88cd12b3",
-      "4x5": "3a126eecf0fca8881691d91dcba64eee64d1cb846b55c1f013c3952c0a36f8cf"
+      "16x9": "2ac8e0f5a0d87ecfac9ac096f6c2e5613a4de50151dbb07d6a0c18169459aa5d",
+      "4x5": "b54d6aaff2df37b4ad06099914356b7d8776ad249f12ad8efc3caca96fcf7f36"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Kerteminde Harbour, Kerteminde",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: night view down a narrow harbour channel: low gabled houses with red-tiled roofs lining both quays (yellow house foreground-left, red timber house foreground-right), moored fishing boats and sailboats with warm masthead and quay lamps reflecting on still water, heavy overcast sky — matches Kerteminde's old-harbour anchors, plausible channel viewpoint, coherent lighting, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Kerteminde Harbour, Kerteminde', scenario 'Scenario: 25 September 2026 · 02:17 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:17 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:20:08 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs, no recognizable private property. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:28:34.030886+00:00",
-  "sha256_16x9": "6d9f360b55178186e8d42f4c8bacb64de474d1a5ba4ea364a4e082f6a0273b24",
-  "sha256_4x5": "5fb10d18c11e0c3b49c64a473a79223447bacbe58df8196d79c3dc3b279713f6"
+  "sha256_16x9": "a0aedad4cf93eb148712a959a802332d58be416c5750429b37e64087574db663",
+  "sha256_4x5": "2c758c84ff7f38f8af3f320530000e6bd6b781609dc1d84c16e881c6ef4aeafe"
 }

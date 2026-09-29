@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Gjógv/dk-01-072-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "a7d541aff879b7e1c87379dd7b8c326d83c9efe1f1f9fff542d6367ce9ed7305",
-      "4x5": "a4646a68864ee67514156d7a9b9334b9097e927ac9a9f21ac70be3c75ebf09b6"
+      "16x9": "7c744db25ce9441bff8178045c25124cb0653323f29140f57f9250141d7d20ce",
+      "4x5": "42717a4ef0a1e0ccfef240591b3c65a1d374f500fe4729ec402c0956f9a18009"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Gjógv, Gjógv",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Gjógv's cliffside grass-roof houses overlooking the sea gorge at night under a full moon — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Gjógv, Gjógv', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:48 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:25:20.473051+00:00",
-  "sha256_16x9": "d9d0dd3a51ea33aa96cec1499bf18a9021be40df6529c59ed7657f0a35b85bd3",
-  "sha256_4x5": "f1ddb2c08459cf40e066f48767ec6cf137617f1f635d0b0225ddb28451db419c"
+  "sha256_16x9": "2652273c8458c201c90feae0d2868d6a44af9efafd5f36b8f215a0688d1b74eb",
+  "sha256_4x5": "161a41000d251ae144cd606782c8eae7eee8af3c09bc2889d7ba529424d2d0c8"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Voldum/dk-01-213-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "15cee8cd987459359d5c52cde799973af1c62f3afe8c11cdb69f2de688d45c61",
-      "4x5": "5945eb59e70eae10ee515ae0b872e1d2b75923312f20f09ae3f885e8e5668fc3"
+      "16x9": "df1b7d0721423fdcd018ff6e208fd3f85aa9f797b4802c8cd3272a248559d368",
+      "4x5": "653b20766891de13f19415672dc41735be5ba1beadcbc0b3e19b85d679852920"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Clausholm Castle, Voldum",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "G1: white baroque castle with red tile roof, lit windows and full moon, reflected in the moat; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:35:56 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no signage; G5: clean.",
   "approved_at": "2026-09-26T11:20:21.729121+00:00",
-  "sha256_16x9": "07c698344866eff331205182440c6a1aa27d61fbc44bb6b80f9fe5b4a0db914f",
-  "sha256_4x5": "e3f72b56b780cb4e55a78bfd5a8dc03f2191e805f3dd74dcef4ae12776a266e6"
+  "sha256_16x9": "203dad818d1aa9b1e1dd895c42e00ecb1513cfeed59d2a688a1995ed62c0152c",
+  "sha256_4x5": "ef9de550d9bfb63c9d188a50e7f2bbb628daa5136eb53368086e16afcd08cf7e"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Maribo/dk-01-178-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "7c4900238af3c48c4257a9c1c9d2d546409630bb95b3b2a349081bd959aee141",
-      "4x5": "aff4295893dee41a9b5633a6eb8d806dd88785ed6b372c654f98790dff6e7df8"
+      "16x9": "7dca8ab262ca15286e484b7a06ed69f2a3ce4262f89521c1c382d68afa3fc01e",
+      "4x5": "0b833fac6158da6881657cbc12231954eb0d6ed084d3f562d11d25f6b332e76c"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Maribo Lake, Maribo",
@@ -46,6 +46,6 @@
   "qc_status": "Approved - Cosmo QC 5/5 - Night",
   "approval_basis": "Gate 1: night lake with a wooden jetty, grassy shoreline and reeds in the foreground, treeline across the water, distant town lights, overcast night — clean framing, no artifacts, plausible lakeside viewpoint. Gate 2: masters exact 1920x1080/864x1080; caption 'Maribo Lake, Maribo', scenario '25 September 2026 - 04:07 Europe/Copenhagen', and 'AI-generated artistic interpretation - Not a photograph.' disclosure bottom-left, 'Jason D's Vision' signature bottom-right, legible; scenario 04:07 inside model-valid hour 04:00-04:59; Open-Meteo retrieval 25 September 2026 23:29:25 Europe/Copenhagen per the builder note, verified unique across all 365 Denmark notes. Gate 3: text-prompt-only, no photographic inputs reported. Gate 4: no identifiable people, logos, or readable signs — documented only. Gate 5: ready.",
   "approved_at": "2026-09-26T10:23:18.533971+00:00",
-  "sha256_16x9": "a938579f69bde28471c18eacbe4c851e17feb5d57457c394d90aec0945d55762",
-  "sha256_4x5": "5efc3ec061878a8434fd6157b14e504eb17b868215b2ec13ebdaadc30be6fe8d"
+  "sha256_16x9": "21e007e749e5545a1338914d7fa42f72f30ca13905e2e1dde319235b370f6905",
+  "sha256_4x5": "e55460294ead4f90c98634ba74f9195146cdfd602c1cf9d9b62e74f237d94688"
 }

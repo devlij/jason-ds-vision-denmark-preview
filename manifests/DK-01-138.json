@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Thyborøn/dk-01-138-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "e133c96be0294f4acd45d2408b29b4847294fc1d5acd5ddeb9a09dc5c902cd87",
-      "4x5": "dea4549e411c728dc6f4a957df3639714a1a5c4828517540c5b66ea997502f7d"
+      "16x9": "7e7325111ee377f96bb4eb20d82aba004a784c7ca20f94999630182096ad5a06",
+      "4x5": "865ffc34d0dd6ee7d6c435cab315d2385fdfd769848b34287a6380a337bf88a4"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Thyborøn Harbour, Thyborøn",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: moonlit starry sky over fishing trawlers moored between stone breakwaters, dunes and a distant lit town — a plausible Thyborøn night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Thyborøn Harbour, Thyborøn', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:18 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or readable names — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:20.732181+00:00",
-  "sha256_16x9": "da598765264ae59849e189620d83e720cfa766d595a31b72e0850d0c2a29b4a0",
-  "sha256_4x5": "8024febc7835310009181224ea2006cc4c55e5ae445404628203c41f356a70be"
+  "sha256_16x9": "69824769db88009c307d9ab91c450119f2895a833e605fb5c50caae730f0db29",
+  "sha256_4x5": "6d9d06930bf7a465204b2663197f52141e998634d4d025ddc9b0e730925bcf5a"
 }

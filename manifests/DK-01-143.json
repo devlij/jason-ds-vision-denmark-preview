@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Sønderho/dk-01-143-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "3d4f98b97d2e761b35acc469a80589144423490b4fce8de64d961bac96037957",
-      "4x5": "2a7c77208c1fd2b223e8c3ca02f6f927268ba39c432ff9579772fc2037e7f50f"
+      "16x9": "c41d5a1139e5d3ae3d49eb272327209aace1b95bbf8fab93cf72c76b77dfec78",
+      "4x5": "fc9ce9ce20c0635a0402f62fb66bfa7689031b0d787ebb38807496bcc3a21d96"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Sønderho, Sønderho",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: row of whitewashed thatched cottages along a moonlit village road with blooming rose bushes and a full moon — a plausible Sønderho-on-Fanø night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Sønderho, Sønderho', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:26 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or signs — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:45.884340+00:00",
-  "sha256_16x9": "05bdbf72118fa6f0c7b24fde71df16268a1f1c1ae920dcdd0abc4a5ccaec05c8",
-  "sha256_4x5": "e87384b94fa58a390b6933a501a18fc5e5a6f03c76b8ed708c109321a517c283"
+  "sha256_16x9": "46bd90492995fafd9deee40834b9b0c1b589886a17713ce80697b9274bd5cbba",
+  "sha256_4x5": "514dc3146c23baad217fee9aae4fe8d49125895338d0ecbdc6ba23bae6a081d0"
 }

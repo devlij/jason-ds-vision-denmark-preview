@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Ry/dk-01-051-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c34bbde569a839506c4bd4ab12898ac464482778dbddc2a8a0640531704e944c",
-      "4x5": "7c9a728868804402ddb5da20549398fc07e23d9072542adfb83afcb237362ea2"
+      "16x9": "231b7db251f3c475b0eda45a72802c89bed8b1bf17fa6b3a3a12b7e0b5fcdfa6",
+      "4x5": "a104b77a649e9029cc2ecf4866e171c4fda2eeb2aaa982ff9d3c95997c233f0a"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Himmelbjerget, Ry",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Himmelbjerget at night: the red-brick Himmelbjergtårnet on the heather hilltop, dark lake below with town lights across the water; on-image caption 'Himmelbjerget, Ry', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:27 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no logos or marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:26.378103+00:00",
-  "sha256_16x9": "1dc926f6af4c6f81b989f9ac945f302e20886d40d0010c19baa71904c8bdafd3",
-  "sha256_4x5": "fb8db45fc119a6372e89f405b833923b31ea6b68d24f2be3045d58e66714e8d8"
+  "sha256_16x9": "b9c622c128bc8619811ce999497274c5fd1ca16898889ec4a19e4736896a1d07",
+  "sha256_4x5": "be40c5b05461dce2cfaa758aaf7f5f6e11474e5c44a4d3814a75b22747e69158"
 }

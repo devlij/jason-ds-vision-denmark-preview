@@ -63,6 +63,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Afternoon",
   "approval_basis": "Gate 1: Ladby Ship mound — grass-covered burial mound with entrance door, gravel path and bench, water beyond, afternoon light. Gate 2: caption 'Ladby Ship, Ladby', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:48 (unique), valid 14:30, scenario inside 14:00–14:59; 73% cloud matches the mixed sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
   "approved_at": "2026-09-25T12:53:18.248417+00:00",
-  "sha256_16x9": "d391921731298513e839606e58e4740fa8717c24cf20bb390cf4e6288e704bd1",
-  "sha256_4x5": "3308d06acbc5af2828dab3fd01cba02046a9dc3c535515b7563a7dbde0fda095"
+  "sha256_16x9": "df2680c66c466ff94a4bdda2e57daf1c4bb7a1218269df2f4818fbffe1cdd804",
+  "sha256_4x5": "2ae62490b6a2d5aa31cd2865b950a56632950c42993285cc4a5b949005f767e4"
 }

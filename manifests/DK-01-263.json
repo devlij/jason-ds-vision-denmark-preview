@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Bagsværd/dk-01-263-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "1eaf1326353d7f5ebce22ae0569ac33929a6f2825aa9d93afeaa65c98fdb3e90",
-      "4x5": "64825f996389dafa3065e7739c54d80c10d2cb1699ce8385d0a9c6ac294fae1b"
+      "16x9": "6fc316b5ef77e5f8276ff34c7d644e26b13de36b25c68391b832c86ef2358ccd",
+      "4x5": "576b611db28505209deabfac315c80d65de6b65c08c5c4759745ac085bae11e3"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Bagsværd Lake, Bagsværd",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows the gravel lakeside path with reeds and autumn trees along calm water under an overcast pre-dawn sky — a plausible quiet Bagsværd Lake view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Bagsværd Lake, Bagsværd' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:40, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no logos. All five gates pass.",
   "approved_at": "2026-09-26T15:27:03.960658+00:00",
-  "sha256_16x9": "d1c5fc0d824e47e5ff5c9d947ff56afbf27f2f006bb8d97f857d03c9de4fbb62",
-  "sha256_4x5": "b7479385037594e2bff4e593d2fdcc41be614199e38209c9a4c9cc31039717db"
+  "sha256_16x9": "d09b1b5898218b634daa5805d615f8c159fec167dde37c839b4c3a991bb711e4",
+  "sha256_4x5": "1001d2c511cd6f0e213995022eb414d425a10c96e28865877a25d680bdf81548"
 }

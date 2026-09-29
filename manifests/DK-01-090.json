@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Vordingborg/dk-01-090-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "98c06bdff7760a81e4f1480ec79b99c8ef3bd7cb6a5f7e632a252f95b8a5127a",
-      "4x5": "978f7c5e27512968f87f9d4dbe638acd0eb79d1f55a261a21e3d4dfe246c3c9a"
+      "16x9": "9741fa01ecbfb88429121a4e6e94beab4d74abcaf93445e9cf09b919edfca066",
+      "4x5": "817e722ccf8338764a2cbf1299e2252b3d2ebc062000f666c3d6b3da13b63baa"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Goose Tower, Vordingborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: the brick Goose Tower with its copper spire and golden goose weathervane, floodlit against overcast night, with low curtain-wall ruins - exactly the note's independent description (26m shaft, 10m 1871 spire, gilded bird), clean framing. Gate 2: exact masters; signature/caption 'Goose Tower, Vordingborg'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 96% cloud/14.3C; retrieval 23:19:06 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos - documented only.",
   "approved_at": "2026-09-26T03:23:24.879814+00:00",
-  "sha256_16x9": "dafb779826e3a2df210b8c47d59f0569587b1768e00a0b4e0d9b56570ce008fe",
-  "sha256_4x5": "b70acd4962a00941d3b7cb636780a3834a088322e3761567b24942a18b4fdbe3"
+  "sha256_16x9": "0dcca24eaa004f20179a045503d12d4b53ddfaaaf8c9f1aee337075ec839467a",
+  "sha256_4x5": "c81c411e5f6d136568609357e67fb75b6528e4fc1b969499953dea38d8818a58"
 }

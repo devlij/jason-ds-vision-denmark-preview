@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Uummannaq/dk-01-251-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "8bf7a45b998e5248db7b898b902fc5ad3cd2de42774e1832ce61399bf8add6d0",
-      "4x5": "7128fde47433d40e4a8dd9a6a85dcc711489d030ed671f1d6b3a0b3e69ccf45a"
+      "16x9": "3645236dd4754bb4bd5b271d9515d4d9c91ab72f87ad46ed6aea09871c41df34",
+      "4x5": "c38b049337cdb77769f71fb0a305f54c452a65db0827b0dad31a40aca5ff5ecc"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Uummannaq, Uummannaq",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Uummannaq's heart-shaped snow-dusted peak rising behind lit red, blue and yellow houses on dark rock under a full moon. Gate 2: 1920x1080 + 864x1080 exact, caption 'Uummannaq, Uummannaq', scenario '25 September 2026 · 06:36 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:04 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:49.454504+00:00",
-  "sha256_16x9": "eeba7d9bcdabda117ff70a5842872a1b48544f9dc76ff827c6ba67c66f25906e",
-  "sha256_4x5": "418d705a2847833e8493c011cc87ef29ef154468b459c20fc53fa51476c05c6b"
+  "sha256_16x9": "e8d15ecb681194962866b7cb355aecafd968ac7aa4f65bcdf0f36cffe8f0298f",
+  "sha256_4x5": "3458e16add2ac0b7bfac9802deb738be1744dfb6bd733cb5ecd172d97f17cccd"
 }

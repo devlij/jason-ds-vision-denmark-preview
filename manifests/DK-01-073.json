@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Vestmanna/dk-01-073-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "870577f0904e294f218b93a27a41b90f93be3c83f0b2fb3930acbfe6c7a17027",
-      "4x5": "dc432c63c5946fe143a72193536ab15c003f08f1707c4989d379285a0b9a32ce"
+      "16x9": "68125af3c5bf1e19a5cb8dbd1f6dc6d85b84051b58744d8b0908899357b75d9f",
+      "4x5": "d0b51729122e225e628f7840adf784bac89857a748b9c8aeaab6413e2394e43e"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Vestmanna Cliffs, Vestmanna",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: towering sea cliffs and stacks battered by a stormy sea under an overcast night sky — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Vestmanna Cliffs, Vestmanna', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:49 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:25:24.769910+00:00",
-  "sha256_16x9": "5b0b38891b899ba63a63e9606da8c2feefb3835764aecc764510ef440fde279e",
-  "sha256_4x5": "2480bd37f9decc17679829418396a98dbb636bd8cea198e3a33fac13b6c97d4e"
+  "sha256_16x9": "82c8d986646b3c7c721c04a6d2e138e3c4961f1ba4bda5381f92a8f5f2eed51f",
+  "sha256_4x5": "054017b3476b6cd043d1bc7449b109a620ef7198e4011a0df4d4de1747bee2e1"
 }

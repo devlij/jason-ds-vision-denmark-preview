@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Grenaa/dk-01-212-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "66fc28426cd062f33d55fcb29212411364e486ec6426ecb4ce7e3becc3cef2c5",
-      "4x5": "1a09b5455855048cb9a8b53b6e02d7d0e803a7790a26524c0676d5beffad3bac"
+      "16x9": "1569ff4759dcd2d3590000cd1244969f94328b2f45e78eaf2259a629ab98cf61",
+      "4x5": "933ad36fd013bdfa4f605fd75b695a82a98794c223fc69fe7a33400b18ada2de"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Fornæs Lighthouse, Grenaa",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "G1: stone lighthouse tower with red lantern room and lit keeper's house on a grassy headland, storm-clouded night sky; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:35:53 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no lettering on tower; G5: clean.",
   "approved_at": "2026-09-26T11:20:17.023497+00:00",
-  "sha256_16x9": "e03a24dd7c6219ba0810fc9748d843be6023886c21a200137a9cbd5abe87ad75",
-  "sha256_4x5": "e26407ae9403049b7bceffa42292a98b9ea51c391baa2063c4d092e8179a28f5"
+  "sha256_16x9": "0e7ea5b5211fdc701d80e906a198ed79274e1e61e691dd27b9f22d7281a361ef",
+  "sha256_4x5": "7339218a0289da3879d31a0f94f638f833869ad4a0416762f8313fe7986c80ae"
 }

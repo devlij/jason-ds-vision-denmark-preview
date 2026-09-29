@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Gedser/dk-01-035-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b21bbf11d27a99fae8ed9d4287be95d6e63e3f764d5e484a30db0ecf947c5b15",
-      "4x5": "dea5213c40cb16e805c7c6dfc4c38a9fafd6e6ba341512d73cdfb10a410cc7c9"
+      "16x9": "2703741ca592241d845303e7d062cfb7cda53a1c0e4ce2cef819a7b0e50206cf",
+      "4x5": "9a20ad0499ba511b50251227c3a801ad558288e24579cca13bbda4852f85fc3a"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Gedser Odde, Gedser",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: night — white lighthouse with lit red lantern room on a grassy cliff edge above a dark sea under heavy cloud — matches Gedser Odde southern-point coastal anchors. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Gedser Odde, Gedser', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:08:58 Europe/Copenhagen (HTTP Date 21:08:58 GMT), valid 00:45 step, is_day 0, partly cloudy 13.6C 75% cloud, wind 17.2 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
   "approved_at": "2026-09-26T00:32:07.422523+00:00",
-  "sha256_16x9": "8526e6a30743d27a12ab96c3c8c975c445e6f08bdd13fe3c67dac3f025ae611c",
-  "sha256_4x5": "2e23a500200cb3345b5882deb00e23d4acb4cb77d32bc63c18cb1627e7c30791"
+  "sha256_16x9": "a98a9537243575c490c1ff34d1d00525dd6cc8724c5ac0a99f921bc4246a1454",
+  "sha256_4x5": "dfa6cf4ef0efb3501bd6eecbfce1d3b32f56d6ec714acfd1b8f50241d09b951b"
 }

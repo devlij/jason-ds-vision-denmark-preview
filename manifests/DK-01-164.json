@@ -12,9 +12,9 @@
   "file_4x5": "Denmark/Copenhagen/dk-01-164-4x5.png",
   "file_9x16": "Denmark/Copenhagen/dk-01-164-9x16.png",
   "master_sha256": {
-    "16x9": "56bbd37e1a43a49b034f9006a50b5ebd42a386542835cffbd89a0abc2f580a2c",
-    "4x5": "5e928f31c78e75842526cfb020e7e00b465b0acdf98de51107ae525f6858ec51",
-    "9x16": "2ec3934f05c761dc8fbef0d1dc2f0c95fe86a621d1fe62479077e0cb6acc055b"
+    "16x9": "a288321e1190055742bc4c6d10f28469dd5eaa5d20189c924a4f0554ca7b7ba3",
+    "4x5": "9eb5fc4037978408403c14f8612680aef8c97d4c805913fcc418c66deaddb8b7",
+    "9x16": "86a6d649e47594bff208d0a2f2f95845b687001d0835f70e11e7030204919138"
   },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
@@ -41,8 +41,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-164-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "9bdbb240e6df1a2f20b276c9dcd877ee2e3171b2fa959b60e70634f8150afb9c",
-      "4x5": "b72deff8b4b756b1dba4b920e8d156de7d4d503a0ac0dd29d5c6289c3e51808b"
+      "16x9": "570a300abfc325e042c5a7dd6c491377186db7b56e78f05f22d125b2d1ba40a3",
+      "4x5": "e3fa00e3aecd33d40549b4878d0bc35e05ed29c059182d178bc8c0ef227b9d93"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Trekroner Fort, Copenhagen",
@@ -73,6 +73,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1–5 pass. Gate 1: low sea fort on its island seen from the water — grass ramparts, low red-roofed buildings, small jetty, NO windmill (the invented windmill is gone; matches the card description 'no windmill'); overcast night, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Trekroner Fort, Copenhagen\", scenario 03:42 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-27T23:28:48Z unique to the second, valid 03:30, scenario 03:42 inside the 03:00–03:59 model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
   "approved_at": "2026-09-28T02:35:13.744095+00:00",
-  "sha256_16x9": "78c30fd2cbf114a1c00def3c4517db8dde9ae316173840db77e2afefa28fd41f",
-  "sha256_4x5": "3e3eba4bb0f5d865eedea482d777fc168e9f485d046c2cc4fd115f2ca5fa780b"
+  "sha256_16x9": "a288321e1190055742bc4c6d10f28469dd5eaa5d20189c924a4f0554ca7b7ba3",
+  "sha256_4x5": "9eb5fc4037978408403c14f8612680aef8c97d4c805913fcc418c66deaddb8b7"
 }

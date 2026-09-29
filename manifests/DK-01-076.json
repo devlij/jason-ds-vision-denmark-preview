@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Nuuk/dk-01-076-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "3de98794682a3a7cbeeb2679debca0d0292a3ba0b0e1b72b2eed64279cc2b8ef",
-      "4x5": "a779e088f108a9a88493a827082fcd9d2468cbb4515aec54a647fee6c27912f9"
+      "16x9": "e213d9934fa2e18caba6960494b900bf74655edfa52e0d782fa0fa2d36e4fa32",
+      "4x5": "2e47cab1a8c7ee313e082e50d05f4ff9fd78f1442e8785378a10654f5afb8aad"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Sermitsiaq, Nuuk",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: snow-capped steep Sermitsiaq peak across a dark fjord with lit colorful colonial houses in the foreground, the classic Nuuk viewpoint, clean framing, no artifacts. Gate 2: exact 1920x1080/864x1080 masters, curly-apostrophe Jason D's Vision signature bottom-right, caption 'Sermitsiaq, Nuuk' with scenario '25 September 2026 · 01:43 Europe/Copenhagen' and AI disclosure bottom-left; scenario hour inside the cited model hour 01:00-01:59; depicted overcast night with snow only high on the peak matches the note's overcast 94%/4.2C/no-town-snow evidence; Open-Meteo retrieval 23:18:52 unique to this scene repo-wide. Art.50 PNG metadata present. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, no logos, generic town houses - documented only.",
   "approved_at": "2026-09-26T03:22:14.411814+00:00",
-  "sha256_16x9": "905f39158e0c861698c5a8efe56879fd77ad6f41b03c63a6afdad72d0380d5db",
-  "sha256_4x5": "00394e60ce2b2b8c04f5739cceddb8ab60293f329ce4b51ac52b073adc153799"
+  "sha256_16x9": "8d36d6e97680c611276cd9ab564d0989bc5bb8c8e81b81d65c43974bdcafdf4b",
+  "sha256_4x5": "297a4476379a85bd8972f5a81e0da22f1f89562a50dd6ea0ecf3a3b21c206589"
 }

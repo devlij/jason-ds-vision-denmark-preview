@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Skagen/dk-01-132-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "ce38d4f9086cdde4f8e0d1db0ff07d1df52ee313c9e9c37fc3751abce6306fce",
-      "4x5": "062a0c91ec063a66f5067aa268eadd543a0b5dc9d2ff702392b2c95840778a77"
+      "16x9": "aa14fc2b0f8225857feca63d83fd00f887b07f0f3e2fa1857071af36e0b1bed7",
+      "4x5": "4bdbc18963d81ba57f691311d1b5d4a4086bf54f7e310d9d7a9136c02e5ecc34"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Skagen Old Town, Skagen",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: row of yellow houses with red tile roofs and a lit street lamp along a dark cobbled street; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Skagen Old Town, Skagen', scenario '25 September 2026 · 02:49 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:27:08 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:27:08 GMT), model-valid 02:45, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:31.194544+00:00",
-  "sha256_16x9": "ac69bed1e2c97149773b907fd480c0f471d4098a263cec2db9189d09922af53b",
-  "sha256_4x5": "0f5fb3749bfec039bb74a0df9c3213da9f6488ce49910d7920bcb43aecf0e1c2"
+  "sha256_16x9": "94ee7f8db3f0a9906f600342b75af81c5629bfec68ba103562f48b3fa275b5b7",
+  "sha256_4x5": "852ee3d0940fe789e71501ad158830230669e431dba63d0df508d021d864aee4"
 }

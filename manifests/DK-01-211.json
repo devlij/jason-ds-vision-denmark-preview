@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Ebeltoft/dk-01-211-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "398b15e3afbd0af7f9ff19701cda35ce6a69b39d2dba8e4de803b218aae5edb6",
-      "4x5": "0c4a5fb0ace67b6104be1db5441de818f0025d03e33ed58d1b2aa82ac45baea2"
+      "16x9": "8810a0c0721efcaec515b3685849ecf67bdd9cf7b1a34eeb7b76c9b2eb7c52f1",
+      "4x5": "53226ddabc1d809fd502bda10a3c07d95e5a48987c0c39a387156e4873ddb87e"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Ebeltoft Harbour, Ebeltoft",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "G1: three-masted frigate moored at night among half-timbered warehouses, lamplight reflecting on the harbour; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 05:43:22 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no readable ship name; G5: clean.",
   "approved_at": "2026-09-26T11:20:12.225124+00:00",
-  "sha256_16x9": "ba2d83b13a0beaee3af93fc5198c31e1d95a5da498661348268efc9f877b2d59",
-  "sha256_4x5": "13727a918c9f62122069e262e710d9aee54de31c18215220cb5bc99c0d5a640e"
+  "sha256_16x9": "a4a16d5660ec7e743176ffbed887548d23e5c46a5cb0b44d43fd0df20a8b0eee",
+  "sha256_4x5": "8e4169484d62ef3ba409f4e5532f8c04c85d0e6aafbbc877271c52fd3ba27508"
 }

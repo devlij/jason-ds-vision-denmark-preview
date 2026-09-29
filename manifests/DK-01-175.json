@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Havnebyen/dk-01-175-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "3e2a879e40f9dfc75632fd9d1d82db8dae58056e89941f5cd0fb6e30f8c693a5",
-      "4x5": "2625edfff9b54902819b3c90986e5c8f079b8304b5e65202e25e064fb083c128"
+      "16x9": "6bf98eee3ffe90d3533af75855dee64c830231b0b039cd19ba73681d58e8ad5e",
+      "4x5": "2e5b01338fc26a8c060ff38aca7349442fecff35c5934e83d53e60eb21b6fa18"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Odden Harbour, Havnebyen",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1-5 PASS. G1: Odden harbour, Havnebyen at night — concrete fishing mole with tetrapods, three fishing boats, low sheds, wind-ruffled dark water; no car ferry, per the card description; no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Odden Harbour, Havnebyen', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:29:11 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:27:05.677089+00:00",
-  "sha256_16x9": "593f119d26d448c7090a8d4c98a9b77a5da4c09e9a62566a88d6d1c7afe5fc7c",
-  "sha256_4x5": "e391d216031681e7ef435005a469d38eabbd537eeb0b3e9f292d354718bd7ca1"
+  "sha256_16x9": "cd5dd3a2f74c016ce0de5be93a9c945a776ac6da783b4cfbfb30c5a0d8dedadd",
+  "sha256_4x5": "557d325bebb3012e7dc795297233dfec545625145ecae8680a212255f6c681cd"
 }

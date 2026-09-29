@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Klaksvík/dk-01-075-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "729f2de6b8172eff7ad1b7e641663c71834ffe17916a6d6e83d166b7ef159c78",
-      "4x5": "2c9a96db34ed0eea0691473540e348fc7338d2d6d6a9664620b34562a2e53e28"
+      "16x9": "ae813db5c0688ced51878181ce049aaa3804a081529a711f24d798dc54d9dca3",
+      "4x5": "61335803a48da22d69f556c79c495ebb9cf1b57ed1264b9f87b0c4939dc49143"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Klaksvík Harbour, Klaksvík",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: moonlit Klaksvík harbour with fishing boats, town lights climbing the slope, dark peaks — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Klaksvík Harbour, Klaksvík', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:51 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:25:33.612059+00:00",
-  "sha256_16x9": "26e6981b2351cc6c60169873a0f36f376213be404bb4710eb5d9c7af1cfa6e93",
-  "sha256_4x5": "0ec7a51d430abcdf8ffcf271b832cba9faa199274c59577fe5c2dbcfa5d824ab"
+  "sha256_16x9": "456bb34f152c1c850f82e530578ac61e18819306f88114058d2c23e0c82dcc44",
+  "sha256_4x5": "2ae6360eb70a2094b8836206ea0a6ed02e7a969406d5099f1a1632adbe013bf8"
 }

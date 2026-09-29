@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Thisted/dk-01-135-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "9cd7ad4d2c720580864e9efdd234aa5c3c57edb0e31be7936a5b346f60d2c461",
-      "4x5": "1ff5cbf1424ab10bb5e4762e969801f5cfe1690633ff4f4e024488659f8abb5e"
+      "16x9": "350f5971421cfe557194de30e53655e5cdc11b816b2352ca0bf167378bc915bf",
+      "4x5": "0bedf853f8b530a22557bd8259e60e4b37e7862dc365005cd560ba34258ce587"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Thisted Harbour, Thisted",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: moonlit night harbour with long brick warehouse buildings along the quay, moored fishing boats and a bright full moon with reflections on the water — a plausible Thisted night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Thisted Harbour, Thisted', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature present and legible; Open-Meteo retrieval 2026-09-25 23:27:13 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or readable boat names — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:05.698917+00:00",
-  "sha256_16x9": "06b73d0189d441d32108e26cdfb4ee3657d142bd8fd6725901724ff950191ca9",
-  "sha256_4x5": "c81db6452347d761b5462da4b70396d1364dcb7da945611e7c48576d7551c3ff"
+  "sha256_16x9": "a1462d5c1951e317587a1617066befa73f98c140f376d6cc6a4f362c952ef56f",
+  "sha256_4x5": "b2b78a710a611812ed70c3a84c3b8d4947d95fdbaece11af62c2d20226a88c95"
 }

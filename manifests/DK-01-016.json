@@ -16,8 +16,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: Ilulissat Icefjord under twilight — dozens of icebergs scattered across dark water, rocky frosted shore in the foreground, starry gradient sky, clean framing. Gate 2 PASS: masters exact 1920x1080/864x1080; on-image 'Ilulissat Icefjord, Ilulissat', scenario '25 September 2026 · 00:02 Europe/Copenhagen', AI disclosure and 'Jason D's Vision' curly signature on bottom gradient, legible; weather retrieved 25 September 2026 23:08:22 Europe/Copenhagen for 69.21,-51.10 (separate request, unique repo-wide; note also cites the America/Nuuk local instant), model-valid hour 00:00–00:59 containing scenario 00:02, is_day 0. Gate 3 PASS: text-prompt-only, no photographic reference pixels per note. Gate 4 noted: no people, logos, or private property — documented only. Art. 50 chunks present.",
   "approved_at": "2026-09-25T22:27:58.649560+00:00",
-  "sha256_16x9": "a0e152e2f8fb85405ed6a88c74f1e4807cd081ad7d86975606555090fbac63c9",
-  "sha256_4x5": "02368f9388d9e70b3810a7e000cbb2a66f70f66d5dcdd59dd475d55428387afb",
+  "sha256_16x9": "ffe4da75df79a8c6b50ffd8399b8bdeaa18a66f45552bd8c701c9759d77420e0",
+  "sha256_4x5": "36b3cc8145c3bc8c9e2cf42b00effd36b70cc64a0178114532389accd84cc2e1",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-016",
     "derived_from": "Approved night master Denmark/Ilulissat/dk-01-016-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Ilulissat/dk-01-016-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "00e79384d0909556a60aa3f3fbd7bbac7cf0bf4db2b54c90618811d36b617ac3",
-      "4x5": "2e96bd1c5937a9754254d8846c93a40613904e9bb634048648213a339276680b"
+      "16x9": "0d47190405a2ba96ed3d7b6d046e78768aef9b94eb534a51f80ad7bc34bf550c",
+      "4x5": "5418d2f6b13df4d92bfdf39f1b3c11afda58b515d005e405cb231de6fda3b960"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Ilulissat Icefjord, Ilulissat",

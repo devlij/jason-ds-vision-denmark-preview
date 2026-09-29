@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Maribo/dk-01-034-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "1b14f3acf5c6e63e549a769be17d36999863b0a66561425187f2e5586ddc8a90",
-      "4x5": "735ce10611371ca37abd103e4091b8eae9ed116babefafd3f1ac904bb5c7c7f7"
+      "16x9": "2dd3d7ae6015bcbefd2cace9f143fa716cbb7f55a545735d3d028014e4ff377f",
+      "4x5": "00950611d3297203cfa025dce66208a5c878c3761dbe5663c1800080aed89004"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Knuthenborg, Maribo",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: night — stone gatehouse and iron fence in foreground, tree-lined avenue leading to a lit white manor with a tower — matches Knuthenborg estate gate view anchors. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Knuthenborg, Maribo', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:08:56 Europe/Copenhagen (HTTP Date 21:08:56 GMT), valid 00:45 step, is_day 0, partly cloudy 12.0C 65% cloud, wind 10.3 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: private estate/manor visible behind gates — documented only, no legal certification; no people/logos. Gate 5 PASS.",
   "approved_at": "2026-09-26T00:27:56.267081+00:00",
-  "sha256_16x9": "1fb3773fc861ae30825e9c2a94bc720b121ed8e2cd40c3b5d42cb081c4c76da2",
-  "sha256_4x5": "c41f4d3be308d0d430fae66d2cebc42e12d34300257c5e70750ae56c50f91aee"
+  "sha256_16x9": "65271d0e20e71f993e2baf591370a0e0b57de4e80dd6dae2ad25e878e35f803a",
+  "sha256_4x5": "ef0fbe2de6e3517023f3cd506b95068c6075f39afa2a822983da8290116714ff"
 }

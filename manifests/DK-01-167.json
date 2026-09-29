@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Roskilde/dk-01-167-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "18712f177dabae7e8eb310533aa91853a73ef930c470f73415c73cc00c8fe7b5",
-      "4x5": "74a2ebf7cfb138bba1b1f9fecafce4afd6eecddcfe9a7216dd7299e9bdfac547"
+      "16x9": "b1b5403114cb8707ce09efa6615f83cdcdb09936c8860cb9d4a517ca8796959f",
+      "4x5": "c785b2bf7a35d4f7598240ce2d9bc8f5fde33f045d74e6fe7f5bd24002581e84"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Roskilde Harbour, Roskilde",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1-5 PASS. G1: Roskilde harbour pleasure marina at night — white yachts and small motorboats on pontoons, dark fjord water, low reeds, quay lamps reflecting on the water; clean and plausible. G2: 1920x1080 + 864x1080 exact; caption 'Roskilde Harbour, Roskilde', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:28:52 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or readable names (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:28.853621+00:00",
-  "sha256_16x9": "a6afcddbc03fef40500df3879891ac6605246c33f8e660f0d50d6f6b5a3b29e1",
-  "sha256_4x5": "b4723ea36be94079f46f93203501ff203a5108886211ed5dc5a5a2a673fe3158"
+  "sha256_16x9": "90ebe9f05a2ea6e6e84b926202865a6e74035bb37f0410139b256d8831ed61da",
+  "sha256_4x5": "c8dbb3f7e3b65ebd76dc1e75f68d74ae745fbc824259670b3641df4bc5c9e9b2"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-266-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "cdc9383859a27706ff3bdc4292879011091457ac6a523d5183949051a062c368",
-      "4x5": "6b8e0b4b769694c933b03e255440df8d8f0a59c57f7e07acd633b74640b87625"
+      "16x9": "831a9e7eea8b63ef863dbf948c17feeed85e55555346b4af149f3a7d38fc005a",
+      "4x5": "93bb062451e70c11290081caa48ed4faad88ba96eb478b48b893f64ba2530f15"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Sluseholmen, Copenhagen",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows modern red-brick residential blocks along the canal with lamp reflections, a bridge and overcast sky — a plausible Sluseholmen (South Harbour) view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Sluseholmen, Copenhagen' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:46, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable signage. All five gates pass.",
   "approved_at": "2026-09-26T15:27:17.730568+00:00",
-  "sha256_16x9": "17e7a72991ca8997693da5135c21543f1fac9438f376bf9d55ec2869aaf42928",
-  "sha256_4x5": "04d8e5dc70cb4e6afc22ec93cab955a03003043b237495a538a09509c7b54073"
+  "sha256_16x9": "4584f7d4839d657d51e2b4fdf515af8b273a5dacaad7069a489130870ca81af9",
+  "sha256_4x5": "fb1bcc6fcd136f8ec3c36ddd16044cd7e85fbfecfca286e9b3cfe415c2dd9a3c"
 }

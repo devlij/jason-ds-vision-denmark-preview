@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Hillerød/dk-01-100-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "17787c90851d61c8d99dd2dd3fcc2131156da2d8bdc332d0bca271903be63c0c",
-      "4x5": "611df14f241ff6e05944d2154b957b767fdfd2b0389566d154af3f5d9b63a5cf"
+      "16x9": "f26156b85bfbdcc67d68dad1953fba90089ad7aca3de8fa916832b4443287cd9",
+      "4x5": "8db63cd3ad04f81b88158e676601d87b01c9d85420a2c29407bc32d3f13bf4b7"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Slotssøen, Hillerød",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Night view of Slotssøen in Hillerød: a lamp-lit gravel path curving between dark trees along the still lake, reflections of lamps on the water, heavy cloud above. Gate 1: plausible lakeside path viewpoint matching the caption. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Slotssøen, Hillerød', scenario '25 September 2026 · 02:16 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:19:58 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
   "approved_at": "2026-09-26T04:25:31.220154+00:00",
-  "sha256_16x9": "0c632ad5d1ce55f7b8fee47312c4e5987df9315dde119c417202e33f9c1d5fa6",
-  "sha256_4x5": "117c8c9bd83cf231a9d9bf91023b17d6146ba1d0487d25ba3fa6ec01f43ace15"
+  "sha256_16x9": "176efa62f6dc67fe45efa5943194fec610b826ffcc2d2cfd2553187dd7a0609f",
+  "sha256_4x5": "2091f547a1d97bb310bd68666fad9d248df56ced3e95a6b0a8cf13c0ea4c8a14"
 }

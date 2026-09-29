@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Nørresundby/dk-01-130-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "335c852913569f4d866a7212a2191c739889dd947b406b3f6dd75ebadf0d1dfe",
-      "4x5": "cb8c5d58103719028a5955c00395889e9c3d05a775164e3496f5c5591537328b"
+      "16x9": "a340c436de2c8ffe5f7ac5520c43825fe30daf0e38a1fe157c144c1c0d9d3864",
+      "4x5": "bcc01dfb14eb54a558515965aae5ae50188e3cf7fff94bee2a9cc037d26b6e83"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Lindholm Høje, Nørresundby",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: stone ship-settings on a grassy hill slope at night, city lights of the far shore across the fjord; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Lindholm Høje, Nørresundby', scenario '25 September 2026 · 02:49 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:27:04 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:27:04 GMT), model-valid 02:45, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:21.067601+00:00",
-  "sha256_16x9": "d310721837a6c164d1cd2d0de45f89ec8ba855d35e6dca40b43b0445629d44b5",
-  "sha256_4x5": "5c12a3e21705dd9e93d80d1836b46c65e3b92fade8cf367c1296ed6dc54c8da4"
+  "sha256_16x9": "4b62a8198edb73b2c32eb0772ba15062a847a818ea3b7c46912127a6fc461067",
+  "sha256_4x5": "b00d4f6ad37b8e0825abf93feb7651afba08bee0a1051e8d60f99a5388692312"
 }

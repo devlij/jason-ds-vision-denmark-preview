@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Nexø/dk-01-242-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "09e0ef894500bcfffad85316643eaae70e53fc35b442388c988308ac1e7de114",
-      "4x5": "f20a9e5e5bfd42718f9e555d71ef0a5dbfa03c151f19dd61df8e082068309792"
+      "16x9": "9f7f7d83768676a31523f31f2780abac0ee714c6c9b83d641a903bc26de53dcc",
+      "4x5": "bfe2ba227f2809d95364aa7aac111430bfd981c5e4dea382cf2858352ecb996b"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Nexø Harbour, Nexø",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Nexø harbour with fishing boats moored along a concrete breakwater mole, low sheds behind, dark rippled water under heavy cloud, lamps on — no beach and no dunes, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Nexø Harbour, Nexø', scenario '25 September 2026 · 06:35 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:32:57 for this scene's own coords, scenario after the 06:30 model step inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable boat names. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:26:00.880915+00:00",
-  "sha256_16x9": "f18503a661108665a0234c976f64ead353e4639186f07d79ccb8dd453736a07d",
-  "sha256_4x5": "2031733abec4d8fc889fb058f1e7cc7328e7c15da567d8857f216daa396739f6"
+  "sha256_16x9": "c4892c49b55802a467f3183ee0dd4c73c02aa93550000e8a7f4e9f2828a38c73",
+  "sha256_4x5": "d08e6c0e104e5749f67a679098c846f5d235cbfc93269736436e39e8533a46b7"
 }

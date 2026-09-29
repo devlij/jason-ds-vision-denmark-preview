@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Lønstrup/dk-01-233-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "93fe8094855ccea53db4c911b751d4e3e55ede668f55f21ae425211081917d72",
-      "4x5": "5fe7dd721fffd7960129dd216ba0df53000986c37adbe4da17085b01d4de1d7b"
+      "16x9": "8747c16a95dbb09f6224f10770ee2ce41cb46d68cbfbd5cc64c36ac676efdbb3",
+      "4x5": "fb2046192947bc1c50cca479ff5c57533007bec441c3efbea6ca19fa899efe98"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Lønstrup Beach, Lønstrup",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: steep grass-and-clay cliff with a row of houses along its crest, two small fishing boats hauled onto the dark sand, dark choppy sea — no lighthouse and no standing church, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Lønstrup Beach, Lønstrup', scenario '25 September 2026 · 06:22 Europe/Copenhagen', 'Jason D's Vision' signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:10:23 for this scene's own coords, scenario inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable names. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:23:20.588291+00:00",
-  "sha256_16x9": "3bb053b04ca263237234be1e310198651a7ef1d23f0c92825b1a6fe1633062ca",
-  "sha256_4x5": "78eb2cf1c727299487f246dcd91bd38a02192c27d27e7ec84f30079be2429141"
+  "sha256_16x9": "ec240da286d61536d11b7f84713c4f38be5c78e48074a1611302e5395144c986",
+  "sha256_4x5": "069487696b738b758980cd66e7b0b154c2d3d84ef22b050f5775adc4664505d1"
 }

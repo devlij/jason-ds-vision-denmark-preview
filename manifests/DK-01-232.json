@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Blokhus/dk-01-232-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "08c361cd9ce173456535c1575b109adea9cec3e4c84c2a17b607df3ad4758ab7",
-      "4x5": "4fb6fedcdeeea7a53239cc8d92b182c05c03b9e8a3a95879ad039266974c771f"
+      "16x9": "73371f6064983d529c62411c9eaa7be4f111fe31f7f3b70415c048629f3be38d",
+      "4x5": "5f0d0b4327d18d4ce59ccdfc7fc7f92f6fff98d75adfed50e1005b97db7d98ec"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Blokhus Beach, Blokhus",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: night beach scene matches the anchors — wide empty sand, marram-grass dune ridge sweeping left, dark choppy surf under broken cloud, no pier and no umbrellas. Gate 2: 1920x1080 and 864x1080 verified mechanically; on-image caption 'Blokhus Beach, Blokhus', scenario '25 September 2026 · 06:22 Europe/Copenhagen', 'Jason D's Vision' signature and AI-disclosure all legible; weather retrieved 25 Sep 2026 06:10:22 for this scene's own coords, scenario minute inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable private signage — empty shore. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:23:02.710932+00:00",
-  "sha256_16x9": "35fec626a489eb1f54e281f7ccf80d48998396d9282ca772163232a40e2f896c",
-  "sha256_4x5": "9968a07c38ecadc1fe00952958c6f972d9983810a8eb99a5b7a2ecd5d2e99d25"
+  "sha256_16x9": "bba2d372abaaf0090e528d7d1c1c50102cfba5825f6a0f6dec0fc2ddb9f58ebd",
+  "sha256_4x5": "5d0a47fca62f081df475dc38dea47fa779b42d1407a5e66b97f8e08ed2a29d4b"
 }

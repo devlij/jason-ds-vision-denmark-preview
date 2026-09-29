@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Næstved/dk-01-089-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "0ea48677103c0b59ff76e344d5882c4471a2f0bcd37de23f84a6c5f1aec5ba10",
-      "4x5": "1e31a55cd86dfe03194ee817156e6a1a43598112dc629518d2bb441e27c37d82"
+      "16x9": "ad7f512d703f5e24cfbac890bc7b5fce4e6bc16baa3cdeb17c32f4911f958748",
+      "4x5": "e9d6c5bbf5c3e67380c813390fbd2684952e366ac535504afbd660d87ed982a8"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Næstved Old Town, Næstved",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: red-brick gothic church with tall tower and lit lancet windows on a night street lined with lamps and half-timbered houses - Næstved old town read, clean framing. Gate 2: exact masters; signature/caption 'Næstved Old Town, Næstved'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 100% cloud/13.9C; retrieval 23:19:05 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only per note. Gate 4: no people, no logos; generic old-town buildings - documented only.",
   "approved_at": "2026-09-26T03:23:19.745824+00:00",
-  "sha256_16x9": "413460868be7d727a5100695517022e8b454d87ac38e2aa3c697cc2b19f72764",
-  "sha256_4x5": "8f8e6f5b6c261abe3372e23d320818861da1ff0f5876761c509c19f1093ed91d"
+  "sha256_16x9": "30021a57d1fa9e28989f991b777e2de250f8d3695f20ea4491a3eb9eb12bf62b",
+  "sha256_4x5": "3a7e39e87c121d6e20bb118fab46484f3963ec79584e6e854dc16540cec9e1f2"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Nanortalik/dk-01-253-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "3840e640f05cbc1f87ab142353aefb281315b4d79bce5b8fd3e1f2ebac658c81",
-      "4x5": "b0c7b4abbc25add8a3c4d0f3392f5ada8a318d29a7f28676d0d1ddff0c8ba00a"
+      "16x9": "b544728da120b085a7fee3267713105cff57dcf6dc0bf7587d56f96fb027d373",
+      "4x5": "a4d68f2d3278bbef7fc661526793395e05585bcec4ee999bcdab593d3316453a"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Nanortalik Harbour, Nanortalik",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Nanortalik harbour — colourful houses scattered over a rocky islet with boats at twin jetties, dark mountains behind, night sky. Gate 2: 1920x1080 + 864x1080 exact, caption 'Nanortalik Harbour, Nanortalik', scenario '25 September 2026 · 06:39 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:06 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:58.271904+00:00",
-  "sha256_16x9": "1109161929997c6f7468e5ec1e941783c8da8a1661276e17c7e4e8d1926af70c",
-  "sha256_4x5": "cf7e2809f8c92b04fa887e670fb4ae06521e044adf413fa4f292cb2ac01a9c44"
+  "sha256_16x9": "b63398abd7b69e7e1e771bf7618037d22e0a1f347aef32a3a3d624ee84045f86",
+  "sha256_4x5": "96aa55c395dd238382928654ac50ee23733f74f4c4f1cb10741f23cbd3a8833f"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Horsens/dk-01-121-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "0c4adfc0422c387ed3c7f3961ba20c266434c5e01a4aa263600a35eea4445bc9",
-      "4x5": "4f65367c7fcba2db2f9f2987cdfcdd5ed51eaaadfcdb3316cb066e1184da70e3"
+      "16x9": "03b817322e7b2cff677c3d679249a7766481e38616c4d15dd02c5a83ebb71d06",
+      "4x5": "8884c8fba9921160e37509ca2c754fc074ff0a0ba05dad2dd341fb93f5f3fa61"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Vor Frelsers Kirke, Horsens",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: tall baroque brick church tower with spire above a cobbled square ringed by lit townhouses at night; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Vor Frelsers Kirke, Horsens', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:51 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:51 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:24:37.440702+00:00",
-  "sha256_16x9": "ffcf33599654b6e46728d0699283bdc4f5a5b503b47e04fd78b125dd2ef01ef7",
-  "sha256_4x5": "fe5fa7079520e44f67f6e0f902f5d2d9ec2cf20c74fc6fb2e3d58d9e2f4151b5"
+  "sha256_16x9": "008733a8a7c7a0946243f0cc25b867b15ed42aa80afaa178506299afc7823656",
+  "sha256_4x5": "a4cc3d4424c79ebba3f1a2bd74147f7d1391df11b8a216ed1a26aac8f1e6fb14"
 }

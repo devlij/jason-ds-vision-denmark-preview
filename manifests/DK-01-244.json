@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Rø/dk-01-244-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "d340858423b72c7b820372a50f985b49eb64e7237013fc5ad4bbe6cb515f4096",
-      "4x5": "434f9681f27ad93221a0b7c0d4ed8435461f5058ebc0ae69e304b4770ccd9234"
+      "16x9": "ec9c5690c91dae0aa0cab9a79533f2e1c489c7f026f03c13bdf37f513cf58a0b",
+      "4x5": "294068e7686157abdc77cda949ffb105f22760ee9ef367fdafd964a43b902420"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Helligdomsklipperne, Rø",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: granite sea cliffs at Helligdomsklipperne with a dark sea-cave mouth at the waterline, moss-streaked rock faces, slate-grey water, storm-broken dawn cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Helligdomsklipperne, Rø', scenario '25 September 2026 · 06:33 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:31:58 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:18.248333+00:00",
-  "sha256_16x9": "81f70e292aafbc441a56bd739b385191b36b4c1384918e81492c2a00aedf397b",
-  "sha256_4x5": "f73e59c85ef56b4be8d8c0f57f614bd2cf4de6701831669c0e1b1a15e0e9a316"
+  "sha256_16x9": "102ee5ea5657f967afc2b64751010e6362d929015ebdeb7743b9aa7985d43ca2",
+  "sha256_4x5": "b7953bfbe31c2251551150e5b591fabe2de45d7b73b0c85af95ef2f9b2ecd002"
 }

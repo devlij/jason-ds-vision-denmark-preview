@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Haderslev/dk-01-046-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "e3ea36ca8bd2f3655bb7a8cce0e9b9aa05b39239364ac5a92c0f0710853e938b",
-      "4x5": "46680c02d145c3b71ab7a42b76ce2bd4b6617ec09c12fd9e56ea43896c0899a6"
+      "16x9": "368ef3699134e1e23de2e72f97d6df25b800f2193d13f80992a28b521b51a8e3",
+      "4x5": "620256e1cb1824a18ff4eb6cede89fbdf6c2234443932fe46a48bd4d06a30335"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Haderslev Cathedral, Haderslev",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Haderslev Cathedral at night: brick Gothic nave with tall lancet windows, stone buttresses and a lit apse, viewed across the dark plaza; on-image caption 'Haderslev Cathedral, Haderslev' with scenario 25 September 2026 00:56 Europe/Copenhagen, curly-apostrophe 'Jason D’s Vision' signature and AI disclosure verified on-image; weather retrieved 2026-09-25T23:09:20 Europe/Copenhagen (unique to this scene), valid from 00:45, scenario 00:56 inside the model hour; text-prompt-only provenance, no photographic inputs; no logos or featured marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:01.217261+00:00",
-  "sha256_16x9": "05bc4b50b841e4ad9f01b6fc976536e3b3980f06c0e2fd95250957530e40ce07",
-  "sha256_4x5": "ed9bd9ee82f070c6eb3bc63743b4b7412b3cabe204374f366f50692eee794368"
+  "sha256_16x9": "e3b216953c289b74bfee9ed24137ff54c7e08eab29f79ea6e23a509e7ed414ff",
+  "sha256_4x5": "4e4b01fd56a24384f1a5ad569874f048149a7556add4d9dc0d9c0acd0a98518d"
 }

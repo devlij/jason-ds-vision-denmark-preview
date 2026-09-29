@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Rebild/dk-01-131-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "1e91257e5095f43fdf3cb783428d52597fd9af95cde1e5ac47fbde247ffaf278",
-      "4x5": "ccc140e046e2d5d19650dbc37f3a93ac3f723c4cbd2ca9c4e452d6b3577bcf3f"
+      "16x9": "7e63c58aa9e78ae7bd17f1ccafd1f9462d2756e60ee28c224e55148542c35b7c",
+      "4x5": "b9661094ded10cbe239d3363f1988e91b99fd03914d171d0a0befca2aa45fe46"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Rebild Bakker, Rebild",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: rolling heather-covered hills under moonlit clouds with a dark forest ridge on the horizon; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Rebild Bakker, Rebild', scenario '25 September 2026 · 02:49 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:27:06 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:27:06 GMT), model-valid 02:45, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:25.966458+00:00",
-  "sha256_16x9": "e3ed0801e7dd03244f78f1e6f595e110a7b8d3aa060404b93b54af43556c689a",
-  "sha256_4x5": "ea7cd510c678e119fc2b2fae79c138513cad83b54d28ca6c23523e028b5011c6"
+  "sha256_16x9": "d56ae7872e09abf28fab86eb4df62ebfaafd7a6144a40a28b575e8d091ff19cb",
+  "sha256_4x5": "d673a52998a0f0dd4612877f7f0828e0952f0ae2463af9a2478c3157c9480664"
 }

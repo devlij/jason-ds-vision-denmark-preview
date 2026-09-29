@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Skælskør/dk-01-191-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "9459ed596ac60e61fb2b146776a07c4295415d5e261230a94bd2b5889a0b6a3c",
-      "4x5": "5d7c1db602dec9e61de3e9a384c7ba520a470394482f4e3265b6f9b9ea96b774"
+      "16x9": "80314df135adec5b669dd9f9e1db454bcceecce2e2ebcf371da7563ebba066bb",
+      "4x5": "7c150e52220fa0fa1e5baabb582b9454b4012e5c8550fae287fe3fb58d21f922"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Skælskør Harbour, Skælskør",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "G1: night canal with moored boats, gabled harbour houses and a brick warehouse with lit windows and lamp reflections; G2: exact dims, on-image strings verified, scenario 04:08 inside 04:00-04:59, retrieved 25 September 2026 23:30:25 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no readable boat names, no logos; G5: clean.",
   "approved_at": "2026-09-26T11:19:54.010043+00:00",
-  "sha256_16x9": "85e12089eb56cd385b242b10f012ed70d270438caa56525f75e5c490c9b4dc3f",
-  "sha256_4x5": "387418b01a6a4a83350df9d49dbd9f4b979071460ef4c0edeaf1a5695b24edd2"
+  "sha256_16x9": "566edd980326e2e47c9d533f559b8736d067bdd77b710f9b929b043a9324366b",
+  "sha256_4x5": "01a66ec80c8c25787e11ed746272b4d115415f4b1e5925a6c982cf98d4300d93"
 }

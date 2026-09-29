@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Klampenborg/dk-01-150-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "0e71b98ab078f4ae49abb6033c32d4d6a9fbb8f14292ea78406f4e94b052df4f",
-      "4x5": "f154766f382a7cce1b1dc311d3d0dd818db74eea9ae0c77dcf960e0d7d671679"
+      "16x9": "6b85aea9e9c4829580b62f9db9b918d02d06a217e217cb7813adf4595ec3e5a7",
+      "4x5": "3feaa16b36f6bd5f46b0f3eed8826fc9e783f7d803254594f8886903e32b1e31"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Bellevue Beach, Klampenborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Bellevue Beach's blue-and-white striped lifeguard towers on poles at the waterline, the small white beach kiosk, empty sand and overcast night water — the Arne Jacobsen signature structures are unmistakable, plausible shoreline viewpoint, no artifacts. Gate 2: on-image caption 'Bellevue Beach, Klampenborg', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:38 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique to this scene repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:32:45.635034+00:00",
-  "sha256_16x9": "792cf8f896d21900e9fe67a9c409a1ca5cb7f9577ad76310ab41b57c808a0a01",
-  "sha256_4x5": "378f209867e39c09c9921741c2cb2fb9419e8bf467d8ef91774540175c1410d0"
+  "sha256_16x9": "fa64b7b208134cf3286c6302d1625710000fefa515ac7fbbcf9601ccf572912a",
+  "sha256_4x5": "a49d69469aa76cbe04583fa619abda7bce41aea33acd289529dccf5dfd00b9bb"
 }

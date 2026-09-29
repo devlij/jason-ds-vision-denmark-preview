@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-149-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "61f7251a0db54ea3fa069cc5615c242eb06d15bb127ff23e77e172152baac4ea",
-      "4x5": "05c5872688008d0bd88831f8c20e6160976d7f2bbaa49e314f82bec45bb8c013"
+      "16x9": "70c26531b153ac61d1b3f0e7b965687a903674264c982380fb33d3be44a0f8a2",
+      "4x5": "c906cd71e1356669acc8dbaab8c77fa0f8e424c240c236f580c21cf0ed66f62a"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Øresund Bridge, Copenhagen",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: the cable-stayed Oresund Bridge with two floodlit pylons spanning dark water, viewed from a sandy beach with dune grass in the foreground — the Danish-end classic viewpoint, clean framing, no artifacts. Gate 2: on-image caption 'Oresund Bridge, Copenhagen', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature all exact and legible; masters verified 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:36 Europe/Copenhagen, model-valid hour 03:00-03:59, scenario 03:09 inside it, retrieval cited by no other scene repo-wide (43 batch notes + per-entry notes checked). Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:32:38.276405+00:00",
-  "sha256_16x9": "4d0128e131bd007fa2f4b43ef81ef42c2df4f48cb3a2db3aa1405de4952219c2",
-  "sha256_4x5": "69efcd61428ea126fa6e57a1531bc64f54e38a28a79ee34fc1e66171aae9dfd3"
+  "sha256_16x9": "c994743621f6fb0aa2522f5d256a8ef09cdf06e984abdabbf21b348878745f59",
+  "sha256_4x5": "275f17d06508687ec722a7433dcf865461c86af7dbfce46de861c0896b249344"
 }

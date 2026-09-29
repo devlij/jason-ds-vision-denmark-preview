@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Silkeborg/dk-01-050-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "34b6c84431ad5676f309b1b5c9421facbe240a7deed754e30d37c5fc499a1244",
-      "4x5": "61238ba8be3e75002a1c17a2fd17061e9dfc4b2ba7473a27490cf682b41a70dc"
+      "16x9": "d395be8bcd73a7579ac8a886433c06a78e58c81292340ebe61f94afc89c0c36a",
+      "4x5": "6b3b632b62f55d5debd706fa50b01e4c3cbf3536e629dfb40b1b5ba36e7b8775"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Hjejlen, Silkeborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Hjejlen paddle steamer at night: the white side-wheel steamer moored at a wooden pier on still water, lakeside houses with lamps behind; on-image caption 'Hjejlen, Silkeborg', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:26 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no readable boat name or marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:21.823999+00:00",
-  "sha256_16x9": "575250fcb992930d0c67500776895fd7eb6d77b752e1fb281555ea84b9b0c34f",
-  "sha256_4x5": "7a2703a57d2ea0972d58faf9af17cc1e713865c0c2d32878984f4ec3586bac7c"
+  "sha256_16x9": "80b8d87f4c90065c2f5674a0ca4b6b65f9d6e4465911f5bae3c31da714a98341",
+  "sha256_4x5": "19883a6f02ad21c10deeb68679a0acef1a50337b0e55304128fe2e7c4cae70bb"
 }

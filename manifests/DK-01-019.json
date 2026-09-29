@@ -16,8 +16,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: Christiansborg Palace at night from across the canal — lit palace facade with the tall spire tower centered, lamp reflections on the water, Marmorbroen context, clean framing. Gate 2 PASS: masters exact 1920x1080/864x1080; on-image 'Christiansborg Palace, Copenhagen', scenario '25 September 2026 · 00:30 Europe/Copenhagen', AI disclosure and 'Jason D's Vision' curly signature on bottom gradient, legible; weather retrieved 25 September 2026 23:08:27 Europe/Copenhagen for 55.6763,12.5794 (separate request, unique repo-wide), model-valid hour 00:00–00:59 and 00:30 model step containing scenario 00:30, is_day 0. Gate 3 PASS: text-prompt-only, no photographic reference pixels per note. Gate 4 noted: no people or logos — documented only. Art. 50 chunks present.",
   "approved_at": "2026-09-25T22:28:53.752557+00:00",
-  "sha256_16x9": "796828935fe085c47d8e33e2284e8ae98a58ab312fbd5e0462b2ada4817c12a3",
-  "sha256_4x5": "5dbe42270e41ed6487980b9bd418385a1c53eebf5836c0e09a06bb9cdaa66178",
+  "sha256_16x9": "8e53da998f26d850cd10df4c87ea168a6f582b4f84c4d565f90568da29d189cf",
+  "sha256_4x5": "a7b8d07b137feb86b5493fb994dc877c6bd47a47a4137739964930dcb30e6a0b",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-019",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-019-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-019-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "40565b29cbdd9344d6db18cb0ec4fc9a187810c98e273f048f6654e583511f4c",
-      "4x5": "7eb6a0c53c815667838fc9b74b3e950e85b738307e43c81c790169e94e4f86ba"
+      "16x9": "fa0c7ef2ee9c967c069e7ec7526b868e1b21ffa3b550e9e40b69fd3f77ce89f4",
+      "4x5": "deb7dc914ddc96ed48f2075c2b898484747d0107a1151b58afc4b17d99634882"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Christiansborg Palace, Copenhagen",

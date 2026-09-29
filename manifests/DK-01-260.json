@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Hundested/dk-01-260-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "efc538725993b9651be873b84bd68f95fd91447976bd7405c15917682d3d6721",
-      "4x5": "2077f49ab2851404ddb07915e43cca488a9858c453e4af40c21e66a576315159"
+      "16x9": "b6d2c1ecaebce36adc5428b3810fcd6245702c700e6cb3aa89316e6a67e2463c",
+      "4x5": "2f3ad2a8574e0eae4ac315618e2c637bdbcfb6486f4defd838bf8b7a55403c67"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Hundested Harbour, Hundested",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows fishing cutters moored beside red harbour sheds and stone breakwaters, with dawn light breaking over a choppy Kattegat — a plausible Hundested harbour view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Hundested Harbour, Hundested' and scenario '25 September 2026 · 06:56 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:35, confirmed unique repo-wide across all 365 notes, and 06:56 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable boat names or logos. All five gates pass.",
   "approved_at": "2026-09-26T15:26:50.084026+00:00",
-  "sha256_16x9": "0df3c1b5f8feb1c4f77c791f886b89068e991549daf0ea07b9fea565b93ccc12",
-  "sha256_4x5": "19b71e0dcc5a02a740fb3f4168ac05176ab7ef3addf9c288ab95f15c9400fbd6"
+  "sha256_16x9": "8b462afc560666c0812f95e8a4353661e90ffde7bbca7734cc9e9a6c15ddc7e6",
+  "sha256_4x5": "0ac341c05ca406a3bff5542377d1ae4cd0f5723de8312859aff9dbfcb08299d8"
 }

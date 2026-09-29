@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Nuuk/dk-01-252-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "8d6cda3ec896c822104b9de163103754fc3dd21b24b41048fc07d79934d49eb3",
-      "4x5": "8b5d0c81c5b873f65c3a323eb8fb5df9a72a2bb6b933bbeb78c016fc19073885"
+      "16x9": "d29f92e8a4cf21d084244f6d76e8eb9265a3743038d78c74ab997c3a87d76645",
+      "4x5": "4f96ce4ffe15dce07460acd5ec8d8d01d758fef459c5013d4500433fc54bcf62"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Nuuk Cathedral, Nuuk",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Nuuk Cathedral — red wooden church with white trim and tall spire — among lit houses under a full moon. Gate 2: 1920x1080 + 864x1080 exact, caption 'Nuuk Cathedral, Nuuk', scenario '25 September 2026 · 06:39 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:05 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:53.803550+00:00",
-  "sha256_16x9": "cc56bf1377e2a19869c4a87f585cb3956cef233d320cabf651e0ee3eb88715ad",
-  "sha256_4x5": "25215d6bc3b93831ce00e4be11a1ca640081ef7973ae5204c2c09351ebafed2d"
+  "sha256_16x9": "8bb64e8dc9f3bceb5b0408cdc0676b3598daea8254056eee86a70494a7e23e6b",
+  "sha256_4x5": "1f78edf6db8bc972d5a0c4919a28f1fd1cb1d651e77bef99b4557271d608e0d2"
 }

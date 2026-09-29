@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Rødbyhavn/dk-01-180-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "0371867cba5066077342bd93aa4f9af5ea32a1bc954dfe8f7974370ba4e5c855",
-      "4x5": "0cd455b91886bb0f2a664469a00863cb4235c2293c118349c47ecdddfce1fb0c"
+      "16x9": "e3c9c09e8b7d47a714d66c7ef59982260205055fbc57bf05dc63f3386e35c823",
+      "4x5": "fc5ef6ee16e07320b7b7c81be3acfa22cfc2ab9569e42bcf924e8689d17ab59a"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Rødbyhavn Harbour, Rødbyhavn",
@@ -46,6 +46,6 @@
   "qc_status": "Approved - Cosmo QC 5/5 - Night",
   "approval_basis": "Gate 1: ferry-port harbour at night — long concrete breakwater with angular concrete blocks, lamp posts, low warehouse buildings, choppy sea, overcast night sky — clean framing, no artifacts, plausible harbour-side viewpoint. Gate 2: masters exact 1920x1080/864x1080; caption 'Rodbyhavn Harbour, Rodbyhavn', scenario '25 September 2026 - 04:07 Europe/Copenhagen', and 'AI-generated artistic interpretation - Not a photograph.' disclosure bottom-left, 'Jason D's Vision' signature bottom-right, legible; scenario 04:07 inside model-valid hour 04:00-04:59; Open-Meteo retrieval 25 September 2026 23:29:27 Europe/Copenhagen per the builder note, verified unique across all 365 Denmark notes. Gate 3: text-prompt-only, no photographic inputs reported. Gate 4: no identifiable people, logos, or readable signs — documented only. Gate 5: ready.",
   "approved_at": "2026-09-26T10:23:27.611839+00:00",
-  "sha256_16x9": "8da7762ea9a30bc0cee9eefbcf299c54d88c687619fd77de75d0e0cab29bcc6c",
-  "sha256_4x5": "acd847551a1f7873513456caa07a61ffff30a5b407227033633308bb8bdb1938"
+  "sha256_16x9": "2ebdf167770e4a2f652fed64aea3c9d76087baf7bd9f27c1f987cf996c5d70e2",
+  "sha256_4x5": "fedc890d27fae69a66bc230a1a08ec2e17917b672d3ff09489929e32fd13f601"
 }

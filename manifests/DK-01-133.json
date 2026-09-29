@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Kandestederne/dk-01-133-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "5e08e352abedd837ef2531b73b8117a6fb88f3bb298113dc5b6e40532a98d6c2",
-      "4x5": "90855e0cd73bc33c3c4a14bbde7eb2207c80a0fe0ec4059ebb1254da49e5fd9f"
+      "16x9": "2f387cb2a10b6de77ba267a08fcf28a57d0c933b5d6b2a469e76ae2a353d4cf8",
+      "4x5": "2b434bf8c7406d34a24c56d57462e862c76af7f51551e98e67715a0566d07004"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Råbjerg Mile, Kandestederne",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: vast wind-rippled sand dune under heavy overcast night sky, marram grass at the edges, no buildings; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Råbjerg Mile, Kandestederne', scenario '25 September 2026 · 02:50 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:27:09 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:27:09 GMT), model-valid 02:45, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:36.039269+00:00",
-  "sha256_16x9": "2cd54d30eb7e944441d895392a621b7a18bb1bba66f7ccff3626b91b4fabb846",
-  "sha256_4x5": "3d4b4aff13c741cbcaf498bac02e1f9bf8be26b456486fcf7b2f9b311a075d82"
+  "sha256_16x9": "098e11b96c9bed8a90da124544a94cd26de610fcb9f97bbb6a709bfa1bf1b4ab",
+  "sha256_4x5": "005592ddf3f46c0c963a5ba70e8b7d9b900d92900ec06f768fa890d365bee64b"
 }

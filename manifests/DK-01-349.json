@@ -16,6 +16,6 @@
   "qc_status": "Approved",
   "approval_basis": "Gate 1: dune path with marram grass along the coast, plausible Skagen Odde; caption and scenario verified on-image. Gate 2: exact 1920x1080/864x1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 25 September 2026 15:25:11 Europe/Copenhagen, model-valid 15:00-15:59, scenario 15:29 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per build-agent notes. Gate 4: commercial/IP noted, Jason's final call. Gate 5: two-format card, both downloads, lightbox-ready.",
   "approved_at": "2026-09-25T15:44:27.664816+00:00",
-  "sha256_16x9": "7d06735686f306e826e04c10fe61ee7c06dca1f9a8ab57aeb44bf24d430cbb3f",
-  "sha256_4x5": "db1452d6ad9fa5220a2bc4fc27a4c035b0a357f19c4f4a0d569c4c8e872c9a14"
+  "sha256_16x9": "965290943abffdaa17a80fed49853158b8345915c24babc26637a3d38be834d1",
+  "sha256_4x5": "546f7a949c2a580697224a05fba21c4f404bb731e7447511273cb7981636afbb"
 }

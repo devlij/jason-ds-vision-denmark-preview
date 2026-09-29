@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Løkken/dk-01-060-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b68c7a3cf5459c44c90103018946dd53386420698a0d64a50cad0fdfb445b392",
-      "4x5": "ad6547ab3567d387d23fc58cc3a10455187707e5ddb7015406f8dfc19f9c4f1c"
+      "16x9": "94c666a49b36a697b2e0d024f69d0001e00ebb13eee2bdfc6e8cf9d2a631da0c",
+      "4x5": "87c8301f3c97a910e31b0acd63d4c30241037640af8f25b9ab27c53b77ee1b79"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Løkken Beach, Løkken",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Løkken Beach at night: sandy shore with surf, the long lit pier reaching into the dark sea, dune lights in the distance; on-image caption 'Løkken Beach, Løkken', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:36 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no beach-club marks; all five gates pass.",
   "approved_at": "2026-09-26T01:22:14.786488+00:00",
-  "sha256_16x9": "05d236f9ef00136baae877beebb7df89812c7dd8cf8ac6e4cfa9ebef74cfb670",
-  "sha256_4x5": "e8bc106b49705e7a40daa0609d571f88540edcf62e380444620f6131f8bfa3e2"
+  "sha256_16x9": "e3f8b14d31bd9342c1c8940774ad5fd8282ce9ddd6131dcdc8837664f73c2085",
+  "sha256_4x5": "991fc9798b6429d52c485e85dcf049eed7528e3da8a7850a4cdade3d0745a61b"
 }

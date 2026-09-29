@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Kalundborg/dk-01-170-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "76ed80061cbefb5ce095680534f36948e252057e426add005b96f4b99be7738a",
-      "4x5": "68e3b16b1f653111c5ab734890506a0c2ed3aa236a002341ce070f79b17588ee"
+      "16x9": "885014fed1aff55be597f79958298e3b16260499b491fd904ad2dbfae3e9d2a9",
+      "4x5": "04a1b1e961b838b0fe0fd4e3aca1a093a8a3a8aa7cd39b9c9f29f4026753cbe9"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Kalundborg Harbour, Kalundborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1-5 PASS. G1: Kalundborg harbour marina basin at night — ordinary sailboats along piers, concrete piers, dark water with a little chop, lit sheds behind; five-tower church correctly absent from the frame per the card description; no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Kalundborg Harbour, Kalundborg', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:28:56 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:43.060451+00:00",
-  "sha256_16x9": "67ae389d6e35ad0cb9de78b79b7136c16145072117e81776175a7be1b92822c0",
-  "sha256_4x5": "36a151b8f468392a98e61438dc69961d618c8e35f230579ea2fc8596a0437aef"
+  "sha256_16x9": "151e601831afdd1838bdc72f5e53eab8fc82b0fb8eee7c9a64fa05e61ad7971b",
+  "sha256_4x5": "70e2465efc20fd0ba9b5456161626862bae8dd09b632332f260c4fa3895ec24a"
 }

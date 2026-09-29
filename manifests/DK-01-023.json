@@ -16,8 +16,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Opera House at night seen from the water: the building's signature sweeping wedge roof canopy overhangs a tall glass facade glowing warm from within, interior light columns reflected in the dark harbour; on-image caption 'Opera House, Copenhagen' with scenario '25 September 2026 · 00:32 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:35 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public cultural building; notes-only.",
   "approved_at": "2026-09-25T23:23:54.415794+00:00",
-  "sha256_16x9": "d4fe3a35dbbcfc7ffcd896e682b942270f07d54eefbe1df557794db28768e11c",
-  "sha256_4x5": "9fea86edceb5aecacf4f4ab66b7ea2bda2d68c13ff5004e2c3e14b403f8ca0b3",
+  "sha256_16x9": "9d6fa5ab58088c41c0b0f9b1d8c2417fa5ec2c498bc894f2d7dee6b2bec1ef3d",
+  "sha256_4x5": "ab9c191da01c1060772ce6652bad870cb2c258fc1bde2e0abe4e162abbc53b5f",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-023",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-023-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-023-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "89c7528fd0372b3f7bd47f99655fdfa4988ad2b289ef0602a76ea284483b3303",
-      "4x5": "d36c4264567a55250430641f14ac9a2cf2dcc86edde037e0f68cb7508d1816bf"
+      "16x9": "1f5365cd8cef0264fa728c7bda4c3a02ae339411a6be8bc1b73999924047aaa1",
+      "4x5": "0a23ae2bdff7f81153e142f2a65a71eeaa8eed32e57652ce073f727fd0fbbe16"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Opera House, Copenhagen",

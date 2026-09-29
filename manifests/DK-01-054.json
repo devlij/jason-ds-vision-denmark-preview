@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Randers/dk-01-054-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "3f2932492508d061667129161311d770be13445bd12c0c1db60219a88fdd9196",
-      "4x5": "cfe05421e61e9ec20c9e7f4702cd22f38661f3cf590201d7d310c8d8fbd332b8"
+      "16x9": "e28ac6cc01f984fc775a780379b94bf0d14e4bb06bc33a1edaf9efacc7c93771",
+      "4x5": "29b58ad55fe6314d4e52c87a2ce15ae021d6f46251d2ace16c794018655354d2"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Randers Riverfront, Randers",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Randers Riverfront at night: a long row of half-timbered gabled houses along the quay, warm windows and street lamps reflected in the river; on-image caption 'Randers Riverfront, Randers', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:30 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no readable shop names; all five gates pass.",
   "approved_at": "2026-09-26T01:21:42.367602+00:00",
-  "sha256_16x9": "f5b528b252d9d94fdb1e3728c3a3a18e6464f2239ddd3f7a7047ac87c63b361e",
-  "sha256_4x5": "dfbb1abb9b30b1702dafe11174b6669e761412a9a59cd1f32dcd39460c36a87f"
+  "sha256_16x9": "4be5efbdcbe7696edc2c90b8f85c922b4874756f10ee7182dae1aaf1fb36b782",
+  "sha256_4x5": "f084f9662fd08875d6826dc8bb9d7d3a58016dbe1ecb6aa791831ece862d37b1"
 }

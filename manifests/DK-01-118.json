@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Martofte/dk-01-118-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "d7502ec1887e2b72413dec3fb4df8e4bcd6ac7e292e48c7f1aca8221b87e62d3",
-      "4x5": "14cc03b860fc41fc52dee0d56a0a73b3956869b3eeeef7423330361312ba51be"
+      "16x9": "ef44f9555b04153877e6ccef2b76ece6feeab02a5032fda5ab5af412bfe17818",
+      "4x5": "5c99cbbbc74ff716969127eac95068bad732ab1d5ad5091d6101ec3be4868cd7"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Fyns Hoved, Martofte",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: narrow grassy headland/spit running from foreground to a dark horizon point, rocky shores on both flanks, black sea both sides, faint light source at the headland's tip, heavy cloud cover — consistent with Fyns Hoved's real narrow-headland geography, plausible coastal viewpoint, clean framing, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Fyns Hoved, Martofte', scenario 'Scenario: 25 September 2026 · 02:34 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:34 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:26:46 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: pure landscape; no people, logos, signs, or property. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:29:36.921528+00:00",
-  "sha256_16x9": "a47c42e22fc1f16ed54e93a79cbbbd61266d0e29cd1212924b646603cdc91eaa",
-  "sha256_4x5": "dd52990a8d752931c178536a8e33d35fe7bd01a8b00027d8410e39e248901df7"
+  "sha256_16x9": "8c3a6d9e1eab133c5d1ab9b4652fc3dbc1da282931394d53e6f53dbd0b06e648",
+  "sha256_4x5": "d6afe1cbc45eeafe6e638d5d4080af190c142414391650de26093154ba41d492"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Køge/dk-01-171-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "355ef74d4e07bc13fb4365d4d54ae56c1ff5a281e986d5fa6472ab5951782840",
-      "4x5": "559ab366c74ab16568b3a8b8070a908b8e976cf90257e23f1a77d688185d3a0d"
+      "16x9": "4363530fa26321a0f707ccf6f16b15c553ef7dbe8496ad1e9b92e9c7dceb6e2c",
+      "4x5": "419378185a4ac342969be1469a7c8830ba5f1d0fcbb3cf20689943e85b3b5d7d"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Køge Marina, Køge",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1-5 PASS. G1: Køge Marina at night — a field of bare masts and ordinary sailboats along piers on the dark bay, low quay, lamps lying on the water; half-timbered old town correctly out of frame per the description; no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Køge Marina, Køge', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:29:06 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:48.335614+00:00",
-  "sha256_16x9": "af5951ce174e76b463f001797f97677df5e03a966990865f508461077e1ee642",
-  "sha256_4x5": "a950320ba5ce51be0f13ba8c146384d51a6c57c6f06de4b7d6d4b61359a8a063"
+  "sha256_16x9": "c15877db0f04027afc9a6ac7678b0b525aee251364256a0250b39523cbd3745b",
+  "sha256_4x5": "b4775dbde16ef9aaacb1985d5c673da7837da9cb7803eb23412116c0babf156c"
 }

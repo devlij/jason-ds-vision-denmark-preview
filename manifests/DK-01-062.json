@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Læsø/dk-01-062-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b2300f1c3cdc1270185069a5c30bc3aa07d99ac46c0ac0eac86e498cf5b038f3",
-      "4x5": "48509b64a2c6100df7216b3d66f734393e7a2990f8010b682ec52f17398a8448"
+      "16x9": "66f16f492f210e06beb3fb48f42453d0341c6bfa502c511309c433195149609d",
+      "4x5": "a62f3788e653621edbe375e635a17c8f69ae97adff509162ca70885f042681b8"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Seaweed Houses, Læsø",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: long low half-timbered house with thick shaggy grey-brown eelgrass roof along a dark lane, flat dark fields — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Seaweed Houses, Læsø', 'Scenario: 25 September 2026 · 01:24 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:38 Europe/Copenhagen, valid 01:15 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:24:35.953833+00:00",
-  "sha256_16x9": "6bbdf5c7c2b9bb5ae0e011c2f42e3a58d9a391c565f81e64af096d43bc0206de",
-  "sha256_4x5": "36e6ad96f487df754f6a6f7a1d671aed5242818adadedc0e7ce5093b4cc06484"
+  "sha256_16x9": "1f89ebdba8d5378f96c6b5c8ab7a1d2b47af0d5cb67d98cd0d1017e24da774ba",
+  "sha256_4x5": "f2493539d50a4c2780e8e7141547e7cd66c96216477b52a0e68a5c5467db97bf"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Viborg/dk-01-214-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b06dfe4893c45aeb956a6651a9b33b8240c471667c3234bf31ca5dfe1f736302",
-      "4x5": "ff8887c699f5e694f8db19761a5525909d0021d8afa3ac78b88e05bfcc2772d8"
+      "16x9": "8675a22a07a7ff47eecf21e38a559032860812fc35cdf85df9aac1002fd12906",
+      "4x5": "fe54b1399617caa121aa0ac4c8a669457ed4ae04ebb45e3fe96d95f1c5809039"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Nørresø, Viborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "G1: still night lake with a wooden jetty and reeds, distant shoreline lights and moonlit clouds; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 05:43:24 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no swimmers; G5: clean.",
   "approved_at": "2026-09-26T11:20:26.144388+00:00",
-  "sha256_16x9": "481a16282793b349292dc9393a1ede136bf4903a08bf8250a6c880f7551905a2",
-  "sha256_4x5": "d47bcb537cda0518a86a648cfb5bb765558583bb732f4eec1c0ad91c2d276752"
+  "sha256_16x9": "4a22972619776982818d8105a52ddc8878bfd6a515f9aae0edeb78adcf0208cf",
+  "sha256_4x5": "8abb8be21809f56987a674d200fbd9ab18a916a58e033b44fe3ed12ee98c501b"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-083-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "9ee1727cc21a89926ca463c7d744151e6c67b6aa1f96367efc04e25026d11698",
-      "4x5": "268ab5f359d71340036b7eac21ad51078d27922f72cd38bf261e29058c269c17"
+      "16x9": "150185d20f223bf1bb445ddb72c958c0671950ca393e0eb711ce540ffacd3c23",
+      "4x5": "e125fb2e136e414c00f46060d2688cd7a0721d83ee1431c9a6c98664c45f6b1c"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Superkilen, Copenhagen",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Superkilen's red-paved Red Square strip with the sculptural red bench, brick apartment blocks and street lamps on both sides - the signature red-square read at night, clean framing. Gate 2: exact masters; signature/caption 'Superkilen, Copenhagen'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 96% cloud/12.7C; retrieval 23:18:59 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only per note. Gate 4: no people, no logos; public park furniture and generic blocks - documented only.",
   "approved_at": "2026-09-26T03:22:50.129133+00:00",
-  "sha256_16x9": "321421804708452a5c6b869545b9eb7fc6e383c5788ee0ecc20f2749766f83fd",
-  "sha256_4x5": "eb576bf952adf887363baf56c92977e41e8a066c16931cba87fc22810d610965"
+  "sha256_16x9": "5f4080d8a8d46b91d9fe6ad771b6de5478d1f2a207ec78c5d97e7d23dcb597ee",
+  "sha256_4x5": "b17130bba992986b32bf58f4669056434a3512965ae57c79e8d295cf1a3de39c"
 }

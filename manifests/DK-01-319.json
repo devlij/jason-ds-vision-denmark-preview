@@ -16,6 +16,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: the 16:9 master shows Vesterø Harbour with a stone breakwater, concrete quay, moored white fishing boats and grey fish-sheds with dark roofs on calm morning water; the 4:5 master shows the same harbour from inside the basin — stone mole, row of fishing sheds, small white boats moored — both formats agree on the harbour's identity, a plausible tourist view. Gate 2: exact 1920x1080 + 864x1080, caption 'Vesterø Harbour, Vesterø Havn', scenario '25 September 2026 · 08:22 Europe/Copenhagen' verified on-image, signature bottom-right, AI-disclosure bottom-left legible; weather retrieved 25 September 2026 08:17:37 Europe/Copenhagen (unique to this scene repo-wide), scenario 08:22 inside the cited 08:00–08:59 model-valid hour. Gate 3: notes claim text-prompt-only lineage, no photographic reference pixels. Gate 4: no visible people or readable boat names/logos — documented only. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T20:22:40.829591+00:00",
-  "sha256_16x9": "db44ea9560935a8cf978a3493a4500419aab50c6a07691269ad2fd25fc691c19",
-  "sha256_4x5": "5c9bd9e1ba4adb0749f40a361050a18cd257288209bfcd3f787834d6e8218b06"
+  "sha256_16x9": "d8f5cd7c07096af1eb466a284a04aa56832853108ff694879c0f7d29ac1c187b",
+  "sha256_4x5": "e21f60e3ab3985769a61b8575aee77dbe592b8fea91b2a3f123dcc8965d75a67"
 }

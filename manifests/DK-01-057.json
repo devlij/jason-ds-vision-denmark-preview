@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Aalborg/dk-01-057-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "081b59c7e22349f9704ded489e205056f438af1aa40916652f73af2c07c6315d",
-      "4x5": "a351f668793dc38e6e1e07f296b6049a6f5f4b007b74631c26cd66662caa2d58"
+      "16x9": "c859a81323bb857550beb287db97dfe4f81517a1b4e7e817bb1a2e799590a17b",
+      "4x5": "8256e841f4a1b2c971e4bf9c74a861490ea746effc222f14b19413dc81c0f629"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Aalborg Harbour, Aalborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Aalborg Harbour at night: the lit waterfront promenade and the steel truss Limfjordsbroen spanning the fjord, city lights and reflections; on-image caption 'Aalborg Harbour, Aalborg', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:33 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no operator marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:58.796516+00:00",
-  "sha256_16x9": "1c694458ff6d21a725aa4872a2edcf9b38014d1131c57724ce44d9a2e30b8adf",
-  "sha256_4x5": "fc2640267fcfff77becf32a5efdb42ae70f9f694936565bfd6448855a17b09aa"
+  "sha256_16x9": "586205acb9211d71062c00fb726c4631522ae7f442d6ff74a137c8a54b5fb18a",
+  "sha256_4x5": "e99b7c3c8a1082e7242ff0aa42a77f79e014f62fc277dd3a6f61d0cc5a03717c"
 }

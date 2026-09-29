@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Helsinge/dk-01-153-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "70249701c6136341d4e8c21cb58ce1f01b4e128e01afd842ec9a8a426801553b",
-      "4x5": "c7b6a6b980d1f336c8bd9811a506599199625b8b76abd1a0c9e66c01a35616d7"
+      "16x9": "c0439232e2cdef57e4dbb132758c88b49b9de4663b9b94e917fe510a4daca7e1",
+      "4x5": "55e0b5e8585937e4b101d243a4be2f36ef3ac0664f257897c38dd6d7c668f64d"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Helsinge Church, Helsinge",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: the whitewashed Helsinge Church with its west tower and red-tiled roofs, lit street lamps and neighbouring town houses under a cloudy night sky — anchors (white church, west tower, red roof, town street) all present, plausible street viewpoint, no artifacts. Gate 2: on-image caption 'Helsinge Church, Helsinge', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:43 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:33:09.150299+00:00",
-  "sha256_16x9": "7cc2e15546d38ecc761eaedafd7326452380f6b80cbe456ff106a34689359942",
-  "sha256_4x5": "9c9d6e8871ad637fea746bb5ecfc2209b046a0c14dd054f9ee5c3197340e75c1"
+  "sha256_16x9": "2679e9fa4219da88ad78f2ee8223153eabc65b4640f18458e7c6a5a3c89c85af",
+  "sha256_4x5": "3e7a0259b815e6635c2b8fef6693d0e530088bfe3079d4c04802b62cc2cf3814"
 }

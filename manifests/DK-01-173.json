@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Stege/dk-01-173-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "50e467438c34be0545a8718e2d946b9380a4b2dcc58acc839549f928b539d448",
-      "4x5": "f6f681dc63926188936d967035c25ab4f97497eb58bdc2ae451631ad542912a7"
+      "16x9": "3121fa1e2b87a89342a2e12fb457d90376e6bcc756c21e92ea5072e9cd366797",
+      "4x5": "7ac46229bdd381fa9a2f863559b4a2c26dcab1a856b22175ea46378667c7afb2"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Stege Harbour, Stege",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1-5 PASS. G1: Stege harbour at night — modest basin of small motorboats, stone quay, low tiled-roof houses behind, warm lamps on the water; no chalk cliff, per the card description; no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Stege Harbour, Stege', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:29:09 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:56.784620+00:00",
-  "sha256_16x9": "ae23a1ff888413df1fbe45e1d6f676df30677dee25eb4a176e05b55a67868215",
-  "sha256_4x5": "bb6012870486b62056e893b45071ac9f6e2c3e93742f3aaa3fb648ed320273bb"
+  "sha256_16x9": "77cf11a73832286f8dc335fcfe7e2504a54bb0753b405b8832280529a56a3f8e",
+  "sha256_4x5": "1a04e2d5f7e9bdcb7b2bf96ac4c5c34712483ae8e551feba3deee02d991aea1f"
 }

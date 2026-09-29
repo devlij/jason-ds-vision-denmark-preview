@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Sisimiut/dk-01-080-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "31766a00e65755a448d5725cab249d5f0bd3f7edb37c6227c7e0b7e4781eb497",
-      "4x5": "a5b82ed9516a382a05dd9db0c839d1580ec13abaa1833cb26111ad749c93ad16"
+      "16x9": "683f571865ea057bb8039a784d95a741a198f9bbf8d198332f0d54c61510a7dc",
+      "4x5": "e9bdfd0364298060a7745281c8791798333903c960dea9329ddd97528e3a9ef0"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Sisimiut Harbour, Sisimiut",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: night harbour with lit colorful houses on a rocky rise, moored fishing boats, dark mountain wall behind - Sisimiut harbour read, clean framing, no artifacts. Gate 2: exact masters; signature/caption 'Sisimiut Harbour, Sisimiut'/scenario '25 September 2026 · 01:43 Europe/Copenhagen'/disclosure verified; scenario inside model hour 01:00-01:59; overcast night matches note's 89% cloud/1.7C evidence; retrieval 23:18:56 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos; generic houses - documented only.",
   "approved_at": "2026-09-26T03:22:34.459104+00:00",
-  "sha256_16x9": "6240e7b1c4835a78c12b342b0e2374e47c0db854e52ba6d0b8e080e6bd6428ab",
-  "sha256_4x5": "b2259eaa2889dc3c1651fd09a8b56df6a75b800e061e24abd79cf9587b0edea1"
+  "sha256_16x9": "71cf9f930145e0b9c6c7a0b10dda93d7a777df69031f61ef46b125dcd34954a3",
+  "sha256_4x5": "7413390cb3de5f30e995313472daa4d2a6c18752d7b25f5c04d6515918c91db4"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Kalundborg/dk-01-087-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "6de023e56b20944f00a19dd2488d1ee610d42e3ec5a84c13d5bed9c51fea1d9a",
-      "4x5": "388fb6662dea6c2d2bf94d7f8bc4c8f5b3450baec88f44fb793edbd2948b5efa"
+      "16x9": "8b07908f860f37776ef0fdb428735fd16771dedfd0b0d32f04c94a7f60da3202",
+      "4x5": "8d15197a819884665d3f2df6824a43aa93c079873600852c6378c66fd2e3fd81"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Church of Our Lady, Kalundborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: red-brick church with five towers (tall central spire plus four smaller corner towers) on a grassy hill above town houses - Kalundborg Church of Our Lady's famous five-tower form, clean night framing. Gate 2: exact masters; signature/caption 'Church of Our Lady, Kalundborg'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 99% cloud/13.7C; retrieval 23:19:03 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only per note. Gate 4: no people, no logos - documented only.",
   "approved_at": "2026-09-26T03:23:10.092448+00:00",
-  "sha256_16x9": "ce9ca3690f9323d9519cb2dc052cc216cc20e9e9768c3db60f793c17b8b56d32",
-  "sha256_4x5": "79d7226410abc166da062af5bcb744f313f58120e26f06a0b8d5fb54d723276b"
+  "sha256_16x9": "abb40522972df48db659e1b346466248de872de0efd897aff737808cbf131eb5",
+  "sha256_4x5": "c35979005d83a1926d67b3834090c12bb56f590b557048a3a08c88bed9125579"
 }

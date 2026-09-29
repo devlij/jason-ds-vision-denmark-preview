@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Lejre/dk-01-168-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "2573e3ec3cc518d8bb19d3e8b4c3c22ea6194ebb7cb809131ec983cdd8f42cde",
-      "4x5": "e864d8ac3fd1452455554e0d8c729fec3e30166a3c89aaad0cc83dfbb7071c46"
+      "16x9": "a14e6552079e3e4a31dc71d197fa838ab43b6e99e7dfd28768e4b03f0dcdccfb",
+      "4x5": "707dfe77b533f5080b920d714e5bc846c0fc5529a92164bc685da837e9eba338"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Sagnlandet Lejre, Lejre",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1-5 PASS. G1: Sagnlandet Lejre at night — gravel path between two thatched longhouses with timber walls, autumn grass, a single path lamp in the distance, doors shut; matches the card description’s staging exactly; no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Sagnlandet Lejre, Lejre', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:28:53 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:33.414144+00:00",
-  "sha256_16x9": "780eadf91ae8c8b9500a6eba032582a330253411fbe755a5d6e6f5a00c4e90b2",
-  "sha256_4x5": "c336ea2176713f5ad8d0b4e63b7261dc478c1cd238ecb617cd4e4cedff639d51"
+  "sha256_16x9": "4f4fc1233af9aedeb632407c8d6a590e910a9733378615d73ef85f640ffe25c3",
+  "sha256_4x5": "51d6c7eab01cdf3a029243ae39afba5ebd268e2472c71ad357f49280589c9aff"
 }

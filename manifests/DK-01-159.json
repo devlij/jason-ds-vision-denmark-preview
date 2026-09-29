@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Tórshavn/dk-01-159-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "1048c83b71ee6142dc35dfdc373340a58ec0df2d927c1d87940d9459159a2426",
-      "4x5": "a5a510e01304462ea955ee7ba2e0f057e1fca2b1534d3177a0a28d40599e0153"
+      "16x9": "db1123d5befa165e38e53f7818cd4d0d436167707969dfd4a11b670e0f96e1de",
+      "4x5": "b8a800dee6e646387632fdfea97bed86ba66300e723a47be9d17bc4020b76b7c"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Vestaravág, Tórshavn",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Vestaravag's marina full of sailboats, the lit town of Torshavn climbing the dark hills and wind-chopped water under heavy night cloud — the Faroe harbour anchors all present, plausible quay viewpoint, no artifacts. Gate 2: on-image caption 'Vestaravag, Torshavn', scenario '25 September 2026 · 03:10 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 26 September 2026 01:40:10 Europe/Copenhagen — a documented correction re-fetch (the earlier 02:45-step frame left 03:10 outside its valid hour); cited step 03:00, model-valid hour 03:00-03:59, scenario 03:10 inside it, retrieval unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no readable boat names visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:34:02.339303+00:00",
-  "sha256_16x9": "87d54db4f1cc7278ad49739afc873edf2e40f38ee9f1a2ef9f5cd2115a0d04b1",
-  "sha256_4x5": "2c5b8d1d57730aca29796220fd3a147eb73f9d3ae91500941f9bd81a885b6c89"
+  "sha256_16x9": "655ac6a024b95474996445ab03dca61d83f78730c169ffb72529f6f5be2dda74",
+  "sha256_4x5": "719adf11dfc669bb517c802f0e447000ff85ac405714267bd9104371bdb685c5"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Tvøroyri/dk-01-248-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "026c5ccc2eaa96718211840b40f76905db85a63e217bfbf867344fd44d3d52c5",
-      "4x5": "2e8f3a496e7468da327c768723d4966ac6d66d7d9a1e4ef40e69cbd6043debb7"
+      "16x9": "e17266ccc50df588e16aa2158644b8f707403c6bb699aa27588b248708d62945",
+      "4x5": "abb4194201d63ed0a6d5c71d3c714906873ac0c379076c0fbbfc431fc6c2d560"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Tvøroyri Harbour, Tvøroyri",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Tvøroyri harbour at night — working boats at floodlit quays, red and yellow houses climbing the dark fell, moon breaking through storm cloud over the sea. Gate 2: 1920x1080 + 864x1080 exact, caption 'Tvøroyri Harbour, Tvøroyri', scenario '25 September 2026 · 06:35 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:58 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:36.244286+00:00",
-  "sha256_16x9": "aa221079ccf4b747020cd62fb2ace29b47a802d4384d25f032eb296286ec3312",
-  "sha256_4x5": "fc8cc78bea6b0e21a95d349ba897c87cd4763ef301c02ef547c3ece843b2e073"
+  "sha256_16x9": "3984c26994e0287e2775f21e618dfcdd2320c9df0243473d08cc01362e4e1bd6",
+  "sha256_4x5": "217da9f7102a2b948b75a555b14cf66b0f918280d54904bc0e39f08b4d56ccc4"
 }

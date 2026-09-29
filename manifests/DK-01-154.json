@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Rødvig/dk-01-154-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "0d4d12b3991f9c9e0f77957f2f26b843533d14a2b1315319a2a95a60e334d2da",
-      "4x5": "67efdefb30e3fe6e5ba0d879a8196e9d2b2aae3af3ddb8db5e8b9e6b29ff2118"
+      "16x9": "737d5336dfb5501a651127a3838dc1df5a36f787805ab46d3ad4e1aa878187aa",
+      "4x5": "a743dacc3cb8bb8931afcfb29e8d7541fe574493ea0694b2b58aabb13dd36eb8"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Rødvig Harbour, Rødvig",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Rodvig's night fishing harbour — moored cutters, the rock breakwater, lit low houses along the quay with lamp reflections on the water, overcast sky; anchors all present, plausible quay viewpoint, no artifacts. Gate 2: on-image caption 'Rodvig Harbour, Rodvig', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:45 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no readable boat names or people visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:33:16.457285+00:00",
-  "sha256_16x9": "2e0c9bd1f32529cb403e46e9b1e6c9351828f813b208c70b91c029fbc1b2be35",
-  "sha256_4x5": "89f5179a9b636d343801c162f0bf8fa990522ba812a926564de9e02d1976f5d8"
+  "sha256_16x9": "527ed7974002a2c1c0a2206147667f6cd73c0033c85197915875ac9e82e94883",
+  "sha256_4x5": "b6695b1183c6060573d5fa489c7b81c25d64dcef342d90e9c3c0ecb8cbc41fed"
 }

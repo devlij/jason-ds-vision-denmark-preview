@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Christiansfeld/dk-01-044-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "12a8338cc2b28cba41348ba5231f3acf8427512459dc0c6de7b673f83f832895",
-      "4x5": "68ab4e26e312a03b24b9212d3b39fdc257e2ec3ef8445db7022d2b0707b82488"
+      "16x9": "8e5120a10e83cd6b23b5a430114e02a0e0865654d24e0f68de68ae7f536493b2",
+      "4x5": "dd26b687247e471e9a635be1b5de8c5ab2c1ce73fc80bd56251831832b38966a"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Christiansfeld, Christiansfeld",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: night — cobbled square of yellow-brick Moravian buildings with a central copper-cupola building, streetlamps reflecting on wet cobbles — matches Christiansfeld's Moravian settlement anchors. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Christiansfeld, Christiansfeld', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:16 Europe/Copenhagen (HTTP Date 21:09:16 GMT), valid 00:45 step, is_day 0, overcast 11.7C 94% cloud, wind 8.6 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
   "approved_at": "2026-09-26T00:30:40.976131+00:00",
-  "sha256_16x9": "fb023fab16a5997a5ed6e2e04c9e39863b80403aeb9ea2c2df1a11f56f24b667",
-  "sha256_4x5": "aeea288bce0ab43cb536d3f5c00a2da05025e815512ddf2468ce7171f8668da9"
+  "sha256_16x9": "41a9df3967db1348d46a4a1f9c9547bd6a837de3cd9072612e148a75b39bc906",
+  "sha256_4x5": "4e22430b2d2bf7f2e715d19fa95e2340bbcefd3b81d407676f84022a68cf2321"
 }

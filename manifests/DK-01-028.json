@@ -16,8 +16,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Fredensborg Palace at night: the pale symmetrical palace with its copper-green central dome and lit windows faces a formal baroque garden of clipped hedges, gravel paths and tall tree avenues; on-image caption 'Fredensborg Palace, Fredensborg' with scenario '25 September 2026 · 00:33 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:45 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public royal palace gardens; notes-only.",
   "approved_at": "2026-09-25T23:24:26.382413+00:00",
-  "sha256_16x9": "30a338d0168c47c7d3f4ea00d9abf8a67f4e7f1cfad9836bc0a2c8fe4f4ebe4c",
-  "sha256_4x5": "e5600be07aaaf906e86074c235d2e133aac14c209b79165493dc5e997e1506c4",
+  "sha256_16x9": "f37d9aa522544abb2e4444660d8af35ee74ecc03321034075a058c66e4009295",
+  "sha256_4x5": "b440e3886149a9cda3114f5991625803fbf48a6f41feaca6f70ff9bbce5d1ad2",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-028",
     "derived_from": "Approved night master Denmark/Fredensborg/dk-01-028-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Fredensborg/dk-01-028-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "af15f46b10288d0fe596b03070c26587da508983c6b2f1cfb74cd776af8f8914",
-      "4x5": "f0716ba6da77268c11a84bc51fd43c97b3499a4f60368c4fb4598936d78aa3c5"
+      "16x9": "a09b676ac20fa5557cfc154648c78975e3fba33b5e197984284df67c18b07dc3",
+      "4x5": "ed478549c05692d22051bc37072a83b5bdb589444493b96fe5dacc5f2f7f671b"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Fredensborg Palace, Fredensborg",

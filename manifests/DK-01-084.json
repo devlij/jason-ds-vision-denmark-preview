@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Frederiksberg/dk-01-084-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "2d7d6a6ede48fd0888000cab2dc0b845dacb2e61c337d40a88b5d29832826592",
-      "4x5": "20b409c4a39df96a96253ec1bdcfcdece975778439e0be017fee9e049671b14c"
+      "16x9": "9aa4325f7cdec4f8aec59b059e4c914139e0c75004b2965b00973a3fa9d6d8c4",
+      "4x5": "db1987db9e2a224244c4d4d2ce71ba2a8878e31313b007b9e73908e728dee701"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Frederiksberg Palace, Frederiksberg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: illuminated yellow baroque palace at the end of a tree-lined garden axis under overcast night sky - Frederiksberg Palace's classic axial view, clean framing. Gate 2: exact masters; signature/caption 'Frederiksberg Palace, Frederiksberg'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 97% cloud/12.6C; retrieval 23:19:00 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos; palace is public heritage - documented only.",
   "approved_at": "2026-09-26T03:22:55.435388+00:00",
-  "sha256_16x9": "2d44b8fdaa491b49ed485a060551078091eafbd5d83c90006aba0d14557ef898",
-  "sha256_4x5": "d5b58284dc213b36f23918da38d7c7376eed531090dcc745e380bfb851438841"
+  "sha256_16x9": "9592e3cb07ac1adad565cff12fef6ffd3743a4fcedc1675cf05be5a6d4efcd56",
+  "sha256_4x5": "e3ebfa4b9c11d8b3182ef8a12ed7ef3e354187211d5dff53fe7f3f5c93d8bafb"
 }

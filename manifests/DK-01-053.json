@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Viborg/dk-01-053-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "d122fd566cc2d032333d0fe0e761c86b14ec591d0cb5c80572b025c59bd8c985",
-      "4x5": "a156dd226bb898963083b33e993efc4d3ff63a9fb0f1ab1778268b177207a64c"
+      "16x9": "407323d106f4e286c77bc7fc2300b9d4436d924121fa1972ed8770f6652f3af1",
+      "4x5": "843c9160d7d3966a2507c29e4d304a8187089770f90f0616cf0303c37c1be227"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Viborg Cathedral, Viborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Viborg Cathedral at night: the granite twin-tower Romanesque west front with round-arch portals, floodlit against dark sky; on-image caption 'Viborg Cathedral, Viborg', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:29 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no logos or marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:36.169218+00:00",
-  "sha256_16x9": "1f0d82da4c5536fa1ef20e0ec1a56976bcf2b26924f9f86b08ae41714b333780",
-  "sha256_4x5": "90352ecdabdcfdb2a7152172ed4abfa0ffa75cbfcd42016acb98e766f0a3d1f2"
+  "sha256_16x9": "a0b3b511e2ddf2d2caf7a9260aac74327eedfd3fac0e3898e01c3b0fed2bc498",
+  "sha256_4x5": "41ae04276f967d2248605e180b6f8d76003f809740ae884c7d5d3fac0cb96f9b"
 }

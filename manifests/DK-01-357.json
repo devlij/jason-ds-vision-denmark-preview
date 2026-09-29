@@ -12,9 +12,9 @@
   "file_4x5": "Denmark/Kalundborg/dk-01-357-4x5.png",
   "file_9x16": "Denmark/Kalundborg/dk-01-357-9x16.png",
   "master_sha256": {
-    "16x9": "effcc104854ff81e272bb1d25633b7d8a3594e2f657da93e23a615ca9cc1eae3",
-    "4x5": "035d46272867f2e096b688eb81bdc6822c1ce0a68dcdb74ce2f8b25ac38407db",
-    "9x16": "0b2d7f1dc09765889a0d77ee90ee9762535fe0d77748713a2b89eb2e7ae3d559"
+    "16x9": "7c014f794166056f867a196a3aca6895096e31486d3137a1d59b25f643b6df89",
+    "4x5": "742ae91f8d9b20400ae1370c2428b22ec42c8ca9d27bdf54cdc47144038c711a",
+    "9x16": "73ccad85d5112925d4aebc7533ffa73514ef45c4faf4e499abfef97ec1e2943c"
   },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
@@ -39,6 +39,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gates 1–5 pass. Gate 1: the SAME yellow baroque manor in both formats at the end of the tree-lined avenue, dark mansard roof with dormers, NO roof cupola (the domed cupola is gone) — recognizable Lerchenborg, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Lerchenborg, Kalundborg\", scenario 16:03 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T16:01:31Z unique to the second, valid 16:00, scenario 16:03 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
   "approved_at": "2026-09-28T02:36:15.061133+00:00",
-  "sha256_16x9": "4010bc6440eb40e0734116a79a13ea1cf1794dc5c8cb7ddd9edf8ab1cab83dd7",
-  "sha256_4x5": "07719b7bebd5fabcf78c79d36e07c532651c94f9338e1283d26b72ccf92fe70d"
+  "sha256_16x9": "7c014f794166056f867a196a3aca6895096e31486d3137a1d59b25f643b6df89",
+  "sha256_4x5": "742ae91f8d9b20400ae1370c2428b22ec42c8ca9d27bdf54cdc47144038c711a"
 }

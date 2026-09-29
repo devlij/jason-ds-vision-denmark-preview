@@ -16,6 +16,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: both masters show Gram Castle — red-brick castle with red tile roofs and white window frames, mirrored in its moat, framed by autumn trees; same castle and moat reflection, formats agree, clean framing, no artifacts. Gate 2: exact dims; 'Gram Castle, Gram', 'Scenario: 25 September 2026 · 07:41 Europe/Copenhagen' inside model hour, disclosure and signature legible; retrieval 25 Sep 2026 07:36:52 unique repo-wide (neighbors :50 and :54), cloud cover 24% matches the clear sky with few clouds; Art. 50 metadata present. Gate 3: text-prompt-only. Gate 4: no people, logos, or readable signage; documented only. Gate 5: publish.",
   "approved_at": "2026-09-26T18:33:04.276460+00:00",
-  "sha256_16x9": "a277dc01ee1c6d45d3e38e45755857c4651a9c08dbdce1a38667dcc23feaabd0",
-  "sha256_4x5": "1fd582534e01bf365dc2c74e8f9e1ef94cd3447a8a420079de6d5b87ebafe053"
+  "sha256_16x9": "30f0c803dd48798ae7f009df9c95f8862f2e44c62217e7161ef9802b0863a341",
+  "sha256_4x5": "dc4d27728ef80c64207a9ea790c6a67098c0940f1e241c63b04ece7a0e7b7a43"
 }

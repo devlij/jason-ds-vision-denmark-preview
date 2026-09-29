@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Svaneke/dk-01-069-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "51bba7c7c18326b81b572c284a4af2dc14f36a37c26d11d067b7b0491484df6d",
-      "4x5": "14878ec6fb54a2799032d895f00e37f8fcc8a86d27809c5f94ac04d75a17be9e"
+      "16x9": "92cb1ed1ca5f3a00162fe13297a35e6e4c02649a01393c72dd94da26fb2c094f",
+      "4x5": "ebbd326212ed8b6825716a4c4e5eb8f21d049e110534545e4b5ab8ffdfbcc84d"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Svaneke Harbour, Svaneke",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: fishing boats at the quay before half-timbered houses and the old cannery building with three tall chimneys — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Svaneke Harbour, Svaneke', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:45 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:25:07.611181+00:00",
-  "sha256_16x9": "8a46dd62b7bed496ed8a38db992595f3b20aad7a03759a813e8b30cd61763ee4",
-  "sha256_4x5": "b84b0210c68affff1a638b6fb7b7478e713298034c3800366484b2a75a89648e"
+  "sha256_16x9": "7414b5b359987d1c11252cdea82a2dcdb49bfd6719fc1f17e55ade6517042738",
+  "sha256_4x5": "ff5e6c8dbdad3de6f83d46b617469307ba9a22f89eba1bd0913ee6cbd25eb4be"
 }

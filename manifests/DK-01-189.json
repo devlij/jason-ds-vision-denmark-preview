@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Slagelse/dk-01-189-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b8b27cf5866a27f7d9be864fdb8444d4b77f3932615f9b6de6eae4047ad0658e",
-      "4x5": "65c848904d7f412c6b1e0ad0467891c75e78ecd583f5588a64e7873164b63e23"
+      "16x9": "9013b815a08850fe08d23e5f9b5082d9a6908eda7554536a5d0e3b80b637e84c",
+      "4x5": "c8faab5060e45ed6d045fa4576bb573bfe9689c35103a8e2ecc8221c22d03648"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Trelleborg, Slagelse",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "G1: Viking ring-fortress earthwork ring with timber longhouse and gated palisade entrance under lamplight at night; G2: exact dims, on-image strings verified, scenario 04:07 inside 04:00-04:59, retrieved 25 September 2026 23:30:22 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no logos; G5: clean.",
   "approved_at": "2026-09-26T11:19:44.985734+00:00",
-  "sha256_16x9": "c248140a47f5b72dd24c2900b2ed637c918d43d95d84685c171e94a4a7a4ff4f",
-  "sha256_4x5": "8e031da370ede97ddfe4e314b3b39e14f5306d7dc612571eb101f12bd5015275"
+  "sha256_16x9": "33b6a39d5341a30322ba0871faf00cbf93c44f57b9f9a36aa271a85fe7e1b2a3",
+  "sha256_4x5": "f4e2c42fa055f99256240f0791f945890977cad93c68c3bbcc9568a827de9ca9"
 }

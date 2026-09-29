@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Korsør/dk-01-104-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c1eb2d2a53ee583a564295fa4f75a319718cd72ed24648c638004a4cc3e613d4",
-      "4x5": "ab08a1cee29664b5d0cc93394b88bb40e133c07d1c75b0fdf658a842397cf895"
+      "16x9": "5af701e50dbeadefe2c69e05873c6c354ff0bb3314df5b8178f18241b226b913",
+      "4x5": "e11bf168359654b8937a90b2bb7d8f5c2a7ee0707aa3b0a51fcbb2c3228b1ca6"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Korsør Harbour, Korsør",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Night view of Korsør Harbour: sailboats moored at the quay in the foreground with the lit Storebælt suspension bridge stretching across the water behind them under heavy cloud. Gate 1: plausible quay viewpoint matching the caption (Korsør sits at the Great Belt). Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Korsør Harbour, Korsør', scenario '25 September 2026 · 02:16 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:20:02 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people or readable boat names — documented only. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
   "approved_at": "2026-09-26T04:25:49.204286+00:00",
-  "sha256_16x9": "82377fcc82bc9e5f0c8a89dd9444cf28ac69059af2608de91cabb93a2b45b609",
-  "sha256_4x5": "62888c40157b3252e0a83c1d296367d3a75723bc2e9005a51b1fa292e0ff4624"
+  "sha256_16x9": "c33bf4eb4857aedc1585ee12fd65b8bfb657f9ab574a7ccf4ca9bcd83cfa047e",
+  "sha256_4x5": "77809ac473c64f53fb024aa3e1cc62f788ea5ae6196347bf6890eeecadb19377"
 }

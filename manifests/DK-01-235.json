@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Nykøbing Mors/dk-01-235-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "9199d2484aef68205d3245549691ebea37287dadd35faee2d059b36b72c4af92",
-      "4x5": "f57f61098b7971e4fda34dcf42361b01ae54eb3cc51a2bb9490e9f492fbb24e1"
+      "16x9": "e45a2df4b2131b214bebbeec7812c7e33ca3bea9bdd7a5e5457c790173a4a5a7",
+      "4x5": "a270b373597e004b27294e003d069b752c0686f2dc46ef1d1849edf5f5ea35fe"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Dueholm, Nykøbing Mors",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: courtyard-side view of a long whitewashed wing one storey over a high cellar, red tile half-hipped roof, row of pointed blind arches, wooden door with a short stone stair, lamps lit under a full moon — no harbour in frame, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Dueholm, Nykøbing Mors', scenario '25 September 2026 · 06:22 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:10:25 for this scene's own coords, scenario inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable signage. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:23:56.199473+00:00",
-  "sha256_16x9": "205ad044d133e220b5fa6b1ae2f656ecb180bf031bc33215c47f607aab747fa0",
-  "sha256_4x5": "e83dc895a6b4a2154b9dc1838dfc4987f069d8ca837e6242c49f49df7b75be3b"
+  "sha256_16x9": "391873f1cc25d1cd5731686770b7ad39a8259df6f08722f7eccba26b8499b169",
+  "sha256_4x5": "02aeb46b5cd7e49e07230f077b18487b060aea6bb237a1faf729b63fe6b0b9d8"
 }

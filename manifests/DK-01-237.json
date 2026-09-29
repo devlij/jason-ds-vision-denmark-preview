@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Struer/dk-01-237-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "2a86a531d4e209fdbc839d0fddb9465900ace6cdb1afefb72ab62223c4fc8159",
-      "4x5": "473f9c4fd383220d025918e8a75fa4f47ae7b5e351721a1b7649ecf97ca697be"
+      "16x9": "5ee5a929aa284ec5bc097921b93e7e5fb00c5def074783204fcf46c28c714ee0",
+      "4x5": "2de7b81143e48df04bcd132886188ecb5991cad51828d9f0894c3c69a6152d00"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Struer Harbour, Struer",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: small harbour basin at Struer with moored motorboats, plain quay foreground, low brick sheds along the waterfront, town lights beyond — ordinary working harbour, no container cranes, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Struer Harbour, Struer', scenario '25 September 2026 · 06:22 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:10:28 for this scene's own coords, scenario inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable names. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:24:31.094645+00:00",
-  "sha256_16x9": "ac19fc582fb61d01bfe5e8865124aa976f115725b3559e67735908091170fcff",
-  "sha256_4x5": "f8a3ca6367fc13c0d87c4442907fe25aed2c6181c4a76c697ad4d438043d9f10"
+  "sha256_16x9": "c1cf0cfe190a0fb4de97de360bd29abab9bb785315186f00f6eb418f4734ff29",
+  "sha256_4x5": "65a324d59473153f2320e3f9d0d5cd1f6d31f740646b6558cbf9d47c35ded6fd"
 }

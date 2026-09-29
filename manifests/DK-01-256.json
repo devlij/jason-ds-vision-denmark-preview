@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Ittoqqortoormiit/dk-01-256-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "2885d7dd9f199b8d767fe3246eeb7e5e5acf821f81ac68424ef807da0f8b0676",
-      "4x5": "e9a7a99095fa4658c4e54c62a72d26eb4b9707ad9a1dc7486c9232ed69817ddc"
+      "16x9": "f5cce064a697b075491a828220a0db4cf3deafafdffe709ffd2c67666d292d86",
+      "4x5": "460ffd95b180ac9b3f2ffe82afd5e5572a7c5f03f2d945f13cb8e807187b8415"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Ittoqqortoormiit Harbour, Ittoqqortoormiit",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows colorful red, yellow and blue houses climbing a snow-dusted hillside above the harbour, fishing boats at the quay, snow-capped East Greenland peaks across dark water, and rain/snow streaks in the pre-dawn sky — a plausible East Greenland settlement view matching the harbour anchors. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Ittoqqortoormiit Harbour, Ittoqqortoormiit' and scenario '25 September 2026 · 06:39 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:32:08, confirmed unique repo-wide across all 365 notes, and 06:39 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable logos or boat names. All five gates pass.",
   "approved_at": "2026-09-26T15:26:32.383228+00:00",
-  "sha256_16x9": "cf290a4f5ec9ede5a8ee10eb55881fc159f45f96b1549b2281826421f6ac7444",
-  "sha256_4x5": "f1a5d429bd6ff2a0083aee41aa7bb77ad57c35fef5537dde13728b387b2f540f"
+  "sha256_16x9": "241899e1c160fad304395a61ea763b4a15183409ecdd2f84b9f44ef9dfdc0d5e",
+  "sha256_4x5": "8cb2e1167310bb2a55d18ed3a375ec4b0a0d8dc345b15244c451de930e678af1"
 }

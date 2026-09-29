@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Vang/dk-01-245-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "edd8fe08bb7bb7ff4a1f8e4bfff7963869d1ebc267c3ca6d9be194ec53e79df6",
-      "4x5": "3bd9a58274ad4c5c8d291f9054fb41d32d49322abe19402484ed853da0b051bf"
+      "16x9": "dc5f9ebadbdfd6cc3ee83f6d61879cb51d970e1cb764815b6b93371d042dad25",
+      "4x5": "6a888460839caf26f595c5610ad79846ad2c558006dbe08c5ab93023140b2336"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Jons Kapel, Vang",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: Jons Kapel cliff face with an arched cave mouth at the waterline, boulder-strewn foreshore with white surf, sheer dark rock rising into low cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Jons Kapel, Vang', scenario '25 September 2026 · 06:33 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:31:59 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:22.989805+00:00",
-  "sha256_16x9": "c8c6a93c49be7ece040ba1eab3eff780c0cf9ff679ac23b3602fce6102198559",
-  "sha256_4x5": "05945939c34610d27e2c7abdaffb172141c26dba811b79fad5d7ab67402bc8c9"
+  "sha256_16x9": "b34c14c06698d03e8cd615092fbd28d1f3561f805bcd00aa36ff128b23426201",
+  "sha256_4x5": "dc7fedd09d9007b86450eedf20b0ab7ddf762e82748505b3d9d821e751293f77"
 }

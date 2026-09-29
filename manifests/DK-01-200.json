@@ -63,6 +63,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Afternoon",
   "approval_basis": "Gate 1: Soby Harbour — rocky breakwater leading to fishing boats and red-roofed houses, choppy water under mixed cloud. Gate 2: caption 'Soby Harbour, Soby', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:53 (unique), valid 14:30, scenario inside 14:00–14:59; cloud/wind consistent with the depicted sea state. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
   "approved_at": "2026-09-25T12:53:34.972062+00:00",
-  "sha256_16x9": "65b611543b5710aedbb870b0c7dff029ebd7d4727fa6eb1cae50c2159738212e",
-  "sha256_4x5": "6427e69313b93c94962b915d73cc6ece9942db2f0a1c9bd10b5f71ef2b103692"
+  "sha256_16x9": "fea3ada7342157ce688ec4f2a7511480f98a5958c4b8623274fe2fce703dee70",
+  "sha256_4x5": "ce92a0be140e5897fef1c7661ba5e792d68183ef99c5067af0b718d779567cc0"
 }

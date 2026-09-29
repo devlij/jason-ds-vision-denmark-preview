@@ -48,8 +48,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: night Frederiksborg Castle — Christian IV's Dutch-Renaissance brick castle with copper spires on its islets in the castle lake, lit windows reflected in still water, wooded banks under cloud-veiled moon; plausible viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'Frederiksborg Castle, Hillerød', scenario '24 September 2026 · 23:57 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:00 Europe/Copenhagen, valid 24 Sep 23:45 (Partly cloudy, 11.6°C, cloud 50%), unique to the second repo-wide, scenario inside the 23:00–23:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T21:33:37.446415+00:00",
-  "sha256_16x9": "a1148114a5a8f408f1b2022b7ed67e9ddaf6b6a1f7bbeaba62998e8f36f55cb5",
-  "sha256_4x5": "642884871b380bf3771c17bb4b830bb277593968975072e49391ce65eb694540",
+  "sha256_16x9": "ee129a751e661d336b2562670a617bf8e58f8b38ac7294d644d3dacd64263eb7",
+  "sha256_4x5": "92c8e78a35d2951c84e3b00b7e094db4c8ea6cf88caba2ce3dce8a9025fd4a97",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-005",
     "derived_from": "Approved night master Denmark/Hillerød/dk-01-005-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -69,8 +69,8 @@
       "4x5": "library/world/Denmark/Hillerød/dk-01-005-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "23b57553b1d029a10562f3a3baa0666b42b7909227d64f7f134c369b05576d8e",
-      "4x5": "3c859ccd9f2e66d992ae70f1eb12da30a5e95f985fe35f92f7f2ac4d6e095c26"
+      "16x9": "73a91b68a0aeb99823fbe6fae2547c98d0f16850037271359d5038c1a1e077ca",
+      "4x5": "70056891d61a56e31d40887616588a091c81413d837bc2caa9b71b9e7eaf5330"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Frederiksborg Castle, Hillerød",

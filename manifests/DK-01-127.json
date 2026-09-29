@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Mariager/dk-01-127-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b6c66b829b8bd4043e391454273876e822cccf5a52f7c7df8958adb1fc036e85",
-      "4x5": "4c21c5fa0f3c5d6587adc9e1825faf5292ac7e9e8ef418179133b08b9cc69379"
+      "16x9": "fd6ab335bf97981d4e459dcb0b7f13f41e0c79cba5b4bac308d1c47947696197",
+      "4x5": "1a05a35141e4a4d1b7cd4b944cc547be016909770e84f7de205eb1dbb09dc930"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Mariager Old Town, Mariager",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: cobbled street of half-timbered houses with a whitewashed church tower beyond, lit street lamps at night; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Mariager Old Town, Mariager', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:27:01 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:27:01 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:07.617350+00:00",
-  "sha256_16x9": "21f0b5fc21803ff8dfc6a133b1cf543d48b60eaa9ef972dfddcee1af09e76872",
-  "sha256_4x5": "624098a9213166c9789fa605916972832bba1535caf25b8f51db9db87ba7e1c9"
+  "sha256_16x9": "fa5d7978c6571a2056b061d644c4fed1b2d5771e7ccb870a03e2a1e49a23a06f",
+  "sha256_4x5": "14f0387e686bb9abfd2c53c7a1b1de32fb5ec7bf28b7c9e63a4f414290bc4683"
 }

@@ -12,9 +12,9 @@
   "file_4x5": "Denmark/Paamiut/dk-01-335-4x5.png",
   "file_9x16": "Denmark/Paamiut/dk-01-335-9x16.png",
   "master_sha256": {
-    "16x9": "1facf0723b1c75612a9fb74ee12043a44b18f2b336ca56c212fd4465408d2019",
-    "4x5": "bfe108ca8893b68d96ad131c05415ec2a3ce25648414b9fb9ead3efacdab1680",
-    "9x16": "85d15cd300733949cb262ecca8d7b83211b84328afaa2dfdc4d4532397fb71f2"
+    "16x9": "c85cf75fcabcc5b969990642367977848045da48944d9e5076d053b9447045f5",
+    "4x5": "ea643e11a597e93fa381db84325a35b65bc796fa843f803ff1a5c548838badb3",
+    "9x16": "05bdd81e25614ebe2ec7c8890337372b29fcd113774037e40159f07eef6793fa"
   },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
@@ -39,6 +39,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gates 1–5 pass. Gate 1: colourful houses on the rocky shore, fishing boats at the quay, clear blue sky, HIGH midday sun with short shadows in both formats (the horizon-sun 4:5 is gone; correct for 14:56 Europe/Copenhagen = 11:56 Nuuk, sun ~22.2°) — recognizable Paamiut Harbour, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Paamiut Harbour, Paamiut\", scenario 14:56 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T14:54:57Z unique to the second, valid 14:45, scenario 14:56 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
   "approved_at": "2026-09-28T02:36:03.688429+00:00",
-  "sha256_16x9": "8ce612fef4c7abd06332a6b5465a2e0ff46f8c59cda567603b0db23af867b047",
-  "sha256_4x5": "2a9134e7472e9f0f31367fa10f707a956f9f72428fbc00ce09487e744b600360"
+  "sha256_16x9": "c85cf75fcabcc5b969990642367977848045da48944d9e5076d053b9447045f5",
+  "sha256_4x5": "ea643e11a597e93fa381db84325a35b65bc796fa843f803ff1a5c548838badb3"
 }

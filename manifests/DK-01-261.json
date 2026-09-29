@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Frederiksværk/dk-01-261-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "f47fecccb3ef202f5c936a495ba1745da48409bf9fa9d20eb3c4d544db7b00d8",
-      "4x5": "027c4a932b48013d84eecd26e2a710199a52441a9cad9ecb610cfc8723bb0280"
+      "16x9": "c61c78c70350e19c867f769bf7ba7bdd1627dcdbb526b45642903327ada3ad8c",
+      "4x5": "02541d4d591d660f0ddca24931f6b7cfbba18a53c66bd07b7146ee02248c757f"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Frederiksværk Canal, Frederiksværk",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows the calm canal with an arched bridge, ochre historic gunpowder-mill buildings and warm lamps reflected in the water under overcast dawn — a plausible Frederiksværk canal view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Frederiksværk Canal, Frederiksværk' and scenario '25 September 2026 · 06:56 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:36, confirmed unique repo-wide across all 365 notes, and 06:56 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable signage. All five gates pass.",
   "approved_at": "2026-09-26T15:26:54.959229+00:00",
-  "sha256_16x9": "b8ef415c23b58f42d8353b8d0df43185390b4d460e8f1a9b84368c598d758ebe",
-  "sha256_4x5": "ecdb32667d7939c19d41c662622ae6bb609790276f140721c114db5208bf32b9"
+  "sha256_16x9": "d515089aa2486d302d56b4112ec632b9baf3b97ab588466f8086a97927e79c6b",
+  "sha256_4x5": "a6f97eacc0823730aebbf8392adcc81488ae66a6fd7a8642a0a01f1320ec6d87"
 }

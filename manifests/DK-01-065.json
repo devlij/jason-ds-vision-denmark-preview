@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Rønne/dk-01-065-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c7306f56363e895ec7e461e50946d90b3b05a45f6cadf0711a176ad32ed344c5",
-      "4x5": "6961186fade0b03dd103d518639a5d75e4e9224913ec8d5edea6baa38d2af236"
+      "16x9": "94d25881d43fba117ca75f01daf72c28a0412a849894b5a919cb2e4ea665454f",
+      "4x5": "9882f0baf4448c4d6f0eaec5766aa00d9d69ade83ef91f9ce5bd4a0f76e2e97d"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Rønne Old Town, Rønne",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: cobbled lane between half-timbered houses under overcast night sky, lit street lamps — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Rønne Old Town, Rønne', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:41 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:24:49.832510+00:00",
-  "sha256_16x9": "894c180fb5c3a378a3700a8ea8f7234372ae3e4d7fd30067d9f767e830466115",
-  "sha256_4x5": "d10a25488ab38e35d292e9e0e73f3c987e493d81c93348daef7aeb0fadbd5074"
+  "sha256_16x9": "53e24342050ea636e6252fa894bd20b20412af1b18c2fef4a720f40527cd288a",
+  "sha256_4x5": "be7fb0a8abc1cd954436664ae4139b6ce239dabf0ab2ddf648e171f5ac3a4964"
 }

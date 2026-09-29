@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Ilulissat/dk-01-079-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "e73a480d37f304a3d8701734d08933e92cdf3a1cec5106d3be988ab83e3ecd82",
-      "4x5": "e50c8fd0b1b2047c132ff582e12be1876dbd10c02d3e2f2c66f7594cf333c174"
+      "16x9": "e35b16f2857d36234265c2aea42566d48d73cb3faa881a372058eb0e8e05090e",
+      "4x5": "33cceb374d7a6f1cade3b7af545cda4ed6e330457da8575cdc6b5f92ab74c4ee"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Eqi Glacier, Ilulissat",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: massive calving glacier face with deep crevasses and floating brash ice under a starry night sky with a pink afterglow band on the horizon, rocky snow-dusted flanks - Eqi Glacier's signature front, no artifacts. Gate 2: exact masters; signature/caption 'Eqi Glacier, Ilulissat'/scenario '25 September 2026 · 01:43 Europe/Copenhagen'/disclosure verified on-image; scenario inside model hour 01:00-01:59; clear starry sky matches Clear/0%/-5.2C evidence; retrieval 23:18:55 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only per note. Gate 4: no people, logos, or private property visible - documented only.",
   "approved_at": "2026-09-26T03:22:29.164591+00:00",
-  "sha256_16x9": "53ac7adc8af1342ed8af26ad9462cba5479a86be9fb21e0cc6049839b1223262",
-  "sha256_4x5": "d3b060c379c9785f6b0b18220947cd7c009407bfbb970a2af8f1be3ca770e0c5"
+  "sha256_16x9": "f8a9d36adc786faff8360b53ce9d19b6a9808bd40b1018bb8ba368832706c6bc",
+  "sha256_4x5": "e2fc13e1e58313a414d78075d64966bd4d0f3497c56b2845dff67bd1052468f1"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Præstø/dk-01-172-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "00b002a2fc30cbaba3824baa126f11708e6fd2f41c1318b90f30d16dbb4fd850",
-      "4x5": "a34d3aacf88d75bdf1e48e598f5b5c049543f537a1771ea7248e2f1b2fe90230"
+      "16x9": "c42f86df4eab23de09b1222de7967dd67bcd697180d7f84aa4c85a2c1912b0b7",
+      "4x5": "0c2f53251d8b4ecd316d10b6ea8176e1d3993898faf944e9d2f5ea5044b56122"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Præstø Harbour, Præstø",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1-5 PASS. G1: Præstø harbour at night — short stone quay, a few small boats (red/white fishing boat, dark boat, white motorboat), low red/ochre/white houses with tile roofs along the dark fjord, quay lamps with reflections; empty quay, no readable names — matches the card description. G2: 1920x1080 + 864x1080 exact; caption 'Præstø Harbour, Præstø', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:29:07 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:52.518750+00:00",
-  "sha256_16x9": "8d860f0347e4ad9bb0ea50c25b302ea3214c41d71966cc713f4b7009999c71bb",
-  "sha256_4x5": "5696eeca573c42479d1d5ae494c4e073f16b152b18a6648c422d3d873dcdefb0"
+  "sha256_16x9": "086c5d16a7c52c5567cf12706e42cf90d36494447c5e841fea45d684ba5436a2",
+  "sha256_4x5": "60b62e905e66262948319631990ec58e33e588e3f31b428982bb2ff075ec6d26"
 }

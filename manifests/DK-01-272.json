@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Orø/dk-01-272-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "224327a1d9e7fb1be67eb3c989be74dd98f4c183c0ec5a472cbb5f1325c5a18b",
-      "4x5": "e80fc926d24c9488ec0b95f59760920a1ddc293eeab4d8a7d223e9fc78844e2a"
+      "16x9": "34fc91a22401e111a43b7a5fa5921ff132fdf70ca20a846d0912706cc6aea503",
+      "4x5": "6a28e91d2e646d335dc5c028fc758dcf5abbdaf02122b1b3baadb97b780f187c"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Orø Harbour, Orø",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Dawn",
   "approval_basis": "Gate 1: a white ferry lies off a stone breakwater with fishing boats moored along the quay, shoreline houses with lit windows behind, dawn breaking through cloud — a plausible Orø Harbour tourist view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (ferry + breakwater + harbour town). On-image caption 'Orø Harbour, Orø', scenario '25 September 2026 · 06:57 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible. Weather: Open-Meteo retrieval 25 September 2026 06:54:24 Europe/Copenhagen — unique to the second across all 408 repo note files; scenario inside model-valid hour 06:00–06:59. Gate 3: per-entry note claims text-prompt-only, no photographic pixels. Gate 4: no visible people; the ferry is a plain unmarked vessel, no readable logos. Gate 5: publication-ready.",
   "approved_at": "2026-09-26T16:34:20.275719+00:00",
-  "sha256_16x9": "e652a924bb1836ae8de190a833a0aa519b58aed63f2fe60c1134654558491445",
-  "sha256_4x5": "3cd5696dae8f1f00d224614043c678b389a94654cc39bfc68f0005e6a6ae0a43"
+  "sha256_16x9": "f3cf446be6dfb3c7a0fdc9d13574ee76d14e2588278b2224c543f5072eab8577",
+  "sha256_4x5": "8c3d027e236038de0cd8a3ddf5f0919a318ab6b549a996dc7be5aab75c98ccc2"
 }

@@ -16,8 +16,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Maritime Museum at night: the old dry dock with its distinctive zigzag steel pedestrian bridges, flanked by the historic Helsingør shipyard brick warehouse buildings, dock lamps on the walls; on-image caption 'Maritime Museum, Helsingør' with scenario '25 September 2026 · 00:34 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:47 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public museum precinct; notes-only.",
   "approved_at": "2026-09-25T23:24:32.826044+00:00",
-  "sha256_16x9": "28c66568b1b609b0d51037b706f8dd5c8c732ffa9b0669b622dd321bdd10ea21",
-  "sha256_4x5": "2f75ca84d4edc8809f851621b3b6a95e963dfacc0296e7b09fe6efefb4881053",
+  "sha256_16x9": "ea88bc098f09ccf60884e25dd6ceb41b9a2a1c72c20cc3079dcf3947ac8af8d7",
+  "sha256_4x5": "3a07472fa800caa60c20ff2e1b8fe5f71462e6d3d9b03141f893b3d2009a15fa",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-029",
     "derived_from": "Approved night master Denmark/Helsingør/dk-01-029-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Helsingør/dk-01-029-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "e0671f950e3dc2e5cbf62ab7ff374886d6745a29372a3428101b1f3d37368924",
-      "4x5": "6cf0a4434cceead809db3e9e441eb32290cff375b9b701165eea1b0795e8638f"
+      "16x9": "bcb9a7a5b7bd473f06c4fbc81b5563e87efa4c1dbde1b7bdf4d80974a64ad579",
+      "4x5": "34fdbade2f4b760e3485eac60d3f30bdb04311f363c6ac0aaf4fdeeeed371e13"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Maritime Museum, Helsingør",

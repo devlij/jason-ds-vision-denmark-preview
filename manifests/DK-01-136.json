@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Nykøbing Mors/dk-01-136-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "68c7c4a05ec2bb7d40669766e7322d04e78bddf57220f26932a71760e938512d",
-      "4x5": "0778aa372a3dea55cb4f7234ed61cec3421f0252bcae84b51c39d5f5f5652276"
+      "16x9": "e55dda17258adc3e5b390a5e129c71fb0c5689d3e286d679a5b8cb28c73b4bab",
+      "4x5": "637c2614bdfd74af56d0454141aa3df4346d76da40b6b0978e0632e5fb627250"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Nykøbing Mors Harbour, Nykøbing Mors",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: moonlit stone quay with fishing boats at the bollards, gabled town buildings with warm windows behind, and a moon path across calm water — a plausible Nykøbing Mors night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Nykøbing Mors Harbour, Nykøbing Mors', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:14 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or readable names — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:11.011504+00:00",
-  "sha256_16x9": "bcc0944a2fb526ff5e6d257c3e422431a3462217b1bee13d1725078b6f621757",
-  "sha256_4x5": "b2d7a70b6315a3993477b5b812ab4e187ee207297f18331bd3e8e9d51b1fd5a1"
+  "sha256_16x9": "30c52c704630bce8bb10b4f0f53025f0ac6a2962c66a75e8f27ccbe1e6b4827a",
+  "sha256_4x5": "e8fbacc5b1849a8988f95e01971f286573f528a1eab3a69ee031d1fd88d2a13b"
 }

@@ -68,6 +68,6 @@
   "qc_status": "Approved \u00b7 Cosmo QC 5/5 \u00b7 Afternoon",
   "approval_basis": "Gate 1: whitewashed Horne Church with its distinctive round nave and dark spire, flat overcast light, plausible tourist viewpoint. Gate 2: caption 'Horne Church, Horne', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:44 (unique), valid 14:30, scenario inside 14:00\u201314:59; 86% cloud matches the grey sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact 1920x1080 / 864x1080.",
   "approved_at": "2026-09-25T12:52:43.652751+00:00",
-  "sha256_16x9": "094280bd1f247cca6d19132465037d4ebf5bb7bf66882c110ca40b612556152f",
-  "sha256_4x5": "b83feb14c76b3426605755f55d6b0deae0324b95db4193b7b4f3bc48fba3b63b"
+  "sha256_16x9": "2c735cd6d76277a1f667b0089badb52699410759da2b768fcea68a53153b2bd3",
+  "sha256_4x5": "10faac5a6dc5e3789698976efc83cd3ec93da1d84617d898302c6e9d9bbc25e4"
 }

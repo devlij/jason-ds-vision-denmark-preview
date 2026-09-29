@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Helsingør/dk-01-097-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "2fe7eae06ccd71ac8d2546386c000f5d30154a787d336fde9d626b05098f4eb8",
-      "4x5": "6ba1fd1534f681038c1c1a14f2599ee98f31c3b750c9e3702df6859be81bfe3c"
+      "16x9": "d61dc39cf5e081b789a6c0c180482ffdb357b57a941c616e94b51b20a00e3278",
+      "4x5": "6bb961063c0439a0861fbeedf5dcf0457288806f925b0231ae4b29dc9b162851"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Sankt Olai, Helsingør",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Night view of Sankt Olai in Helsingør: the brick church with its tall spire and stepped gables framed by lit trees, a churchyard with gravestones in the foreground, windows glowing from within. Gate 1: plausible churchyard viewpoint matching the caption. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Sankt Olai, Helsingør', scenario '25 September 2026 · 02:16 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:19:13 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
   "approved_at": "2026-09-26T04:25:16.996560+00:00",
-  "sha256_16x9": "430d68178071f148c63c4f278f65f50f7db7ed8360ed39d738945357b1e569b5",
-  "sha256_4x5": "c28bbc2aab605b0c862478ba10a44793df6d55f2a1609df4bd83ec6fc7362107"
+  "sha256_16x9": "30055d5a787009b2bde2b868efdab25914943cc76c3f83e5d524d3cfcf93a33c",
+  "sha256_4x5": "91052318bd1e823b4fcda3b64d10aadfb5c71292ab60e36e14ec38cfb69c186e"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Esrum/dk-01-262-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "1fd701b61c148f1ba50e396f90653d4f9501fdd3b9bec2b0f3df7b1bef797a37",
-      "4x5": "7023141ce69fa41d08950cde1acc798e7284d85e0e79ca3d385a26832c070772"
+      "16x9": "30b49fd6275ec3238ece44d6b9be9db5f23709b081989e5b6c71c547626f7e4c",
+      "4x5": "f1e071da4aa70524669514f468428c1e0e6fa99cf9cbfe67028e91530e7fac24"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Esrum Abbey, Esrum",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows the long red-brick abbey building with white-framed windows mirrored in the pond, autumn trees and an overcast sky — a plausible Esrum Abbey view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Esrum Abbey, Esrum' and scenario '25 September 2026 · 06:56 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:38, confirmed unique repo-wide across all 365 notes, and 06:56 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no logos. All five gates pass.",
   "approved_at": "2026-09-26T15:26:59.233889+00:00",
-  "sha256_16x9": "004bc7663d1af2b6c1a0b12d875bfd267a81642f26b299fc293971f47e6e71b8",
-  "sha256_4x5": "d2f85946d8983c4bf20544a9d235493ad64851e1a2019472728aa8403768a7c6"
+  "sha256_16x9": "fd516b3d49d50993b2af043af0e0c293037e080a1ff6826493578b680ab49456",
+  "sha256_4x5": "ff2244a6719b2b89405120946319a7a7b1a490129f6fa5bbabbfadf841c64fe5"
 }

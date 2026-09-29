@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Aalborg/dk-01-058-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "5ea0feff95c01ccb7dc1ccd32acfb70ba6a0e6890d9dbefe855bf55eafdf6761",
-      "4x5": "7a94dc81ef0786e6387c403f2e4202c0857da6faccf564eddf3721c1bbc4e186"
+      "16x9": "51094c6a48f601856cf92c00eec3f27ec279e64cfabdbd1e797b1bee9c310aca",
+      "4x5": "459568e7f60d821169ca981a680d48ed0d2b690eb817ff14043c90b209b513a8"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Utzon Center, Aalborg",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Utzon Center at night: the white concrete sail-shell complex on the Aalborg waterfront, lit interiors glowing through the shells; on-image caption 'Utzon Center, Aalborg', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:34 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no marks; all five gates pass.",
   "approved_at": "2026-09-26T01:22:03.518549+00:00",
-  "sha256_16x9": "934adf900e64cd52ec794f253d9476c3e2822f22faf98937e1652ff5c3051a8e",
-  "sha256_4x5": "4fef68c61ddf75c6d0f93a01181c68aa1a9e44af3087522df77294143ce2bfa1"
+  "sha256_16x9": "3f5ccba4c0791bd45f92751e79ac431735b77624ad707928ad8d6e2f515bbbd8",
+  "sha256_4x5": "644118244f2ed19c391eda8ece44842de63a685bbf789f15de56b7e4091eaaa4"
 }

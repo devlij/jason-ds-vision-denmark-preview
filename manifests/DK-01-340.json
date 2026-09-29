@@ -16,6 +16,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: white Romanesque country church with red tile roof on a grassy hill overlooking a fjord, plausible Sankt Jørgensbjerg; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:24:54 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:26 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T14:15:51.090430+00:00",
-  "sha256_16x9": "ae67c965702adbc119c6476ec82cba511f4d9fdfa59a95f163b33da8042464b4",
-  "sha256_4x5": "829049d75215906ed2715ecc2f53ef6fdd30532d40b60defaad54dfdffd0a529"
+  "sha256_16x9": "1746ddc4c89de6b1f42e7f92132c223bf52aaad20907a339b2e91398074f9aa3",
+  "sha256_4x5": "34f39ab47fc5b4c368777f03f99ad8cc270011b5b3eccb04a01008fa2dde72e9"
 }

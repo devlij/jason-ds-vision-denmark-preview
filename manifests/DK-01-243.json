@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Åkirkeby/dk-01-243-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "ae3975b5d73e47430b8ece35ee2389c709a2562374ba84beeaa3663519c9871e",
-      "4x5": "2b10823ccbc2b6ac2000be2fd150a4a7b215b1bb2312580fe59b49e1d7857691"
+      "16x9": "6d3207a1687b1cecb57ec4d7f8ad21ad4e2b735cdade304dc5c31a76c5975794",
+      "4x5": "e0999e060803023f648f7ed02b77ff399ed8c5e7844234d9b4b1ead621c2f0c0"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Aa Church, Åkirkeby",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: Aa Church from the churchyard — greenish sandstone and rust-brown shale choir and apse, paler limestone west tower, dark roof, old gravestones in lamplit grass; recognizably a Romanesque parish church, not a round church, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Aa Church, Åkirkeby', scenario '25 September 2026 · 06:33 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:31:57 for this scene's own coords, scenario after the 06:30 model step inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable gravestone text. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:26:19.629531+00:00",
-  "sha256_16x9": "098373fa622f17c0fa826e4a82d0ec99f4243e4caff8e0f07c7b346463e4cc6f",
-  "sha256_4x5": "90d0f80103228b4ada9f9e9c4cd86f4dead19f294c05680ac2ec1df21013b0cc"
+  "sha256_16x9": "94d7f11e8b4d5f1740bad12212504cc84ebf8ab4bd5f1b02d4d92ab4a1a77c3d",
+  "sha256_4x5": "12c921da04c9a1b3a82d10a7c5754d2514cb7ee032cef0fd48663934aae6350f"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Lakolk/dk-01-144-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "97fc567b8405ddbc02412d3fe3a18f972f91eaa81e7f4b95ddec56ff161a01f1",
-      "4x5": "b8f0387a1afc6d3688ecd0863fe64e8b0628d0e8c48681ba64242b4bb87317b1"
+      "16x9": "c33b07a3a294926e1e78a14b47c8fadaee80eae260f41c3e4e942f93bb2c29c8",
+      "4x5": "3c75668efb5a7b1968b5d43fd9829b1951eadaa1213f2f86d084d3552888da12"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Lakolk Beach, Lakolk",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: empty moonlit beach with grassy dunes to the left and a moon glitter path on the sea — a plausible Lakolk Beach night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Lakolk Beach, Lakolk', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:28 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or signs — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:51.519315+00:00",
-  "sha256_16x9": "79fee752d362eb3f1e722ca108207c07c4123a32af75625055cecf1a6aa6f343",
-  "sha256_4x5": "9a1758e8c034746736c4e0db7ea7e24f44a0ee5224ac977b391f6a9093cd68ab"
+  "sha256_16x9": "ec890f40fdc466ef3d1705b9c5292269209587de5f74e0fb183bb5d708ce78bf",
+  "sha256_4x5": "1d0823a42ef5df060223fe802bebc8bb6f82e0d2cec63459a2f1ab12cfeab300"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Kirkjubøur/dk-01-247-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "89719e086245cd6800a47dc677277b8aa55cff340eccddd9ce1cff49705759a2",
-      "4x5": "edefc9f3434314cd1d1aa9aacf13f9fb2abb796d0363e91d12ae47e4507e3304"
+      "16x9": "b4ced64d63a17244df872ead768ae424d8444f6d15a584a6fbe6470ae07c2c82",
+      "4x5": "162d6440a52b047a0867c8bc0035dbf36afaa5ea381a95f34685559d2974811f"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Kirkjubøur, Kirkjubøur",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: Kirkjubøur ensemble — roofless Magnus Cathedral ruins with pointed arches, the small white St Olav's church, and the turf-roofed Roykstovan farmstead, with Hestur and Koltur islands across the strait under low cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Kirkjubøur, Kirkjubøur', scenario '25 September 2026 · 06:39 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:01 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:31.667921+00:00",
-  "sha256_16x9": "0f721e06360f9832dcdeb43ae5a7b4ecf4c37ddbf0eb8c864e416965a84eeddf",
-  "sha256_4x5": "5340ee23507d783126bb38b6925ae0350d9e9fc4e19ad718ab5c56ff09199c50"
+  "sha256_16x9": "3023cbe5bf9bd0a48d6e11f633c608dabc0b935f7fc99040de36e0b0caf9529e",
+  "sha256_4x5": "0b7530fc68e91e77ba30e6604dbf5450d6e3946fba0850f44fc9f3d06c2f727b"
 }

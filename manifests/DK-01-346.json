@@ -16,6 +16,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: large red-brick institutional building with central stepped gable, arched gate, dormer windows and cobbled forecourt — the former state prison; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:25:06 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:28 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T14:16:18.030143+00:00",
-  "sha256_16x9": "738749397dbefada377f7fa88fec17e907f19483fe7caa65fd41411cf472b359",
-  "sha256_4x5": "3103ceab7b93b4ec1415193aed57ce592569d070b7f83c119cae5924eb5b55ec"
+  "sha256_16x9": "bdf7b9be6ab6a6326e62da84887f25a6670d8dcbf59abd58fdd86f06df3c131b",
+  "sha256_4x5": "c1ad36e0e3b4a9e3b3fd34222a5d587808c8b5689da1f40482095250333d164c"
 }

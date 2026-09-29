@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Ferring/dk-01-239-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "967bad6203c92de82362c32c0bebd14e46f32814cf9a488d2555e064b98039f4",
-      "4x5": "037071e4df61b24aec19b964ff5950d032d38773aeef6fc17b7ab78c431e850b"
+      "16x9": "3548eb87a9964da0aa31129a874d207a93d367ae800fbb586ea398d3db0eb16b",
+      "4x5": "c0070558a400fa8a97124f8fd0afe8358e03f5faae35e7175b22923e0cacc758"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Bovbjerg Lighthouse, Ferring",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: red cylindrical tower (not white) with a lit glass lantern, low white keeper's house attached, grass cliff dropping to the North Sea, moon breaking through heavy cloud — matches the anchors including the deliberate red-not-white tower. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Bovbjerg Lighthouse, Ferring', scenario '25 September 2026 · 06:22 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:10:30 for this scene's own coords, scenario inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or café lettering. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:25:06.815008+00:00",
-  "sha256_16x9": "8e957b9e00cff7326ca355e96901ce90c144d41563bab145a91856fe0739b085",
-  "sha256_4x5": "97a6ea9718001d4a913c5d697a1fa7a40a1f8ff62fd6d51fcb26348aac3f3043"
+  "sha256_16x9": "5a3777c2c0d18ad557532b5e03d55c08b062d7d78520014af5105a9ff74d103e",
+  "sha256_4x5": "ab754fab68d390c58b51cf1831e29f7c061f738e85194cf697d6d049bca115ae"
 }

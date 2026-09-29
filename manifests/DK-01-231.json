@@ -12,9 +12,9 @@
   "file_4x5": "Denmark/Børglum/dk-01-231-4x5.png",
   "file_9x16": "Denmark/Børglum/dk-01-231-9x16.png",
   "master_sha256": {
-    "16x9": "d0438866ac85e61252ef33fb81a0fee9dd3ac11c7b86561228eab6dc0a80218b",
-    "4x5": "b7636bfb41c932cdb1651afb8db1b899f1b53e7b57758bd6952ace56f1d222aa",
-    "9x16": "2f8eb686cc06b57e9b29a442189a9bbd1279ba65269dca46e855f86d7a240c6a"
+    "16x9": "01b3e8d53092275e487c57aaaec197462cc1fd74b08ea7fe40fa4a282502cded",
+    "4x5": "e453c50f20546b38f0e9c9a81fe834c5536b79c5dc0a46258ecf8ea547d6610e",
+    "9x16": "30a8a9d0eb0e9edfbf2319d1cc732b85fa144a042f353ad57f122f4ddde86924"
   },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
@@ -41,8 +41,8 @@
       "4x5": "library/world/Denmark/Børglum/dk-01-231-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b2d1fac1f957756bda0c9ecef0e817f466ff55dce84d2004afb8ac1f6c8cc724",
-      "4x5": "8af35b11f76ea5d7cfe93ff1d42af2d43fdd3c83dfa038bbfe783839215a60e3"
+      "16x9": "688a082b2dd7ea555f3c8fa0ed32d531f884236ad1ebbd13d0e21bbb0134505a",
+      "4x5": "2f8e00be285e083f5a82b884030078331adf9c0da17f6b20cf3255140750c8d5"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Børglum Abbey, Børglum",
@@ -73,6 +73,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gates 1–5 pass. Gate 1: whitewashed two-storey baroque complex on an open hill, hipped red/black tile roofs, triangular pediment over the central gateway, NO crow-stepped gables (matches the evidence anchor 'No stepped gables'); warm windows, overcast night, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Børglum Abbey, Børglum\", scenario 06:22 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T06:10:21Z unique to the second, valid 06:00, scenario 06:22 inside the 06:00–06:59 model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
   "approved_at": "2026-09-28T02:35:20.081890+00:00",
-  "sha256_16x9": "7b13063b5a2f6e8400aad76535b6b6d134f7b15c74b75ee2f0ef68058d97ff78",
-  "sha256_4x5": "8d56f1bf226cacec540df89276f0d02970b36764de3f3b015af1cacb19697fdb"
+  "sha256_16x9": "01b3e8d53092275e487c57aaaec197462cc1fd74b08ea7fe40fa4a282502cded",
+  "sha256_4x5": "e453c50f20546b38f0e9c9a81fe834c5536b79c5dc0a46258ecf8ea547d6610e"
 }

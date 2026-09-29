@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Ilulissat/dk-01-078-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "7e850f5f8f147eecb3cc6f7550794b5819f6b0f1830dfc8bea3d15753e02c419",
-      "4x5": "253afa3b58683214962c7f823b807afaa6563f467b3b6f093c33d8ed2cf3901c"
+      "16x9": "92cac04fa02c4942b3d3ef017fd08e2877a37ce25f642f61d9254c3139926558",
+      "4x5": "63700a971950e0b7eae51df91367b68955e696dbf3d9364428f4cb47dbd66582"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Disko Bay, Ilulissat",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: moonlit Disko Bay with drifting icebergs and a wooden shore church (Zion Church form) under a starry sky - the classic Ilulissat night viewpoint, no artifacts. Gate 2: exact masters, signature/caption 'Disko Bay, Ilulissat'/scenario '25 September 2026 · 01:43 Europe/Copenhagen'/disclosure all verified on-image; scenario hour inside model hour 01:00-01:59; clear starry moonlit sky is consistent with the note's Clear/0% cloud/-0.5C evidence; retrieval 23:18:54 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos - documented only.",
   "approved_at": "2026-09-26T03:22:24.440119+00:00",
-  "sha256_16x9": "31915050b362ec67eeb5f794b617d75e3e3e9c5a4d2228b7bec49228ff8fdbde",
-  "sha256_4x5": "d4fbc6cc5e8f618ad1d9e5a0bd7c50dfec8260af02235d4672a582e43aeeabc2"
+  "sha256_16x9": "e5228bcb83dcd48e886654c86ad22f0685d59928c4ba28d5f2750843ce08b14f",
+  "sha256_4x5": "6c23eed99392fd4e21997ae5fc9b8ac4497455aa4856fe80a0ad75f3268a6d56"
 }

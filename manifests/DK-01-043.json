@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Møgeltønder/dk-01-043-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "84fceec2b0d73504ebe09c0061bc01d471321407ee2f1a09d76bfeefbbc4c96b",
-      "4x5": "9bfe872f9f56a61fc3acc8f7c7bdab403ae5f5b10bf73cad248debfbd55b1ac2"
+      "16x9": "3c68cccb2d4816f7a42bc467536392ddd1c000d90fc400b24fb185f70bd828e3",
+      "4x5": "8d400e9ed7d9431767fb6eb2b38ad6c6a8bdda22100f3c8c682f314778dc67d2"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Slotsgade, Møgeltønder",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: night — tree-lined cobbled Slotsgade with brick houses and streetlamps, white Schackenborg manor in the far distance — matches Mogeltonder's Slotsgade anchors. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Slotsgade, Mogeltonder', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:14 Europe/Copenhagen (HTTP Date 21:09:14 GMT), valid 00:45 step, is_day 0, partly cloudy 10.9C 79% cloud, wind 5.8 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: distant private manor — documented only; no people/logos. Gate 5 PASS.",
   "approved_at": "2026-09-26T00:32:16.122852+00:00",
-  "sha256_16x9": "413fe14d1f06195ba08bce1ada9e806b0171430e93ca07f3e4d2d723754b80c1",
-  "sha256_4x5": "69f5ca5fc7c95c59a8949e3f739c0a56fbe02f3a3b0ce7e694f74c0af97423fc"
+  "sha256_16x9": "70fd8faae3168e3c58b4851a2120c38a33f63dc769e6fa88777af3191c5f7bbb",
+  "sha256_4x5": "0b57da901e582830169ee07c745bfe8a88184a28c4762b616d4edb0adaf7c0fc"
 }

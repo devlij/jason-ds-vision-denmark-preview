@@ -16,6 +16,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
   "approval_basis": "Gate 1: red-brick Gothic church with tall copper-spired tower and stepped gables on a town square with trees; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:25:04 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:28 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T14:16:13.943772+00:00",
-  "sha256_16x9": "f24d1e06c54d40e197e8fb5a32ba8f539a0f919ec2162ac4871195291249d344",
-  "sha256_4x5": "0aab4c327e97fbf2fb92dacef96dc07a9f24e8879531aa2005e81a6630a1e3cf"
+  "sha256_16x9": "c2bc07027d0df84a8488dcb97f22945e90fc0baee77366ba3e0f2457c87951e2",
+  "sha256_4x5": "51718971527178b405256ef45e6b60cde29a555f1d3d893ed0db73def9144f5f"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Sakskøbing/dk-01-106-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "87b01796d79f8f3d2683979e540b281ee1c4db48891d721bde18b20ef64fc3a4",
-      "4x5": "6f29982b7c2ead473be16172628edd1ed846d9f7c3c1cc0fc8d17296423b19ec"
+      "16x9": "32d72b6a7964c6a5da94e0ffba610c343bc533d22ac01e6abc5d392e3ea000fe",
+      "4x5": "91b88b2768a9ff5f105e724fff61f2ff7e9269aca32f3caabbc21594b4f093b5"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Sakskøbing, Sakskøbing",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: night view of a tall brick church with dark spire left, narrow fjord waterway crossed mid-frame by a low bridge, red-tile town roofs — matches Sakskøbing's fjord/bridge/spire anchors, plausible waterfront viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Sakskøbing, Sakskøbing', scenario 'Scenario: 25 September 2026 · 02:16 Europe/Copenhagen', 'AI-generated artistic interpretation · Not a photograph.' disclosure, 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:16 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:20:04 Europe/Copenhagen — unique to this scene, verified repo-wide against the covering BATCH notes, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs; generic roofs only. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:28:00.633771+00:00",
-  "sha256_16x9": "e91d7cac99eaad417b60ca5420d88c9bd1180e98837a3313d13b62b6917a4727",
-  "sha256_4x5": "1440a20cbda31ab78abad658b575ec2ca60af1f8ec609c760a86b28158ec0e1c"
+  "sha256_16x9": "deb85a871c12b4fc57c38be6824fbc82fcac7b5c4e6cd627cac20bd7e4b4df62",
+  "sha256_4x5": "341e52bc32a4a0bb8a6f9f9c9b1402e241013cbf7defdff487bb54185c17793f"
 }

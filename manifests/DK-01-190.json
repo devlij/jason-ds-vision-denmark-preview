@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Korsør/dk-01-190-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "454b05936e16cf773cc11b86d5d2e5fa1b2910a711df7a9d8e0b041dca10f4d2",
-      "4x5": "6c443243c78507a97cae721316eb34540f0f1a53787606eba42e47b4d4b6bcad"
+      "16x9": "22c1ff78ea25f3aed38371c383990a7a9a224e81709dab04ec8a61eb749ba7ab",
+      "4x5": "ea2ff9edd8c6b021c47ce3278718e9f383d0dc192a3daf4ab97e7cbef17c7542"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Korsør Fortress, Korsør",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "G1: red-brick tower and long garrison block atop grassed ramparts above a moat, cobbled causeway in foreground, storm clouds at night; G2: exact dims, on-image strings verified, scenario 04:08 inside 04:00-04:59, retrieved 25 September 2026 23:30:24 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no logos; G5: clean.",
   "approved_at": "2026-09-26T11:19:49.317540+00:00",
-  "sha256_16x9": "f966a08fdee03354416d84ea0737b1a6bf1c85c6b8eb3c4a69191e8f4e92f630",
-  "sha256_4x5": "7655359209708247df7ec49a4bcf2e1bfdfcef1b5dbc546661616c1ff750f0a3"
+  "sha256_16x9": "379b82805025897d263f85880d9563c16c13ddac4732545ad5fd89ab5b4fc08e",
+  "sha256_4x5": "95aa221b5573069afe7f4703eaedf9690d3d20aefa3b5cf33b441958bc5b1950"
 }

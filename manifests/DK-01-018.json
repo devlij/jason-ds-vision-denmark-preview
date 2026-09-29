@@ -16,8 +16,8 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: Strøget at Amagertorv at night — pedestrian street receding between lit shopfronts and lamps, the Amagertorv fountain right, dark overcast sky, plausible tourist viewpoint on the street. Gate 2 PASS: masters exact 1920x1080/864x1080; on-image 'Strøget, Copenhagen', scenario '25 September 2026 · 00:30 Europe/Copenhagen', AI disclosure and 'Jason D's Vision' curly signature on bottom gradient, legible; weather retrieved 25 September 2026 23:08:25 Europe/Copenhagen for 55.6786,12.5790 (separate request, unique repo-wide), model-valid hour 00:00–00:59 and 00:30 model step containing scenario 00:30, is_day 0. Gate 3 PASS: text-prompt-only, no photographic reference pixels per note. Gate 4 noted: no readable logos on shopfronts, no people — documented only. Art. 50 chunks present.",
   "approved_at": "2026-09-25T22:28:35.791800+00:00",
-  "sha256_16x9": "e2c20e878d4d30c296a77ff0386ca4442fc63d9a8492e1d55768d7c4c129fdc1",
-  "sha256_4x5": "741ed1e2ad91a9695a9d08d0e96fe01df3bff65c7dcdcd343b7a9e86c2cee754",
+  "sha256_16x9": "002b76f029f1e6d8fb47fef20ff58fd2d7fe61f3b4b85bf8c1cf3688f76f4735",
+  "sha256_4x5": "90f11692a32fe5b3767cb7a3da7041f328b9831b6f114049b388c1a674bd4ef8",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-018",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-018-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-018-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "e871874630295903ef9d3a17dc2197d9e2a1487c7b3b3e22f467749f775c3d6a",
-      "4x5": "47a0e51e5dec0a5de4581a1643000c76b2f4fb0048c08785e556299088630dcf"
+      "16x9": "0667176ec2b50793c4a52511e7bdf7447568ece5466c321f5d04c25344ba54c6",
+      "4x5": "ba5babf10d61776129c9d271286a80cbe08dbccc10afdb93ec413d7669ed9f51"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Strøget, Copenhagen",

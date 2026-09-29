@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Hornbæk/dk-01-259-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "dc54f2defddf6f87a931cd2e59102832e025984fdf47273768378dceedf4b31c",
-      "4x5": "6cfccbcd9bf4b635dad54da64add1e321dd67d6c9c48e18c4f40d90ca993e62f"
+      "16x9": "b2b243454577b44d517cf92a05d3c7561ded96abce279ce679d586b7e50d1d6f",
+      "4x5": "88136df610e613a439c95300507f84335c6884aa7e507459640d2f77c371b32f"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Hornbæk Harbour, Hornbæk",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
   "approval_basis": "Gate 1 pass: the 16:9 master shows the wooden pier with fishing boats, lamp-lit boathouses and a rock breakwater with warm lamp reflections on still water under overcast pre-dawn — a plausible Hornbæk harbour view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Hornbæk Harbour, Hornbæk' and scenario '25 September 2026 · 06:56 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:33, confirmed unique repo-wide across all 365 notes, and 06:56 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable signage or logos. All five gates pass.",
   "approved_at": "2026-09-26T15:26:45.432099+00:00",
-  "sha256_16x9": "1b17a652885b0c78ef0b56d591639c42abcf6529baad140e22c11f105c9f0ecc",
-  "sha256_4x5": "fc80eca623110f59e494095ff702c1576133babfa8f8ac63bd7dbf6474869e84"
+  "sha256_16x9": "8fe796971e35855f496a96db0f32f9e635cbf575957798b5f62b336cf569ca38",
+  "sha256_4x5": "2efacb0529e1e93c7a9245ba96ccb77665ea9f8b4dee39ccfc60d7cc967efc68"
 }

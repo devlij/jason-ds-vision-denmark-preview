@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Skagen/dk-01-059-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "af360fdaa60ef3be576d15973d62bb37b9032c7b7ffc820eb1ab8f69547b6028",
-      "4x5": "4e1c93afa1d6c89dd4aaf05670cd702691780b183611378193e43bb7b8aaff39"
+      "16x9": "73a2b781a7285ba9253fecc674929ec37232f026a2a0658b02b1434ba9ca5c76",
+      "4x5": "65cadea26c164ece382408ffd95a27bc762009e8c5f1942a1617ba1332c95b82"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Sand-Buried Church, Skagen",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Sand-Buried Church at night: the whitewashed tower with stepped gable rising from the Skagen dunes, marram grass and low pines around; on-image caption 'Sand-Buried Church, Skagen', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:35 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no signs; all five gates pass.",
   "approved_at": "2026-09-26T01:22:09.399901+00:00",
-  "sha256_16x9": "90f2e744880f91f1a85e0055c5724fb0dab92a9add6c8af1da8bb2ed9cfe7bf8",
-  "sha256_4x5": "806fd7a5be07faef9ac5bb88f5a1d9e075a3073572d084f4479c88dc8e4be78f"
+  "sha256_16x9": "dd8313ab365145d37c687bbfc791c2a5e0399b6661a8a63a44824a2e465c49ac",
+  "sha256_4x5": "f41ff40699fd570ec0df522f879dbbb2fb11a092fe23259e069936e5695d1b20"
 }

@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Nykøbing Falster/dk-01-182-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "1bd95c1a31ce07d2ff3f7e881b625cd47a92f8ae1e76009519ca63c321a2217d",
-      "4x5": "cd7f183e7d1017ae0a731eb615bcc2dcc06f0b4482858a7615deaa0af10a5220"
+      "16x9": "05f31a35da6543a798623ec7b15bc2b914f0908a59c4508380991b49753c2309",
+      "4x5": "fff933a0db82bbf4afed1b2d07b3383a39051a6f38f7b40ca23cd935f2c8dd46"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Klosterkirken, Nykøbing Falster",
@@ -46,6 +46,6 @@
   "qc_status": "Approved - Cosmo QC 5/5 - Night",
   "approval_basis": "Gate 1: long red-brick Gothic church with buttresses, pointed windows, stepped gable, and a north-side tower with an onion spire, beside a lower west wing — the street empty, overcast night — matching the card description; clean framing, no artifacts, plausible tourist viewpoint. Gate 2: masters exact 1920x1080/864x1080; caption 'Klosterkirken, Nykobing Falster', scenario '25 September 2026 - 04:07 Europe/Copenhagen', and 'AI-generated artistic interpretation - Not a photograph.' disclosure bottom-left, 'Jason D's Vision' signature bottom-right, legible; scenario 04:07 inside model-valid hour 04:00-04:59; Open-Meteo retrieval 25 September 2026 23:29:30 Europe/Copenhagen per the builder note, verified unique across all 365 Denmark notes. Gate 3: text-prompt-only, no photographic inputs reported. Gate 4: no identifiable people, logos, or readable signs — documented only. Gate 5: ready.",
   "approved_at": "2026-09-26T10:26:26.158958+00:00",
-  "sha256_16x9": "47e087f85a67f67ad562325f456218573c997c808eb5446d93b62a9bbd6cfd9e",
-  "sha256_4x5": "7f42917618188cd73ba59c013d6e2bf70307cb98676d1a4278777875b48c5cdf"
+  "sha256_16x9": "7a344c0f2bde8c342b54ab20ed74428a7a5c42f5f1c266571ab82dceff563fdb",
+  "sha256_4x5": "1528711628bfe9d8ff026cecd96404e8e9451f157720e729fe33ffe23219dafd"
 }

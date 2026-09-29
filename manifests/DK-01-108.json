@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Rudkøbing/dk-01-108-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "8346873032447d9e789efb9806e578364927692ce9722c43dad9cfdb3923f12c",
-      "4x5": "6d376711adbdeeb368f9be3d24a40724a234fb0d5385ee404a9e167905b2851a"
+      "16x9": "e70f9dff3121eecf2b3d9494215bbd9c455b3dcce78d8cf190bb07a2ed1392da",
+      "4x5": "ce6ca61d38d98516ac19a3b3cc1d0fe4b42e7c5cd27f56a734abb113652691d5"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Rudkøbing Harbour, Rudkøbing",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1: night harbour basin with ~7 moored motorboats, warehouses on the left quay, low red-tile-roof houses across, prominent red-brick quay building with domed tower right (customs house character) — matches Rudkøbing Harbour's quay anchors, plausible harbour-side viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Rudkøbing Harbour, Rudkøbing', scenario 'Scenario: 25 September 2026 · 02:17 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:17 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:20:06 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs; generic warehouses and houses. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:28:16.789552+00:00",
-  "sha256_16x9": "5ef2e1e70b9cdaee7c4a16a6c5654ea2f1842a4654a263500c1062e4b93e1f92",
-  "sha256_4x5": "83a83f2555e04cf0e45e7045e646e81a1a851343d4bfae55edd7fca251f3d215"
+  "sha256_16x9": "90dc928628e654b8d8a13d181410873ed5970d5b534b69ca615c42eb17e264b8",
+  "sha256_4x5": "eccb4407d366ef53ffc4240225c12563efb00fd84da515f9202ca3cecbb1018b"
 }

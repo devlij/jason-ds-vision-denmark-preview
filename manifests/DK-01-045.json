@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Kolding/dk-01-045-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "ed44da2077d4b0f9b04e809ad3c641a96925679aa02f6335bbaa353664390ba2",
-      "4x5": "a742d184099b0c82bf7277d8f2b3b793edda9436a510e084cc18a0151ecbd901"
+      "16x9": "cdaacc6b5185389aa67caebcff816450df1a6153785431aa839a9178232bc475",
+      "4x5": "8e29e4f9f361d46c56f8fdfb1116e2401162eed09354b700338d674af505c1ee"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Koldinghus, Kolding",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Gate 1 PASS: night — Koldinghus castle on the water with its distinctive skeletal lattice Giant Tower floodlit, reflections in the lake — matches Koldinghus exactly (Exner tower reconstruction). Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Koldinghus, Kolding', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:18 Europe/Copenhagen (HTTP Date 21:09:18 GMT), valid 00:45 step, is_day 0, overcast 11.6C 89% cloud, wind 10.1 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
   "approved_at": "2026-09-26T00:31:04.596644+00:00",
-  "sha256_16x9": "2e52f7b976b4a465ca744dea44f4a0c2a98c3f7a136dffded15b410286d79877",
-  "sha256_4x5": "eb516f696676808a2e58b011a2d5664e68c1a49f273b1c447160025953c83ae5"
+  "sha256_16x9": "b2189920d47cc5be0a6b4442a4b53211d58d150086b1215c3611521470a88d5d",
+  "sha256_4x5": "9120981fd1bb92844da4e40e6a0f9e919dc2100620f5bade38ad637e47dd5466"
 }

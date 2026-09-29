@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Vedbæk/dk-01-268-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "01bd424d6ec11d59c72def4d23c207fe8891efc69b451f8a9abf657535a87cb5",
-      "4x5": "31dab455dd2e3f5a0717ce32f7e1d1aa503e5a677dfb3e52975b8cd24e3e44c3"
+      "16x9": "a997605c5da5a3507f087c0ff904c15dd722bfb5fe3708b1365b5b979d7af91d",
+      "4x5": "9dea98bc2e64b90a2b76c23d2ae98115784dfc963ec6f72594b926d86cb8b2ef"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Vedbæk Harbour, Vedbæk",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Dawn",
   "approval_basis": "Gate 1: dawn marina view — covered sailboats moored along weathered wooden jetties, low red-roofed cottages along the quay, a stone breakwater running right into dark water; clean framing, no artifacts, plausible Vedbæk tourist viewpoint. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject side-by-side. On-image caption 'Vedbæk Harbour, Vedbæk', scenario '25 September 2026 · 06:57 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' bottom-left on a gradient scrim, 'Jason D's Vision' (curly apostrophe) bottom-right, all legible. Weather: Open-Meteo retrieval 25 September 2026 06:53:50 Europe/Copenhagen — verified unique to the second across all 408 repo note files; scenario 06:57 sits inside the cited model-valid hour 06:00–06:59. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no visible people, no readable logos; only generic shoreline houses documented. Gate 5: publication-ready.",
   "approved_at": "2026-09-26T16:33:08.564411+00:00",
-  "sha256_16x9": "6598e97b07445505e9325bc14be8b91d2762cfeb215a216a9f1a32e8c08af70d",
-  "sha256_4x5": "2ea90ea7c835c8ef854a60860be0daacf7ed81e12ca2e57caba51e3213138515"
+  "sha256_16x9": "47043c6d840537160bfc7abeda8be91815bb49c12bf206026721249342344d91",
+  "sha256_4x5": "dddad5e3582b1fe059f1cece6b74407203f44f79e7bb2d016a310113460aee4b"
 }

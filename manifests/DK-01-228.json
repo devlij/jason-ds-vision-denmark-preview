@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Frederikshavn/dk-01-228-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "91cf1545af536bf5b423a5eed101c3910c42a17bbc94461539b31e1c3e99363a",
-      "4x5": "0ffb90ab90072dfa19dc621012c2b2c5ba11ac943d592455e7771f8694b371ca"
+      "16x9": "181e134d1b50df3d85c29de93db5eeaa4b133454fb913fe069678b31b2136480",
+      "4x5": "0779cae61a6f2e3e440bd551372961ac6db29a104ff8d06e41357935e406de78"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Krudttårnet, Frederikshavn",
@@ -46,6 +46,6 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the round brick powder tower on its grassy mound under two floodlights; plausible tourist viewpoint for 'Krudttårnet, Frederikshavn', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Krudttårnet, Frederikshavn', 'Scenario: 25 September 2026 · 06:22 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-228 claims one Open-Meteo retrieval at 25 September 2026 06:10:18 Europe/Copenhagen valid 25 September 2026 06:00 Europe/Copenhagen — scenario 06:22 falls inside the cited 06:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:25:33.143794+00:00",
-  "sha256_16x9": "6cbc1546c5c2c319d1e914d45e2da1ac677dead4ec702c87daa91171340174e2",
-  "sha256_4x5": "93993c0a7e5def7d8e21235345d28d7fceddeb29d3bc30c2e26a08ddc4f26960"
+  "sha256_16x9": "3f1d382a1c3a468b7f5970119413ae0f820430bbf131780e099a25f0146052dd",
+  "sha256_4x5": "474dddaab3730265b7325bc3bb1b571ed2425dcb46d77d5f9ca98ae3a7109378"
 }
