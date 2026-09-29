@@ -4,64 +4,69 @@
   "region": "Funen",
   "city": "Svendborg",
   "caption": "Christiansminde, Svendborg",
-  "scenario_label": "25 September 2026 · 14:32 Europe/Copenhagen",
-  "composition": "A wooden bathing pier and a wooded sound shore · AI-generated artistic interpretation",
-  "description": "From the shore path, Christiansminde is a wooden bathing pier with railings and small plain changing huts, with dark sound water and a beech slope still in leaf. The pier is empty. The afternoon is partly cloudy, about 16.9°C.0°C. Broken cloud breaks the afternoon sun. The harbour warehouses and the sound bridge are not in this frame.",
+  "scenario_label": "25 September 2026 \u00b7 14:32 Europe/Copenhagen",
+  "composition": "A wooden bathing pier and a wooded sound shore \u00b7 AI-generated artistic interpretation",
+  "description": "From the shore path, Christiansminde is a wooden bathing pier with railings and small plain changing huts, with dark sound water and a beech slope still in leaf. The pier is empty. The afternoon is partly cloudy, about 16.9\u00b0C.0\u00b0C. Broken cloud breaks the afternoon sun. The harbour warehouses and the sound bridge are not in this frame.",
   "alt_text": "AI-generated artistic interpretation of Christiansminde in Svendborg in the afternoon, a wooden pier and a wooded shore",
   "file_16x9": "Denmark/Svendborg/dk-01-193-16x9.png",
   "file_4x5": "Denmark/Svendborg/dk-01-193-4x5.png",
-  "license_badge": "Free · no credit needed",
+  "license_badge": "Free \u00b7 no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
     {
       "at": "2026-09-25T04:16:14.490516+00:00",
       "by": "Cosmo QC",
-      "note": "Gate 2 FAIL (held as Candidate): build note cites Open-Meteo retrieval 25 Sep 2026 04:22 / valid 04:15 — the SAME retrieval timestamp is cited for DK-01-195 and DK-01-196 (three scenes share one fetch). Per QC rule, one retrieval must not be reused across multiple scenes (DK-193-208 Spain-pattern failure). Gate 1 visual passed independently (night pier/boathouses at Christiansminde, caption/signature/scenario legible on-image); gates 3-4 recorded as claims/notes-only. Held until the builder re-fetches per-scene weather and re-pushes."
+      "note": "Gate 2 FAIL (held as Candidate): build note cites Open-Meteo retrieval 25 Sep 2026 04:22 / valid 04:15 \u2014 the SAME retrieval timestamp is cited for DK-01-195 and DK-01-196 (three scenes share one fetch). Per QC rule, one retrieval must not be reused across multiple scenes (DK-193-208 Spain-pattern failure). Gate 1 visual passed independently (night pier/boathouses at Christiansminde, caption/signature/scenario legible on-image); gates 3-4 recorded as claims/notes-only. Held until the builder re-fetches per-scene weather and re-pushes."
     },
     {
       "at": "2026-09-25T05:17:00.325632+00:00",
       "by": "Cosmo QC",
-      "note": "Gate 2 FAIL (Cosmo QC, 2026-09-25): weather retrieval reused across scenes — the ES-01-334–365 Spain failure mode. Build-agent claims (approvals/BATCH-DK-01-193-208.txt) cite the same Open-Meteo retrieval '25 September 2026 04:22 Europe/Copenhagen, valid 04:15' for this scene and nine others (DK-01-193/195/196/200/203/204/205/206/207/208), and a second fetch '04:14, valid 04:00' for six more (DK-01-194/197/198/199/201/202). One fetch must not serve multiple scenes. Held as Candidate until the builder re-retrieves weather per scene with distinct timestamps and re-pushes."
+      "note": "Gate 2 FAIL (Cosmo QC, 2026-09-25): weather retrieval reused across scenes \u2014 the ES-01-334\u2013365 Spain failure mode. Build-agent claims (approvals/BATCH-DK-01-193-208.txt) cite the same Open-Meteo retrieval '25 September 2026 04:22 Europe/Copenhagen, valid 04:15' for this scene and nine others (DK-01-193/195/196/200/203/204/205/206/207/208), and a second fetch '04:14, valid 04:00' for six more (DK-01-194/197/198/199/201/202). One fetch must not serve multiple scenes. Held as Candidate until the builder re-retrieves weather per scene with distinct timestamps and re-pushes."
     },
     {
       "at": "2026-09-25T06:16:52.946477+00:00",
       "by": "Cosmo QC",
-      "note": "Gate 2 FAIL: Open-Meteo weather cited as a single retrieval at 25 Sep 2026 04:22 Europe/Copenhagen (valid 04:15) reused across DK-01-193, DK-01-195, DK-01-196 — the DK-193-208 shared-retrieval pattern; one fetch may not serve multiple scenes. Gate 1 visual pass: night bathing beach at Christiansminde with wooden pier with railings, changing huts, beech slope, distant Svendborg lights; signature 'Jason D's Vision', caption, scenario 04:22 and AI disclosure on-image bottom, legible. Held as Candidate pending per-scene weather retrieval."
+      "note": "Gate 2 FAIL: Open-Meteo weather cited as a single retrieval at 25 Sep 2026 04:22 Europe/Copenhagen (valid 04:15) reused across DK-01-193, DK-01-195, DK-01-196 \u2014 the DK-193-208 shared-retrieval pattern; one fetch may not serve multiple scenes. Gate 1 visual pass: night bathing beach at Christiansminde with wooden pier with railings, changing huts, beech slope, distant Svendborg lights; signature 'Jason D's Vision', caption, scenario 04:22 and AI disclosure on-image bottom, legible. Held as Candidate pending per-scene weather retrieval."
     },
     {
       "at": "2026-09-25T07:16:15.354664+00:00",
       "by": "Cosmo QC",
-      "note": "Gate 2 HOLD (weather retrieval reuse): Open-Meteo retrieval cited as 25 Sep 2026 04:22 Europe/Copenhagen in approvals/DK-01-193.md and BATCH-DK-01-193-208.txt — the identical minute shared with DK-01-195, DK-01-196, DK-01-200. Matches the builder's self-disclosed reuse pattern (Spain failure mode). Held at Gate 2 until builder corrects with a per-scene retrieval and re-pushes. Gates 1/3/4/5 unaudited this run."
+      "note": "Gate 2 HOLD (weather retrieval reuse): Open-Meteo retrieval cited as 25 Sep 2026 04:22 Europe/Copenhagen in approvals/DK-01-193.md and BATCH-DK-01-193-208.txt \u2014 the identical minute shared with DK-01-195, DK-01-196, DK-01-200. Matches the builder's self-disclosed reuse pattern (Spain failure mode). Held at Gate 2 until builder corrects with a per-scene retrieval and re-pushes. Gates 1/3/4/5 unaudited this run."
     },
     {
       "at": "2026-09-25T08:16:43.617398+00:00",
       "by": "Cosmo QC",
-      "note": "Gate 2 FAIL (held as Candidate): weather evidence untrustworthy — notes cite Open-Meteo retrieval '25 Sep 2026 04:22 Europe/Copenhagen, valid 04:15' which is the same single 04:22 fetch cited for DK-01-193/195/196/200/203-208 (the Spain ES-01-334-365 reuse pattern the builder self-disclosed for DK-193-208). One retrieval must not back multiple scenes. Visual Gate 1 passed (wooden bathing pier with ramp, plain changing huts, beech slope, dark sound, empty pier at night — matches Christiansminde). On-image caption 'Christiansminde, Svendborg' + scenario '25 September 2026 · 04:22 Europe/Copenhagen' + AI disclosure + curly-apostrophe 'Jason D's Vision' signature all present and legible. Notes claim text-prompt-only (Gate 3 ok), no people/logos (Gate 4 documented). Held until builder re-pushes with a fresh per-scene weather retrieval."
+      "note": "Gate 2 FAIL (held as Candidate): weather evidence untrustworthy \u2014 notes cite Open-Meteo retrieval '25 Sep 2026 04:22 Europe/Copenhagen, valid 04:15' which is the same single 04:22 fetch cited for DK-01-193/195/196/200/203-208 (the Spain ES-01-334-365 reuse pattern the builder self-disclosed for DK-193-208). One retrieval must not back multiple scenes. Visual Gate 1 passed (wooden bathing pier with ramp, plain changing huts, beech slope, dark sound, empty pier at night \u2014 matches Christiansminde). On-image caption 'Christiansminde, Svendborg' + scenario '25 September 2026 \u00b7 04:22 Europe/Copenhagen' + AI disclosure + curly-apostrophe 'Jason D's Vision' signature all present and legible. Notes claim text-prompt-only (Gate 3 ok), no people/logos (Gate 4 documented). Held until builder re-pushes with a fresh per-scene weather retrieval."
     },
     {
       "at": "2026-09-25T09:20:39.650164+00:00",
       "by": "Cosmo QC",
-      "note": "Cosmo QC HOLD — Gate 2 FAILED (2026-09-25): builder notes cite one Open-Meteo retrieval timestamp for this scene (04:22/04:15 Europe/Copenhagen), the identical timestamp is cited across multiple scenes (shared with DK-01-195, DK-01-196, DK-01-200). One model retrieval reused across scenes = the self-disclosed DK-193–208 pattern (Spain ES-01-334–365 failure mode). Scenario hour itself falls inside the cited valid hour. Held as Candidate until the builder re-fetches per-scene weather and re-pushes corrected notes. Visual skim: wooden bathing jetty with railings, two timber changing cabins, lit path lamps over dark sound water; caption/signature/disclosure legible; no people/logos."
+      "note": "Cosmo QC HOLD \u2014 Gate 2 FAILED (2026-09-25): builder notes cite one Open-Meteo retrieval timestamp for this scene (04:22/04:15 Europe/Copenhagen), the identical timestamp is cited across multiple scenes (shared with DK-01-195, DK-01-196, DK-01-200). One model retrieval reused across scenes = the self-disclosed DK-193\u2013208 pattern (Spain ES-01-334\u2013365 failure mode). Scenario hour itself falls inside the cited valid hour. Held as Candidate until the builder re-fetches per-scene weather and re-pushes corrected notes. Visual skim: wooden bathing jetty with railings, two timber changing cabins, lit path lamps over dark sound water; caption/signature/disclosure legible; no people/logos."
     },
     {
       "at": "2026-09-25T10:16:54.933901+00:00",
       "by": "Cosmo QC",
-      "note": "HOLD Gate 2 (Cosmo QC): weather-retrieval reuse. Notes cite one Open-Meteo fetch 'retrieved 25 September 2026 04:22 Europe/Copenhagen' for this scene, reused unchanged across DK-01-195, DK-01-196, DK-01-200 and DK-01-203–208. One retrieval must not serve multiple scenes (ES-01-334–365 precedent). Gate 1 PASS: night shore at Christiansminde Badestrand — wooden bathing pier with railings, two plain changing huts, beech slope, Svendborg town lights across the sound; exact caption 'Christiansminde, Svendborg', scenario '25 September 2026 · 04:22 Europe/Copenhagen', exact 'Jason D's Vision' signature and disclosure, both masters at exact dimensions. Held as Candidate until the builder re-fetches weather per scene and re-pushes."
+      "note": "HOLD Gate 2 (Cosmo QC): weather-retrieval reuse. Notes cite one Open-Meteo fetch 'retrieved 25 September 2026 04:22 Europe/Copenhagen' for this scene, reused unchanged across DK-01-195, DK-01-196, DK-01-200 and DK-01-203\u2013208. One retrieval must not serve multiple scenes (ES-01-334\u2013365 precedent). Gate 1 PASS: night shore at Christiansminde Badestrand \u2014 wooden bathing pier with railings, two plain changing huts, beech slope, Svendborg town lights across the sound; exact caption 'Christiansminde, Svendborg', scenario '25 September 2026 \u00b7 04:22 Europe/Copenhagen', exact 'Jason D's Vision' signature and disclosure, both masters at exact dimensions. Held as Candidate until the builder re-fetches weather per scene and re-pushes."
     },
     {
       "at": "2026-09-25T11:16:55.413698+00:00",
       "by": "Cosmo QC",
-      "note": "Gate 2 HOLD (Cosmo QC): the batch note for DK-01-193 cites the same Open-Meteo retrieval timestamp (04:22 25 Sep 2026) that is cited for DK-01-195, DK-01-196, DK-01-200 — one retrieval reused across multiple scenes, the Spain ES-01-334–365 failure mode, so the weather claim cannot be trusted as a per-scene retrieval. Visual review of the 16:9 master (jetty, two beach huts, Svendborg lights across the water at night) shows a plausible night tourist viewpoint with exact caption, 04:22 scenario string, AI disclosure and 'Jason D's Vision' signature — Gate 1 layer is sound — but Gate 2 cannot pass until the builder re-fetches per-scene weather and re-pushes corrected masters."
+      "note": "Gate 2 HOLD (Cosmo QC): the batch note for DK-01-193 cites the same Open-Meteo retrieval timestamp (04:22 25 Sep 2026) that is cited for DK-01-195, DK-01-196, DK-01-200 \u2014 one retrieval reused across multiple scenes, the Spain ES-01-334\u2013365 failure mode, so the weather claim cannot be trusted as a per-scene retrieval. Visual review of the 16:9 master (jetty, two beach huts, Svendborg lights across the water at night) shows a plausible night tourist viewpoint with exact caption, 04:22 scenario string, AI disclosure and 'Jason D's Vision' signature \u2014 Gate 1 layer is sound \u2014 but Gate 2 cannot pass until the builder re-fetches per-scene weather and re-pushes corrected masters."
     },
     {
       "at": "2026-09-25T12:17:55.561801+00:00",
       "by": "Cosmo QC",
-      "note": "Gate 2 HOLD (Cosmo QC, 2026-09-25): weather-retrieval reuse — approvals/BATCH-DK-01-193-208.txt cites one shared Open-Meteo retrieval (04:22 or 04:14 Europe/Copenhagen) across many scenes, same Spain ES-01-334–365 failure mode. Scenario hour 04:22 on-image is inside the model-valid hour; mechanical, caption, signature, disclosure all verified on-image. Held as Candidate until the builder re-retrieves weather per scene and re-pushes."
+      "note": "Gate 2 HOLD (Cosmo QC, 2026-09-25): weather-retrieval reuse \u2014 approvals/BATCH-DK-01-193-208.txt cites one shared Open-Meteo retrieval (04:22 or 04:14 Europe/Copenhagen) across many scenes, same Spain ES-01-334\u2013365 failure mode. Scenario hour 04:22 on-image is inside the model-valid hour; mechanical, caption, signature, disclosure all verified on-image. Held as Candidate until the builder re-retrieves weather per scene and re-pushes."
+    },
+    {
+      "at": "2026-09-29T05:08:32.863224+00:00",
+      "by": "Cosmo QC",
+      "note": "Gate 2 hold resolved (Cosmo QC, 2026-09-29): builder rework (commit 4a569d98, 2026-09-25 12:43 UTC) replaced the shared weather retrieval with a per-scene retrieval (14:32:43, cited once repo-wide per the 2026-09-29 repo-wide uniqueness scan); the weather-reuse hold is resolved and the existing approval stands on genuine reworked evidence. No re-render was needed \u2014 masters byte-unchanged since approval."
     }
   ],
   "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Afternoon",
-  "approval_basis": "Gate 1: wooden bathing jetty curving off the forested Christiansminde shoreline, broken afternoon cloud, clean framing. Gate 2: caption 'Christiansminde, Svendborg', scenario 25 Sept 2026 14:32 Europe/Copenhagen, 'Jason D's Vision' signature and AI disclosure verified on-image; own Open-Meteo retrieval 14:32:43 Europe/Copenhagen (unique to this scene), valid 14:30, scenario inside 14:00–14:59; 53% cloud matches depicted sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 PNG metadata present; both masters exact dims.",
+  "qc_status": "Approved \u00b7 Cosmo QC 5/5 \u00b7 Afternoon",
+  "approval_basis": "Gate 1: wooden bathing jetty curving off the forested Christiansminde shoreline, broken afternoon cloud, clean framing. Gate 2: caption 'Christiansminde, Svendborg', scenario 25 Sept 2026 14:32 Europe/Copenhagen, 'Jason D's Vision' signature and AI disclosure verified on-image; own Open-Meteo retrieval 14:32:43 Europe/Copenhagen (unique to this scene), valid 14:30, scenario inside 14:00\u201314:59; 53% cloud matches depicted sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 PNG metadata present; both masters exact dims.",
   "approved_at": "2026-09-25T12:52:35.384318+00:00",
   "sha256_16x9": "4fe1dc78f32a9fc86273fa4455c7d40db1947dc3e740d2177578531e3b871605",
   "sha256_4x5": "b25fca5c46ab42d5a2da974709deb40c50ede7d6292fff57c79acc1a6c288c9f"
