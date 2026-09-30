@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Råbjerg Mile at night, a bare sand dune under heavy cloud",
   "file_16x9": "Denmark/Kandestederne/dk-01-133-16x9.png",
   "file_4x5": "Denmark/Kandestederne/dk-01-133-4x5.png",
+  "file_9x16": "Denmark/Kandestederne/dk-01-133-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: vast wind-rippled sand dune under heavy overcast night sky, marram grass at the edges, no buildings; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Råbjerg Mile, Kandestederne', scenario '25 September 2026 · 02:50 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:27:09 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:27:09 GMT), model-valid 02:45, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:36.039269+00:00",
   "sha256_16x9": "098e11b96c9bed8a90da124544a94cd26de610fcb9f97bbb6a709bfa1bf1b4ab",
-  "sha256_4x5": "005592ddf3f46c0c963a5ba70e8b7d9b900d92900ec06f768fa890d365bee64b"
+  "sha256_4x5": "005592ddf3f46c0c963a5ba70e8b7d9b900d92900ec06f768fa890d365bee64b",
+  "sha256_9x16": "01e037e3f7ef1c9fc06ca0daed28d5edfb440582852495935783b73bfaa9a830"
 }

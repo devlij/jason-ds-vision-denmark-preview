@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Lindholm Høje at night, stone burial settings on a hill above the Limfjord",
   "file_16x9": "Denmark/Nørresundby/dk-01-130-16x9.png",
   "file_4x5": "Denmark/Nørresundby/dk-01-130-4x5.png",
+  "file_9x16": "Denmark/Nørresundby/dk-01-130-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: stone ship-settings on a grassy hill slope at night, city lights of the far shore across the fjord; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Lindholm Høje, Nørresundby', scenario '25 September 2026 · 02:49 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:27:04 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:27:04 GMT), model-valid 02:45, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:21.067601+00:00",
   "sha256_16x9": "4b62a8198edb73b2c32eb0772ba15062a847a818ea3b7c46912127a6fc461067",
-  "sha256_4x5": "b00d4f6ad37b8e0825abf93feb7651afba08bee0a1051e8d60f99a5388692312"
+  "sha256_4x5": "b00d4f6ad37b8e0825abf93feb7651afba08bee0a1051e8d60f99a5388692312",
+  "sha256_9x16": "47d44375d6aa751f84245799788bedd61b68d4fe6e7cb8ec544efc7b42b51913"
 }

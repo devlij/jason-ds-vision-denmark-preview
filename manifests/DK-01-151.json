@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Rungsted harbour at night, boats and low houses on the Øresund",
   "file_16x9": "Denmark/Rungsted/dk-01-151-16x9.png",
   "file_4x5": "Denmark/Rungsted/dk-01-151-4x5.png",
+  "file_9x16": "Denmark/Rungsted/dk-01-151-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Rungsted marina with moored sailboats between stone piers, lit low harbour houses and street lamps, overcast night — a plausible Danish harbour view matching the note's anchors, clean framing, no artifacts. Gate 2: on-image caption 'Rungsted Harbour, Rungsted', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:40 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no readable boat names or people visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:32:53.304796+00:00",
   "sha256_16x9": "b19d437e46c7d70754fadf08e310b7d2bdbd7f607a842797eeb98b5125b34543",
-  "sha256_4x5": "c76b8bfc7700b3fa560c105a0d41760829968ad62185fe4be2844a394687547e"
+  "sha256_4x5": "c76b8bfc7700b3fa560c105a0d41760829968ad62185fe4be2844a394687547e",
+  "sha256_9x16": "7db36010f026519806efb49bad51772c2e454f8760e918ddf0bd3a5f0c38dffb"
 }

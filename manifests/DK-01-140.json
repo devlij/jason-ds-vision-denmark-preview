@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Hvide Sande harbour at night, fishing boats in the canal through the dunes",
   "file_16x9": "Denmark/Hvide Sande/dk-01-140-16x9.png",
   "file_4x5": "Denmark/Hvide Sande/dk-01-140-4x5.png",
+  "file_9x16": "Denmark/Hvide Sande/dk-01-140-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: moonlit dune channel with fishing boats moored at a stone quay, a dark boathouse and a moon path on the water — matching Hvide Sande's Ringkøbing Fjord–North Sea canal geography. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Hvide Sande Harbour, Hvide Sande', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:21 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or readable names — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:31.195926+00:00",
   "sha256_16x9": "ba7de9e68f9cd62b0d78bf65b973ae5e7b8c1d1940d12e672c8a9255abc4b220",
-  "sha256_4x5": "c6d8dbe101c567f0cea82e51a87c9611bffce5d347af061f74f6d43d1a215b58"
+  "sha256_4x5": "c6d8dbe101c567f0cea82e51a87c9611bffce5d347af061f74f6d43d1a215b58",
+  "sha256_9x16": "03a19d638d48b8ab82487ca0a52db564b170f7b2b713ac735271346c143eee7b"
 }

@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of a Ribe old-town lane at night, half-timbered houses along a cobbled street",
   "file_16x9": "Denmark/Ribe/dk-01-142-16x9.png",
   "file_4x5": "Denmark/Ribe/dk-01-142-4x5.png",
+  "file_9x16": "Denmark/Ribe/dk-01-142-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: moonlit cobbled street flanked by half-timbered houses with warm wall lanterns under a starry sky — a plausible Ribe old-town night viewpoint matching its historic core. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Ribe Old Town, Ribe', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:25 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or readable signs — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:40.836341+00:00",
   "sha256_16x9": "cc18595130309d78a6051c1f95cd5d73759feacda72687b6d6b0ff728008f65a",
-  "sha256_4x5": "7b494c5c2e3e17ef225a633be8df0fe04ebcf0ee80174cb644d2ef58e43419e4"
+  "sha256_4x5": "7b494c5c2e3e17ef225a633be8df0fe04ebcf0ee80174cb644d2ef58e43419e4",
+  "sha256_9x16": "a3d87ed352a5e7140322edf6d2e8361858343029611a5fe223971d9fdd1db876"
 }

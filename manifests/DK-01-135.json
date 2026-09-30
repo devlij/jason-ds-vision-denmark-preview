@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Thisted harbour at night, boats and low warehouses on the Limfjord",
   "file_16x9": "Denmark/Thisted/dk-01-135-16x9.png",
   "file_4x5": "Denmark/Thisted/dk-01-135-4x5.png",
+  "file_9x16": "Denmark/Thisted/dk-01-135-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: moonlit night harbour with long brick warehouse buildings along the quay, moored fishing boats and a bright full moon with reflections on the water — a plausible Thisted night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Thisted Harbour, Thisted', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature present and legible; Open-Meteo retrieval 2026-09-25 23:27:13 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or readable boat names — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:05.698917+00:00",
   "sha256_16x9": "a1462d5c1951e317587a1617066befa73f98c140f376d6cc6a4f362c952ef56f",
-  "sha256_4x5": "b2b78a710a611812ed70c3a84c3b8d4947d95fdbaece11af62c2d20226a88c95"
+  "sha256_4x5": "b2b78a710a611812ed70c3a84c3b8d4947d95fdbaece11af62c2d20226a88c95",
+  "sha256_9x16": "e45c766863274c94a422d1175576e951f19bc00f0fb6ee586b0993d6e73f5d00"
 }

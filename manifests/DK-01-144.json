@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Lakolk beach on Rømø at night, a vast flat sand beach under moonlight",
   "file_16x9": "Denmark/Lakolk/dk-01-144-16x9.png",
   "file_4x5": "Denmark/Lakolk/dk-01-144-4x5.png",
+  "file_9x16": "Denmark/Lakolk/dk-01-144-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: empty moonlit beach with grassy dunes to the left and a moon glitter path on the sea — a plausible Lakolk Beach night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Lakolk Beach, Lakolk', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:28 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or signs — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:51.519315+00:00",
   "sha256_16x9": "ec890f40fdc466ef3d1705b9c5292269209587de5f74e0fb183bb5d708ce78bf",
-  "sha256_4x5": "1d0823a42ef5df060223fe802bebc8bb6f82e0d2cec63459a2f1ab12cfeab300"
+  "sha256_4x5": "1d0823a42ef5df060223fe802bebc8bb6f82e0d2cec63459a2f1ab12cfeab300",
+  "sha256_9x16": "aee7f7faced476c98afed8c202cf9acbb0bce129a7ca9a489dff0433a44bfef3"
 }

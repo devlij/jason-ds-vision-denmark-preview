@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Ringkøbing harbour at night, small boats and low houses on the fjord",
   "file_16x9": "Denmark/Ringkøbing/dk-01-139-16x9.png",
   "file_4x5": "Denmark/Ringkøbing/dk-01-139-4x5.png",
+  "file_9x16": "Denmark/Ringkøbing/dk-01-139-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: night waterfront promenade stretching into a moonlit fjord, moored sailboats along the pier and lit low town buildings — a plausible Ringkøbing night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Ringkøbing Harbour, Ringkøbing', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:19 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or signs — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:26.182417+00:00",
   "sha256_16x9": "8faf4e528cef4ba4ef140207c90bf291edf88cabb2dc65dea8dec866daadc977",
-  "sha256_4x5": "63b6c11e101364b9499798b0e05fa46afb502dc4ddf129e1907392bdb9665177"
+  "sha256_4x5": "63b6c11e101364b9499798b0e05fa46afb502dc4ddf129e1907392bdb9665177",
+  "sha256_9x16": "b57c4a5ebb04ea65d4ef2804234a00e5cd8de7c09dcb1bf2b368da69cd1e075c"
 }

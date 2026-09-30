@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Sæby harbour at night, boats, red roofs, and a white church tower",
   "file_16x9": "Denmark/Sæby/dk-01-134-16x9.png",
   "file_4x5": "Denmark/Sæby/dk-01-134-4x5.png",
+  "file_9x16": "Denmark/Sæby/dk-01-134-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: moonlit quay with moored fishing boats, red-roofed gabled houses and a distant white church tower behind the roofs, lamp reflections on dark water — a plausible Sæby night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Sæby Harbour, Sæby', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside the cited model-valid hour 02:00–02:59, disclosure 'AI-generated artistic interpretation · Not a photograph.', signature 'Jason D's Vision' with curly apostrophe, all legible on the bottom gradient; Open-Meteo retrieval 2026-09-25 23:27:11 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 iTXt/tEXt chunks present. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or property names — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:00.778944+00:00",
   "sha256_16x9": "273ec8592735ce748c9701e3d9b187a78cb630eab07f39eae6e2b7c8699c75d1",
-  "sha256_4x5": "a7de1fbb63dc8ba3291278f45de41d44ce6ea9ac962e55ee50054584f4f560b8"
+  "sha256_4x5": "a7de1fbb63dc8ba3291278f45de41d44ce6ea9ac962e55ee50054584f4f560b8",
+  "sha256_9x16": "835193e8b6503ae3dd7c8ee94bb3e53959e35afcf8fae775586c7ceae2e9682d"
 }

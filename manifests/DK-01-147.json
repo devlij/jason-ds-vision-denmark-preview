@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Gefion Fountain in Copenhagen at night, a bronze woman and four oxen",
   "file_16x9": "Denmark/Copenhagen/dk-01-147-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-147-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-147-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: floodlit bronze group of four oxen pulling a plow with the goddess Gefion figure guiding them, water cascading over the plowshare into the basin at night — recognizably the Gefion Fountain. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Gefion Fountain, Copenhagen', scenario '25 September 2026 · 03:09 Europe/Copenhagen' inside cited model-valid hour 03:00–03:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:33 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: sculptural group only, no living persons or logos — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:25:06.390601+00:00",
   "sha256_16x9": "3cf40fb78ef8aa64a654fe5c137a0da9e007f3bf8c18a651807b2b0df9ffff18",
-  "sha256_4x5": "0bd1b1e59aafebac98341468fbd9b5d744d79ff223e216e7624701e7f92b4d05"
+  "sha256_4x5": "0bd1b1e59aafebac98341468fbd9b5d744d79ff223e216e7624701e7f92b4d05",
+  "sha256_9x16": "c863c17f89ce2d00677bcbd7e92daa0b8f456ae9151e878381f5fd2bfb666a13"
 }

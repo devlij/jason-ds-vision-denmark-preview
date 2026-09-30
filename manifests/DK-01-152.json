@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Torvet in Hillerød at night, a red-brick town hall and a statue on the square",
   "file_16x9": "Denmark/Hillerød/dk-01-152-16x9.png",
   "file_4x5": "Denmark/Hillerød/dk-01-152-4x5.png",
+  "file_9x16": "Denmark/Hillerød/dk-01-152-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: the red-brick neo-Gothic town hall with its corner tower, the statue on a plinth in the centre of the paved square, lit street lamps and historic gabled houses around Torvet — recognizably Hillerod's market square, clean framing, no artifacts. Gate 2: on-image caption 'Torvet, Hillerod', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:41 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:33:01.039400+00:00",
   "sha256_16x9": "9e732304087724ab30c1046d41f44dac5b27277b5ad6f89c3cf4a5cdcdb46783",
-  "sha256_4x5": "f7dda5691d785f355df3b24177fe8f670302737368855e86433b417ac0b5a9ae"
+  "sha256_4x5": "f7dda5691d785f355df3b24177fe8f670302737368855e86433b417ac0b5a9ae",
+  "sha256_9x16": "a440814a2b12a670181f1176d453e9792441611cbf711c406764b21234081a65"
 }
