@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Palm House in Copenhagen Botanical Garden at night, a dark iron-and-glass greenhouse",
   "file_16x9": "Denmark/Copenhagen/dk-01-082-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-082-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-082-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: the Palm House glass-and-iron dome in the Botanical Garden with a circular reflecting pool in the foreground and garden trees framing - unmistakable Palm House form at night, clean framing. Gate 2: exact masters; signature/caption 'Palm House, Copenhagen'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 95% cloud/13.2C; retrieval 23:18:58 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos - documented only.",
   "approved_at": "2026-09-26T03:22:44.749141+00:00",
   "sha256_16x9": "603b6cc9980e5dd9e25e1e09dae7cc71f5a27df1d2f86b791d246e0efc1855ac",
-  "sha256_4x5": "8a15c8f04f6c81eb01f62d691c7a79a2eb23d59f97a55cd29013bec804f88da7"
+  "sha256_4x5": "8a15c8f04f6c81eb01f62d691c7a79a2eb23d59f97a55cd29013bec804f88da7",
+  "sha256_9x16": "9fbbf796e6a6e9790eeeb67483a6bb48f61ab4796e37de1ee5ee0010848e8ea7"
 }

@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Viking Ship Museum in Roskilde at night, a concrete hall and wooden boats",
   "file_16x9": "Denmark/Roskilde/dk-01-086-16x9.png",
   "file_4x5": "Denmark/Roskilde/dk-01-086-4x5.png",
+  "file_9x16": "Denmark/Roskilde/dk-01-086-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: the concrete-and-glass Viking Ship Museum ship hall with glowing window bands and five viking ships moored at the quay in front - the museum's distinctive waterfront form at night, clean framing. Gate 2: exact masters; signature/caption 'Viking Ship Museum, Roskilde'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 100% cloud/13.5C; retrieval 23:19:02 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos - documented only.",
   "approved_at": "2026-09-26T03:23:05.147581+00:00",
   "sha256_16x9": "b0125472928f4ac0512ecfeb1a6a2c39aa7bb13bed0c0abda629e731f0074d8c",
-  "sha256_4x5": "e7ed50017071cb8ebe7c46fcb606d39c0a24c254e17f5fe2ebe1d209bf357f97"
+  "sha256_4x5": "e7ed50017071cb8ebe7c46fcb606d39c0a24c254e17f5fe2ebe1d209bf357f97",
+  "sha256_9x16": "697ecaaa8ed57077bbc4286710ca4864af76440ddc8cdc7bdfb9536975ff9742"
 }

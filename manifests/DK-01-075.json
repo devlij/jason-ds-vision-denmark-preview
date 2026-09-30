@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Klaksvík harbour at night, boats and wooden houses under a clear windy sky",
   "file_16x9": "Denmark/Klaksvík/dk-01-075-16x9.png",
   "file_4x5": "Denmark/Klaksvík/dk-01-075-4x5.png",
+  "file_9x16": "Denmark/Klaksvík/dk-01-075-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: moonlit Klaksvík harbour with fishing boats, town lights climbing the slope, dark peaks — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Klaksvík Harbour, Klaksvík', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:51 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:25:33.612059+00:00",
   "sha256_16x9": "456bb34f152c1c850f82e530578ac61e18819306f88114058d2c23e0c82dcc44",
-  "sha256_4x5": "2ae6360eb70a2094b8836206ea0a6ed02e7a969406d5099f1a1632adbe013bf8"
+  "sha256_4x5": "2ae6360eb70a2094b8836206ea0a6ed02e7a969406d5099f1a1632adbe013bf8",
+  "sha256_9x16": "69aa879a3dc8fc80eefbb9b3f56a87a191c44d3fce5821339044c99d61e465b6"
 }

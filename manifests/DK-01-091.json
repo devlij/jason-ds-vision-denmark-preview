@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Nykøbing Falster harbour at night, boats on Guldborgsund",
   "file_16x9": "Denmark/Nykøbing Falster/dk-01-091-16x9.png",
   "file_4x5": "Denmark/Nykøbing Falster/dk-01-091-4x5.png",
+  "file_9x16": "Denmark/Nykøbing Falster/dk-01-091-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Night harbour view of Nykøbing Falster Harbour: moored boats along the quay in the foreground, lamp-lit waterfront buildings, and a low bridge on the horizon over Guldborgsund under heavy overcast. Gate 1: plausible tourist viewpoint matching the caption. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Nykøbing Falster Harbour, Nykøbing Falster', scenario '25 September 2026 · 02:00 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:19:07 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people, logos, or readable marks — documented only, commercial call remains Jason's. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
   "approved_at": "2026-09-26T04:24:53.916575+00:00",
   "sha256_16x9": "05f0b782d19bf5db8a7543a3bfb9f8a15210e796be2a89b93561397ca58aa0f4",
-  "sha256_4x5": "17c55d4de6a364e5ab3db70fceac87756e114c8be6e5b90ec8edee3dc32fc1dd"
+  "sha256_4x5": "17c55d4de6a364e5ab3db70fceac87756e114c8be6e5b90ec8edee3dc32fc1dd",
+  "sha256_9x16": "4ad6118bed1566895cec5f3e31affa84544f96269b69c5fae94060ac1af4df8c"
 }

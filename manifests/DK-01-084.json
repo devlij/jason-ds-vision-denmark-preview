@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Frederiksberg Palace at night, a yellow Baroque facade above a dark garden",
   "file_16x9": "Denmark/Frederiksberg/dk-01-084-16x9.png",
   "file_4x5": "Denmark/Frederiksberg/dk-01-084-4x5.png",
+  "file_9x16": "Denmark/Frederiksberg/dk-01-084-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: illuminated yellow baroque palace at the end of a tree-lined garden axis under overcast night sky - Frederiksberg Palace's classic axial view, clean framing. Gate 2: exact masters; signature/caption 'Frederiksberg Palace, Frederiksberg'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 97% cloud/12.6C; retrieval 23:19:00 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos; palace is public heritage - documented only.",
   "approved_at": "2026-09-26T03:22:55.435388+00:00",
   "sha256_16x9": "9592e3cb07ac1adad565cff12fef6ffd3743a4fcedc1675cf05be5a6d4efcd56",
-  "sha256_4x5": "e3ebfa4b9c11d8b3182ef8a12ed7ef3e354187211d5dff53fe7f3f5c93d8bafb"
+  "sha256_4x5": "e3ebfa4b9c11d8b3182ef8a12ed7ef3e354187211d5dff53fe7f3f5c93d8bafb",
+  "sha256_9x16": "6d0e34cfb2ba64e70a55810b5cd72576d6f398fe03b95e3c184aea1a9be3505e"
 }

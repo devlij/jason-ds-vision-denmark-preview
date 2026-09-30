@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Vestmanna sea cliffs at night, exterior basalt walls and stacks in a gale",
   "file_16x9": "Denmark/Vestmanna/dk-01-073-16x9.png",
   "file_4x5": "Denmark/Vestmanna/dk-01-073-4x5.png",
+  "file_9x16": "Denmark/Vestmanna/dk-01-073-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: towering sea cliffs and stacks battered by a stormy sea under an overcast night sky — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Vestmanna Cliffs, Vestmanna', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:49 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:25:24.769910+00:00",
   "sha256_16x9": "82c8d986646b3c7c721c04a6d2e138e3c4961f1ba4bda5381f92a8f5f2eed51f",
-  "sha256_4x5": "054017b3476b6cd043d1bc7449b109a620ef7198e4011a0df4d4de1747bee2e1"
+  "sha256_4x5": "054017b3476b6cd043d1bc7449b109a620ef7198e4011a0df4d4de1747bee2e1",
+  "sha256_9x16": "cf9748ba692bd5f9930a733ab63c045450953db9703f97624d2d34f4395ed49e"
 }
