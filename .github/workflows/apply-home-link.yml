@@ -1,0 +1,104 @@
+name: apply-home-link
+on:
+  push:
+    branches:
+      - cursor/denmark-gallery-home-button-2b50
+permissions:
+  contents: write
+  workflows: write
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: cursor/denmark-gallery-home-button-2b50
+      - name: Apply Home link and remove this workflow
+        run: |
+          set -euo pipefail
+          python3 - << 'PY'
+          from pathlib import Path
+          FUNC = 'HOME_LINK = \'<a class="home-link" href="https://jdvision.org/">&#8962; Home</a>\'\nHOME_CSS = ".home-link{font-weight:700}"\n_HOME_SEP = \'<span class="sep" aria-hidden="true">|</span>\'\n_HOME_CSS_ANCHORS = (\n    "    .country-switch a {\\n      color: var(--accent);\\n      text-decoration: none;\\n    }\\n",\n    ".country-switch a { color: var(--accent); text-decoration: none; }\\n",\n)\n\n\ndef apply_home_link(html: str) -> str:\n    """Keep the hub Home link first in the country switcher.\n\n    Rebuilds re-apply this so a later publish cannot drop the nav chrome.\n    The link inherits .country-switch a color; only font-weight is added.\n    """\n    if HOME_CSS not in html:\n        placed = False\n        for anchor in _HOME_CSS_ANCHORS:\n            if anchor in html:\n                html = html.replace(anchor, anchor + "    " + HOME_CSS + "\\n", 1)\n                placed = True\n                break\n        if not placed:\n            raise SystemExit("country-switch link rule missing; refusing to publish")\n    open_tag = \'<nav class="country-switch" aria-label="Country galleries">\'\n    start = html.find(open_tag)\n    if start < 0:\n        raise SystemExit("country switcher missing")\n    end = html.find("</nav>", start)\n    if end < 0:\n        raise SystemExit("country switcher unclosed")\n    body = html[start + len(open_tag):end]\n    if body.lstrip().startswith(HOME_LINK):\n        return html\n    body = body.replace(HOME_LINK, "")\n    if body.startswith("\\n"):\n        indent = ""\n        i = 1\n        while i < len(body) and body[i] in " \\t":\n            indent += body[i]\n            i += 1\n        body = "\\n" + indent + HOME_LINK + "\\n" + indent + _HOME_SEP + body\n    else:\n        body = HOME_LINK + _HOME_SEP + body\n    return html[:start] + open_tag + body + html[end:]\n\n\n'
+
+          HOME_LINK = '<a class="home-link" href="https://jdvision.org/">&#8962; Home</a>'
+          HOME_CSS = ".home-link{font-weight:700}"
+          _HOME_SEP = '<span class="sep" aria-hidden="true">|</span>'
+          _HOME_CSS_ANCHORS = (
+              "    .country-switch a {\n      color: var(--accent);\n      text-decoration: none;\n    }\n",
+              ".country-switch a { color: var(--accent); text-decoration: none; }\n",
+          )
+
+          def apply_home_link(html: str) -> str:
+              if HOME_CSS not in html:
+                  placed = False
+                  for anchor in _HOME_CSS_ANCHORS:
+                      if anchor in html:
+                          html = html.replace(anchor, anchor + "    " + HOME_CSS + "\n", 1)
+                          placed = True
+                          break
+                  if not placed:
+                      raise SystemExit("country-switch link rule missing; refusing to publish")
+              open_tag = '<nav class="country-switch" aria-label="Country galleries">'
+              start = html.find(open_tag)
+              if start < 0:
+                  raise SystemExit("country switcher missing")
+              end = html.find("</nav>", start)
+              if end < 0:
+                  raise SystemExit("country switcher unclosed")
+              body = html[start + len(open_tag):end]
+              if body.lstrip().startswith(HOME_LINK):
+                  return html
+              body = body.replace(HOME_LINK, "")
+              if body.startswith("\n"):
+                  indent = ""
+                  i = 1
+                  while i < len(body) and body[i] in " \t":
+                      indent += body[i]
+                      i += 1
+                  body = "\n" + indent + HOME_LINK + "\n" + indent + _HOME_SEP + body
+              else:
+                  body = HOME_LINK + _HOME_SEP + body
+              return html[:start] + open_tag + body + html[end:]
+
+          def transform_builder(src: str) -> str:
+              src = apply_home_link(src)
+              if "def apply_home_link" not in src:
+                  at = src.index("def write_site")
+                  src = src[:at] + FUNC + src[at:]
+              old = "    html = (\n        PAGE.replace(\"DK_SVG\", DK_SVG)"
+              new = "    html = apply_home_link(\n        PAGE.replace(\"DK_SVG\", DK_SVG)"
+              if old not in src:
+                  raise SystemExit("html assignment missing")
+              src = src.replace(old, new, 1)
+              marker = '        "flag-band",\n'
+              insert = marker + '        \'class="home-link" href="https://jdvision.org/"\',\n        ".home-link{font-weight:700}",\n        "&#8962; Home",\n'
+              if src.count(marker) != 1:
+                  raise SystemExit("flag-band count")
+              return src.replace(marker, insert, 1)
+
+          root = Path(".")
+          index = root / "index.html"
+          builder = root / "tools" / "build_denmark.py"
+          index.write_text(apply_home_link(index.read_text()), encoding="utf-8")
+          builder.write_text(transform_builder(builder.read_text()), encoding="utf-8")
+          page = index.read_text()
+          nav = page[page.index('<nav class="country-switch"'):page.index("</nav>")]
+          home_at = nav.index('<a class="home-link" href="https://jdvision.org/">')
+          other_at = nav.index('<a href=')
+          if home_at > other_at:
+              raise SystemExit("home link is not first")
+          if page.count('href="https://jdvision.org/"') != 1:
+              raise SystemExit("home href count")
+          if "https://jdvision.org/?" in page:
+              raise SystemExit("query on home")
+          print("applied")
+
+          PY
+          git rm -f .github/workflows/apply-home-link.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html tools/build_denmark.py
+          git diff --cached --stat
+          git commit -m "Add Home as the first link in the Denmark gallery header."
+          git push origin HEAD:cursor/denmark-gallery-home-button-2b50
