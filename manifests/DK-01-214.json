@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Nørresø at Viborg at night, a jetty and reeds",
   "file_16x9": "Denmark/Viborg/dk-01-214-16x9.png",
   "file_4x5": "Denmark/Viborg/dk-01-214-4x5.png",
+  "file_9x16": "Denmark/Viborg/dk-01-214-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "G1: still night lake with a wooden jetty and reeds, distant shoreline lights and moonlit clouds; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 05:43:24 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no swimmers; G5: clean.",
   "approved_at": "2026-09-26T11:20:26.144388+00:00",
   "sha256_16x9": "4a22972619776982818d8105a52ddc8878bfd6a515f9aae0edeb78adcf0208cf",
-  "sha256_4x5": "8abb8be21809f56987a674d200fbd9ab18a916a58e033b44fe3ed12ee98c501b"
+  "sha256_4x5": "8abb8be21809f56987a674d200fbd9ab18a916a58e033b44fe3ed12ee98c501b",
+  "sha256_9x16": "d7f4f1ef7014e49f70c6b920ed4bd30bfd253b23031ab97d401c95be6a52039f"
 }

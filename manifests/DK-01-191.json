@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Skælskør harbour at night, boats in a narrow inlet",
   "file_16x9": "Denmark/Skælskør/dk-01-191-16x9.png",
   "file_4x5": "Denmark/Skælskør/dk-01-191-4x5.png",
+  "file_9x16": "Denmark/Skælskør/dk-01-191-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "G1: night canal with moored boats, gabled harbour houses and a brick warehouse with lit windows and lamp reflections; G2: exact dims, on-image strings verified, scenario 04:08 inside 04:00-04:59, retrieved 25 September 2026 23:30:25 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no readable boat names, no logos; G5: clean.",
   "approved_at": "2026-09-26T11:19:54.010043+00:00",
   "sha256_16x9": "566edd980326e2e47c9d533f559b8736d067bdd77b710f9b929b043a9324366b",
-  "sha256_4x5": "01a66ec80c8c25787e11ed746272b4d115415f4b1e5925a6c982cf98d4300d93"
+  "sha256_4x5": "01a66ec80c8c25787e11ed746272b4d115415f4b1e5925a6c982cf98d4300d93",
+  "sha256_9x16": "971d8c0efffc8641bdf1247d14d674bab8270276bb728e0f1fb7b0e0d2f4100e"
 }

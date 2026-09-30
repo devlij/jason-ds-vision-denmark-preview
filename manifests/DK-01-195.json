@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Vor Frue in Assens in the afternoon, a red-brick church with an octagonal tower",
   "file_16x9": "Denmark/Assens/dk-01-195-16x9.png",
   "file_4x5": "Denmark/Assens/dk-01-195-4x5.png",
+  "file_9x16": "Denmark/Assens/dk-01-195-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -64,5 +65,6 @@
   "approval_basis": "Gate 1: red-brick Gothic Vor Frue with tall spire over the cobbled Assens square, overcast light, no artifacts. Gate 2: caption 'Vor Frue, Assens', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:45 (unique), valid 14:30, scenario inside 14:00–14:59; 93% cloud matches the grey sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
   "approved_at": "2026-09-25T12:52:53.519597+00:00",
   "sha256_16x9": "e34e05439cbd3ceea854fca9429e7444696028a0d17e100c8b04ebcf0bf4ad74",
-  "sha256_4x5": "e1c56ebbd3e706f555d33d1ecd7638caa55b229fd5de20bb8ce1a30d7df45a01"
+  "sha256_4x5": "e1c56ebbd3e706f555d33d1ecd7638caa55b229fd5de20bb8ce1a30d7df45a01",
+  "sha256_9x16": "9c71b17171aa02010c0a570c400fa58b2ea66907756c4d6bfa4ecaf764b7a07e"
 }

@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Gråsten Palace in the afternoon, a white wing above a dark lawn",
   "file_16x9": "Denmark/Gråsten/dk-01-203-16x9.png",
   "file_4x5": "Denmark/Gråsten/dk-01-203-4x5.png",
+  "file_9x16": "Denmark/Gråsten/dk-01-203-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: white baroque palace wing with dark dormered roof, gravel path, manicured lawn and autumn trees matches the geometry anchors (long white wing, dark roof, tall doors onto lawn). Gate 2: exact 1920x1080/864x1080; signature 'Jason D's Vision' bottom-right; caption 'Gråsten Palace, Gråsten', scenario '25 September 2026 · 14:32 Europe/Copenhagen' and disclosure legible bottom-left on scrim; scenario hour inside model-valid 14:00–14:59; weather retrieval 14:32:56 unique to this scene — no shared retrieval. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no people, logos or private property visible; empty palace exterior with no royal standard.",
   "approved_at": "2026-09-25T13:17:51.518837+00:00",
   "sha256_16x9": "bbbaaaf8b0472782e994c60b7125b9d10e40e4dec4521300d11c222f6c32cea2",
-  "sha256_4x5": "784f24d5428e6b39988abb7066a6e7d8a9da6f4fc9f4540447c3503d5b285e99"
+  "sha256_4x5": "784f24d5428e6b39988abb7066a6e7d8a9da6f4fc9f4540447c3503d5b285e99",
+  "sha256_9x16": "c1e8b5c5b86caae79d6c17b16560dcf495ff24f6b0e1721f161a41c71090b137"
 }

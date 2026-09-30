@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Bregninge Church in the afternoon, a red-brick tower and lantern on a hill",
   "file_16x9": "Denmark/Bregninge/dk-01-202-16x9.png",
   "file_4x5": "Denmark/Bregninge/dk-01-202-4x5.png",
+  "file_9x16": "Denmark/Bregninge/dk-01-202-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -64,5 +65,6 @@
   "approval_basis": "Gate 1: Bregninge Church — red-brick church with open lantern spire atop its hill, trees and road foreground, afternoon cloud. Gate 2: caption 'Bregninge Church, Bregninge', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:55 (unique), valid 14:30, scenario inside 14:00–14:59. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
   "approved_at": "2026-09-25T12:53:51.830653+00:00",
   "sha256_16x9": "4ab311e56e9af049b3e98ea2561b7c94df73d864c1d3f73f0e1a9fecd17e61ed",
-  "sha256_4x5": "0e30ad21f551cecc4e760d02ff361ef852e522076a3f42cf2dafb0a507330161"
+  "sha256_4x5": "0e30ad21f551cecc4e760d02ff361ef852e522076a3f42cf2dafb0a507330161",
+  "sha256_9x16": "c5e92013d1e99b3e292b4ac7c4a0cd142e9927ab07e3ba0d963668cd21dc211a"
 }

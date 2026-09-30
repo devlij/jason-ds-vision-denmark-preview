@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Clausholm Castle at night, a white manor in a moat",
   "file_16x9": "Denmark/Voldum/dk-01-213-16x9.png",
   "file_4x5": "Denmark/Voldum/dk-01-213-4x5.png",
+  "file_9x16": "Denmark/Voldum/dk-01-213-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "G1: white baroque castle with red tile roof, lit windows and full moon, reflected in the moat; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:35:56 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no signage; G5: clean.",
   "approved_at": "2026-09-26T11:20:21.729121+00:00",
   "sha256_16x9": "203dad818d1aa9b1e1dd895c42e00ecb1513cfeed59d2a688a1995ed62c0152c",
-  "sha256_4x5": "ef9de550d9bfb63c9d188a50e7f2bbb628daa5136eb53368086e16afcd08cf7e"
+  "sha256_4x5": "ef9de550d9bfb63c9d188a50e7f2bbb628daa5136eb53368086e16afcd08cf7e",
+  "sha256_9x16": "69429bede9b24047a5d43492b9336f528c4c3582a8b9ec91034ea14345c6c7f8"
 }

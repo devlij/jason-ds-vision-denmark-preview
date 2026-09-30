@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Christiansminde in Svendborg in the afternoon, a wooden pier and a wooded shore",
   "file_16x9": "Denmark/Svendborg/dk-01-193-16x9.png",
   "file_4x5": "Denmark/Svendborg/dk-01-193-4x5.png",
+  "file_9x16": "Denmark/Svendborg/dk-01-193-9x16.png",
   "license_badge": "Free \u00b7 no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -69,5 +70,6 @@
   "approval_basis": "Gate 1: wooden bathing jetty curving off the forested Christiansminde shoreline, broken afternoon cloud, clean framing. Gate 2: caption 'Christiansminde, Svendborg', scenario 25 Sept 2026 14:32 Europe/Copenhagen, 'Jason D's Vision' signature and AI disclosure verified on-image; own Open-Meteo retrieval 14:32:43 Europe/Copenhagen (unique to this scene), valid 14:30, scenario inside 14:00\u201314:59; 53% cloud matches depicted sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 PNG metadata present; both masters exact dims.",
   "approved_at": "2026-09-25T12:52:35.384318+00:00",
   "sha256_16x9": "5da366edab19d6baa6fdd751e70e356b54296e0c48a1e4254dbb2356442ed29f",
-  "sha256_4x5": "9f331a7ed0d8e82ab0e8551d63df6d8f22df3bd1ad6fe2d062ebc02c3d3ea232"
+  "sha256_4x5": "9f331a7ed0d8e82ab0e8551d63df6d8f22df3bd1ad6fe2d062ebc02c3d3ea232",
+  "sha256_9x16": "4cdd5720a9126231246d3f5a69e7594287e3183fd001bbd0d464cbe8847cecaf"
 }

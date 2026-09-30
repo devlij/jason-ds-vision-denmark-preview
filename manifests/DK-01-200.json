@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Søby harbour in the afternoon, a mole and low red roofs on Ærø",
   "file_16x9": "Denmark/Søby/dk-01-200-16x9.png",
   "file_4x5": "Denmark/Søby/dk-01-200-4x5.png",
+  "file_9x16": "Denmark/Søby/dk-01-200-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -64,5 +65,6 @@
   "approval_basis": "Gate 1: Soby Harbour — rocky breakwater leading to fishing boats and red-roofed houses, choppy water under mixed cloud. Gate 2: caption 'Soby Harbour, Soby', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:53 (unique), valid 14:30, scenario inside 14:00–14:59; cloud/wind consistent with the depicted sea state. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
   "approved_at": "2026-09-25T12:53:34.972062+00:00",
   "sha256_16x9": "fea3ada7342157ce688ec4f2a7511480f98a5958c4b8623274fe2fce703dee70",
-  "sha256_4x5": "ce92a0be140e5897fef1c7661ba5e792d68183ef99c5067af0b718d779567cc0"
+  "sha256_4x5": "ce92a0be140e5897fef1c7661ba5e792d68183ef99c5067af0b718d779567cc0",
+  "sha256_9x16": "596f4eb4487311e1d1bd1f66e39597bdeee8275e9aff1865ea154e67f7a7e891"
 }
