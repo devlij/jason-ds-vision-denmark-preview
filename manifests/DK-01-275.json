@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Lohals harbour just after sunrise, moles and a white lighthouse",
   "file_16x9": "Denmark/Lohals/dk-01-275-16x9.png",
   "file_4x5": "Denmark/Lohals/dk-01-275-4x5.png",
+  "file_9x16": "Denmark/Lohals/dk-01-275-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -29,5 +30,6 @@
   "approval_basis": "Gate 1: a white lighthouse stands on a stone breakwater with moored boats in the harbour, red-tiled cottages along the quay, the sun cresting the horizon at left — a plausible Lohals Harbour sunrise view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (lighthouse + breakwater + boats + village). On-image caption 'Lohals Harbour, Lohals', scenario '25 September 2026 · 07:15 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible. Weather: reworked per-scene Open-Meteo retrieval 26 September 2026 01:40:04 Europe/Copenhagen (HTTP Date 23:40:04 GMT consistent), unique to the second repo-wide; scenario 07:15 inside model-valid hour 07:00–07:59. The earlier shared-retrieval hold is resolved — the old 07:13:10 citation is gone from the current notes. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no visible people, no logos. Gate 5: publication-ready.",
   "approved_at": "2026-09-26T16:35:21.184178+00:00",
   "sha256_16x9": "96ffe6b39f9beddf2c3d80350009e7a0a55cedd4732a228f63aaacc3292a715d",
-  "sha256_4x5": "91ed6a6ac9ef84023655e90cd7f305c1eb98db042d3a6a7d3998894785b3f81f"
+  "sha256_4x5": "91ed6a6ac9ef84023655e90cd7f305c1eb98db042d3a6a7d3998894785b3f81f",
+  "sha256_9x16": "5975bc9c120b7751ebea33649ba71316134d9c8eaad149c58d8e80ff0db127df"
 }

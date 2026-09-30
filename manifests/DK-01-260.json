@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Hundested harbour before sunrise, fishing boats and stone moles under cloud",
   "file_16x9": "Denmark/Hundested/dk-01-260-16x9.png",
   "file_4x5": "Denmark/Hundested/dk-01-260-4x5.png",
+  "file_9x16": "Denmark/Hundested/dk-01-260-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1 pass: the 16:9 master shows fishing cutters moored beside red harbour sheds and stone breakwaters, with dawn light breaking over a choppy Kattegat — a plausible Hundested harbour view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Hundested Harbour, Hundested' and scenario '25 September 2026 · 06:56 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:35, confirmed unique repo-wide across all 365 notes, and 06:56 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable boat names or logos. All five gates pass.",
   "approved_at": "2026-09-26T15:26:50.084026+00:00",
   "sha256_16x9": "8b462afc560666c0812f95e8a4353661e90ffde7bbca7734cc9e9a6c15ddc7e6",
-  "sha256_4x5": "0ac341c05ca406a3bff5542377d1ae4cd0f5723de8312859aff9dbfcb08299d8"
+  "sha256_4x5": "0ac341c05ca406a3bff5542377d1ae4cd0f5723de8312859aff9dbfcb08299d8",
+  "sha256_9x16": "675846a8e3ae29e089a05176cab1d5872b3367821fb6c46eb8db5ca1dd53b093"
 }

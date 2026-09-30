@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Ristinge Klint just after sunrise, a layered cliff above a stony beach",
   "file_16x9": "Denmark/Ristinge/dk-01-274-16x9.png",
   "file_4x5": "Denmark/Ristinge/dk-01-274-4x5.png",
+  "file_9x16": "Denmark/Ristinge/dk-01-274-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -29,5 +30,6 @@
   "approval_basis": "Gate 1: a pale chalk cliff with a grassy top drops to a shingle beach, dawn light breaking through cloud over the water — a plausible Ristinge Klint tourist view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (cliff face + beach + dawn sky). On-image caption 'Ristinge Klint, Ristinge', scenario '25 September 2026 · 07:14 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible on the scrim. Weather: reworked per-scene Open-Meteo retrieval 26 September 2026 01:40:01 Europe/Copenhagen (HTTP Date Fri, 25 Sep 2026 23:40:01 GMT consistent), unique to the second across all 408 repo note files; scenario 07:14 inside model-valid hour 07:00–07:59. The earlier shared-retrieval hold is resolved — the old 07:13:10 citation is gone from the current notes. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no people, no logos, no structures. Gate 5: publication-ready.",
   "approved_at": "2026-09-26T16:35:16.735141+00:00",
   "sha256_16x9": "105eae259b849e5bf01ce301ecc99ef4ad696c63ad50ee0a6060643a9b34ba40",
-  "sha256_4x5": "1701a53d4dd1ae218d9750aadf1f4e3eda346cf29333e78ebeafde241a5ce4a3"
+  "sha256_4x5": "1701a53d4dd1ae218d9750aadf1f4e3eda346cf29333e78ebeafde241a5ce4a3",
+  "sha256_9x16": "b1e39c482440630cde4bb2e2ba2bde64f6ca7989243285aba17a78b516904c3c"
 }

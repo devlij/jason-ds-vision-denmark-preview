@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Bøur at night, turf-roof houses and a jagged islet",
   "file_16x9": "Denmark/Bøur/dk-01-250-16x9.png",
   "file_4x5": "Denmark/Bøur/dk-01-250-4x5.png",
+  "file_9x16": "Denmark/Bøur/dk-01-250-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Bøur village of turf-roofed black houses and the white church above the fjord, jagged sea pinnacles offshore under ragged dawn cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Bøur, Bøur', scenario '25 September 2026 · 06:36 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:03 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:44.916861+00:00",
   "sha256_16x9": "cdc81dd23e39e04597880a2cb26e5136b0993fa248c5e79ee986d6d140cce4e6",
-  "sha256_4x5": "d5c314e04c7871a9180646ea55340bacf385be6e7c040a6f2999918979a8a822"
+  "sha256_4x5": "d5c314e04c7871a9180646ea55340bacf385be6e7c040a6f2999918979a8a822",
+  "sha256_9x16": "f73fc05797fa7bb60210e5dc076f4c06b8364f1ef07a07b6dffc58400502032f"
 }

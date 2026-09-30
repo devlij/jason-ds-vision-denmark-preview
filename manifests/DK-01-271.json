@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Ledreborg Palace near Lejre before sunrise, a yellow baroque manor",
   "file_16x9": "Denmark/Lejre/dk-01-271-16x9.png",
   "file_4x5": "Denmark/Lejre/dk-01-271-4x5.png",
+  "file_9x16": "Denmark/Lejre/dk-01-271-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: the yellow baroque Ledreborg Palace with a slate mansard roof faces a gravel forecourt and clipped parterre gardens, autumn trees flanking — a plausible frontal tourist view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (palace facade + gardens). On-image caption 'Ledreborg Palace, Lejre', scenario '25 September 2026 · 06:57 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible on the scrim. Weather: Open-Meteo retrieval 25 September 2026 06:54:22 Europe/Copenhagen — unique to the second repo-wide per Cosmo's 408-note scan; scenario 06:57 inside model-valid hour 06:00–06:59. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no visible people, no logos; a recognizable private palace documented for Jason's commercial call. Gate 5: publication-ready.",
   "approved_at": "2026-09-26T16:34:13.875869+00:00",
   "sha256_16x9": "441eeb202f70f66d9c393e3f20538c7ab13121e5d4bcf72fbea34c8ab6cf75a4",
-  "sha256_4x5": "e664eede2d3b9a5857dff8980d7f555d704f08ff1cfb411d6abf6e0d25776115"
+  "sha256_4x5": "e664eede2d3b9a5857dff8980d7f555d704f08ff1cfb411d6abf6e0d25776115",
+  "sha256_9x16": "95729d8d34373e9494c3996b2a1068a2d42cc138aed9a15a8a7cbe6695b6f23e"
 }
