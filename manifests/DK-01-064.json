@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Hirtshals lighthouse at night, a round white tower above the harbour",
   "file_16x9": "Denmark/Hirtshals/dk-01-064-16x9.png",
   "file_4x5": "Denmark/Hirtshals/dk-01-064-4x5.png",
+  "file_9x16": "Denmark/Hirtshals/dk-01-064-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: tall white Hirtshals lighthouse with lit lantern on a grassy hill above the night port — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Hirtshals Lighthouse, Hirtshals', 'Scenario: 25 September 2026 · 01:24 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:40 Europe/Copenhagen, valid 01:15 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:24:45.392436+00:00",
   "sha256_16x9": "7cbba9780f10d04f47de26bb2e9b227e5451d964dc0e37d22a77962576d9d5af",
-  "sha256_4x5": "c59b3d33463bd44934092b7687b61097e3756ee141901fb515a6f4a3072225f5"
+  "sha256_4x5": "c59b3d33463bd44934092b7687b61097e3756ee141901fb515a6f4a3072225f5",
+  "sha256_9x16": "b728973fb0424b9a2bdb176af20aecb7b9d5655e7be5873d770e369c54cbe47b"
 }

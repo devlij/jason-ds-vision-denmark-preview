@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Disko Bay at Ilulissat at night, icebergs beyond a dark wooden church",
   "file_16x9": "Denmark/Ilulissat/dk-01-078-16x9.png",
   "file_4x5": "Denmark/Ilulissat/dk-01-078-4x5.png",
+  "file_9x16": "Denmark/Ilulissat/dk-01-078-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: moonlit Disko Bay with drifting icebergs and a wooden shore church (Zion Church form) under a starry sky - the classic Ilulissat night viewpoint, no artifacts. Gate 2: exact masters, signature/caption 'Disko Bay, Ilulissat'/scenario '25 September 2026 · 01:43 Europe/Copenhagen'/disclosure all verified on-image; scenario hour inside model hour 01:00-01:59; clear starry moonlit sky is consistent with the note's Clear/0% cloud/-0.5C evidence; retrieval 23:18:54 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos - documented only.",
   "approved_at": "2026-09-26T03:22:24.440119+00:00",
   "sha256_16x9": "e5228bcb83dcd48e886654c86ad22f0685d59928c4ba28d5f2750843ce08b14f",
-  "sha256_4x5": "6c23eed99392fd4e21997ae5fc9b8ac4497455aa4856fe80a0ad75f3268a6d56"
+  "sha256_4x5": "6c23eed99392fd4e21997ae5fc9b8ac4497455aa4856fe80a0ad75f3268a6d56",
+  "sha256_9x16": "112861dcc03b6fdb9a28dc2ab8a73bd62c857b36cb7db43303ed9309c56be0c0"
 }

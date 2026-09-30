@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the five-towered Church of Our Lady in Kalundborg at night",
   "file_16x9": "Denmark/Kalundborg/dk-01-087-16x9.png",
   "file_4x5": "Denmark/Kalundborg/dk-01-087-4x5.png",
+  "file_9x16": "Denmark/Kalundborg/dk-01-087-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: red-brick church with five towers (tall central spire plus four smaller corner towers) on a grassy hill above town houses - Kalundborg Church of Our Lady's famous five-tower form, clean night framing. Gate 2: exact masters; signature/caption 'Church of Our Lady, Kalundborg'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 99% cloud/13.7C; retrieval 23:19:03 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only per note. Gate 4: no people, no logos - documented only.",
   "approved_at": "2026-09-26T03:23:10.092448+00:00",
   "sha256_16x9": "abb40522972df48db659e1b346466248de872de0efd897aff737808cbf131eb5",
-  "sha256_4x5": "c35979005d83a1926d67b3834090c12bb56f590b557048a3a08c88bed9125579"
+  "sha256_4x5": "c35979005d83a1926d67b3834090c12bb56f590b557048a3a08c88bed9125579",
+  "sha256_9x16": "f0bb329b1fd6bd7457f182bcd71333d03072e29c58e37139e2a88a1243526636"
 }

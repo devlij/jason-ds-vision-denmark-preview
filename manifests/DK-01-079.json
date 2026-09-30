@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Eqi Glacier at night, a tidewater ice wall under a clear sky",
   "file_16x9": "Denmark/Ilulissat/dk-01-079-16x9.png",
   "file_4x5": "Denmark/Ilulissat/dk-01-079-4x5.png",
+  "file_9x16": "Denmark/Ilulissat/dk-01-079-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: massive calving glacier face with deep crevasses and floating brash ice under a starry night sky with a pink afterglow band on the horizon, rocky snow-dusted flanks - Eqi Glacier's signature front, no artifacts. Gate 2: exact masters; signature/caption 'Eqi Glacier, Ilulissat'/scenario '25 September 2026 · 01:43 Europe/Copenhagen'/disclosure verified on-image; scenario inside model hour 01:00-01:59; clear starry sky matches Clear/0%/-5.2C evidence; retrieval 23:18:55 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only per note. Gate 4: no people, logos, or private property visible - documented only.",
   "approved_at": "2026-09-26T03:22:29.164591+00:00",
   "sha256_16x9": "f8a9d36adc786faff8360b53ce9d19b6a9808bd40b1018bb8ba368832706c6bc",
-  "sha256_4x5": "e2fc13e1e58313a414d78075d64966bd4d0f3497c56b2845dff67bd1052468f1"
+  "sha256_4x5": "e2fc13e1e58313a414d78075d64966bd4d0f3497c56b2845dff67bd1052468f1",
+  "sha256_9x16": "45a32eb73fdcb4b3d3f04762dff718b6ff8a1dd62b967d9fe12ebe860a70c3d4"
 }

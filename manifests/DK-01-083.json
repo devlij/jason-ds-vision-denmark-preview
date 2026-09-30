@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Superkilen in Nørrebro at night, a red paved park between apartment blocks",
   "file_16x9": "Denmark/Copenhagen/dk-01-083-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-083-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-083-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Superkilen's red-paved Red Square strip with the sculptural red bench, brick apartment blocks and street lamps on both sides - the signature red-square read at night, clean framing. Gate 2: exact masters; signature/caption 'Superkilen, Copenhagen'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 96% cloud/12.7C; retrieval 23:18:59 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only per note. Gate 4: no people, no logos; public park furniture and generic blocks - documented only.",
   "approved_at": "2026-09-26T03:22:50.129133+00:00",
   "sha256_16x9": "5f4080d8a8d46b91d9fe6ad771b6de5478d1f2a207ec78c5d97e7d23dcb597ee",
-  "sha256_4x5": "b17130bba992986b32bf58f4669056434a3512965ae57c79e8d295cf1a3de39c"
+  "sha256_4x5": "b17130bba992986b32bf58f4669056434a3512965ae57c79e8d295cf1a3de39c",
+  "sha256_9x16": "c8d12469a260b8f1f93c3fe7eb42e0362d5c288e5b9ddcd01b839562830c4218"
 }
