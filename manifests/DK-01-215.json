@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Silkeborg Langsø at night, a grass bank and a dark lake",
   "file_16x9": "Denmark/Silkeborg/dk-01-215-16x9.png",
   "file_4x5": "Denmark/Silkeborg/dk-01-215-4x5.png",
+  "file_9x16": "Denmark/Silkeborg/dk-01-215-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "G1: starry night lake with a lamp-lit lakeside path and dark tree-lined shore reflections; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 05:43:25 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no boat names; G5: clean.",
   "approved_at": "2026-09-26T11:20:30.650484+00:00",
   "sha256_16x9": "c5bb299b4e5e1799deb7c466c576201929c13f6c75dc8de5fa3c1d54b805e371",
-  "sha256_4x5": "e1a1eb64850a4daf5e9617f747e08e4ab97ac606295336dceb96e7210197a5c4"
+  "sha256_4x5": "e1a1eb64850a4daf5e9617f747e08e4ab97ac606295336dceb96e7210197a5c4",
+  "sha256_9x16": "f6bb3b967a1875a093a259c9dc0c807226b942bfe5f755cee162c398a4bda243"
 }

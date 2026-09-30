@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Kammerslusen at night, a sea lock on the marsh near Ribe",
   "file_16x9": "Denmark/Ribe/dk-01-220-16x9.png",
   "file_4x5": "Denmark/Ribe/dk-01-220-4x5.png",
+  "file_9x16": "Denmark/Ribe/dk-01-220-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the concrete tidal-sluice channel and twin gates opening onto Wadden Sea flats, with the grass dike at right; plausible tourist viewpoint for 'Kammerslusen, Ribe', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Kammerslusen, Ribe', 'Scenario: 25 September 2026 · 05:56 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-220 claims one Open-Meteo retrieval at 25 September 2026 23:36:07 Europe/Copenhagen (HTTP Date 21:36:07 GMT) valid 25 September 2026 05:45 Europe/Copenhagen — scenario 05:56 falls inside the cited 05:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:24:55.462734+00:00",
   "sha256_16x9": "117b48f16cc2af1e4fc4e41814fecbc30d2a5e4495a30deeb1da0979cf47469f",
-  "sha256_4x5": "e79b3ae1d9083f4ef0516fd25fb2397104e4f3d7ac31f160515463c61497b438"
+  "sha256_4x5": "e79b3ae1d9083f4ef0516fd25fb2397104e4f3d7ac31f160515463c61497b438",
+  "sha256_9x16": "26339c07194cf26f2470d46f4ed8fc6a893c46fbd0e7834622bc02ebf3af3510"
 }

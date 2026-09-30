@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Helligdomsklipperne at night, granite cliffs above dark water",
   "file_16x9": "Denmark/Rø/dk-01-244-16x9.png",
   "file_4x5": "Denmark/Rø/dk-01-244-4x5.png",
+  "file_9x16": "Denmark/Rø/dk-01-244-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: granite sea cliffs at Helligdomsklipperne with a dark sea-cave mouth at the waterline, moss-streaked rock faces, slate-grey water, storm-broken dawn cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Helligdomsklipperne, Rø', scenario '25 September 2026 · 06:33 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:31:58 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:18.248333+00:00",
   "sha256_16x9": "102ee5ea5657f967afc2b64751010e6362d929015ebdeb7743b9aa7985d43ca2",
-  "sha256_4x5": "b7953bfbe31c2251551150e5b591fabe2de45d7b73b0c85af95ef2f9b2ecd002"
+  "sha256_4x5": "b7953bfbe31c2251551150e5b591fabe2de45d7b73b0c85af95ef2f9b2ecd002",
+  "sha256_9x16": "10c37a05eb12a38d29fa45197d3dff878588aad45be3548b7f2f8aa6c4c1306b"
 }

@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Ejer Bavnehøj at night, a brick tower on a hill",
   "file_16x9": "Denmark/Ejer/dk-01-217-16x9.png",
   "file_4x5": "Denmark/Ejer/dk-01-217-4x5.png",
+  "file_9x16": "Denmark/Ejer/dk-01-217-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "G1: the red-brick hilltop tower on a grassy knoll under the moon, night landscape with scattered town lights; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:36:02 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no readable plaque; G5: clean.",
   "approved_at": "2026-09-26T11:20:39.639734+00:00",
   "sha256_16x9": "1f66e4d0d7bfadee69fc2f4e53c6d7e41548a9ceb7b31011bcdce2fd7eb03569",
-  "sha256_4x5": "5bb9ae72e83ab26c4eb89be8fcccdb96ea1ff11fb56fed4d12d40601782236f6"
+  "sha256_4x5": "5bb9ae72e83ab26c4eb89be8fcccdb96ea1ff11fb56fed4d12d40601782236f6",
+  "sha256_9x16": "3c54a0bd95d2debf08b7b5c50c3359e2ad54c816703d92fcb6a2f9f57d79248c"
 }

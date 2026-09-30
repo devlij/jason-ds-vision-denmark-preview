@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Nexø harbour at night, a mole and fishing boats",
   "file_16x9": "Denmark/Nexø/dk-01-242-16x9.png",
   "file_4x5": "Denmark/Nexø/dk-01-242-4x5.png",
+  "file_9x16": "Denmark/Nexø/dk-01-242-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Nexø harbour with fishing boats moored along a concrete breakwater mole, low sheds behind, dark rippled water under heavy cloud, lamps on — no beach and no dunes, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Nexø Harbour, Nexø', scenario '25 September 2026 · 06:35 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:32:57 for this scene's own coords, scenario after the 06:30 model step inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable boat names. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:26:00.880915+00:00",
   "sha256_16x9": "c4892c49b55802a467f3183ee0dd4c73c02aa93550000e8a7f4e9f2828a38c73",
-  "sha256_4x5": "d08e6c0e104e5749f67a679098c846f5d235cbfc93269736436e39e8533a46b7"
+  "sha256_4x5": "d08e6c0e104e5749f67a679098c846f5d235cbfc93269736436e39e8533a46b7",
+  "sha256_9x16": "d88b7767c3a971d1d775023760e8ac498c55c0bbd36414e15a2c936c51db9ada"
 }

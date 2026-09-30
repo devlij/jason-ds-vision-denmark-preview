@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Sæby Church at night, a long white church with one tower",
   "file_16x9": "Denmark/Sæby/dk-01-229-16x9.png",
   "file_4x5": "Denmark/Sæby/dk-01-229-4x5.png",
+  "file_9x16": "Denmark/Sæby/dk-01-229-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the whitewashed brick church and tower with lamp-lit walls above the churchyard headstones; plausible tourist viewpoint for 'Sæby Church, Sæby', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Sæby Church, Sæby', 'Scenario: 25 September 2026 · 06:22 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-229 claims one Open-Meteo retrieval at 25 September 2026 06:10:19 Europe/Copenhagen valid 25 September 2026 06:00 Europe/Copenhagen — scenario 06:22 falls inside the cited 06:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:25:37.938260+00:00",
   "sha256_16x9": "9cadf54479c93a07fbdee44830f8ada7542c49c75d883161ac730e01e5cce52e",
-  "sha256_4x5": "233a23045674647336bd7598f3c1d1ef0709b73a0cfeb381050b5ba88b388cfc"
+  "sha256_4x5": "233a23045674647336bd7598f3c1d1ef0709b73a0cfeb381050b5ba88b388cfc",
+  "sha256_9x16": "d83539c950456115b4379f43cf0cc07dd3b899153be0ca6cb69c484d05d45ebe"
 }
