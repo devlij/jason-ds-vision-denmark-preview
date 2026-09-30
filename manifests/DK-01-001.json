@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Nyhavn in Copenhagen at night, with gabled townhouses reflected in the canal",
   "file_16x9": "Denmark/Copenhagen/dk-01-001-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-001-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-001-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -55,6 +56,7 @@
   "approved_at": "2026-09-25T21:32:42.347188+00:00",
   "sha256_16x9": "7834a5af08fddb2398f7d07dc8639572a80b853151ec7319137360672cb90ea7",
   "sha256_4x5": "5c2703093149d41a8771fac881613a446d35959e640bbbd32ff38b2adf2e58b3",
+  "sha256_9x16": "1dd209a484469c5636ba1e3862a5f3cf9b93b5782ff33a43bb090644b8128cc0",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-001",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-001-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",

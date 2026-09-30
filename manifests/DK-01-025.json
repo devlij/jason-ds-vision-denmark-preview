@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Church of Our Saviour in Copenhagen at night, with its gilded spiral stair",
   "file_16x9": "Denmark/Copenhagen/dk-01-025-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-025-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-025-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -18,6 +19,7 @@
   "approved_at": "2026-09-25T23:24:06.885462+00:00",
   "sha256_16x9": "d8a0f18488f0be52543b0fe8880d6fc88a7373a9501b094d149a63afffb9b3b8",
   "sha256_4x5": "1fd945d78133d292b9abd276f43a77f35b7f0c0a1abfa7aedaef0894dcd0e4d4",
+  "sha256_9x16": "dba94ae9900b13d508913b4496061ba81d36ba9386c6f18f4146c2ba32a25cbf",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-025",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-025-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",

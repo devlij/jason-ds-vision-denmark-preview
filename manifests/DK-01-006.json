@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Roskilde Cathedral at night, with its two slender spires",
   "file_16x9": "Denmark/Roskilde/dk-01-006-16x9.png",
   "file_4x5": "Denmark/Roskilde/dk-01-006-4x5.png",
+  "file_9x16": "Denmark/Roskilde/dk-01-006-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -50,6 +51,7 @@
   "approved_at": "2026-09-25T21:33:41.844937+00:00",
   "sha256_16x9": "660ebd671a0bf2b38f272362ac153e2cd44a224871bee615f8ba1c53085fdeab",
   "sha256_4x5": "3a619c85c42edd43ed7219f65a44cb71d197fc40757b9490d0ba59d2f5d6ee54",
+  "sha256_9x16": "cdcab8ba6ce7e837df6bee24466236b4287fdf16bb38771dfe6ea8916b4ab6ab",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-006",
     "derived_from": "Approved night master Denmark/Roskilde/dk-01-006-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",

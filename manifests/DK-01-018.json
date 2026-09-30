@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Strøget in Copenhagen at night, an empty pedestrian street of historic facades",
   "file_16x9": "Denmark/Copenhagen/dk-01-018-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-018-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-018-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -18,6 +19,7 @@
   "approved_at": "2026-09-25T22:28:35.791800+00:00",
   "sha256_16x9": "002b76f029f1e6d8fb47fef20ff58fd2d7fe61f3b4b85bf8c1cf3688f76f4735",
   "sha256_4x5": "90f11692a32fe5b3767cb7a3da7041f328b9831b6f114049b388c1a674bd4ef8",
+  "sha256_9x16": "2998a52c5cbc86ed2d4839442229dbb65a1b7759de196bc9605ca4f3c6325e17",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-018",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-018-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",

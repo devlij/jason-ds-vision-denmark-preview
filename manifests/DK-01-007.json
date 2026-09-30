@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the white chalk cliffs at Møns Klint under a clear night sky",
   "file_16x9": "Denmark/Borre/dk-01-007-16x9.png",
   "file_4x5": "Denmark/Borre/dk-01-007-4x5.png",
+  "file_9x16": "Denmark/Borre/dk-01-007-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -50,6 +51,7 @@
   "approved_at": "2026-09-25T21:34:27.131179+00:00",
   "sha256_16x9": "aa4108309249269c3bee0ef4b6cc0b24e68e25077d26a6762ec3dd991b9f22bd",
   "sha256_4x5": "613e415d930c3dfe325c0c5643fef930155f5f8f4b48c13fbdeaf9255a37ad84",
+  "sha256_9x16": "64551bf058e4c94130b8e3344dd8c96f0c5aaf9a1023bf55543cad75bf5dc49d",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-007",
     "derived_from": "Approved night master Denmark/Borre/dk-01-007-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",

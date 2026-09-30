@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the old-town square at Den Gamle By in Aarhus on an overcast night",
   "file_16x9": "Denmark/Aarhus/dk-01-010-16x9.png",
   "file_4x5": "Denmark/Aarhus/dk-01-010-4x5.png",
+  "file_9x16": "Denmark/Aarhus/dk-01-010-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -50,6 +51,7 @@
   "approved_at": "2026-09-25T21:34:42.016345+00:00",
   "sha256_16x9": "890b428cfeaad7dfd1ab829c68a407ea849ee67928215e54288ff2a3502b1217",
   "sha256_4x5": "1cc84e2abd6eb0b27c6a06961dcb0b8cea4b517e1c20be72d721d5cd8dd74eb7",
+  "sha256_9x16": "b7d383fc3dd8a4ab7bb8f789d5ad35b2771847ef2cd25286e941fdc4ea8919fd",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-010",
     "derived_from": "Approved night master Denmark/Aarhus/dk-01-010-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",

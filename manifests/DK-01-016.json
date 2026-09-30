@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Ilulissat Icefjord in clear twilight, with icebergs and an amber horizon",
   "file_16x9": "Denmark/Ilulissat/dk-01-016-16x9.png",
   "file_4x5": "Denmark/Ilulissat/dk-01-016-4x5.png",
+  "file_9x16": "Denmark/Ilulissat/dk-01-016-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -18,6 +19,7 @@
   "approved_at": "2026-09-25T22:27:58.649560+00:00",
   "sha256_16x9": "ffe4da75df79a8c6b50ffd8399b8bdeaa18a66f45552bd8c701c9759d77420e0",
   "sha256_4x5": "36b3cc8145c3bc8c9e2cf42b00effd36b70cc64a0178114532389accd84cc2e1",
+  "sha256_9x16": "0b31274edfaa39849ed2477c67f00c2e6de8cd12769daf81fe3acbf6adfa9722",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-016",
     "derived_from": "Approved night master Denmark/Ilulissat/dk-01-016-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
