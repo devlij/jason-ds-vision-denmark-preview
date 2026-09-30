@@ -813,6 +813,7 @@ PAGE = r"""<!DOCTYPE html>
       letter-spacing: 0.01em;
     }
     .country-switch a { color: var(--accent); text-decoration: none; }
+    .home-link{font-weight:700}
     .country-switch a:hover { text-decoration: underline; }
     .country-switch [aria-current="page"] { color: var(--text); font-weight: 600; }
     .country-switch .sep { margin: 0 0.45rem; color: var(--line); }
@@ -964,6 +965,8 @@ PAGE = r"""<!DOCTYPE html>
     <h1><span class="flag" aria-hidden="true">DK_SVG</span>Jason D’s Vision — Denmark</h1>
     <p class="qc-count" id="qc-count"></p>
     <nav class="country-switch" aria-label="Country galleries">
+      <a class="home-link" href="https://jdvision.org/">&#8962; Home</a>
+      <span class="sep" aria-hidden="true">|</span>
       <a href="https://germany.jdvision.org/"><span class="flag-chip flag-de" aria-hidden="true"></span>Germany</a>
       <span class="sep" aria-hidden="true">|</span>
       <a href="https://italy.jdvision.org/"><span class="flag-chip flag-it" aria-hidden="true"></span>Italy</a>
@@ -1589,6 +1592,9 @@ def write_site(scenes: list) -> None:
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
     required = [
         "G-PDJ4WSS725",
+        'class="home-link" href="https://jdvision.org/"',
+        ".home-link{font-weight:700}",
+        "&#8962; Home",
         "flag-band",
         "https://germany.jdvision.org/",
         "https://italy.jdvision.org/",
