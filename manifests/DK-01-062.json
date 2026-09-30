@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of seaweed-roof farmhouses on Læsø at night, thick eelgrass thatch on half-timbered walls",
   "file_16x9": "Denmark/Læsø/dk-01-062-16x9.png",
   "file_4x5": "Denmark/Læsø/dk-01-062-4x5.png",
+  "file_9x16": "Denmark/Læsø/dk-01-062-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: long low half-timbered house with thick shaggy grey-brown eelgrass roof along a dark lane, flat dark fields — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Seaweed Houses, Læsø', 'Scenario: 25 September 2026 · 01:24 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:38 Europe/Copenhagen, valid 01:15 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
   "approved_at": "2026-09-26T02:24:35.953833+00:00",
   "sha256_16x9": "1f89ebdba8d5378f96c6b5c8ab7a1d2b47af0d5cb67d98cd0d1017e24da774ba",
-  "sha256_4x5": "f2493539d50a4c2780e8e7141547e7cd66c96216477b52a0e68a5c5467db97bf"
+  "sha256_4x5": "f2493539d50a4c2780e8e7141547e7cd66c96216477b52a0e68a5c5467db97bf",
+  "sha256_9x16": "4e776943db3243d1c7f62369c3e97bb7fd8282cf0bc0be8ca2deefb307de908a"
 }

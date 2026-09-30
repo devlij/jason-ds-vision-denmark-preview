@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the closed approach to Knuthenborg manor at night, with no animals",
   "file_16x9": "Denmark/Maribo/dk-01-034-16x9.png",
   "file_4x5": "Denmark/Maribo/dk-01-034-4x5.png",
+  "file_9x16": "Denmark/Maribo/dk-01-034-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1 PASS: night — stone gatehouse and iron fence in foreground, tree-lined avenue leading to a lit white manor with a tower — matches Knuthenborg estate gate view anchors. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Knuthenborg, Maribo', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:08:56 Europe/Copenhagen (HTTP Date 21:08:56 GMT), valid 00:45 step, is_day 0, partly cloudy 12.0C 65% cloud, wind 10.3 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: private estate/manor visible behind gates — documented only, no legal certification; no people/logos. Gate 5 PASS.",
   "approved_at": "2026-09-26T00:27:56.267081+00:00",
   "sha256_16x9": "65271d0e20e71f993e2baf591370a0e0b57de4e80dd6dae2ad25e878e35f803a",
-  "sha256_4x5": "ef0fbe2de6e3517023f3cd506b95068c6075f39afa2a822983da8290116714ff"
+  "sha256_4x5": "ef0fbe2de6e3517023f3cd506b95068c6075f39afa2a822983da8290116714ff",
+  "sha256_9x16": "0715ac249081cd34e40d981a9c4fa8466a549092cfc11c7b996acdff13ce023c"
 }

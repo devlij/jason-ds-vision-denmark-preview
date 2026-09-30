@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Viborg Cathedral at night, a granite west front with two pyramidal towers",
   "file_16x9": "Denmark/Viborg/dk-01-053-16x9.png",
   "file_4x5": "Denmark/Viborg/dk-01-053-4x5.png",
+  "file_9x16": "Denmark/Viborg/dk-01-053-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Viborg Cathedral at night: the granite twin-tower Romanesque west front with round-arch portals, floodlit against dark sky; on-image caption 'Viborg Cathedral, Viborg', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:29 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no logos or marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:36.169218+00:00",
   "sha256_16x9": "a0b3b511e2ddf2d2caf7a9260aac74327eedfd3fac0e3898e01c3b0fed2bc498",
-  "sha256_4x5": "41ae04276f967d2248605e180b6f8d76003f809740ae884c7d5d3fac0cb96f9b"
+  "sha256_4x5": "41ae04276f967d2248605e180b6f8d76003f809740ae884c7d5d3fac0cb96f9b",
+  "sha256_9x16": "07e229ce1cf99039f990810fd8f0d003219ad9f95ce05d542daf012a303b7cef"
 }

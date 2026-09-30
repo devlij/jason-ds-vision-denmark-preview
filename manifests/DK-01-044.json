@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the church square in Christiansfeld at night, yellow-brick houses around a low church",
   "file_16x9": "Denmark/Christiansfeld/dk-01-044-16x9.png",
   "file_4x5": "Denmark/Christiansfeld/dk-01-044-4x5.png",
+  "file_9x16": "Denmark/Christiansfeld/dk-01-044-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1 PASS: night — cobbled square of yellow-brick Moravian buildings with a central copper-cupola building, streetlamps reflecting on wet cobbles — matches Christiansfeld's Moravian settlement anchors. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Christiansfeld, Christiansfeld', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:16 Europe/Copenhagen (HTTP Date 21:09:16 GMT), valid 00:45 step, is_day 0, overcast 11.7C 94% cloud, wind 8.6 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
   "approved_at": "2026-09-26T00:30:40.976131+00:00",
   "sha256_16x9": "41a9df3967db1348d46a4a1f9c9547bd6a837de3cd9072612e148a75b39bc906",
-  "sha256_4x5": "4e22430b2d2bf7f2e715d19fa95e2340bbcefd3b81d407676f84022a68cf2321"
+  "sha256_4x5": "4e22430b2d2bf7f2e715d19fa95e2340bbcefd3b81d407676f84022a68cf2321",
+  "sha256_9x16": "a72e90c729135c92855cd97195a70a6bb989dc8884fd4c5e4f61e996232fcbc4"
 }

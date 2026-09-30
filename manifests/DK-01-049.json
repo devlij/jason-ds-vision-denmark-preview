@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Dokk1 on the Aarhus harbour at night, a glass hall under a polygonal roof",
   "file_16x9": "Denmark/Aarhus/dk-01-049-16x9.png",
   "file_4x5": "Denmark/Aarhus/dk-01-049-4x5.png",
+  "file_9x16": "Denmark/Aarhus/dk-01-049-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Dokk1 Aarhus at night: the glass cultural centre with its sweeping dark roof plane, lit from within, steps and harbour quay in front; on-image caption 'Dokk1, Aarhus', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:25 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no logos or marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:16.685392+00:00",
   "sha256_16x9": "c9a19ae0a97a1f4f8bada462a35cb71bfb540d02bfecae16deacbd60dee343ac",
-  "sha256_4x5": "e6a39396d615123e10fa6d77a8cc68d37b7784d6c81ec326c6d21e49a7894e07"
+  "sha256_4x5": "e6a39396d615123e10fa6d77a8cc68d37b7784d6c81ec326c6d21e49a7894e07",
+  "sha256_9x16": "27d6002c3659e71099a4d40c5ecb40b9c582cc4859018ff0a1774f54c17096c4"
 }

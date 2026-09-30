@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Randers riverfront at night, half-timbered houses along the Gudenå",
   "file_16x9": "Denmark/Randers/dk-01-054-16x9.png",
   "file_4x5": "Denmark/Randers/dk-01-054-4x5.png",
+  "file_9x16": "Denmark/Randers/dk-01-054-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Randers Riverfront at night: a long row of half-timbered gabled houses along the quay, warm windows and street lamps reflected in the river; on-image caption 'Randers Riverfront, Randers', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:30 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no readable shop names; all five gates pass.",
   "approved_at": "2026-09-26T01:21:42.367602+00:00",
   "sha256_16x9": "4be5efbdcbe7696edc2c90b8f85c922b4874756f10ee7182dae1aaf1fb36b782",
-  "sha256_4x5": "f084f9662fd08875d6826dc8bb9d7d3a58016dbe1ecb6aa791831ece862d37b1"
+  "sha256_4x5": "f084f9662fd08875d6826dc8bb9d7d3a58016dbe1ecb6aa791831ece862d37b1",
+  "sha256_9x16": "4c5e41053fb93bc0e216b7b80c07653c7ed1ce34e208a9fb012c288e2fa6ceff"
 }
