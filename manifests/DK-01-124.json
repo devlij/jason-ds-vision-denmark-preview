@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Odder Church at night, a whitewashed church with a heavy tower",
   "file_16x9": "Denmark/Odder/dk-01-124-16x9.png",
   "file_4x5": "Denmark/Odder/dk-01-124-4x5.png",
+  "file_9x16": "Denmark/Odder/dk-01-124-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: whitewashed Romanesque church with red-tiled tower roof beside a churchyard of gravestones, river reflection, lit lamps; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Odder Church, Odder', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:56 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:56 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:24:52.330614+00:00",
   "sha256_16x9": "e0e5e9aa2075c459e49c9c583261bef53b2be5dd14c623ab133f99184420c09e",
-  "sha256_4x5": "caeff58df2c6093cc24b6fba5e5aaf79f8532cd8fe2eedd1cc7d8fc45f9deb22"
+  "sha256_4x5": "caeff58df2c6093cc24b6fba5e5aaf79f8532cd8fe2eedd1cc7d8fc45f9deb22",
+  "sha256_9x16": "ba8daf1561ca6fe9d59b5899e27bec62b67ba41fd80a93b625ecc270c3ef07b6"
 }

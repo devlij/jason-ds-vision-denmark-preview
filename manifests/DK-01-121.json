@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Vor Frelsers Kirke in Horsens at night, a brick church with an onion dome",
   "file_16x9": "Denmark/Horsens/dk-01-121-16x9.png",
   "file_4x5": "Denmark/Horsens/dk-01-121-4x5.png",
+  "file_9x16": "Denmark/Horsens/dk-01-121-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: tall baroque brick church tower with spire above a cobbled square ringed by lit townhouses at night; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Vor Frelsers Kirke, Horsens', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:51 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:51 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:24:37.440702+00:00",
   "sha256_16x9": "008733a8a7c7a0946243f0cc25b867b15ed42aa80afaa178506299afc7823656",
-  "sha256_4x5": "a4cc3d4424c79ebba3f1a2bd74147f7d1391df11b8a216ed1a26aac8f1e6fb14"
+  "sha256_4x5": "a4cc3d4424c79ebba3f1a2bd74147f7d1391df11b8a216ed1a26aac8f1e6fb14",
+  "sha256_9x16": "105ec0088a50048e8534b7cc88430827d8ee5a47f0870769ba34d0c44e3f41f7"
 }

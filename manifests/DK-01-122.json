@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Silkeborg Church at night, a red-brick church with an octagonal spire",
   "file_16x9": "Denmark/Silkeborg/dk-01-122-16x9.png",
   "file_4x5": "Denmark/Silkeborg/dk-01-122-4x5.png",
+  "file_9x16": "Denmark/Silkeborg/dk-01-122-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: red-brick Romanesque church with tall copper spire lit against a cloudy night sky, cobbled square with lit street lamps; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Silkeborg Church, Silkeborg', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:52 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:52 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:24:41.997585+00:00",
   "sha256_16x9": "ae0e0b37a187131cf4be65daca1d201fb8ba12c266bfe544bf8eae70067b130d",
-  "sha256_4x5": "f3cd97d2a47fdd06fdac9a34f052b74ef4951cfe2e968db5dba9430ebf8aff60"
+  "sha256_4x5": "f3cd97d2a47fdd06fdac9a34f052b74ef4951cfe2e968db5dba9430ebf8aff60",
+  "sha256_9x16": "77a04d404ca04582d8177b921626c9c5652631e9edf935d5aa269198c8b7670e"
 }

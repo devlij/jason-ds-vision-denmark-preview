@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Billund Church at night, a dark brick building and a separate bell tower",
   "file_16x9": "Denmark/Billund/dk-01-094-16x9.png",
   "file_4x5": "Denmark/Billund/dk-01-094-4x5.png",
+  "file_9x16": "Denmark/Billund/dk-01-094-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Night view of Billund Church: a modernist red-brick church with a large glass-fronted corner and a separate slender brick bell tower, softly floodlit against dark sky, with bare trees framing the left. Gate 1: plausible street viewpoint matching the caption. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Billund Church, Billund', scenario '25 September 2026 · 02:00 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:19:10 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
   "approved_at": "2026-09-26T04:25:08.033475+00:00",
   "sha256_16x9": "28e21e1cb89da72613fb0638c845bfcb4db946876878dd0d94ec469922c81cd1",
-  "sha256_4x5": "85a9a3eb1133a6847a7d356c55b31aac0efa802cb575e345c692872bd14dabe5"
+  "sha256_4x5": "85a9a3eb1133a6847a7d356c55b31aac0efa802cb575e345c692872bd14dabe5",
+  "sha256_9x16": "682b1c4589edac5650867ef1b7c64f7c6b55d078738f470cc94d0ad5c0629694"
 }

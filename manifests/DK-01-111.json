@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Nyborg harbour at night, marina boats and dark water",
   "file_16x9": "Denmark/Nyborg/dk-01-111-16x9.png",
   "file_4x5": "Denmark/Nyborg/dk-01-111-4x5.png",
+  "file_9x16": "Denmark/Nyborg/dk-01-111-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: night marina with a field of sailboat masts silhouetted against overcast sky, floating piers with small dock lamps, sheltered basin, low yellow-washed harbour houses with lit windows and quay lamps along the right edge, distant shoreline lights left — matches Nyborg's marina anchors, plausible across-the-basin viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Nyborg Harbour, Nyborg', scenario 'Scenario: 25 September 2026 · 02:17 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:17 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:20:09 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs, no recognizable private property. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:28:40.722771+00:00",
   "sha256_16x9": "ad791088b4d3a68dfae07f013565176a54249e409ef8b0640304023be20855d9",
-  "sha256_4x5": "9e71b14aac729e189d525b9071548f8cc7b1751cdfc8f1d1091bdbbfae921602"
+  "sha256_4x5": "9e71b14aac729e189d525b9071548f8cc7b1751cdfc8f1d1091bdbbfae921602",
+  "sha256_9x16": "a4502c408a44a0fcb35c8b7ddbb0391dd8b1daa058e6a34d06fea204c1e4b89a"
 }

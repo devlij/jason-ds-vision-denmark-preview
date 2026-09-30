@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Sankt Olai Church in Helsingør at night, a red-brick basilica with a copper spire",
   "file_16x9": "Denmark/Helsingør/dk-01-097-16x9.png",
   "file_4x5": "Denmark/Helsingør/dk-01-097-4x5.png",
+  "file_9x16": "Denmark/Helsingør/dk-01-097-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Night view of Sankt Olai in Helsingør: the brick church with its tall spire and stepped gables framed by lit trees, a churchyard with gravestones in the foreground, windows glowing from within. Gate 1: plausible churchyard viewpoint matching the caption. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Sankt Olai, Helsingør', scenario '25 September 2026 · 02:16 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:19:13 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
   "approved_at": "2026-09-26T04:25:16.996560+00:00",
   "sha256_16x9": "30055d5a787009b2bde2b868efdab25914943cc76c3f83e5d524d3cfcf93a33c",
-  "sha256_4x5": "91052318bd1e823b4fcda3b64d10aadfb5c71292ab60e36e14ec38cfb69c186e"
+  "sha256_4x5": "91052318bd1e823b4fcda3b64d10aadfb5c71292ab60e36e14ec38cfb69c186e",
+  "sha256_9x16": "962f1004180f85a8986bd4b605d17688140625f2cff2b007c294bc1217c73196"
 }
