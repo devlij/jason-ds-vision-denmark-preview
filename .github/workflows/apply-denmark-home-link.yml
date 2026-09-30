@@ -1,0 +1,31 @@
+name: apply-denmark-home-link
+on:
+  push:
+    branches:
+      - cursor/denmark-gallery-home-button-894c
+    paths:
+      - tools/_apply_denmark_home_link.b64
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: cursor/denmark-gallery-home-button-894c
+      - name: Decode and apply Home link
+        run: |
+          set -euo pipefail
+          base64 -d tools/_apply_denmark_home_link.b64 > tools/_apply_denmark_home_link.py
+          python3 tools/_apply_denmark_home_link.py
+      - name: Commit the verified gallery files
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html tools/build_denmark.py
+          git rm -f tools/_apply_denmark_home_link.b64 .github/workflows/apply-denmark-home-link.yml
+          git commit -m "Add a Home link as the first gallery header item." -m "The page template and required-marker list keep the link through the next rebuild."
+          git push origin HEAD:cursor/denmark-gallery-home-button-894c
