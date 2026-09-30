@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Rudkøbing harbour at night, boats and a brick building by the quay",
   "file_16x9": "Denmark/Rudkøbing/dk-01-108-16x9.png",
   "file_4x5": "Denmark/Rudkøbing/dk-01-108-4x5.png",
+  "file_9x16": "Denmark/Rudkøbing/dk-01-108-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: night harbour basin with ~7 moored motorboats, warehouses on the left quay, low red-tile-roof houses across, prominent red-brick quay building with domed tower right (customs house character) — matches Rudkøbing Harbour's quay anchors, plausible harbour-side viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Rudkøbing Harbour, Rudkøbing', scenario 'Scenario: 25 September 2026 · 02:17 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:17 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:20:06 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs; generic warehouses and houses. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:28:16.789552+00:00",
   "sha256_16x9": "90dc928628e654b8d8a13d181410873ed5970d5b534b69ca615c42eb17e264b8",
-  "sha256_4x5": "eccb4407d366ef53ffc4240225c12563efb00fd84da515f9202ca3cecbb1018b"
+  "sha256_4x5": "eccb4407d366ef53ffc4240225c12563efb00fd84da515f9202ca3cecbb1018b",
+  "sha256_9x16": "36cf08caa5039daf62d3f3928e9f2d52897c2e05dfbf2c0b4e586625b4f5d3ed"
 }

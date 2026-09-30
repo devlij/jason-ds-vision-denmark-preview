@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Fyns Hoved at night, a grassy headland between two dark seas",
   "file_16x9": "Denmark/Martofte/dk-01-118-16x9.png",
   "file_4x5": "Denmark/Martofte/dk-01-118-4x5.png",
+  "file_9x16": "Denmark/Martofte/dk-01-118-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: narrow grassy headland/spit running from foreground to a dark horizon point, rocky shores on both flanks, black sea both sides, faint light source at the headland's tip, heavy cloud cover — consistent with Fyns Hoved's real narrow-headland geography, plausible coastal viewpoint, clean framing, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Fyns Hoved, Martofte', scenario 'Scenario: 25 September 2026 · 02:34 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:34 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:26:46 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: pure landscape; no people, logos, signs, or property. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:29:36.921528+00:00",
   "sha256_16x9": "8c3a6d9e1eab133c5d1ab9b4652fc3dbc1da282931394d53e6f53dbd0b06e648",
-  "sha256_4x5": "d6afe1cbc45eeafe6e638d5d4080af190c142414391650de26093154ba41d492"
+  "sha256_4x5": "d6afe1cbc45eeafe6e638d5d4080af190c142414391650de26093154ba41d492",
+  "sha256_9x16": "96c958a825884e5e5797bdfd9d5ccc7d9db4494d19c66e510f1c5547dcd5f29b"
 }

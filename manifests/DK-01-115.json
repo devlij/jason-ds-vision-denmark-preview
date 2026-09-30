@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Bagenkop harbour at night, fishing boats and red-roofed houses",
   "file_16x9": "Denmark/Bagenkop/dk-01-115-16x9.png",
   "file_4x5": "Denmark/Bagenkop/dk-01-115-4x5.png",
+  "file_9x16": "Denmark/Bagenkop/dk-01-115-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: night harbour: row of dark timber houses with red tile roofs and warm lit windows along a stone quay left, stone breakwater with glowing lamp posts curving out to sea center, four small white fishing boats with bare masts moored right of frame, cobbled harbour edge foreground, dark overcast sky — matches Bagenkop's harbour anchors, plausible night harbour viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Bagenkop Harbour, Bagenkop', scenario 'Scenario: 25 September 2026 · 02:33 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:33 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:26:41 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs; ordinary harbour houses, no distinctive private property. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:29:13.500128+00:00",
   "sha256_16x9": "a228463c539ebabfbdb3245cf2608972ee4fbac055ec8806923fa6a49fa85a65",
-  "sha256_4x5": "64582c1b13c91ab19c0ab6eb97acbb28b6114e074494f8df20c5210def7b0533"
+  "sha256_4x5": "64582c1b13c91ab19c0ab6eb97acbb28b6114e074494f8df20c5210def7b0533",
+  "sha256_9x16": "3b6df8fa8b98682ce51e3b7770532d379869e5f082205a873a1bc1370e223377"
 }

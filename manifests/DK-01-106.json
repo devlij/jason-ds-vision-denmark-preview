@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Sakskøbing at night, a church spire and a low bridge over the narrow water",
   "file_16x9": "Denmark/Sakskøbing/dk-01-106-16x9.png",
   "file_4x5": "Denmark/Sakskøbing/dk-01-106-4x5.png",
+  "file_9x16": "Denmark/Sakskøbing/dk-01-106-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: night view of a tall brick church with dark spire left, narrow fjord waterway crossed mid-frame by a low bridge, red-tile town roofs — matches Sakskøbing's fjord/bridge/spire anchors, plausible waterfront viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Sakskøbing, Sakskøbing', scenario 'Scenario: 25 September 2026 · 02:16 Europe/Copenhagen', 'AI-generated artistic interpretation · Not a photograph.' disclosure, 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:16 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:20:04 Europe/Copenhagen — unique to this scene, verified repo-wide against the covering BATCH notes, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs; generic roofs only. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:28:00.633771+00:00",
   "sha256_16x9": "deb85a871c12b4fc57c38be6824fbc82fcac7b5c4e6cd627cac20bd7e4b4df62",
-  "sha256_4x5": "341e52bc32a4a0bb8a6f9f9c9b1402e241013cbf7defdff487bb54185c17793f"
+  "sha256_4x5": "341e52bc32a4a0bb8a6f9f9c9b1402e241013cbf7defdff487bb54185c17793f",
+  "sha256_9x16": "276a6d3a1ba0387d66e077751e90c541989c625195b467c07f27c4d5a36ae5ee"
 }

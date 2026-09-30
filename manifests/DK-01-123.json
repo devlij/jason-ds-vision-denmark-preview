@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Skanderborg Lake at night, the brick church and round tower on the holm",
   "file_16x9": "Denmark/Skanderborg/dk-01-123-16x9.png",
   "file_4x5": "Denmark/Skanderborg/dk-01-123-4x5.png",
+  "file_9x16": "Denmark/Skanderborg/dk-01-123-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: lit brick manor with a round tower on a wooded lakeshore, warm window glow and lamp reflections on the dark water; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Skanderborg Lake, Skanderborg', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:54 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:54 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:24:47.041632+00:00",
   "sha256_16x9": "fc4ec22a37f3c98e5a425a3f74616dfad5417216896f243f859008b723c84d40",
-  "sha256_4x5": "cdb49fd223d54ac0ddc5d4a35128aef727a9592826564bfc8cbfba22efde374f"
+  "sha256_4x5": "cdb49fd223d54ac0ddc5d4a35128aef727a9592826564bfc8cbfba22efde374f",
+  "sha256_9x16": "83bb02ee0c30d504e7a43c7b9c77307dec051116442c17b09ab67f62d188833a"
 }

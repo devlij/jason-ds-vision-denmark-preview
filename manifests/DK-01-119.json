@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Vejle Fjord at night, dark water between wooded hills",
   "file_16x9": "Denmark/Vejle/dk-01-119-16x9.png",
   "file_4x5": "Denmark/Vejle/dk-01-119-4x5.png",
+  "file_9x16": "Denmark/Vejle/dk-01-119-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: wide fjord at night: dark water center frame, wooded hills on both shores dotted with scattered town lights and street lamps, a long low lit bridge spanning the water in the distance (Vejlefjord Bridge character), three small sailboats moored along a stone quay in the right foreground under moonlit cloud — matches Vejle Fjord's fjord/bridge anchors, plausible harbour-quay viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Vejle Fjord, Vejle', scenario 'Scenario: 25 September 2026 · 02:34 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:34 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:26:47 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:29:43.784111+00:00",
   "sha256_16x9": "4db44ee40021365e60e8eefb7700428e48b11dd30b0a99905472810352c0c207",
-  "sha256_4x5": "8f8b66184b397370894684a954730bcbb7445db804795d3746acacc811c3ef8a"
+  "sha256_4x5": "8f8b66184b397370894684a954730bcbb7445db804795d3746acacc811c3ef8a",
+  "sha256_9x16": "b2a7020a76b906002fb86aa88f328c5cfbbf38df94dfe76e9b3c006ed1c93f1a"
 }

@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Marstal harbour at night, boats, a stone pier, and a brick lime kiln",
   "file_16x9": "Denmark/Marstal/dk-01-114-16x9.png",
   "file_4x5": "Denmark/Marstal/dk-01-114-4x5.png",
+  "file_9x16": "Denmark/Marstal/dk-01-114-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: night harbour: stone breakwater across mid-frame with a small square brick building with dark pyramidal roof and arched opening on it (the lime kiln), moored fishing cutters with masts left under quay lamps, low red-painted harbour warehouses with lit doorways right, calm dark water, overcast sky — consistent with Marstal's kiln-and-pier anchors, plausible harbour viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Marstal Harbour, Marstal', scenario 'Scenario: 25 September 2026 · 02:33 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:33 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:26:39 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs, no recognizable private property. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:29:05.842783+00:00",
   "sha256_16x9": "8508a6272c6342c2a3629389b46a4ec17539adf4350f0d5dffa33a123ab73db8",
-  "sha256_4x5": "8ee65ee0ad5c0f7a8ead126c12f835c7c9929d1b575c44d3adb374895b449781"
+  "sha256_4x5": "8ee65ee0ad5c0f7a8ead126c12f835c7c9929d1b575c44d3adb374895b449781",
+  "sha256_9x16": "f02b43def38b65f84e24a6224a2a24198c2b814477c2ffbe34fb7a8f444776b4"
 }

@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Nysted harbour at night, boats, old houses, and a church tower",
   "file_16x9": "Denmark/Nysted/dk-01-107-16x9.png",
   "file_4x5": "Denmark/Nysted/dk-01-107-4x5.png",
+  "file_9x16": "Denmark/Nysted/dk-01-107-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: night harbour basin with ~5 moored sailboats, half-timbered gabled houses with white plaster and dark timber left, red-roof quay houses, church tower with dome behind the roofs, quay-lamp reflections — matches Nysted Harbour's old-town anchors, plausible quay viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Nysted Harbour, Nysted', scenario 'Scenario: 25 September 2026 · 02:16 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:16 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:20:05 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs; generic boats and houses. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T05:28:08.959856+00:00",
   "sha256_16x9": "3415139b049a39bae32e4d2299067d9fa3765d9efaea5732cfb6173c2604531e",
-  "sha256_4x5": "a15d80b1f022ca7cd837986fbd687dfa9ac9960751091dfc9eff0d33786fe0ba"
+  "sha256_4x5": "a15d80b1f022ca7cd837986fbd687dfa9ac9960751091dfc9eff0d33786fe0ba",
+  "sha256_9x16": "eab2bae946c6d3beb6fd55e7f6ba726b3ace6d558e3b556a22cbed2df1938534"
 }
