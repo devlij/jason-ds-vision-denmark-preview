@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Helsinge Church at night, a white tower and red roof on a town street",
   "file_16x9": "Denmark/Helsinge/dk-01-153-16x9.png",
   "file_4x5": "Denmark/Helsinge/dk-01-153-4x5.png",
+  "file_9x16": "Denmark/Helsinge/dk-01-153-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: the whitewashed Helsinge Church with its west tower and red-tiled roofs, lit street lamps and neighbouring town houses under a cloudy night sky — anchors (white church, west tower, red roof, town street) all present, plausible street viewpoint, no artifacts. Gate 2: on-image caption 'Helsinge Church, Helsinge', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:43 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:33:09.150299+00:00",
   "sha256_16x9": "2679e9fa4219da88ad78f2ee8223153eabc65b4640f18458e7c6a5a3c89c85af",
-  "sha256_4x5": "3e7a0259b815e6635c2b8fef6693d0e530088bfe3079d4c04802b62cc2cf3814"
+  "sha256_4x5": "3e7a0259b815e6635c2b8fef6693d0e530088bfe3079d4c04802b62cc2cf3814",
+  "sha256_9x16": "cdf159cb84e5706f7a735094ede6c6e81dc6d72b2496f63e0bf6dba58618df70"
 }

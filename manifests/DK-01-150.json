@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Bellevue Beach in Klampenborg at night, striped lifeguard towers on the sand",
   "file_16x9": "Denmark/Klampenborg/dk-01-150-16x9.png",
   "file_4x5": "Denmark/Klampenborg/dk-01-150-4x5.png",
+  "file_9x16": "Denmark/Klampenborg/dk-01-150-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Bellevue Beach's blue-and-white striped lifeguard towers on poles at the waterline, the small white beach kiosk, empty sand and overcast night water — the Arne Jacobsen signature structures are unmistakable, plausible shoreline viewpoint, no artifacts. Gate 2: on-image caption 'Bellevue Beach, Klampenborg', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:38 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique to this scene repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:32:45.635034+00:00",
   "sha256_16x9": "fa64b7b208134cf3286c6302d1625710000fefa515ac7fbbcf9601ccf572912a",
-  "sha256_4x5": "a49d69469aa76cbe04583fa619abda7bce41aea33acd289529dccf5dfd00b9bb"
+  "sha256_4x5": "a49d69469aa76cbe04583fa619abda7bce41aea33acd289529dccf5dfd00b9bb",
+  "sha256_9x16": "10d4e23fe52e29d3bb1055d56165d3309c98a7b6479d651db2a94725f1bcd6db"
 }

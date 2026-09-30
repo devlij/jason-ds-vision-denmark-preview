@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Grenaa harbour at night, fishing boats and stone piers",
   "file_16x9": "Denmark/Grenaa/dk-01-125-16x9.png",
   "file_4x5": "Denmark/Grenaa/dk-01-125-4x5.png",
+  "file_9x16": "Denmark/Grenaa/dk-01-125-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: fishing trawlers moored bow-on at a wet cobblestone quay, lit sheds, lamp glow on the dark harbour water; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Grenaa Harbour, Grenaa', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:58 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:58 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:24:57.605099+00:00",
   "sha256_16x9": "4da2a0472981403e3dc37a29347ad9b6c7b4aeb9a086b51b69912ebda8c29fb6",
-  "sha256_4x5": "c552596b02309363ee06bfaf07754324551b8afde277eebde32a878b856d7927"
+  "sha256_4x5": "c552596b02309363ee06bfaf07754324551b8afde277eebde32a878b856d7927",
+  "sha256_9x16": "d0ee35bf746636475fe85925db62035eff73b546996fe5d981f5da7418645590"
 }

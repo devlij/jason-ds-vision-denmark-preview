@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Rødvig harbour at night, fishing boats and stone piers",
   "file_16x9": "Denmark/Rødvig/dk-01-154-16x9.png",
   "file_4x5": "Denmark/Rødvig/dk-01-154-4x5.png",
+  "file_9x16": "Denmark/Rødvig/dk-01-154-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Rodvig's night fishing harbour — moored cutters, the rock breakwater, lit low houses along the quay with lamp reflections on the water, overcast sky; anchors all present, plausible quay viewpoint, no artifacts. Gate 2: on-image caption 'Rodvig Harbour, Rodvig', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:45 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no readable boat names or people visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:33:16.457285+00:00",
   "sha256_16x9": "527ed7974002a2c1c0a2206147667f6cd73c0033c85197915875ac9e82e94883",
-  "sha256_4x5": "b6695b1183c6060573d5fa489c7b81c25d64dcef342d90e9c3c0ecb8cbc41fed"
+  "sha256_4x5": "b6695b1183c6060573d5fa489c7b81c25d64dcef342d90e9c3c0ecb8cbc41fed",
+  "sha256_9x16": "2d684eaaa4781ac706b42d9a91c0438ca77c27bc6ad0ff1642c849df21ac15ec"
 }

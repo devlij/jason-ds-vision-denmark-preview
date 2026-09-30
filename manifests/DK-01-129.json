@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Budolfi Cathedral in Aalborg at night, a white tower and Baroque spire over the square",
   "file_16x9": "Denmark/Aalborg/dk-01-129-16x9.png",
   "file_4x5": "Denmark/Aalborg/dk-01-129-4x5.png",
+  "file_9x16": "Denmark/Aalborg/dk-01-129-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: white Gothic cathedral with tall baroque spire, glowing windows, wet cobblestone square and townhouses at night; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Budolfi, Aalborg', scenario '25 September 2026 · 02:49 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 26 Sep 2026 01:40:07 Europe/Copenhagen (HTTP Date 25 Sep 2026 23:40:07 GMT), model-valid 02:45, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:16.482508+00:00",
   "sha256_16x9": "54f86f16186254558bc02cfa002f1f9db9fffa88402c75da4a5225d11d253613",
-  "sha256_4x5": "6051e909ec2fba6c87154bbd60bfbe41afd2e2e06047e58692ff5df0e6b830c8"
+  "sha256_4x5": "6051e909ec2fba6c87154bbd60bfbe41afd2e2e06047e58692ff5df0e6b830c8",
+  "sha256_9x16": "1176a5ad0c3ef21e5a84c0367bfbcd5f8d9a0dbd370efe59e75087e093494326"
 }

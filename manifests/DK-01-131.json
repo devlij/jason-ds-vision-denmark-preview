@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Rebild Bakker at night, heath hills and dark forest under broken cloud",
   "file_16x9": "Denmark/Rebild/dk-01-131-16x9.png",
   "file_4x5": "Denmark/Rebild/dk-01-131-4x5.png",
+  "file_9x16": "Denmark/Rebild/dk-01-131-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: rolling heather-covered hills under moonlit clouds with a dark forest ridge on the horizon; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Rebild Bakker, Rebild', scenario '25 September 2026 · 02:49 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:27:06 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:27:06 GMT), model-valid 02:45, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:25.966458+00:00",
   "sha256_16x9": "d56ae7872e09abf28fab86eb4df62ebfaafd7a6144a40a28b575e8d091ff19cb",
-  "sha256_4x5": "d673a52998a0f0dd4612877f7f0828e0952f0ae2463af9a2478c3157c9480664"
+  "sha256_4x5": "d673a52998a0f0dd4612877f7f0828e0952f0ae2463af9a2478c3157c9480664",
+  "sha256_9x16": "04fe86388217d3539a53608ab6a92321dd2b6b127035936908f335cb234c0883"
 }

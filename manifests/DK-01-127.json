@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Mariager old town at night, half-timbered houses and a white church tower",
   "file_16x9": "Denmark/Mariager/dk-01-127-16x9.png",
   "file_4x5": "Denmark/Mariager/dk-01-127-4x5.png",
+  "file_9x16": "Denmark/Mariager/dk-01-127-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: cobbled street of half-timbered houses with a whitewashed church tower beyond, lit street lamps at night; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Mariager Old Town, Mariager', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:27:01 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:27:01 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
   "approved_at": "2026-09-26T06:25:07.617350+00:00",
   "sha256_16x9": "fa5d7978c6571a2056b061d644c4fed1b2d5771e7ccb870a03e2a1e49a23a06f",
-  "sha256_4x5": "14f0387e686bb9abfd2c53c7a1b1de32fb5ec7bf28b7c9e63a4f414290bc4683"
+  "sha256_4x5": "14f0387e686bb9abfd2c53c7a1b1de32fb5ec7bf28b7c9e63a4f414290bc4683",
+  "sha256_9x16": "0ef2b2f1064473675045848f2b49ec64c40425d27da8db734dd7b55abc285f17"
 }

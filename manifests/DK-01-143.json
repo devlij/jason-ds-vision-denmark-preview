@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Sønderho at night, thatched cottages along a village lane",
   "file_16x9": "Denmark/Sønderho/dk-01-143-16x9.png",
   "file_4x5": "Denmark/Sønderho/dk-01-143-4x5.png",
+  "file_9x16": "Denmark/Sønderho/dk-01-143-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: row of whitewashed thatched cottages along a moonlit village road with blooming rose bushes and a full moon — a plausible Sønderho-on-Fanø night viewpoint. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Sønderho, Sønderho', scenario '25 September 2026 · 02:50 Europe/Copenhagen' inside cited model-valid hour 02:00–02:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:26 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or signs — documented, final call Jason's. Gate 5 clear.",
   "approved_at": "2026-09-26T07:24:45.884340+00:00",
   "sha256_16x9": "46bd90492995fafd9deee40834b9b0c1b589886a17713ce80697b9274bd5cbba",
-  "sha256_4x5": "514dc3146c23baad217fee9aae4fe8d49125895338d0ecbdc6ba23bae6a081d0"
+  "sha256_4x5": "514dc3146c23baad217fee9aae4fe8d49125895338d0ecbdc6ba23bae6a081d0",
+  "sha256_9x16": "0f93bef6269186ace55cd48ca02f342517279000df0e39f787443875ab0cef86"
 }
