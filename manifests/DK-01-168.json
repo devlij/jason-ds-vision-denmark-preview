@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the closed exterior of Sagnlandet Lejre at night, thatched longhouses",
   "file_16x9": "Denmark/Lejre/dk-01-168-16x9.png",
   "file_4x5": "Denmark/Lejre/dk-01-168-4x5.png",
+  "file_9x16": "Denmark/Lejre/dk-01-168-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gates 1-5 PASS. G1: Sagnlandet Lejre at night — gravel path between two thatched longhouses with timber walls, autumn grass, a single path lamp in the distance, doors shut; matches the card description’s staging exactly; no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Sagnlandet Lejre, Lejre', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:28:53 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:33.414144+00:00",
   "sha256_16x9": "4f4fc1233af9aedeb632407c8d6a590e910a9733378615d73ef85f640ffe25c3",
-  "sha256_4x5": "51d6c7eab01cdf3a029243ae39afba5ebd268e2472c71ad357f49280589c9aff"
+  "sha256_4x5": "51d6c7eab01cdf3a029243ae39afba5ebd268e2472c71ad357f49280589c9aff",
+  "sha256_9x16": "da0b3524bf500320bd7f326143e2d3dc0ebe555f3676c53390b09b81bcbc6a96"
 }

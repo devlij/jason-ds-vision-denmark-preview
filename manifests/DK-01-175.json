@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the fishing harbour at Havnebyen on Sjællands Odde at night",
   "file_16x9": "Denmark/Havnebyen/dk-01-175-16x9.png",
   "file_4x5": "Denmark/Havnebyen/dk-01-175-4x5.png",
+  "file_9x16": "Denmark/Havnebyen/dk-01-175-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gates 1-5 PASS. G1: Odden harbour, Havnebyen at night — concrete fishing mole with tetrapods, three fishing boats, low sheds, wind-ruffled dark water; no car ferry, per the card description; no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Odden Harbour, Havnebyen', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:29:11 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:27:05.677089+00:00",
   "sha256_16x9": "cd5dd3a2f74c016ce0de5be93a9c945a776ac6da783b4cfbfb30c5a0d8dedadd",
-  "sha256_4x5": "557d325bebb3012e7dc795297233dfec545625145ecae8680a212255f6c681cd"
+  "sha256_4x5": "557d325bebb3012e7dc795297233dfec545625145ecae8680a212255f6c681cd",
+  "sha256_9x16": "e4820ae44dfb2e3f6a8ca02896d692dd783a25cef7c6e52c3c89f4814e1bc3b8"
 }

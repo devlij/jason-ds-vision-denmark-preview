@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Allinge harbour at night, boats and coloured houses on a granite quay",
   "file_16x9": "Denmark/Allinge/dk-01-157-16x9.png",
   "file_4x5": "Denmark/Allinge/dk-01-157-4x5.png",
+  "file_9x16": "Denmark/Allinge/dk-01-157-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Allinge's harbour with fishing boats along the granite quay and the colourful gabled houses (white, ochre, red) lit under a cloudy night sky — the classic Bornholm harbour look, anchors all present, no artifacts. Gate 2: on-image caption 'Allinge Harbour, Allinge', scenario '25 September 2026 · 03:10 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:50 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no readable boat names or people visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:33:41.414995+00:00",
   "sha256_16x9": "e21ceffb9df09de80f33264822bb445fbfca1c20c614d8b4871bbc6498bf986e",
-  "sha256_4x5": "c5d9d33848b9f0f19fe7fc8319d8c1d3be635fb1a79dbd8d4d632228810eb9b8"
+  "sha256_4x5": "c5d9d33848b9f0f19fe7fc8319d8c1d3be635fb1a79dbd8d4d632228810eb9b8",
+  "sha256_9x16": "db1214129e6d2bb6bf6b736c9f6bd1f03f588bd73b35968d233b7bf0871e73be"
 }

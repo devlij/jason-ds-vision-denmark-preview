@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Jægersborggade in Copenhagen at night, a narrow street of apartment buildings",
   "file_16x9": "Denmark/Copenhagen/dk-01-162-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-162-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-162-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gates 1-5 PASS. G1: night view down Jægersborggade, narrow Nørrebro street of four/five-storey brick apartment blocks, closed ground-floor shops, parked bicycles, warm street lamps — recognizable and artifact-free at review depth. G2: 1920x1080 + 864x1080 exact; on-image caption 'Jægersborggade, Copenhagen' and scenario '25 September 2026 · 03:42 Europe/Copenhagen' match the manifest, AI disclosure legible bottom-left, exact 'Jason D’s Vision' signature bottom-right; weather note cites its own Open-Meteo retrieval 25 September 2026 23:27:55 Europe/Copenhagen, unique to this scene across all 365 Denmark notes (no shared/batch retrieval), scenario hour 03 inside the cited 03 model-valid hour. G3: builder note claims text-prompt-only, no photographic inputs. G4: no visible people, no readable logos/signage (documented only; commercial call is Jason’s). G5: no open blockers.",
   "approved_at": "2026-09-26T09:26:09.022351+00:00",
   "sha256_16x9": "acbb8431d8d2a1a1672c457a8970b3451aa68a2d9ff1163d156d7e17341719c6",
-  "sha256_4x5": "a398b049d78bf3bb3e9a9a1878c9bd8744ef03ea93bac6e97572c3bb346eff7e"
+  "sha256_4x5": "a398b049d78bf3bb3e9a9a1878c9bd8744ef03ea93bac6e97572c3bb346eff7e",
+  "sha256_9x16": "a6d0e57809a6433d79722b0e646163689c516c98b61f86cc5a8ab8163dd6e3fc"
 }

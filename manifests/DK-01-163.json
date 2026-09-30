@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Refshaleøen waterfront in Copenhagen at night, industrial sheds on a quay",
   "file_16x9": "Denmark/Copenhagen/dk-01-163-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-163-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-163-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gates 1-5 PASS. G1: night Refshaleøen quay — long dark brick/wood shipyard sheds with pitched roofs along a concrete quay, bollards, black harbour water in front, a few quay lamps on — matches the card description; clean framing, no artifacts. G2: 1920x1080 + 864x1080 exact; on-image caption 'Refshaleøen, Copenhagen', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:28:47 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per builder note (no photographic inputs reported). G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:13.299760+00:00",
   "sha256_16x9": "25473780e2171161ce49a4699787c3833790bac29f414b783f84af423d654789",
-  "sha256_4x5": "7ed4fafad5286735e2c4f88cbba1db69b147c5dddaca4abca8ecb31121c974bb"
+  "sha256_4x5": "7ed4fafad5286735e2c4f88cbba1db69b147c5dddaca4abca8ecb31121c974bb",
+  "sha256_9x16": "c4d8c95e835a48a3cc2b8699132628fee28ec4c6896b7d86e13cba25c018f057"
 }

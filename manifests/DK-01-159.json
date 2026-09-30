@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Vestaravág in Tórshavn at night, sailboats in a windy harbour basin",
   "file_16x9": "Denmark/Tórshavn/dk-01-159-16x9.png",
   "file_4x5": "Denmark/Tórshavn/dk-01-159-4x5.png",
+  "file_9x16": "Denmark/Tórshavn/dk-01-159-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Vestaravag's marina full of sailboats, the lit town of Torshavn climbing the dark hills and wind-chopped water under heavy night cloud — the Faroe harbour anchors all present, plausible quay viewpoint, no artifacts. Gate 2: on-image caption 'Vestaravag, Torshavn', scenario '25 September 2026 · 03:10 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 26 September 2026 01:40:10 Europe/Copenhagen — a documented correction re-fetch (the earlier 02:45-step frame left 03:10 outside its valid hour); cited step 03:00, model-valid hour 03:00-03:59, scenario 03:10 inside it, retrieval unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no readable boat names visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:34:02.339303+00:00",
   "sha256_16x9": "655ac6a024b95474996445ab03dca61d83f78730c169ffb72529f6f5be2dda74",
-  "sha256_4x5": "719adf11dfc669bb517c802f0e447000ff85ac405714267bd9104371bdb685c5"
+  "sha256_4x5": "719adf11dfc669bb517c802f0e447000ff85ac405714267bd9104371bdb685c5",
+  "sha256_9x16": "5dbdf49b239fb1924e46e1e954f5287b016fc8cbd9fb1ae8f8c4dd605149fcdb"
 }

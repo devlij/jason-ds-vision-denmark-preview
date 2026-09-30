@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Køge Marina at night, sailboats and masts on the bay",
   "file_16x9": "Denmark/Køge/dk-01-171-16x9.png",
   "file_4x5": "Denmark/Køge/dk-01-171-4x5.png",
+  "file_9x16": "Denmark/Køge/dk-01-171-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gates 1-5 PASS. G1: Køge Marina at night — a field of bare masts and ordinary sailboats along piers on the dark bay, low quay, lamps lying on the water; half-timbered old town correctly out of frame per the description; no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Køge Marina, Køge', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:29:06 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:48.335614+00:00",
   "sha256_16x9": "c15877db0f04027afc9a6ac7678b0b525aee251364256a0250b39523cbd3745b",
-  "sha256_4x5": "b4775dbde16ef9aaacb1985d5c673da7837da9cb7803eb23412116c0babf156c"
+  "sha256_4x5": "b4775dbde16ef9aaacb1985d5c673da7837da9cb7803eb23412116c0babf156c",
+  "sha256_9x16": "1921702a32b9cf7c3df915e951d71b20a507df6f362fa3277b034ca25c896fae"
 }
