@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Drejø harbour just after sunrise, a small mole and a plain ferry",
   "file_16x9": "Denmark/Drejø/dk-01-281-16x9.png",
   "file_4x5": "Denmark/Drejø/dk-01-281-4x5.png",
+  "file_9x16": "Denmark/Drejø/dk-01-281-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Approved 5/5 Daylight. Gate 1 PASS: 16:9 shot from a rock breakwater — large white double-ended ferry broadside at the mid-harbour pier, choppy wind-rippled water, a sailboat and two small motorboats anchored right, low green island shore dotted with red-roofed farmhouses across the water under streaky morning cloud; 4:5 from the outer end of the stone breakwater — a white vessel stern-on at the pier walkway, three sailboats moored left, the same red-roofed shoreline and low green hills behind, sunrise glowing right. Cross-format subject identity agrees (ferry-type vessel, rocky breakwater, sailboats, red-roofed shore in both). Gate 2 PASS: on-image caption \"Drejø Harbour, Drejø\", scenario \"25 September 2026 · 07:18 Europe/Copenhagen\", disclosure \"AI-generated artistic interpretation · Not a photograph.\" bottom-left on dark scrim, \"Jason D's Vision\" with curly apostrophe bottom-right — all exact and legible. Weather law verified repo-wide: Open-Meteo retrieval 25 September 2026 07:17:39 Europe/Copenhagen (grid 54.96876, 10.42480, model step 07:15, hour 07:00–07:59) cited only by this scene's note, unique to the second — no shared retrieval; scenario 07:18 inside the model-valid hour, after the cited step. Gate 3 PASS per record: notes document text-prompt-only generation, no photographic inputs reported. Gate 4 documented only: no people, no logos or branded signage, unmarked vessels, generic shoreline houses. Gate 5 PASS — publication-ready.",
   "approved_at": "2026-09-26T17:30:07.590230+00:00",
   "sha256_16x9": "b0aa605f6a94c2822597aa3f6063049352b66decd5c7121b1e166cc32bae82d8",
-  "sha256_4x5": "9dcd0c31046b03b6aebf53e06695f0f99175ee605c34b88fd5678d002b8a3de2"
+  "sha256_4x5": "9dcd0c31046b03b6aebf53e06695f0f99175ee605c34b88fd5678d002b8a3de2",
+  "sha256_9x16": "7b4a448c0a09d67359a42677476bd72b5b36cd2fc194e349a5c219d1fd8c3dec"
 }

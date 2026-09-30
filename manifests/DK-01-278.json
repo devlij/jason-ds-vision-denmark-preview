@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Voderup Klint just after sunrise, stepped grassy terraces above the sea",
   "file_16x9": "Denmark/Voderup/dk-01-278-16x9.png",
   "file_4x5": "Denmark/Voderup/dk-01-278-4x5.png",
+  "file_9x16": "Denmark/Voderup/dk-01-278-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: terraced grassy slopes fall from a cliff top to a shingle beach, the morning sun low over the sea at right — a plausible Voderup Klint view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (terraced cliff + beach + sunlit sea). On-image caption 'Voderup Klint, Voderup', scenario '25 September 2026 · 07:18 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible. Weather: Open-Meteo retrieval 25 September 2026 07:15:53 Europe/Copenhagen — unique to the second repo-wide per Cosmo's 408-note scan; scenario 07:18 inside model-valid hour 07:00–07:59. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no people, no logos, no structures. Gate 5: publication-ready.",
   "approved_at": "2026-09-26T16:36:16.175638+00:00",
   "sha256_16x9": "caba2ecab7b4f7eeae49ae2c583a53613f424e15b769e3a98e300d11405d36c9",
-  "sha256_4x5": "0014e3dca2dc828b503bb1c6a01feaa4288a71b2d6192d62f64fd43b4316178e"
+  "sha256_4x5": "0014e3dca2dc828b503bb1c6a01feaa4288a71b2d6192d62f64fd43b4316178e",
+  "sha256_9x16": "dbea0ff08c7c768ec8f27b37abe0d5f865b299dc5ac858d44ec3fd6c0a3f6e8d"
 }

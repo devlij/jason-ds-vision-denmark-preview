@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Endelave harbour just after sunrise, a basin, a plain ferry, and green fields",
   "file_16x9": "Denmark/Endelave/dk-01-288-16x9.png",
   "file_4x5": "Denmark/Endelave/dk-01-288-4x5.png",
+  "file_9x16": "Denmark/Endelave/dk-01-288-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Approved 5/5 Daylight. Gate 1 PASS: 16:9 shows the small harbour in soft morning golden light — white passenger/vehicle ferry berthed at the stone pier right, a cluster of working fishing boats mid-harbour, two arms of stone breakwater, a shoreline village of white and red-roofed houses backed by green fields; 4:5 from a closer waterfront viewpoint — the same white ferry at the stone mole, two fishing boats (one red-hulled) at anchor, the village along the shore. Cross-format subject identity agrees (ferry, fishing boats, stone breakwater, village shoreline in both; Endelave is served by a small ferry). Gate 2 PASS: on-image caption \"Endelave Harbour, Endelave\", scenario \"25 September 2026 · 07:20 Europe/Copenhagen\", disclosure \"AI-generated artistic interpretation · Not a photograph.\" bottom-left on dark scrim, \"Jason D's Vision\" with curly apostrophe bottom-right — all exact and legible. Weather law verified repo-wide: Open-Meteo retrieval 25 September 2026 07:19:11 Europe/Copenhagen (grid 55.75858, 10.27696, model step 07:15, hour 07:00–07:59) cited only by this scene's note, unique to the second — no shared retrieval; scenario 07:20 inside the model-valid hour, after the cited step. Gate 3 PASS per record: notes document text-prompt-only generation, no photographic inputs reported. Gate 4 documented only: no people, no readable logos or vessel names, generic waterfront houses. Gate 5 PASS — publication-ready.",
   "approved_at": "2026-09-26T17:33:33.186784+00:00",
   "sha256_16x9": "3fe77845a7dd58017b6c0b5a04250822a686de112a23956f81c0a39cb320bfd5",
-  "sha256_4x5": "ba31edc3cfb7ed5918bfe54327348b45cb83133872a5d5b53aeba74fc43750d6"
+  "sha256_4x5": "ba31edc3cfb7ed5918bfe54327348b45cb83133872a5d5b53aeba74fc43750d6",
+  "sha256_9x16": "bc8fc4654f6194cb4653c0bd463ce8032a957c20451549aca7da1b87c0788c93"
 }

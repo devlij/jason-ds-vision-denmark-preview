@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Brande Church in Brande town on a mainly clear morning",
   "file_16x9": "Denmark/Brande/dk-01-298-16x9.png",
   "file_4x5": "Denmark/Brande/dk-01-298-4x5.png",
+  "file_9x16": "Denmark/Brande/dk-01-298-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: both masters show Brande Church — red-brick church, pyramid-capped tower with louvered openings, red tile roofs, churchyard with gravestones and early-autumn trees; formats agree on subject (only a minor clock/no-clock detail differs), clean framing, no artifacts. Gate 2: exact dims; 'Brande Church, Brande', 'Scenario: 25 September 2026 · 07:40 Europe/Copenhagen' inside model hour, disclosure and signature legible; retrieval 25 Sep 2026 07:36:44 unique repo-wide (neighbors :43 and :47), cloud cover 44% matches the light broken cloud; Art. 50 metadata present. Gate 3: text-prompt-only. Gate 4: no people, no readable lettering; documented only. Gate 5: publish.",
   "approved_at": "2026-09-26T18:32:12.546496+00:00",
   "sha256_16x9": "9ebe5318c26fc9482538ada13394fee8a5202b391173f7e11ab6a89fae8d0bc3",
-  "sha256_4x5": "c797e4eba003df788be44f7da66d199fc0a568a9916a024be9c03ffefb5f301b"
+  "sha256_4x5": "c797e4eba003df788be44f7da66d199fc0a568a9916a024be9c03ffefb5f301b",
+  "sha256_9x16": "bfd1b0b3eb1dbfc88f5e69383454eabee6128f8d0ac2566ab2c950093f396217"
 }

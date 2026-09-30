@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Tunø harbour just after sunrise, a short mole, a plain ferry, and a white church",
   "file_16x9": "Denmark/Tunø/dk-01-287-16x9.png",
   "file_4x5": "Denmark/Tunø/dk-01-287-4x5.png",
+  "file_9x16": "Denmark/Tunø/dk-01-287-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Approved 5/5 Daylight. Gate 1 PASS: 16:9 from the breakwater — dark surf-washed rocks and breaking white water foreground, rock-armored mole curving left, large white passenger ferry berthed center, small white and blue fishing boats at jetties right, and behind them the island village with a white church and dark steeple on the hill, red and white houses, a wooded rise under soft overcast morning light; 4:5 from the pier head — the same white ferry moored to a low stone-and-concrete pier with rock rip-rap, calm sea, low white/black-roofed island houses along the rocky shore. Cross-format subject identity agrees (same ferry-at-stone-pier harbour, complementary viewpoints, no defining-feature conflict). Gate 2 PASS: on-image caption \"Tunø Harbour, Tunø\", scenario \"25 September 2026 · 07:20 Europe/Copenhagen\", disclosure \"AI-generated artistic interpretation · Not a photograph.\" bottom-left on dark scrim, \"Jason D's Vision\" with curly apostrophe bottom-right — all exact and legible. Weather law verified repo-wide: Open-Meteo retrieval 25 September 2026 07:19:09 Europe/Copenhagen (grid 55.94441, 10.44440, model step 07:15, hour 07:00–07:59) cited only by this scene's note, unique to the second — no shared retrieval; scenario 07:20 inside the model-valid hour, after the cited step. Gate 3 PASS per record: notes document text-prompt-only generation, no photographic inputs reported. Gate 4 documented only: no people, no logos or branded signage, church and generic houses. Gate 5 PASS — publication-ready.",
   "approved_at": "2026-09-26T17:33:04.436457+00:00",
   "sha256_16x9": "ab5f9ad971b6aa3bc839c78b21b19b8cc84e7ff10766dcdbdad9fbea05d103b1",
-  "sha256_4x5": "1e92a29a4bd75262259843a843a51ff5db510087e202ca15ac4fd0bb92567744"
+  "sha256_4x5": "1e92a29a4bd75262259843a843a51ff5db510087e202ca15ac4fd0bb92567744",
+  "sha256_9x16": "6bb65cd95565f7d639aa985d7433df1fbc7c6067a73fbfed1f093c3b5136ff0a"
 }
