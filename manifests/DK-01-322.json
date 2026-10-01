@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Nyker Round Church on an overcast afternoon, a low white round church with a conical roof",
   "file_16x9": "Denmark/Nyker/dk-01-322-16x9.png",
   "file_4x5": "Denmark/Nyker/dk-01-322-4x5.png",
+  "file_9x16": "Denmark/Nyker/dk-01-322-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: white round church with conical shingled roof, cross finial, small entry porch and surrounding graveyard; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:00:05 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:04 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T13:22:28.650741+00:00",
   "sha256_16x9": "8cdc46b48605ac1908adc8c36eb1faf3e8e1a8d837b25e2643907c029ba01f19",
-  "sha256_4x5": "6f61c227f27e01373cd8b65443ee588d0f5c651b0d5244ea47b1c848ec9acc69"
+  "sha256_4x5": "6f61c227f27e01373cd8b65443ee588d0f5c651b0d5244ea47b1c848ec9acc69",
+  "sha256_9x16": "8050eac025b46e2454c24df36446beaf2936df8232fe2f8f6bb54c87a8a1bf82"
 }

@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Havneby harbour on Rømø on a partly cloudy morning, a concrete mole and small boats",
   "file_16x9": "Denmark/Havneby/dk-01-315-16x9.png",
   "file_4x5": "Denmark/Havneby/dk-01-315-4x5.png",
+  "file_9x16": "Denmark/Havneby/dk-01-315-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: the 16:9 master shows Havneby Harbour with a long concrete quay, three white fishing boats moored alongside, red-roofed houses and the flat Rømø marsh under a partly cloudy morning sky; the 4:5 master shows the same concrete quay with three small white boats hauled on the pier, calm water and a distant breakwater — both formats agree on the harbour's identity. Gate 2: exact 1920x1080 + 864x1080, caption 'Havneby Harbour, Havneby', scenario '25 September 2026 · 08:21 Europe/Copenhagen' verified on-image, signature bottom-right, AI-disclosure bottom-left legible; weather retrieved 25 September 2026 08:17:33 Europe/Copenhagen (unique to this scene repo-wide), scenario 08:21 inside the cited 08:00–08:59 model-valid hour. Gate 3: notes claim text-prompt-only lineage, no photographic reference pixels. Gate 4: no visible people or readable logos on the boats — documented only. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T20:22:13.930569+00:00",
   "sha256_16x9": "8879b4e778148c5dbce1a34e0b74e12a90051221c27dbeb30e57f2d7663f22ef",
-  "sha256_4x5": "ec7d5b302698627d41a3b72ba1bb94e332b8bcdb783823f1305f268a36b33888"
+  "sha256_4x5": "ec7d5b302698627d41a3b72ba1bb94e332b8bcdb783823f1305f268a36b33888",
+  "sha256_9x16": "0cf575ecc4872e56b41c4b64536781392fafe0124ea383bc669d1d5d3bd377b7"
 }

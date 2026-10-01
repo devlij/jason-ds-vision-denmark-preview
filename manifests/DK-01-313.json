@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Vrå Church on an overcast morning, a granite and brick church with a tall tower",
   "file_16x9": "Denmark/Vrå/dk-01-313-16x9.png",
   "file_4x5": "Denmark/Vrå/dk-01-313-4x5.png",
+  "file_9x16": "Denmark/Vrå/dk-01-313-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: the 16:9 master shows Vrå Church as a Danish Romanesque church — brick tower with stepped gable and white blind arcading over a granite-ashlar base, whitewashed nave with red-tile and dark-tile roofs, brick porch, graveyard foreground, overcast morning sky; the 4:5 master shows the same stepped-gable brick tower and whitewashed nave, so the two formats agree on the subject identity (arcade infill tint differs slightly, ornament-level only). Gate 2: exact 1920x1080 + 864x1080, caption 'Vrå Church, Vrå', scenario '25 September 2026 · 08:28 Europe/Copenhagen' verified on-image, signature bottom-right, AI-disclosure bottom-left legible; weather retrieved 25 September 2026 08:17:30 Europe/Copenhagen (unique to this scene repo-wide, confirmed against all 43 batch files), scenario 08:28 inside the cited 08:00–08:59 model-valid hour. Gate 3: notes claim text-prompt-only lineage, no photographic reference pixels. Gate 4: no visible people, logos, or private property — documented only. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T20:21:56.252061+00:00",
   "sha256_16x9": "a7fa2aea8bd652819673a786d477f51d6540e704fc3e840826e56eb29b3919cf",
-  "sha256_4x5": "688005c8e4825e70c6457fb1377ada38956664b4b0eb30aa08c6ca0b2f849012"
+  "sha256_4x5": "688005c8e4825e70c6457fb1377ada38956664b4b0eb30aa08c6ca0b2f849012",
+  "sha256_9x16": "8dcff6f853fb2802f4217ffcdce6302a2672d67fbd6e4ae48819fc7df99cb5f4"
 }

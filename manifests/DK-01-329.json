@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Grey Lighthouse at Skagen on a partly cloudy afternoon, a tall grey tower in the dunes",
   "file_16x9": "Denmark/Skagen/dk-01-329-16x9.png",
   "file_4x5": "Denmark/Skagen/dk-01-329-4x5.png",
+  "file_9x16": "Denmark/Skagen/dk-01-329-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: stone lighthouse on coastal dunes with the sea behind; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 14:54:54 Europe/Copenhagen, model-valid 14:00–14:59, scenario 14:55 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T13:23:01.295701+00:00",
   "sha256_16x9": "929a5a5ce4832420e4e72fbae792c770ccb7c5368bd798bcd374aa12d101405b",
-  "sha256_4x5": "f47b39e44f8d8b1d8f4c9aa915db76ec7876a9a779154a099f0967410e5b7256"
+  "sha256_4x5": "f47b39e44f8d8b1d8f4c9aa915db76ec7876a9a779154a099f0967410e5b7256",
+  "sha256_9x16": "00ed3e138b7d07571c2e45c6dbad3dedc37933eb3da69d406446661e45bd09db"
 }

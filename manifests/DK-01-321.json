@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Marienlyst Castle in Helsingør on a mainly clear afternoon, a pale palace with a balustrade",
   "file_16x9": "Denmark/Helsingør/dk-01-321-16x9.png",
   "file_4x5": "Denmark/Helsingør/dk-01-321-4x5.png",
+  "file_9x16": "Denmark/Helsingør/dk-01-321-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: white neoclassical palace with central cupola and formal baroque garden parterres in the foreground; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 14:57:17 Europe/Copenhagen, model-valid 14:00–14:59, scenario 14:57 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T13:22:21.924758+00:00",
   "sha256_16x9": "6e7db3bd350b35931bcde42ee2d67b65279fbc8de65801c05e7af27b312f8db2",
-  "sha256_4x5": "87e9f285db748a59ff232797429193f6269e1e292c69074ba479260d72e15208"
+  "sha256_4x5": "87e9f285db748a59ff232797429193f6269e1e292c69074ba479260d72e15208",
+  "sha256_9x16": "45c9992bfb9ae3f07db9f017eac2833b8ca1cffe9bc4b47061241869246679ac"
 }

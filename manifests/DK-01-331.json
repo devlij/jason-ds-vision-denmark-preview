@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Christiansø harbour on an overcast afternoon, a round tower and red roofs above the water",
   "file_16x9": "Denmark/Christiansø/dk-01-331-16x9.png",
   "file_4x5": "Denmark/Christiansø/dk-01-331-4x5.png",
+  "file_9x16": "Denmark/Christiansø/dk-01-331-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: the 16:9 master shows Christiansø Harbour with the round stone Store Tårn above red-roofed garrison houses, stone breakwaters enclosing a rocky inlet, overcast afternoon sky — a recognizable, clean tourist view of the fortress island; the 4:5 master shows the same round tower, whitewashed red-roofed garrison buildings and stone quay with moored boats — both formats agree on the subject identity. Gate 2: exact 1920x1080 + 864x1080, caption 'Christiansø Harbour, Christiansø', scenario '25 September 2026 · 15:02 Europe/Copenhagen' verified on-image, signature bottom-right, AI-disclosure bottom-left legible; weather retrieved 25 September 2026 15:00:15 Europe/Copenhagen (unique to this scene repo-wide), scenario 15:02 inside the cited 15:00–15:59 model-valid hour. Gate 3: notes claim text-prompt-only lineage, no photographic reference pixels. Gate 4: no identifiable people or logos — documented only. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T20:22:57.827487+00:00",
   "sha256_16x9": "a0670de5cf31d8fc099e53c7c96c4a1676e1c48decce786b392aca3e15a9490b",
-  "sha256_4x5": "a71ed1cd72d9e83fdf08271daeeb65612d007de926a40376d692f8f901e3dcaa"
+  "sha256_4x5": "a71ed1cd72d9e83fdf08271daeeb65612d007de926a40376d692f8f901e3dcaa",
+  "sha256_9x16": "d04f95933116055a0213b5a47f03ee67696969f3b7f2d1774085e28f124123c1"
 }

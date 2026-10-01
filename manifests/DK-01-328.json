@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Fisheries Museum at Esbjerg on an overcast afternoon, a low brick building and a few boats",
   "file_16x9": "Denmark/Esbjerg/dk-01-328-16x9.png",
   "file_4x5": "Denmark/Esbjerg/dk-01-328-4x5.png",
+  "file_9x16": "Denmark/Esbjerg/dk-01-328-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: harbour basin with two fishing cutters moored alongside a long red-brick museum building on the quay; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:02:48 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:03 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T13:22:57.051905+00:00",
   "sha256_16x9": "48e82edac12cd143c0535d699c74a49c6c9c4f095b9ab07d3d8c247c6655d25e",
-  "sha256_4x5": "71ae04386f22cb24d36009aa0bb0c81c93af5aa20f2a4f928c58cdd9eb7a3535"
+  "sha256_4x5": "71ae04386f22cb24d36009aa0bb0c81c93af5aa20f2a4f928c58cdd9eb7a3535",
+  "sha256_9x16": "9fb183b5e007198b2f2d571c42d25558c6d5aef63b30000098e1b6bf09d2b722"
 }

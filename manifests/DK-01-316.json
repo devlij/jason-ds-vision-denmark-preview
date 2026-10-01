@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Mandø causeway on an overcast morning, a raised track and marker poles across the flats",
   "file_16x9": "Denmark/Mandø/dk-01-316-16x9.png",
   "file_4x5": "Denmark/Mandø/dk-01-316-4x5.png",
+  "file_9x16": "Denmark/Mandø/dk-01-316-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: the 16:9 master shows the Mandø tidal causeway as a gravel track crossing Wadden Sea mudflats and shallow water with a line of wooden guide poles receding to the horizon under an overcast morning sky; the 4:5 master shows the same causeway with guide poles on both sides over the tidal flats — both formats agree on the subject identity, a plausible tourist view of the Ebbevej. Gate 2: exact 1920x1080 + 864x1080, caption 'Mandø Causeway, Mandø', scenario '25 September 2026 · 08:22 Europe/Copenhagen' verified on-image, signature bottom-right, AI-disclosure bottom-left legible; weather retrieved 25 September 2026 08:17:34 Europe/Copenhagen (unique to this scene repo-wide), scenario 08:22 inside the cited 08:00–08:59 model-valid hour. Gate 3: notes claim text-prompt-only lineage, no photographic reference pixels. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T20:22:22.981481+00:00",
   "sha256_16x9": "f45978d41b8e06d0850daf96703526fa110c2a4cf1e8486472003d29433aea8d",
-  "sha256_4x5": "69c1815aa557f2e5c77f2f09d36809090acb8a58bb788ba5a34fbb3c48dd1d2e"
+  "sha256_4x5": "69c1815aa557f2e5c77f2f09d36809090acb8a58bb788ba5a34fbb3c48dd1d2e",
+  "sha256_9x16": "8b27f216ba49ba77efd9df2f27af41eb771bc0481a5f1cf3b30bb26c348704d4"
 }
