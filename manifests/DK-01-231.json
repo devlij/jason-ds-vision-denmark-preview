@@ -41,8 +41,8 @@
       "4x5": "library/world/Denmark/Børglum/dk-01-231-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "688a082b2dd7ea555f3c8fa0ed32d531f884236ad1ebbd13d0e21bbb0134505a",
-      "4x5": "2f8e00be285e083f5a82b884030078331adf9c0da17f6b20cf3255140750c8d5"
+      "16x9": "0d907c295f3392365c7522757514e11c4960128b315b0f2494eb200b20cd41f2",
+      "4x5": "daa4a13f09f34e266f1db57c9c8f38b9a8f620784db83fb176ab42a54275b079"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Børglum Abbey, Børglum",
@@ -69,10 +69,17 @@
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gates 1–5 pass. Gate 1: whitewashed two-storey baroque complex on an open hill, hipped red/black tile roofs, triangular pediment over the central gateway, NO crow-stepped gables (matches the evidence anchor 'No stepped gables'); warm windows, overcast night, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Børglum Abbey, Børglum\", scenario 06:22 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T06:10:21Z unique to the second, valid 06:00, scenario 06:22 inside the 06:00–06:59 model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
-  "approved_at": "2026-09-28T02:35:20.081890+00:00",
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
   "sha256_16x9": "01b3e8d53092275e487c57aaaec197462cc1fd74b08ea7fe40fa4a282502cded",
-  "sha256_4x5": "e453c50f20546b38f0e9c9a81fe834c5536b79c5dc0a46258ecf8ea547d6610e"
+  "sha256_4x5": "e453c50f20546b38f0e9c9a81fe834c5536b79c5dc0a46258ecf8ea547d6610e",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1 pack 3",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

@@ -6,7 +6,7 @@
   "caption": "Aa Church, Åkirkeby",
   "scenario_label": "25 September 2026 · 06:33 Europe/Copenhagen",
   "composition": "Greenish and rust-brown Romanesque stone and a limestone tower · AI-generated artistic interpretation",
-  "description": "Aa Church has a Romanesque choir of greenish sandstone and rust-brown shale, a paler limestone west tower, and a dark roof, standing in an empty churchyard. It is overcast, about 12.5°C. The wind is light, about 12.6 km/h. The cloud deck hides the moon, and only a few lamps carry the light. It is not a round church and it is not whitewashed over.",
+  "description": "Aa Church has a Romanesque choir of greenish sandstone and rust-brown shale, a paler limestone west tower under a twin double saddle roof, standing in an empty churchyard. It is overcast, about 12.5°C. The wind is light, about 12.6 km/h. The cloud deck hides the moon, and only a few lamps carry the light. It is not a round church and it is not whitewashed over.",
   "alt_text": "AI-generated artistic interpretation of Aa Church in Åkirkeby at night, coloured stone and a limestone tower",
   "file_16x9": "Denmark/Åkirkeby/dk-01-243-16x9.png",
   "file_4x5": "Denmark/Åkirkeby/dk-01-243-4x5.png",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Åkirkeby/dk-01-243-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "6d3207a1687b1cecb57ec4d7f8ad21ad4e2b735cdade304dc5c31a76c5975794",
-      "4x5": "e0999e060803023f648f7ed02b77ff399ed8c5e7844234d9b4b1ead621c2f0c0"
+      "16x9": "45a3b82bd233761bd20a98bb8cf66ff91cf28d015a998efc936eaf46f68b151c",
+      "4x5": "a27c977d004e82494db8f87489229817d1053a9e197b89fdf75c7b4b62667570"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Aa Church, Åkirkeby",
@@ -42,10 +42,17 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: Aa Church from the churchyard — greenish sandstone and rust-brown shale choir and apse, paler limestone west tower, dark roof, old gravestones in lamplit grass; recognizably a Romanesque parish church, not a round church, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Aa Church, Åkirkeby', scenario '25 September 2026 · 06:33 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:31:57 for this scene's own coords, scenario after the 06:30 model step inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable gravestone text. Gate 5: no open blockers.",
-  "approved_at": "2026-09-26T13:26:19.629531+00:00",
-  "sha256_16x9": "94d7f11e8b4d5f1740bad12212504cc84ebf8ab4bd5f1b02d4d92ab4a1a77c3d",
-  "sha256_4x5": "12c921da04c9a1b3a82d10a7c5754d2514cb7ee032cef0fd48663934aae6350f"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "eabb12c2730c4c1e155592061fe33f53e6c36846851a6cb6048caddd7533b14f",
+  "sha256_4x5": "6c94fa4d94e6ddb7dfc9e200afeac73ae232f1ca1202d549c431ca0f15961c1f",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1 pack 3",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

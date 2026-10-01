@@ -6,7 +6,7 @@
   "caption": "Esrum Abbey, Esrum",
   "scenario_label": "25 September 2026 · 06:56 Europe/Copenhagen",
   "composition": "The long brick convent range and the mill pond · AI-generated artistic interpretation",
-  "description": "Esrum Abbey is the long red-brick convent range that remains, with a steep dark roof and a mill pond in front. The grounds are empty. It is light drizzle, about 13.3°C. The wind is light, about 12.6 km/h. Light drizzle is falling. The cloud deck hides the moon. It is not a palace, and the church is gone.",
+  "description": "Esrum Abbey is the long red-brick convent range that remains, with a projecting mid-bay, a tall brick gable dormer, a high roof of red tiles, and a mill pond in front. The grounds are empty. It is light drizzle, about 13.3°C. The wind is light, about 12.6 km/h. Light drizzle is falling. The cloud deck hides the moon. It is not a palace, and the church is gone.",
   "alt_text": "AI-generated artistic interpretation of Esrum Abbey before sunrise, a long brick range and a mill pond",
   "file_16x9": "Denmark/Esrum/dk-01-262-16x9.png",
   "file_4x5": "Denmark/Esrum/dk-01-262-4x5.png",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Esrum/dk-01-262-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "30b49fd6275ec3238ece44d6b9be9db5f23709b081989e5b6c71c547626f7e4c",
-      "4x5": "f1e071da4aa70524669514f468428c1e0e6fa99cf9cbfe67028e91530e7fac24"
+      "16x9": "638f5d9718550ee5c81227fe66c5e5b1cb270b16d97fa7b88274d2d78b30c245",
+      "4x5": "b3a60f17b45fecfd6aa43a84e6781707d16331f62f72c5afd888dda9f257f66e"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Esrum Abbey, Esrum",
@@ -42,10 +42,17 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
-  "approval_basis": "Gate 1 pass: the 16:9 master shows the long red-brick abbey building with white-framed windows mirrored in the pond, autumn trees and an overcast sky — a plausible Esrum Abbey view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Esrum Abbey, Esrum' and scenario '25 September 2026 · 06:56 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:38, confirmed unique repo-wide across all 365 notes, and 06:56 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no logos. All five gates pass.",
-  "approved_at": "2026-09-26T15:26:59.233889+00:00",
-  "sha256_16x9": "fd516b3d49d50993b2af043af0e0c293037e080a1ff6826493578b680ab49456",
-  "sha256_4x5": "ff2244a6719b2b89405120946319a7a7b1a490129f6fa5bbabbfadf841c64fe5"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "b2d8b072e4fbe0a1ba9b79c18443e79e3dc01fd23ce27d4fa672917b9f4f5413",
+  "sha256_4x5": "085c9447844ac04368048f01d1333e4db193ed955f65c38d4e7c56185ef85797",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1 pack 3",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }
