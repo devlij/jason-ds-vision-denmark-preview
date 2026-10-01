@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Sankt Mariæ Kirke in Helsingør on a mainly clear afternoon, a red-brick church and cloister",
   "file_16x9": "Denmark/Helsingør/dk-01-339-16x9.png",
   "file_4x5": "Denmark/Helsingør/dk-01-339-4x5.png",
+  "file_9x16": "Denmark/Helsingør/dk-01-339-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: red-brick church with square tower and long arcaded cloister wing, characteristic of Sankt Mariæ Kirke Helsingør; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:24:52 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:33 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T14:15:46.594197+00:00",
   "sha256_16x9": "463f26554ee52e17d59d7080045eb562399bef5a94baa72774f63b3658c149e5",
-  "sha256_4x5": "11dc8117bcacb3a212669633d1543b2a52cb5473ef6b2202efbfcbf0af754809"
+  "sha256_4x5": "11dc8117bcacb3a212669633d1543b2a52cb5473ef6b2202efbfcbf0af754809",
+  "sha256_9x16": "ceab3e56754ac2c29d3a22df74db2d85b92822f4d440edaccad1cd46a9ceea8d"
 }

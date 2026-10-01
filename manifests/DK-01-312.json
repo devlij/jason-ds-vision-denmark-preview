@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Nørre Vosborg near Vemb on an overcast morning, a whitewashed manor and a gate tower",
   "file_16x9": "Denmark/Vemb/dk-01-312-16x9.png",
   "file_4x5": "Denmark/Vemb/dk-01-312-4x5.png",
+  "file_9x16": "Denmark/Vemb/dk-01-312-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: the 16:9 master shows Nørre Vosborg as a whitewashed manor complex with red-tile roofs, a gate tower with a clock, a causeway crossing the moat and autumn trees — a plausible visitor viewpoint, clean framing, no artifacts. Gate 2: exact 1920x1080 / 864x1080; on-image signature 'Jason D's Vision', caption 'Nørre Vosborg, Vemb', scenario '25 September 2026 · 08:21 Europe/Copenhagen', and AI disclosure legible on the scrim; weather retrieval 25 September 2026 08:17:29 Europe/Copenhagen inside the valid 08:00–08:59 hour and unique repo-wide (365/365 distinct). The 4:5 master shows the same white complex, clock tower, moat and causeway — formats agree. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no visible people or logos. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T19:25:55.338987+00:00",
   "sha256_16x9": "bc1d5afd13398a473b87dd323d3b7efac001232650fa8f50f07496625b89b194",
-  "sha256_4x5": "d0d0b66d24392c44e53e1c2fd9c5844f4f5a4feace72a78a564c4c58800b54a3"
+  "sha256_4x5": "d0d0b66d24392c44e53e1c2fd9c5844f4f5a4feace72a78a564c4c58800b54a3",
+  "sha256_9x16": "cca43c9f9d68646d6c7598858a3fd2556b3b501284a551440accc441c4ef8e84"
 }

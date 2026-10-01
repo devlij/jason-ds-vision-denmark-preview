@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Grundtvig's Church in Copenhagen on a clear afternoon, a yellow-brick organ-pipe facade",
   "file_16x9": "Denmark/Copenhagen/dk-01-338-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-338-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-338-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: iconic yellow-brick expressionist stepped-gable facade of Grundtvig's Church flanked by trees; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:24:50 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:26 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T14:15:41.783430+00:00",
   "sha256_16x9": "c1d4bef55fa324e22f36e043503c54a886dc9d6ec197dce42398e0b52e1c56b3",
-  "sha256_4x5": "30b0742276e282649ea494a6320d40e488d32ef2cbcbe411866499ecbb267bd9"
+  "sha256_4x5": "30b0742276e282649ea494a6320d40e488d32ef2cbcbe411866499ecbb267bd9",
+  "sha256_9x16": "7298795b039e95125d9e78f1febeb7c9dd54eb1d594d9d37622827c2505ccfd4"
 }

@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Klintholm harbour on a mainly clear afternoon, a mole and fishing boats",
   "file_16x9": "Denmark/Klintholm Havn/dk-01-330-16x9.png",
   "file_4x5": "Denmark/Klintholm Havn/dk-01-330-4x5.png",
+  "file_9x16": "Denmark/Klintholm Havn/dk-01-330-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: fishing boats moored at a stone pier, red-roofed houses behind, open sea; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:00:14 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:01 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T13:23:06.079437+00:00",
   "sha256_16x9": "524a768517ed7d9c785559e0ef15390799d60c5f9594d0bdc18c6a6f6ac11d87",
-  "sha256_4x5": "ccaef7c0c82e444c9d546f7f056c2071f70cb52ba01ddfd76a68e17b99171690"
+  "sha256_4x5": "ccaef7c0c82e444c9d546f7f056c2071f70cb52ba01ddfd76a68e17b99171690",
+  "sha256_9x16": "c89168251c12bd8d3c659150355ffeaea282cd59478a6c71a9d5c65d44aa54c1"
 }

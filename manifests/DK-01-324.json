@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Jægerspris Castle on a clear afternoon, an oxblood palace with three spires",
   "file_16x9": "Denmark/Jægerspris/dk-01-324-16x9.png",
   "file_4x5": "Denmark/Jægerspris/dk-01-324-4x5.png",
+  "file_9x16": "Denmark/Jægerspris/dk-01-324-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: red three-winged Baroque palace with three spired towers, gravel courtyard and flanking trees; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 14:51:42 Europe/Copenhagen, model-valid 14:00–14:59, scenario 14:52 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T13:22:38.047811+00:00",
   "sha256_16x9": "6e9db8da6514aed20b599d0c0e7dee3a3e5cd26cb70c6297de5e1c14d538091c",
-  "sha256_4x5": "c72f9de9771328b2e021552100544bcb89f6edc6ab467e2611dde395de69aab4"
+  "sha256_4x5": "c72f9de9771328b2e021552100544bcb89f6edc6ab467e2611dde395de69aab4",
+  "sha256_9x16": "1eb8570d592294c9289662668b27be112d167c176358e7a2fcc479ec7e8f5993"
 }
