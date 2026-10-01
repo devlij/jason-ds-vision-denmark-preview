@@ -6,16 +6,23 @@
   "caption": "Fisheries Museum, Esbjerg",
   "scenario_label": "25 September 2026 · 15:03 Europe/Copenhagen",
   "composition": "A low brick building beside a small boat basin · AI-generated artistic interpretation",
-  "description": "The fisheries museum at Sædding is a low brick building beside a small boat basin, with a few boats at the quay. The quay is empty. It is overcast, about 17.6°C. The wind is fresh, about 22.3 km/h. The cloud deck softens the afternoon light. The four white figures on the beach are not in this frame, and the commercial port is not the subject.",
-  "alt_text": "AI-generated artistic interpretation of the Fisheries Museum at Esbjerg on an overcast afternoon, a low brick building and a few boats",
+  "description": "The fisheries museum at Sædding is the 1968 Fiskeri- og Søfartsmuseet, a long modernist brick building with rounded corners beside a small boat basin, with a few boats at the quay. The quay is empty. It is overcast, about 17.6°C. The wind is fresh, about 22.3 km/h. The cloud deck softens the afternoon light. The four white figures on the beach are not in this frame, and the commercial port is not the subject.",
+  "alt_text": "AI-generated artistic interpretation of the Fisheries Museum at Esbjerg on an overcast afternoon, the modernist museum and a few boats",
   "file_16x9": "Denmark/Esbjerg/dk-01-328-16x9.png",
   "file_4x5": "Denmark/Esbjerg/dk-01-328-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
-  "approval_basis": "Gate 1: harbour basin with two fishing cutters moored alongside a long red-brick museum building on the quay; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:02:48 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:03 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
-  "approved_at": "2026-09-25T13:22:57.051905+00:00",
-  "sha256_16x9": "48e82edac12cd143c0535d699c74a49c6c9c4f095b9ab07d3d8c247c6655d25e",
-  "sha256_4x5": "71ae04386f22cb24d36009aa0bb0c81c93af5aa20f2a4f928c58cdd9eb7a3535"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "260dc975c3f498eb076b8c92bf07ffd50279f7c8eae58ca7f6abd2661e9eaa9a",
+  "sha256_4x5": "aa60010e1580947207499c5d7357c42ac058881ea3d9426775df2724e2d4cf6f",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-2",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

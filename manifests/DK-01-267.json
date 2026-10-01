@@ -6,7 +6,7 @@
   "caption": "Charlottenlund Fort, Charlottenlund",
   "scenario_label": "25 September 2026 · 06:57 Europe/Copenhagen",
   "composition": "Grass ramparts and a low brick battery by the beach · AI-generated artistic interpretation",
-  "description": "Charlottenlund Fort is a low grass-covered coastal battery and brick rampart beside a narrow beach, with the Øresund in front. The beach is empty. It is overcast, about 13.4°C. The wind is light, about 15.8 km/h. The cloud deck hides the moon. This is not the yellow palace inland.",
+  "description": "Charlottenlund Fort is a low grass-covered coastal battery and concrete earthwork beside a narrow beach, with the Øresund in front. The beach is empty. It is overcast, about 13.4°C. The wind is light, about 15.8 km/h. The cloud deck hides the moon. This is not the yellow palace inland.",
   "alt_text": "AI-generated artistic interpretation of Charlottenlund Fort before sunrise, grass ramparts beside the Øresund",
   "file_16x9": "Denmark/Charlottenlund/dk-01-267-16x9.png",
   "file_4x5": "Denmark/Charlottenlund/dk-01-267-4x5.png",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Charlottenlund/dk-01-267-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "d4e3d36e22e998bf7663a2e8e6c42889ed8223690d961dce194d14ae4d0b4ae6",
-      "4x5": "067c303ff0f849d7dfa8919c2f20178c9b04e99e03a00fe28a8507bd2c639ba0"
+      "16x9": "be543d46e06073545ee203e1ba3848316fa30bff9596c72725d7a34ff605100d",
+      "4x5": "668f3865e89120357785af7ddd2542fc9b13e37422743864e919b7d1ed2e89f1"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Charlottenlund Fort, Charlottenlund",
@@ -42,10 +42,17 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
-  "approval_basis": "Gate 1 pass: the 16:9 master shows grass-covered coastal ramparts and casemates along the Øresund shoreline with dawn light breaking through overcast — a plausible Charlottenlund Fort view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Charlottenlund Fort, Charlottenlund' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:48, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no logos. All five gates pass.",
-  "approved_at": "2026-09-26T15:27:22.361300+00:00",
-  "sha256_16x9": "f3ae355e3bc7da145fc8b84b108a522fa2879e75fdcadfa79e2983b48c46dee7",
-  "sha256_4x5": "b7a7508b80623b859801357f91adc030fa054552ab0a43bb39158c9e5e488d2d"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "64a74f4d25bf606236e2b88aa5ff8b265fa682602876660b18b4a9664e5d63c4",
+  "sha256_4x5": "1c3c6e129f09ece69e5cd2d11de5841fe8302d9c3e3e46d95204d5c532b20a4f",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-2",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

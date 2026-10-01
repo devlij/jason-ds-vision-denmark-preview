@@ -6,7 +6,7 @@
   "caption": "Østerlars Round Church, Østerlars",
   "scenario_label": "25 September 2026 · 01:43 Europe/Copenhagen",
   "composition": "White round church with a conical roof on a hill · AI-generated artistic interpretation",
-  "description": "Østerlars Round Church stands alone on a rise, a white circular medieval church with a dark conical roof, a smaller central turret and stone buttresses. The night is overcast, about 13.5°C, with no rain, and the field around it is empty. The church is closed. Only a faint exterior lamp shows. This is not Gudhjem harbour.",
+  "description": "Østerlars Round Church stands alone on a rise, a white circular medieval church with a dark conical oak-shingle roof running to the apex, and stone buttresses. The night is overcast, about 13.5°C, with no rain, and the field around it is empty. The church is closed. Only a faint exterior lamp shows. This is not Gudhjem harbour.",
   "alt_text": "AI-generated artistic interpretation of Østerlars Round Church at night, a white round church with a conical roof",
   "file_16x9": "Denmark/Østerlars/dk-01-067-16x9.png",
   "file_4x5": "Denmark/Østerlars/dk-01-067-4x5.png",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Østerlars/dk-01-067-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c0b579e760d97008ba8a9ee026aae365cd79a097bddf12772477be6e12d07483",
-      "4x5": "a47aa861b306cb390f5f46db23121183f6b1a0706ed7eef5b685d13cc346baf6"
+      "16x9": "a54009a670381e76a9c8bf196d6cb0533b4f473cfaa22b0f239e4c1ef968ae33",
+      "4x5": "b7e70462c98403fb8d9db2e9185aba1dee9228e7323119156ca6f0d52ea17d62"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Østerlars Round Church, Østerlars",
@@ -42,10 +42,17 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: whitewashed Østerlars round church with conical dark roof, central tower and buttresses on a grassy mound — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Østerlars Round Church, Østerlars', 'Scenario: 25 September 2026 · 01:43 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:43 Europe/Copenhagen, valid 01:30 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
-  "approved_at": "2026-09-26T02:24:58.651145+00:00",
-  "sha256_16x9": "c36c25bf49463419347dc63caf8d2320a4a9db78fa6c0f9ff6d5e6fda1846b76",
-  "sha256_4x5": "1a61b92211879de20c954db39c7547f6357de47d94bfcf83cf13aa1484a8962f"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "c163ae0a1665d941fde512a5eb17c030e8860588f2053f368cfade1adc450edc",
+  "sha256_4x5": "9450b0ddde436a2315e701622fb6cb046b026e817676531d38462dd94d6a11d5",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-2",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

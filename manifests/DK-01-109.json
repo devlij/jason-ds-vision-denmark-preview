@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Tranekær/dk-01-109-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "05b8981610701fd47d0cebd59e60fc960ea139a5fdad151cf8762ec7f239b4be",
-      "4x5": "d4614cb0e47f3a9f4c518b27feba0603c0021e9fbb998ab8403d0b89a4e7fba6"
+      "16x9": "cdaeeab81fa4a8fc398c4ad023b5724a5e3b26f08365cf27e92be78c148fbc3a",
+      "4x5": "a97fc1723cc5d87514e9ad1a8f7e4e97a75894296599f4f750afc65ea869008f"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Tranekær Castle, Tranekær",
@@ -42,10 +42,17 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: English-red two-wing castle on a grassy mound, tall spire tower rising behind the near wing (octagonal stair-tower character), lit windows, trees around, moat strip bottom-left — matches Tranekær Castle's red-wings/mound/spire anchors, plausible lane viewpoint, no artifacts. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Tranekær Castle, Tranekær', scenario 'Scenario: 25 September 2026 · 02:17 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:17 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:20:07 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs; castle is a known landmark estate — documented only, no commercial chain certified. Gate 5: no open blockers.",
-  "approved_at": "2026-09-26T05:28:25.336333+00:00",
-  "sha256_16x9": "820ba3353b80bb8ff9bfc2352ee25248479d7332672015065587cb75a876b19b",
-  "sha256_4x5": "8240326e5b380933ad337d288c1ae750cb6c00021ee3b0b5b2454c747a6eb61f"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "bc75e889bf86742a2130e35b5167b023a956f401bcafede058a166d39ad5670c",
+  "sha256_4x5": "5931413a718dd4093bca598f9c0640de61bf3b8bad28c32a0c95d8e5d415bf1b",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-2",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

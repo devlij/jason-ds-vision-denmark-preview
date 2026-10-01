@@ -6,7 +6,7 @@
   "caption": "Klokketårnet, Faaborg",
   "scenario_label": "25 September 2026 · 02:33 Europe/Copenhagen",
   "composition": "Yellow freestanding bell tower on a cobbled rise · AI-generated artistic interpretation",
-  "description": "Klokketårnet is a freestanding yellow-washed brick tower on a cobbled rise, with buttresses, a blue door, an eight-sided red tile roof, and a wooden lantern under a shingled spire. The night is overcast, about 12.2°C, and low old houses stand around the empty street. There is no harbour and no boats.",
+  "description": "Klokketårnet is a freestanding yellow-washed brick tower on a cobbled rise, with buttresses, a blue door, an eight-sided red tile roof, and a light lantern with black clock faces under a shingled spire. The night is overcast, about 12.2°C, and low old houses stand around the empty street. There is no harbour and no boats.",
   "alt_text": "AI-generated artistic interpretation of Klokketårnet in Faaborg at night, a yellow freestanding tower on a cobbled street",
   "file_16x9": "Denmark/Faaborg/dk-01-116-16x9.png",
   "file_4x5": "Denmark/Faaborg/dk-01-116-4x5.png",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Faaborg/dk-01-116-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "925deee14ce0b718a12ae5a7f62a9e5dd40593fa90561cfb5c9f0dd5d4569fd4",
-      "4x5": "7d381394c3d121cbff21ad90886e020d8b15ffd502546bf37f843533d19339f3"
+      "16x9": "7292518ca5c1d3b08f642d9d14a1fb1e265534a79a66935114b9672105a1bf8c",
+      "4x5": "f582e007860f63547be5ec0e0661105dba5eae39364fafbfa00767d561eccd2a"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Klokketårnet, Faaborg",
@@ -42,10 +42,17 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: freestanding yellow-brick bell tower with stone corner buttresses, blue arched door, red-tiled dome roof and open belfry spire, rising from a cobbled knoll, framed by old gabled houses with red roofs and glowing street lamps — matches Klokketårn's distinctive form, plausible street-level tourist viewpoint, no misconfiguration or artifacts. Noted: lighting reads nearer dusk than 02:33 deep night, but the landmark rendering is coherent — not a gate failure. Gate 2: masters 1920x1080 + 864x1080 exact; on-image caption 'Klokketårnet, Faaborg', scenario 'Scenario: 25 September 2026 · 02:33 Europe/Copenhagen', disclosure 'AI-generated artistic interpretation · Not a photograph.', 'Jason D's Vision' curly-apostrophe signature bottom-right, all legible. Scenario 02:33 inside model-valid hour 02:00–02:59; Open-Meteo retrieval 2026-09-25T23:26:42 Europe/Copenhagen — unique to this scene, verified repo-wide, no other scene shares it. Gate 3: notes claim text-prompt-only, no photographic inputs (builder claim). Gate 4: no people, logos, readable signs. Gate 5: no open blockers.",
-  "approved_at": "2026-09-26T05:29:21.337336+00:00",
-  "sha256_16x9": "6a6c92ecd7e39ef4f85ceced80103a238dd9cb6dbd63e3916ecd9b89580225db",
-  "sha256_4x5": "d76a8d010fa8559d15d4555c024cf377b10fd608436da0de4e97ce2ea4ffe571"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "7975b145c6a090a91252f22df29f0b6d9b5002c510fa90231c4de2dcc5071181",
+  "sha256_4x5": "407f4b6da426feb82b26371ff17ce454fb349869fd11f3f424215af49d5dfef7",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-2",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }
