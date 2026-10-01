@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Auning/dk-01-126-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "a26c3461871f2e36e7ca4f94012bdcbb17a2ab2531da15dfac742acfe69b9eef",
-      "4x5": "56afa2d260e4838c4a379cf46241ea509bee522cbc8380250398621f485feaf7"
+      "16x9": "ffc428f57c127e7b1a445cf7d66e10048ae336f5e6fcc9cce7e10aefb3b1537c",
+      "4x5": "6c42b4c717a0cbd434809215ce947d803dede8eb751f1b280605af53de9051d1"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Gammel Estrup, Auning",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: moated red-brick Renaissance manor with stepped gables and round corner towers, cobbled bridge, lit windows at night; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Gammel Estrup, Auning', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:59 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:59 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
-  "approved_at": "2026-09-26T06:25:02.612510+00:00",
-  "sha256_16x9": "b7f5bfeeda0e516cd41e81e40475f7b89c3ec33710f7a2fc8429ff56c65bd307",
-  "sha256_4x5": "693ff7a7326e81e52a9c29dbe8cf0e71291d34cb5255dc8e79fb1258ec500588"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "b64d0c73fa4bd254c4cea4fb75b9a59a302d9a99ab5dcfe7424a67537cb9bc6a",
+  "sha256_4x5": "b3f945f3a227e18bc3f551948cae3865587ba766619895066b919545469c8658",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

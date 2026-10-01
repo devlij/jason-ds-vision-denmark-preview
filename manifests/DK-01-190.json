@@ -6,8 +6,8 @@
   "caption": "Korsør Fortress, Korsør",
   "scenario_label": "25 September 2026 · 04:08 Europe/Copenhagen",
   "composition": "A square brick tower, grass bastions, and a moat · AI-generated artistic interpretation",
-  "description": "From the cobbled dam, Korsør Fortress is a square red-brick tower with a saddle roof, grass bastions, a water moat, and a long brick magazine. The grounds are empty. The night is overcast, about 13.0°C. The Great Belt bridge is not in the frame.",
-  "alt_text": "AI-generated artistic interpretation of Korsør Fortress at night, a square brick tower and grass bastions",
+  "description": "From the cobbled dam, Korsør Fortress is a solitary square red monk-brick tower under a simple red-tiled hip roof, with grass bastions and a water moat. The medieval side wings are not attached. The grounds are empty. The night is overcast, about 13.0°C. The Great Belt bridge is not in the frame.",
+  "alt_text": "AI-generated artistic interpretation of Korsør Fortress at night, a solitary square brick tower and grass bastions",
   "file_16x9": "Denmark/Korsør/dk-01-190-16x9.png",
   "file_4x5": "Denmark/Korsør/dk-01-190-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Korsør/dk-01-190-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "22c1ff78ea25f3aed38371c383990a7a9a224e81709dab04ec8a61eb749ba7ab",
-      "4x5": "ea2ff9edd8c6b021c47ce3278718e9f383d0dc192a3daf4ab97e7cbef17c7542"
+      "16x9": "ae23a54ce85255f8fa5e397f7857dec8d0a386d9b6fb04afd64af45b66e7e71b",
+      "4x5": "ca3c48ed1b8b49b26f34655de4fd26e3a62441e5828b3a91d91409ac27da9c4c"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Korsør Fortress, Korsør",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "G1: red-brick tower and long garrison block atop grassed ramparts above a moat, cobbled causeway in foreground, storm clouds at night; G2: exact dims, on-image strings verified, scenario 04:08 inside 04:00-04:59, retrieved 25 September 2026 23:30:24 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no logos; G5: clean.",
-  "approved_at": "2026-09-26T11:19:49.317540+00:00",
-  "sha256_16x9": "379b82805025897d263f85880d9563c16c13ddac4732545ad5fd89ab5b4fc08e",
-  "sha256_4x5": "95aa221b5573069afe7f4703eaedf9690d3d20aefa3b5cf33b441958bc5b1950"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "5a6d68982af03bb8b637fd5c3609b3787502fd724e52cb8df0d72a8be7c55ee9",
+  "sha256_4x5": "8cee61653477e4f841802cdc4e70a9452c63694270955820c2d4c59b82ca25cc",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }
