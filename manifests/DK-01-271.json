@@ -6,7 +6,7 @@
   "caption": "Ledreborg Palace, Lejre",
   "scenario_label": "25 September 2026 · 06:57 Europe/Copenhagen",
   "composition": "A pale yellow baroque manor and an autumn court · AI-generated artistic interpretation",
-  "description": "Ledreborg is a pale yellow baroque manor with a central block and lower wings, a gravel court, and autumn lawns. The court is empty. It is overcast, about 12.3°C. The wind is light, about 14.8 km/h. The cloud deck hides the moon. These are not the iron-age houses at Sagnlandet.",
+  "description": "Ledreborg is an ochre-yellow baroque manor with dark red pilasters, a black-glazed hipped roof, and curved side wings, a gravel court, and autumn lawns. The court is empty. It is overcast, about 12.3°C. The wind is light, about 14.8 km/h. The cloud deck hides the moon. These are not the iron-age houses at Sagnlandet.",
   "alt_text": "AI-generated artistic interpretation of Ledreborg Palace near Lejre before sunrise, a yellow baroque manor",
   "file_16x9": "Denmark/Lejre/dk-01-271-16x9.png",
   "file_4x5": "Denmark/Lejre/dk-01-271-4x5.png",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Lejre/dk-01-271-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c8f9e5765c056b8d9607c0776c9c79af8e89e648344a0ccbbe6fdb7380b3c884",
-      "4x5": "bc352e9bac2a14ab7462925330328685d44c59a8008e2b1abdb671e28c10d875"
+      "16x9": "452bdaaadb9c0b778edfbc095ac96eb4f71aaefee0d98702f39b1b08d812be87",
+      "4x5": "d8b7129e96552d751bacbf89a1cfeab97289933ac888d3d3942b59913b90b72c"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Ledreborg Palace, Lejre",
@@ -42,10 +42,17 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Dawn",
-  "approval_basis": "Gate 1: the yellow baroque Ledreborg Palace with a slate mansard roof faces a gravel forecourt and clipped parterre gardens, autumn trees flanking — a plausible frontal tourist view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (palace facade + gardens). On-image caption 'Ledreborg Palace, Lejre', scenario '25 September 2026 · 06:57 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible on the scrim. Weather: Open-Meteo retrieval 25 September 2026 06:54:22 Europe/Copenhagen — unique to the second repo-wide per Cosmo's 408-note scan; scenario 06:57 inside model-valid hour 06:00–06:59. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no visible people, no logos; a recognizable private palace documented for Jason's commercial call. Gate 5: publication-ready.",
-  "approved_at": "2026-09-26T16:34:13.875869+00:00",
-  "sha256_16x9": "441eeb202f70f66d9c393e3f20538c7ab13121e5d4bcf72fbea34c8ab6cf75a4",
-  "sha256_4x5": "e664eede2d3b9a5857dff8980d7f555d704f08ff1cfb411d6abf6e0d25776115"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "0a430699d021f1cccbe5998e19eca3676ef499b71a9f0ecd315b6f36dde8bf02",
+  "sha256_4x5": "ae26f9beb9b11b73eb9e5f8c7a0b3d39d774838893bc70a8988725f496bc5eb0",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1 pack 3",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

@@ -6,16 +6,23 @@
   "caption": "Ikast Church, Ikast",
   "scenario_label": "25 September 2026 · 07:46 Europe/Copenhagen",
   "composition": "A red-brick cross church and its west tower · AI-generated artistic interpretation",
-  "description": "Ikast Church is a red-brick church with one west tower, a red tile roof, and lower side wings, seen from the churchyard. The yard is empty. It is mainly clear, about 7.4°C. The wind is light, about 6.5 km/h. The morning sun is low under a mainly clear sky. No sculpture is the subject, and no shop sign is in the frame.",
+  "description": "Ikast Church is a red-brick neo-Romanesque church with round-arch friezes and one west tower, a red tile roof, and lower side wings, seen from the churchyard. The yard is empty. It is mainly clear, about 7.4°C. The wind is light, about 6.5 km/h. The morning sun is low under a mainly clear sky. No sculpture is the subject, and no shop sign is in the frame.",
   "alt_text": "AI-generated artistic interpretation of Ikast Church on a mainly clear morning, a red-brick church with a west tower",
   "file_16x9": "Denmark/Ikast/dk-01-296-16x9.png",
   "file_4x5": "Denmark/Ikast/dk-01-296-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
-  "approval_basis": "Gate 1: both masters show Ikast Church — red-brick church with pyramid-capped tower and cross finial, red tile roofs, churchyard with gravestones and autumn trees under light cloud; same church, formats agree on the tower crown, clean framing, no artifacts. Gate 2: exact dims; 'Ikast Church, Ikast', 'Scenario: 25 September 2026 · 07:46 Europe/Copenhagen' inside model hour 07:00-07:59, disclosure and signature legible on scrim; retrieval 25 Sep 2026 07:36:41 unique repo-wide (neighbors :39 and :43), cloud cover 48% consistent with the light cloud; Art. 50 metadata present. Gate 3: text-prompt-only. Gate 4: no people, no readable lettering; documented only. Gate 5: publish.",
-  "approved_at": "2026-09-26T18:32:02.999693+00:00",
-  "sha256_16x9": "6711daff9ba10c624f25043b19bf3332713ed98849f0b281327bdf0d118b24cf",
-  "sha256_4x5": "3e837ee5058c135fd5c0893c99c7ebd94160a58c25503b18c1be891b45edff21"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "5dcb7a8e335c538f4b54358f9dd335f7b486b20e2602389314d76f11e45016e7",
+  "sha256_4x5": "440b40fe666549935f364107f9b9878e06f1d50e539e8c42a8a4f4d1d07acc4c",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1 pack 3",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

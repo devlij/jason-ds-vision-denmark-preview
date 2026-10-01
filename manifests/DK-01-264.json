@@ -6,8 +6,8 @@
   "caption": "Emil Holms Kanal, Copenhagen",
   "scenario_label": "25 September 2026 · 06:57 Europe/Copenhagen",
   "composition": "A straight Ørestad canal and the round brick residence · AI-generated artistic interpretation",
-  "description": "Emil Holms Kanal is a straight modern canal in Ørestad, with the round brick Tietgenkollegiet, glass university blocks, and a footbridge. The quay is empty. It is overcast, about 13.7°C. The wind is light, about 15.8 km/h. The cloud deck hides the moon. No broadcast logo is readable.",
-  "alt_text": "AI-generated artistic interpretation of Emil Holms Kanal in Copenhagen before sunrise, a canal and a round brick building",
+  "description": "Emil Holms Kanal is a straight modern canal in Ørestad, with the circular Tietgenkollegiet clad in tombac and oak, glass university blocks, and a footbridge. The quay is empty. It is overcast, about 13.7°C. The wind is light, about 15.8 km/h. The cloud deck hides the moon. No broadcast logo is readable.",
+  "alt_text": "AI-generated artistic interpretation of Emil Holms Kanal in Copenhagen before sunrise, a canal and the circular tombac residence",
   "file_16x9": "Denmark/Copenhagen/dk-01-264-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-264-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-264-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "e5579c2df05aec9853d179f6af24c4bda65dde14a3e80037a347d6456b5e95a6",
-      "4x5": "c88b950060863fac5e18623e779d41bf1987c6ae5de60c1cb607eec402979109"
+      "16x9": "2c18130862ae687fbf50064740a5c6cb38cf01d75986b078a6dc3976ff14b66d",
+      "4x5": "35bc576d64785965f48c70b2db0ca4a7c54947aa63a3e72f5eba99032ee2d75e"
     },
     "created_date": "2026-09-28",
     "on_image_caption": "Emil Holms Kanal, Copenhagen",
@@ -42,10 +42,17 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Pre-dawn twilight",
-  "approval_basis": "Gate 1 pass: the 16:9 master shows modern office blocks and a round brick building along the canal with lamp reflections, a bridge and overcast dawn sky — a plausible Emil Holms Kanal (Copenhagen South Harbour) view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Emil Holms Kanal, Copenhagen' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:42, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable signage or logos. All five gates pass.",
-  "approved_at": "2026-09-26T15:27:08.706711+00:00",
-  "sha256_16x9": "44a6438661141962e61d426f151c1f9d515ecb50fc7501f62c55427d59161c38",
-  "sha256_4x5": "6ed47ec73ad22763495bc163f2657dfa121667845bb85b29cb2e060a1bf610d1"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "66c0f7da24d4f1b00844edae0becdee2b3d51d4364c267e99b509a1a39daa00b",
+  "sha256_4x5": "44a9a27d8c88fbeb52d7f304dfda748fb2cc9ce61775b8111e4190e04560aecb",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1 pack 3",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

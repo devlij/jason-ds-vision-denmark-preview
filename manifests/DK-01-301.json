@@ -6,16 +6,23 @@
   "caption": "Vamdrup Church, Vamdrup",
   "scenario_label": "25 September 2026 · 07:41 Europe/Copenhagen",
   "composition": "A pale parish church and tower in a churchyard · AI-generated artistic interpretation",
-  "description": "Vamdrup Church stands at the west end of the town in a green churchyard: pale walls, a red tile roof, and one west tower, with low houses beyond the trees. The yard is empty. It is clear, about 6.7°C. The wind is light, about 6.1 km/h. Low morning sun, long shadows. This is not the yellow-brick square at Christiansfeld.",
-  "alt_text": "AI-generated artistic interpretation of Vamdrup Church on a clear morning, a pale church and tower in a churchyard",
+  "description": "Vamdrup Church stands at the west end of the town in a green churchyard: a granite-ashlar nave and a west tower under a saddle roof with blind-arched gables, with low houses beyond the trees. The yard is empty. It is clear, about 6.7°C. The wind is light, about 6.1 km/h. Low morning sun, long shadows. This is not the yellow-brick square at Christiansfeld.",
+  "alt_text": "AI-generated artistic interpretation of Vamdrup Church on a clear morning, a granite church and a saddle-roofed tower in a churchyard",
   "file_16x9": "Denmark/Vamdrup/dk-01-301-16x9.png",
   "file_4x5": "Denmark/Vamdrup/dk-01-301-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
-  "approval_basis": "Gate 1: both masters show Vamdrup Church — whitewashed church with pyramid-capped west tower, red tile roofs, churchyard with gravestones, bare and autumn trees under a clear morning sky; same church, formats agree, clean framing, no artifacts. Gate 2: exact dims; 'Vamdrup Church, Vamdrup', 'Scenario: 25 September 2026 · 07:41 Europe/Copenhagen' inside model hour, disclosure and signature legible; retrieval 25 Sep 2026 07:36:50 unique repo-wide (neighbors :48 and :52), cloud cover 18% matches the clear sky; Art. 50 metadata present. Gate 3: text-prompt-only. Gate 4: no people, no readable lettering; documented only. Gate 5: publish.",
-  "approved_at": "2026-09-26T18:32:59.587283+00:00",
-  "sha256_16x9": "2cfe7e04f344d29b625a06f94c92b74a7aa07152d05e8f8755e08ac521e5aaf7",
-  "sha256_4x5": "475c7254d3836f4a336f2eaba880cc013bed1eda4db97a56241d88e860a4cc0c"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "01297c9dfa5e623368ffb3c6bb87aee233db45e003474357dd85b3c741c9d84b",
+  "sha256_4x5": "1e7b8c14ddba4285ab4af2809ca3d32908970b0459b86ebbb7899bc197b6141a",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1 pack 3",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

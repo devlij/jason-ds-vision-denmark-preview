@@ -12,10 +12,17 @@
   "file_4x5": "Denmark/Helsingør/dk-01-321-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
-  "approval_basis": "Gate 1: white neoclassical palace with central cupola and formal baroque garden parterres in the foreground; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 14:57:17 Europe/Copenhagen, model-valid 14:00–14:59, scenario 14:57 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
-  "approved_at": "2026-09-25T13:22:21.924758+00:00",
-  "sha256_16x9": "6e7db3bd350b35931bcde42ee2d67b65279fbc8de65801c05e7af27b312f8db2",
-  "sha256_4x5": "87e9f285db748a59ff232797429193f6269e1e292c69074ba479260d72e15208"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "4169b7fd03bc3f3a8ba2673244c205a9652e0a840cb94a88fe93280c2089ad43",
+  "sha256_4x5": "7766380b4475f707209a6d66bba8788c01a4f2974e472b599021b090f7714c3b",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1 pack 3",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

@@ -6,15 +6,15 @@
   "caption": "Give Church, Give",
   "scenario_label": "25 September 2026 · 07:41 Europe/Copenhagen",
   "composition": "A pale stone nave and a later west tower · AI-generated artistic interpretation",
-  "description": "Give Church has a pale stone nave and chancel, a red tile roof, and a west tower, standing in a churchyard with trees that are still mostly green. The yard is empty. It is mainly clear, about 7.0°C. The wind is light, about 5.8 km/h. The morning sun is low under a mainly clear sky. Gravestone lettering is not readable.",
+  "description": "Give Church has a pale travertine nave and a rectangular choir with no apse, a red tile roof, and a west tower, standing in a churchyard with trees that are still mostly green. The yard is empty. It is mainly clear, about 7.0°C. The wind is light, about 5.8 km/h. The morning sun is low under a mainly clear sky. Gravestone lettering is not readable.",
   "alt_text": "AI-generated artistic interpretation of Give Church on a mainly clear morning, pale stone walls and a west tower",
   "file_16x9": "Denmark/Give/dk-01-299-16x9.png",
   "file_4x5": "Denmark/Give/dk-01-299-4x5.png",
   "file_9x16": "Denmark/Give/dk-01-299-9x16.png",
   "master_sha256": {
-    "16x9": "7eba01096cea4ad2e8c3ec73e93be9101b3750533aaea344aef776a9ca3d3664",
-    "4x5": "d2065e3e5c241ec9e0570dc150498cd932f7cfe3647d861341021a29eba93217",
-    "9x16": "88043428a6f38310a0f2a9dbb060d72ec1dfa799f74b09df912fd8d9664c91df"
+    "16x9": "56d84dcff87c85ed76916a108b87ed1c985b69c609429f65fd445735642ce1f9",
+    "4x5": "c0be57a50e1c997f5e0133adbc565fc93071e67c1a3b06ccbb5d025fa18cc46e",
+    "9x16": "4a6d38f78a2e7d988e1662b973c2eb24f37fba509c1b416cab3199871f2e16e0"
   },
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
@@ -35,10 +35,17 @@
     "status": "Candidate",
     "note": "Masters re-rendered for the recorded hold and plated to the label-bar standard (photo plus 190px bar). Not self-approved."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
-  "approval_basis": "Gates 1–5 pass. Gate 1: the SAME pale-stone church in both formats, red tile roof, west tower with crow-stepped gable crown, churchyard with gravestones (lettering unreadable), morning sun (the plain-pyramid-cap vs crenellated-spire disagreement is gone) — recognizable Give Church, clean framing. Gate 2: 1920×1270 / 864×1270 exact; label bar carries \"Give Church, Give\", scenario 07:41 Europe/Copenhagen, AI disclosure, exact Jason D's Vision + Jason A. Devlin; per-scene Open-Meteo retrieval 2026-09-28T07:36:47Z unique to the second, valid 07:30, scenario 07:41 inside the model-valid hour. Gate 3: text-prompt generation, no photographic inputs. Gate 4: no people, no logos.",
-  "approved_at": "2026-09-28T02:35:39.173276+00:00",
-  "sha256_16x9": "7eba01096cea4ad2e8c3ec73e93be9101b3750533aaea344aef776a9ca3d3664",
-  "sha256_4x5": "d2065e3e5c241ec9e0570dc150498cd932f7cfe3647d861341021a29eba93217"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "56d84dcff87c85ed76916a108b87ed1c985b69c609429f65fd445735642ce1f9",
+  "sha256_4x5": "c0be57a50e1c997f5e0133adbc565fc93071e67c1a3b06ccbb5d025fa18cc46e",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1 pack 3",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

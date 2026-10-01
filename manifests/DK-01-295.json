@@ -6,16 +6,23 @@
   "caption": "Hald Hovedgård, Dollerup",
   "scenario_label": "25 September 2026 · 07:40 Europe/Copenhagen",
   "composition": "A long red-brick manor and its central pavilion above Hald Sø · AI-generated artistic interpretation",
-  "description": "Hald Hovedgård is a long single-storey red-brick manor with a half-hipped roof and a taller central pavilion, seen across the lawn with Hald Sø in the foreground. The grounds are empty. It is partly cloudy, about 8.4°C. The wind is light, about 7.6 km/h. Broken cloud partly veils the low morning sun. This is the manor by the lake south of Viborg, not Nørresø and not the medieval ruin.",
+  "description": "Hald Hovedgård is a long single-storey red-brick manor with a half-hipped roof and a taller central pavilion whose middle floor has tall round-arched windows, seen across the lawn with Hald Sø in the foreground. The grounds are empty. It is partly cloudy, about 8.4°C. The wind is light, about 7.6 km/h. Broken cloud partly veils the low morning sun. This is the manor by the lake south of Viborg, not Nørresø and not the medieval ruin.",
   "alt_text": "AI-generated artistic interpretation of Hald Hovedgård at Dollerup on a partly cloudy morning, a red-brick manor above the lake",
   "file_16x9": "Denmark/Dollerup/dk-01-295-16x9.png",
   "file_4x5": "Denmark/Dollerup/dk-01-295-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
-  "approval_basis": "Gate 1: both masters show Hald Hovedgård — red-brick manor with twin red-tile roofs and white sash windows, broad lawn sloping to still water, autumn trees in yellow and orange; same building from matching viewpoints, clean framing, no artifacts. Gate 2: exact 1920x1080 and 864x1080; on-image 'Hald Hovedgård, Dollerup', 'Scenario: 25 September 2026 · 07:40 Europe/Copenhagen' inside model hour 07:00-07:59, disclosure and 'Jason D's Vision' signature legible on scrim; retrieval 25 Sep 2026 07:36:39 Europe/Copenhagen unique repo-wide (neighbors :37 and :41), cloud cover 53% matches the broken cloud; Art. 50 PNG metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable signage; documented only. Gate 5: publish.",
-  "approved_at": "2026-09-26T18:31:58.423413+00:00",
-  "sha256_16x9": "1a4c46265f8bd2a33cf2661ca39df560dc7380614d73b7d73d2e9f047757acd8",
-  "sha256_4x5": "538b1679cddbd7c73ccb3bf391da167aaae9b54f2f8df8659d060b6cca56372a"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "4566c95b403797967c869b7c710301ccd130ed418ab737fb8defc618561821cc",
+  "sha256_4x5": "d48f08e3a828fa3d1cb314b8ab9138dc487759cdb38d886cccc1abe66d6be57d",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1 pack 3",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

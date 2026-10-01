@@ -6,8 +6,8 @@
   "caption": "Krudttårnet, Frederikshavn",
   "scenario_label": "25 September 2026 · 06:22 Europe/Copenhagen",
   "composition": "A solitary round brick gun tower · AI-generated artistic interpretation",
-  "description": "Krudttårnet is a solitary round red-brick tower on a grass plot, with a dark roof and a few small openings. The plot is empty. The night is overcast, about 13.2°C, and the wind is fresh. The cloud deck hides the moon, and a few lamps carry the light. The old citadel walls are gone, and no shipyard mark is readable.",
-  "alt_text": "AI-generated artistic interpretation of Krudttårnet in Frederikshavn at night, a round brick tower",
+  "description": "Krudttårnet is a solitary round white-limewashed tower on a grass plot, with a red conical tile roof and a recessed upper storey of deep arched embrasures. The plot is empty. The night is overcast, about 13.2°C, and the wind is fresh. The cloud deck hides the moon, and a few lamps carry the light. The old citadel walls are gone, and no shipyard mark is readable.",
+  "alt_text": "AI-generated artistic interpretation of Krudttårnet in Frederikshavn at night, a whitewashed round tower with a red tile cone",
   "file_16x9": "Denmark/Frederikshavn/dk-01-228-16x9.png",
   "file_4x5": "Denmark/Frederikshavn/dk-01-228-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Frederikshavn/dk-01-228-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "181e134d1b50df3d85c29de93db5eeaa4b133454fb913fe069678b31b2136480",
-      "4x5": "0779cae61a6f2e3e440bd551372961ac6db29a104ff8d06e41357935e406de78"
+      "16x9": "d8cae68b77733097478a39e2d48f8783119517c796529bd9bd6df2ad0a5cbfb5",
+      "4x5": "1f507217492f2bc2cc5fe6b8ff9dd4bf510a75ed5413f3bdb862761f0a29378c"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Krudttårnet, Frederikshavn",
@@ -42,10 +42,17 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the round brick powder tower on its grassy mound under two floodlights; plausible tourist viewpoint for 'Krudttårnet, Frederikshavn', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Krudttårnet, Frederikshavn', 'Scenario: 25 September 2026 · 06:22 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-228 claims one Open-Meteo retrieval at 25 September 2026 06:10:18 Europe/Copenhagen valid 25 September 2026 06:00 Europe/Copenhagen — scenario 06:22 falls inside the cited 06:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
-  "approved_at": "2026-09-26T12:25:33.143794+00:00",
-  "sha256_16x9": "3f1d382a1c3a468b7f5970119413ae0f820430bbf131780e099a25f0146052dd",
-  "sha256_4x5": "474dddaab3730265b7325bc3bb1b571ed2425dcb46d77d5f9ca98ae3a7109378"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "9480fcc6c7a9273e25d54093d0aea88fadd3cdf9cdae45fc2c5e4a5eb35cc9ea",
+  "sha256_4x5": "f00ad7acd8a798552c0a64f3f6cc48d130f2db903c2b327e6d7a198b4b7c26bd",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1 pack 3",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

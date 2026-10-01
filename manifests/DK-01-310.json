@@ -6,16 +6,23 @@
   "caption": "Voergaard Castle, Dronninglund",
   "scenario_label": "25 September 2026 · 08:21 Europe/Copenhagen",
   "composition": "Red-brick manor, octagonal towers, and a broad moat · AI-generated artistic interpretation",
-  "description": "Voergaard is a red-brick Renaissance manor with octagonal corner towers and a sandstone portal, seen across a broad moat. The bank is empty. It is overcast, about 10.4°C. The wind is light, about 11.5 km/h. The cloud deck softens the morning light. The rooms and the collection are not in the frame.",
+  "description": "Voergaard is a red-brick Renaissance manor with octagonal corner towers under pyramidal red-tile caps, a red tile saddle roof, and a sandstone portal, seen across a broad moat. The bank is empty. It is overcast, about 10.4°C. The wind is light, about 11.5 km/h. The cloud deck softens the morning light. The rooms and the collection are not in the frame.",
   "alt_text": "AI-generated artistic interpretation of Voergaard Castle on an overcast morning, a red-brick manor with octagonal towers across a broad moat",
   "file_16x9": "Denmark/Dronninglund/dk-01-310-16x9.png",
   "file_4x5": "Denmark/Dronninglund/dk-01-310-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Daylight",
-  "approval_basis": "Gate 1: the 16:9 master shows Voergaard Castle as a moated red-brick Renaissance castle with square corner towers, an ornate stone entry portal and still-water reflections — a plausible visitor viewpoint, clean framing, no artifacts. Gate 2: exact 1920x1080 / 864x1080; on-image signature 'Jason D's Vision', caption 'Voergaard Castle, Dronninglund', scenario '25 September 2026 · 08:21 Europe/Copenhagen', and AI disclosure legible on the scrim; weather retrieval 25 September 2026 08:17:27 Europe/Copenhagen inside the valid 08:00–08:59 hour and unique repo-wide (365/365 distinct). The 4:5 master shows the same moated castle, corner towers and portal — formats agree. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no visible people or logos. Gate 5: no open blockers.",
-  "approved_at": "2026-09-26T19:25:29.155931+00:00",
-  "sha256_16x9": "54683c4d80aebd160b76f5eae607f170f96f9fbf8feeefa37dade3bfdd26db2b",
-  "sha256_4x5": "7fb434b48a804bdfa950bc7ea54b61895303f91e5c6dd400bce8578d21aeb370"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "5d9e7d733b5ba267c97226cf3f9601b1cd25c235d78c9f0074fb47d44982545a",
+  "sha256_4x5": "4186ef6f2d2dd1f52f5cd30b0b3440bbb26f161475768bbd27b04c60dfb4e8af",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1 pack 3",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }
