@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Vindeby harbour just after sunrise, a marina on the narrow sound",
   "file_16x9": "Denmark/Vindeby/dk-01-277-16x9.png",
   "file_4x5": "Denmark/Vindeby/dk-01-277-4x5.png",
+  "file_9x16": "Denmark/Vindeby/dk-01-277-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: a curved stone breakwater leads past moored sailboats to a shoreline village of white and red houses, the sun cresting trees at left — a plausible Vindeby Harbour sunrise view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (breakwater + sailboats + village). On-image caption 'Vindeby Harbour, Vindeby', scenario '25 September 2026 · 07:16 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible on the scrim. Weather: Open-Meteo retrieval 25 September 2026 07:15:51 Europe/Copenhagen — unique to the second across all 408 repo note files; scenario 07:16 inside model-valid hour 07:00–07:59. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no visible people, no logos; generic village houses only. Gate 5: publication-ready.",
   "approved_at": "2026-09-26T16:36:11.021653+00:00",
   "sha256_16x9": "f9d27211ac8d0f55685480999a0ec2194cdb8249b9fe63370e7fa0353d90502f",
-  "sha256_4x5": "85d9977b91f1ad4b6c7d1dceb3ae4e47db5201f5a7caa9b8ff79431c444b3346"
+  "sha256_4x5": "85d9977b91f1ad4b6c7d1dceb3ae4e47db5201f5a7caa9b8ff79431c444b3346",
+  "sha256_9x16": "5a5c8e6cba46db1e3e0f8dcf35025b6aeadb5695b1ae6ae61be104407a077ff7"
 }

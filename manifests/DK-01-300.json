@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Vejen Anlæg on a mainly clear morning, lawns and mature trees",
   "file_16x9": "Denmark/Vejen/dk-01-300-16x9.png",
   "file_4x5": "Denmark/Vejen/dk-01-300-4x5.png",
+  "file_9x16": "Denmark/Vejen/dk-01-300-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: both masters show Vejen Anlæg — broad lawn with mature trees in early-autumn gold, curving gravel paths, wooden bench, low sun raking through the canopy; same park, formats agree, clean framing, no artifacts. Gate 2: exact dims; 'Vejen Anlæg, Vejen', 'Scenario: 25 September 2026 · 07:41 Europe/Copenhagen' inside model hour 07:00-07:59, disclosure and signature legible on scrim; retrieval 25 Sep 2026 07:36:48 unique repo-wide (neighbors :47 and :50), cloud cover 23% matches the mainly clear sky; Art. 50 metadata present. Gate 3: text-prompt-only. Gate 4: no people or logos; documented only. Gate 5: publish.",
   "approved_at": "2026-09-26T18:32:55.101566+00:00",
   "sha256_16x9": "f79401bafa81ed7def170bf10ef635bad4bac8da3f79be7f760288a20a66d0b1",
-  "sha256_4x5": "59dd951c7dd003d44194f77d4a7931c66dc4e7f6cdd8b80250f9c14672b6b350"
+  "sha256_4x5": "59dd951c7dd003d44194f77d4a7931c66dc4e7f6cdd8b80250f9c14672b6b350",
+  "sha256_9x16": "d378338a7b66a7a918e4d27e51a2d82ba2e4ab914f50304b3ec1520d62c5a152"
 }

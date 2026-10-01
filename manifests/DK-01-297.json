@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Søndre Anlæg in Herning on a partly cloudy morning, a park lake and trees",
   "file_16x9": "Denmark/Herning/dk-01-297-16x9.png",
   "file_4x5": "Denmark/Herning/dk-01-297-4x5.png",
+  "file_9x16": "Denmark/Herning/dk-01-297-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -17,5 +18,6 @@
   "approval_basis": "Gate 1: both masters show Søndre Anlæg's park pond — mirror reflections of mature trees turning gold and green, gravel path curving round the water, benches; same pond from matching viewpoints, clean framing, no artifacts. Gate 2: exact dims; 'Søndre Anlæg, Herning', 'Scenario: 25 September 2026 · 07:40 Europe/Copenhagen' inside model hour, disclosure and signature legible; retrieval 25 Sep 2026 07:36:43 unique repo-wide (neighbors :41 and :44), cloud cover 64% matches the broken cloud; Art. 50 metadata present. Gate 3: text-prompt-only. Gate 4: no people or logos; documented only. Gate 5: publish.",
   "approved_at": "2026-09-26T18:32:07.503381+00:00",
   "sha256_16x9": "6885b1946b3a696d736788353d6a3b162a4286e24d59c324809deaa9b7a250ba",
-  "sha256_4x5": "7e9c0fcc817f701beb1e6ad3430f5271e77cbe4d72d09d5dda8bcc46204ef9ee"
+  "sha256_4x5": "7e9c0fcc817f701beb1e6ad3430f5271e77cbe4d72d09d5dda8bcc46204ef9ee",
+  "sha256_9x16": "a56a151d4c572aace75c8a07b5a69c245ee0b7b625a8feaf3d158d989e6837e4"
 }
