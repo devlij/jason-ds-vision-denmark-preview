@@ -6,8 +6,8 @@
   "caption": "Prinsens Port, Fredericia",
   "scenario_label": "25 September 2026 · 02:34 Europe/Copenhagen",
   "composition": "Red-brick gatehouse in the grass ramparts · AI-generated artistic interpretation",
-  "description": "Prinsens Port is a red-brick gatehouse with one large arch and a tiled roof, set in high grass ramparts, with a dark moat in front. The night is partly cloudy, about 10.7°C, and the path is empty. There is no white triumphal arch and no statue.",
-  "alt_text": "AI-generated artistic interpretation of Prinsens Port in Fredericia at night, a brick gate in grass ramparts",
+  "description": "Prinsens Port is a classical pale yellow-white masonry town gate, with pilasters, one arch, and a blank pediment, set in high grass ramparts, with a dark moat in front. The night is partly cloudy, about 10.7°C, and the path is empty. There is no triumphal arch and no statue.",
+  "alt_text": "AI-generated artistic interpretation of Prinsens Port in Fredericia at night, a pale classical gate in the grass ramparts",
   "file_16x9": "Denmark/Fredericia/dk-01-120-16x9.png",
   "file_4x5": "Denmark/Fredericia/dk-01-120-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Fredericia/dk-01-120-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "96cbc3c56379e437a6a73044e0646fe631e371ccad0df456d6c6d6029b011f42",
-      "4x5": "77043abd72b58f63fc17cf008dc4800371b42f2aa0105fde784179e73a5c0868"
+      "16x9": "ab689d4f2428db9474b30d883a0a021020d368611feb881fea4e63fcfb7ceae2",
+      "4x5": "583069370c97020d06beb8c1aba291f6351b7591024099421174784d6986a49a"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Prinsens Port, Fredericia",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: brick gatehouse with wide arched passage through the ramparts, moat water reflecting the lamps, lit path and trees at night; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Prinsens Port, Fredericia', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:49 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:49 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
-  "approved_at": "2026-09-26T06:24:32.424832+00:00",
-  "sha256_16x9": "e2119810291b8ef0179e5c67b04909e3bddaa49fb9bae9fd6b2da94fc318e9ae",
-  "sha256_4x5": "a49ecd616b4aef02643ae867d51cc0b77e5899504c7bb5bca79dd8bf63f8664c"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "b98ecd118aba258d443dbeb5db1335b81e1316c2d24444265e7a6c36c6724acf",
+  "sha256_4x5": "17805bb3b71423f9b12f22d0736bb7c28ae0e7c546bd1ce67d58a94a4b1764d0",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

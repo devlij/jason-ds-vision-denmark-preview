@@ -6,8 +6,8 @@
   "caption": "Helsinge Church, Helsinge",
   "scenario_label": "25 September 2026 · 03:09 Europe/Copenhagen",
   "composition": "Whitewashed church and a heavy west tower on the town street · AI-generated artistic interpretation",
-  "description": "Helsinge Church is a whitewashed church with a red tile roof and a heavy west tower, on a quiet street of low houses. The night is overcast, about 14.1°C, under street lamps. The forest is not the subject, and there is no castle.",
-  "alt_text": "AI-generated artistic interpretation of Helsinge Church at night, a white tower and red roof on a town street",
+  "description": "Helsinge Church is a whitewashed church with a red tile roof and a heavy west tower under a saddle roof with crow-stepped gables, on a quiet street of low houses. The night is overcast, about 14.1°C, under street lamps. The forest is not the subject, and there is no castle.",
+  "alt_text": "AI-generated artistic interpretation of Helsinge Church at night, a white tower with crow-stepped gables on a town street",
   "file_16x9": "Denmark/Helsinge/dk-01-153-16x9.png",
   "file_4x5": "Denmark/Helsinge/dk-01-153-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Helsinge/dk-01-153-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c0439232e2cdef57e4dbb132758c88b49b9de4663b9b94e917fe510a4daca7e1",
-      "4x5": "55e0b5e8585937e4b101d243a4be2f36ef3ac0664f257897c38dd6d7c668f64d"
+      "16x9": "e00ebc836c0451ef8639275479468a58a09f878eea09d5053b352f2ed16cdda3",
+      "4x5": "a191b6923ec4d964687fffd2ec81ce9a606ecc2fa6fac22b2568959cbeb8af73"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Helsinge Church, Helsinge",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: the whitewashed Helsinge Church with its west tower and red-tiled roofs, lit street lamps and neighbouring town houses under a cloudy night sky — anchors (white church, west tower, red roof, town street) all present, plausible street viewpoint, no artifacts. Gate 2: on-image caption 'Helsinge Church, Helsinge', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:43 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
-  "approved_at": "2026-09-26T08:33:09.150299+00:00",
-  "sha256_16x9": "2679e9fa4219da88ad78f2ee8223153eabc65b4640f18458e7c6a5a3c89c85af",
-  "sha256_4x5": "3e7a0259b815e6635c2b8fef6693d0e530088bfe3079d4c04802b62cc2cf3814"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "1881f91279cda50202ae741c618c6e58a1925d2d388401380a14760e0240eba8",
+  "sha256_4x5": "34111d37576d59ab27317991e14446a0b876fe55079a32ff4ea6d16cc935a954",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

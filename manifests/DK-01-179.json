@@ -6,8 +6,8 @@
   "caption": "Aalholm Castle, Nysted",
   "scenario_label": "25 September 2026 · 04:07 Europe/Copenhagen",
   "composition": "A pale castle on an islet across dark water · AI-generated artistic interpretation",
-  "description": "From the public shore, Aalholm stands on its islet: pale walls, red tile roofs, and several wings, with fjord water in front. The shore is empty. The night is overcast, about 12.2°C. The castle grounds are not entered, and the town harbour houses are not the subject.",
-  "alt_text": "AI-generated artistic interpretation of Aalholm Castle at night, seen across the water near Nysted",
+  "description": "From the public shore, Aalholm stands on its islet: red and yellow brick walls, red tile roofs, and several wings, with fjord water in front. The shore is empty. The night is overcast, about 12.2°C. The castle grounds are not entered, and the town harbour houses are not the subject.",
+  "alt_text": "AI-generated artistic interpretation of Aalholm Castle at night, red and yellow brick across the water near Nysted",
   "file_16x9": "Denmark/Nysted/dk-01-179-16x9.png",
   "file_4x5": "Denmark/Nysted/dk-01-179-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Nysted/dk-01-179-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "95406929708a8c97482bd5c83df26d621bd6563ab11d59108907f346ef8f4629",
-      "4x5": "1e85f8c4a5c7d079c05c03a0d638caff643d0359849a2ef32e63c7f51f0c4e42"
+      "16x9": "0a902a939ea126a9551ca0974ba0e942ea0cf83423e86b82190dc7713e65a476",
+      "4x5": "26c90d9eab8f0e29cb7dc9ec5b50cf0d2d8e5166e9cff5df059f0034052ef276"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Aalholm Castle, Nysted",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved - Cosmo QC 5/5 - Night",
-  "approval_basis": "Gate 1: whitewashed Renaissance castle with red roofs and round towers, lit windows, set among trees at the water's edge under an overcast night sky — clean framing, no artifacts, plausible viewpoint from the water. Gate 2: masters exact 1920x1080/864x1080; caption 'Aalholm Castle, Nysted', scenario '25 September 2026 - 04:07 Europe/Copenhagen', and 'AI-generated artistic interpretation - Not a photograph.' disclosure bottom-left, 'Jason D's Vision' signature bottom-right, legible; scenario 04:07 inside model-valid hour 04:00-04:59; Open-Meteo retrieval 25 September 2026 23:29:26 Europe/Copenhagen per the builder note, verified unique across all 365 Denmark notes. Gate 3: text-prompt-only, no photographic inputs reported. Gate 4: no identifiable people, logos, or readable signs — documented only. Gate 5: ready.",
-  "approved_at": "2026-09-26T10:23:22.964083+00:00",
-  "sha256_16x9": "03304cc256f23be4ebec74b15951095f00d0239a582051182f139c42d2372805",
-  "sha256_4x5": "d2f1c87661edfda5c8e2741f45c145dea80190d90389bcd619437bb261bf25d6"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "44f7eedab8cbc0cb5e853e6ae6a0e0a755000ab9c36dcbf61a699191e0a9307f",
+  "sha256_4x5": "83f1cef34a050a04ac6e33cf43ebcb0a8c3ef2815021f0b51d590059b64a4e7e",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

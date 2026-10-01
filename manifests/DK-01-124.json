@@ -6,8 +6,8 @@
   "caption": "Odder Church, Odder",
   "scenario_label": "25 September 2026 · 02:34 Europe/Copenhagen",
   "composition": "Whitewashed church and a heavy west tower · AI-generated artistic interpretation",
-  "description": "Odder Church is a whitewashed building with a heavy square west tower, a low nave, and a red tile roof, with town roofs behind the trees. The night is partly cloudy, about 11.5°C, and the churchyard path is empty. No shop name is readable.",
-  "alt_text": "AI-generated artistic interpretation of Odder Church at night, a whitewashed church with a heavy tower",
+  "description": "Odder Church is a whitewashed building with a heavy square west tower crowned by crow-stepped gables, a low nave, and a red tile roof, with town roofs behind the trees. The night is partly cloudy, about 11.5°C, and the churchyard path is empty. No shop name is readable.",
+  "alt_text": "AI-generated artistic interpretation of Odder Church at night, a whitewashed church whose west tower has crow-stepped gables",
   "file_16x9": "Denmark/Odder/dk-01-124-16x9.png",
   "file_4x5": "Denmark/Odder/dk-01-124-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Odder/dk-01-124-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "d9925722339971cb4b972a2cda848c10c0587d3da53b1d8202ccd08f6284272a",
-      "4x5": "b01e23846b48781bbc3eef9a84ac585e700e1a8430452d3cb56f8edf6d4f3fdb"
+      "16x9": "a622f58c1cc102c186d0a6db924c01d81969ceb16bd5397ef44437a8d5a19725",
+      "4x5": "53f1dad8570bc82047dfa356a62c7aeaaad657fe79d636f048afd7c109d444fe"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Odder Church, Odder",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: whitewashed Romanesque church with red-tiled tower roof beside a churchyard of gravestones, river reflection, lit lamps; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Odder Church, Odder', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:56 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:56 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
-  "approved_at": "2026-09-26T06:24:52.330614+00:00",
-  "sha256_16x9": "e0e5e9aa2075c459e49c9c583261bef53b2be5dd14c623ab133f99184420c09e",
-  "sha256_4x5": "caeff58df2c6093cc24b6fba5e5aaf79f8532cd8fe2eedd1cc7d8fc45f9deb22"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "e067436344742737026ce709c716a203779aefc53de084e0330cc9afbb9f4524",
+  "sha256_4x5": "12c1fe937bb98a1c6c1b99d3a1f51c0ef35e59f312e459b9ab1bc36ef4e24666",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

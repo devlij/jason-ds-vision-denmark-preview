@@ -6,8 +6,8 @@
   "caption": "Skanderborg Lake, Skanderborg",
   "scenario_label": "25 September 2026 · 02:34 Europe/Copenhagen",
   "composition": "Long brick church and a round tower on the lake holm · AI-generated artistic interpretation",
-  "description": "Across dark water, Skanderborg Slotskirke is a long low red-brick wing on the holm, with one round corner tower. The night is mainly clear, about 11.6°C, and trees stand along the empty shore. The rest of the castle is not invented back into the frame.",
-  "alt_text": "AI-generated artistic interpretation of Skanderborg Lake at night, the brick church and round tower on the holm",
+  "description": "Across dark water, Skanderborg Slotskirke is a long church nave on the holm, with one round former-castle corner tower under a conical green copper spire. The night is mainly clear, about 11.6°C, and trees stand along the empty shore. The rest of the castle is not invented back into the frame.",
+  "alt_text": "AI-generated artistic interpretation of Skanderborg Lake at night, the church nave and a round tower with a green copper spire",
   "file_16x9": "Denmark/Skanderborg/dk-01-123-16x9.png",
   "file_4x5": "Denmark/Skanderborg/dk-01-123-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Skanderborg/dk-01-123-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "9280dbf968c73ba5e5f1639be992766183a74f4bf4f08e8401a05498ed65aaf3",
-      "4x5": "67ff5407f7c9aec48b0fa34cec26658c7ef5ec236208dfeae4d15eda205db61d"
+      "16x9": "e8eac0a17feb4ae94ed989b31950b67b0410d330487b82dcdf650522e7fa7846",
+      "4x5": "a92511c6c0bb10acb13858f263c33e1c9d1d0f309e0813b4a34c58f4dad91c11"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Skanderborg Lake, Skanderborg",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: lit brick manor with a round tower on a wooded lakeshore, warm window glow and lamp reflections on the dark water; recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: exact caption 'Skanderborg Lake, Skanderborg', scenario '25 September 2026 · 02:34 Europe/Copenhagen' verified on-image bottom-left with AI disclosure and exact 'Jason D’s Vision' signature bottom-right; masters verified 1920x1080 and 864x1080; per-scene Open-Meteo retrieval 23:26:54 Europe/Copenhagen (HTTP Date 25 Sep 2026 21:26:54 GMT), model-valid 02:30, scenario hour inside the model-valid hour, timestamp unique across the 66-note audited window. Gate 3: text-prompt-only, no photographic reference pixels per builder notes. Gate 4: documented only — no people, no readable signs or logos visible; final commercial-use call is Jason's. Gate 5: no open blockers. Art. 50 metadata present on both masters.",
-  "approved_at": "2026-09-26T06:24:47.041632+00:00",
-  "sha256_16x9": "fc4ec22a37f3c98e5a425a3f74616dfad5417216896f243f859008b723c84d40",
-  "sha256_4x5": "cdb49fd223d54ac0ddc5d4a35128aef727a9592826564bfc8cbfba22efde374f"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "e47c21559b83c30b1831d2ea4d1ece3fce5e18ac41601d90f29c148cf0ec6379",
+  "sha256_4x5": "4649433f0675f772416a6e6910fd1ac0e83f94ee1e43847f9af4084fed889a50",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

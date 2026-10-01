@@ -6,8 +6,8 @@
   "caption": "Aalborghus, Aalborg",
   "scenario_label": "25 September 2026 · 06:22 Europe/Copenhagen",
   "composition": "Red-timber east wing and the moat · AI-generated artistic interpretation",
-  "description": "From the public side of the moat, Aalborghus shows the east wing's red timber framing, white panels, and a red tile roof, with grass ramparts behind dark water. The grounds are empty. The night is overcast, about 12.1°C. The cloud deck hides the moon, and a few lamps carry the light. The steel Limfjord bridge and the Utzon roofs are not in this frame.",
-  "alt_text": "AI-generated artistic interpretation of Aalborghus at night, a half-timbered wing across the moat",
+  "description": "From the public side of the moat, Aalborghus shows yellow monk-brick outer walls and a red tile roof, with grass ramparts behind dark water. The grounds are empty. The night is overcast, about 12.1°C. The cloud deck hides the moon, and a few lamps carry the light. The steel Limfjord bridge and the Utzon roofs are not in this frame.",
+  "alt_text": "AI-generated artistic interpretation of Aalborghus at night, yellow brick walls across the moat",
   "file_16x9": "Denmark/Aalborg/dk-01-225-16x9.png",
   "file_4x5": "Denmark/Aalborg/dk-01-225-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Aalborg/dk-01-225-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "70893b5392e5ab17f0af9090a617268dde3c891fd336e27da7bfc3896e6c2645",
-      "4x5": "23b37fbb87fff13b8294a79c5fde1a29cb8cdc4ac2fbac5ab6c0ef76a8f733fc"
+      "16x9": "5492bdd5f80ea17a0ccecc0fce90c23d3c271a0f5f4fb6c3acb54a81504275be",
+      "4x5": "58b6b61a544c5aaace51b91bd66e98e955cc616c104011cebf586254da6326b2"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Aalborghus, Aalborg",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the half-timbered Aalborghus castle on its grassy rampart above the moat, windows lit; plausible tourist viewpoint for 'Aalborghus, Aalborg', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Aalborghus, Aalborg', 'Scenario: 25 September 2026 · 06:22 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-225 claims one Open-Meteo retrieval at 25 September 2026 06:10:15 Europe/Copenhagen valid 25 September 2026 06:00 Europe/Copenhagen — scenario 06:22 falls inside the cited 06:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
-  "approved_at": "2026-09-26T12:25:19.297522+00:00",
-  "sha256_16x9": "b372deb552059e51579c0e95c5a90d07f7358664f3752755e9c97917c0636586",
-  "sha256_4x5": "492c95b393489675b56842f4430fa9a51520472e1fe3cf13d6be51540b74539c"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "d435a2c79a578af4ffd2d7d266e40c94b320a406521fe622524287ef42ce512b",
+  "sha256_4x5": "e0af1092c530d1562ac8fd49980e8d44d5de9d6358fd93d9269ec45464697222",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

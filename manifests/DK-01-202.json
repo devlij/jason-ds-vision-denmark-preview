@@ -6,8 +6,8 @@
   "caption": "Bregninge Church, Bregninge",
   "scenario_label": "25 September 2026 · 14:32 Europe/Copenhagen",
   "composition": "A red-brick hill church and a lantern spire · AI-generated artistic interpretation",
-  "description": "Bregninge Church stands on the rounded hill: red brick, dark slate roofs, and a west tower with a low octagonal roof and a tall lantern spire. The lane is empty. The afternoon is partly cloudy, about 16.3°C.7°C. Broken cloud breaks the afternoon sun. The sea is not the close subject.",
-  "alt_text": "AI-generated artistic interpretation of Bregninge Church in the afternoon, a red-brick tower and lantern on a hill",
+  "description": "Bregninge Church stands on the rounded hill: whitewashed walls, crow-stepped gables, and a west tower with a tall Gothic needle spire clad in oak shingles. The lane is empty. The afternoon is partly cloudy, about 16.3°C. Broken cloud breaks the afternoon sun. The sea is not the close subject.",
+  "alt_text": "AI-generated artistic interpretation of Bregninge Church in the afternoon, a whitewashed church and shingled needle spire on a hill",
   "file_16x9": "Denmark/Bregninge/dk-01-202-16x9.png",
   "file_4x5": "Denmark/Bregninge/dk-01-202-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -59,10 +59,16 @@
       "note": "Gate 2 HOLD (Cosmo QC, 2026-09-25): weather-retrieval reuse — approvals/BATCH-DK-01-193-208.txt cites one shared Open-Meteo retrieval (04:22 or 04:14 Europe/Copenhagen) across many scenes, same Spain ES-01-334–365 failure mode. Scenario hour 04:22 on-image is inside the model-valid hour; mechanical, caption, signature, disclosure all verified on-image. Held as Candidate until the builder re-retrieves weather per scene and re-pushes."
     }
   ],
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Afternoon",
-  "approval_basis": "Gate 1: Bregninge Church — red-brick church with open lantern spire atop its hill, trees and road foreground, afternoon cloud. Gate 2: caption 'Bregninge Church, Bregninge', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:55 (unique), valid 14:30, scenario inside 14:00–14:59. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
-  "approved_at": "2026-09-25T12:53:51.830653+00:00",
-  "sha256_16x9": "4ab311e56e9af049b3e98ea2561b7c94df73d864c1d3f73f0e1a9fecd17e61ed",
-  "sha256_4x5": "0e30ad21f551cecc4e760d02ff361ef852e522076a3f42cf2dafb0a507330161"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "18285fbcc46ce1fee00740cb31aa2e6a1474e59f8c056e4c1602ad9a55846ca4",
+  "sha256_4x5": "3929d564ecb490a3f1d572d6a6834dd5466fbe4ddae017f84427fde5393813ef",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

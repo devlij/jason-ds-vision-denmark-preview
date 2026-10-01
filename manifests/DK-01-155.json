@@ -6,8 +6,8 @@
   "caption": "Valdemars Slot, Troense",
   "scenario_label": "25 September 2026 · 03:09 Europe/Copenhagen",
   "composition": "White Baroque palace, dark roof, and the sound · AI-generated artistic interpretation",
-  "description": "Valdemars Slot is a long white Baroque palace with a dark hipped roof and a central pediment, set behind a lawn with the sound in front. The night is overcast, about 11.4°C, and a few windows are lit. There is no dome and no readable sign.",
-  "alt_text": "AI-generated artistic interpretation of Valdemars Slot at Troense at night, a white palace across a lawn",
+  "description": "Valdemars Slot is a long red-brick Baroque manor on a granite plinth, with a dark hipped slate roof, dormers, and a broad double stair, set behind a lawn with the sound in front. The night is overcast, about 11.4°C, and a few windows are lit. There is no dome and no readable sign.",
+  "alt_text": "AI-generated artistic interpretation of Valdemars Slot at Troense at night, a red-brick manor across a lawn",
   "file_16x9": "Denmark/Troense/dk-01-155-16x9.png",
   "file_4x5": "Denmark/Troense/dk-01-155-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Troense/dk-01-155-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "6ba2fface607240226ee1b9f090649f631829b824f72c2b33ed142c439acb12b",
-      "4x5": "993c64846ab699d6a0728d50bbaf42a44f0bb25dc94750f59fcf655e71fa4655"
+      "16x9": "7d5011ec53ae75e06ba958087990112912b1eea00faaac9fa511d5ee95ecf731",
+      "4x5": "e285bb0852a22d3942818418874626e5b6b1950c9e757a5debf5176f8f92b032"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Valdemars Slot, Troense",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: Valdemars Slot's white baroque manor with central pediment and dark roof, warmly lit windows, lawn and a dark water strip in the foreground — the Tasinge manor house look, plausible approach viewpoint, no artifacts. Gate 2: on-image caption 'Valdemars Slot, Troense', scenario '25 September 2026 · 03:09 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:46 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no people, logos, or readable marks; documented only, final commercial call Jason's. Gate 5: no open blockers.",
-  "approved_at": "2026-09-26T08:33:24.372406+00:00",
-  "sha256_16x9": "cf684252c26f344df9a249bcf9a2e512e0e99967411fa39ec11184670ba6720d",
-  "sha256_4x5": "34a037a881bb5814ff87b5a929ea7263694c8908cb6573966c68d0d6c7bda449"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "15bbbc6fa59b04a95bfda20d68a3d26110ff5595e1681dc1bf29936d26d7e5c2",
+  "sha256_4x5": "b7e85afad8781529237e7af373b317ff6f1ac2866d8609b3bed6fa74306767e7",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

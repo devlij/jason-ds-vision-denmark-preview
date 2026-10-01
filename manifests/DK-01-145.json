@@ -6,8 +6,8 @@
   "caption": "Børsen, Copenhagen",
   "scenario_label": "25 September 2026 · 03:09 Europe/Copenhagen",
   "composition": "Red-brick exchange, copper roof, and a gap where the spire stood · AI-generated artistic interpretation",
-  "description": "From the canal quay, Børsen is the long red-brick Renaissance building with sandstone gables. The eastern roof is copper. The dragon spire is absent, and the burned central section is under a construction cover with scaffolding. The night is overcast, about 14.1°C, and the quay is empty.",
-  "alt_text": "AI-generated artistic interpretation of Børsen in Copenhagen at night, without the dragon spire, with scaffolding on the burned section",
+  "description": "From the canal quay, Børsen is the long red-brick Renaissance building with sandstone gables and a copper roof. The tower carries the Dragespir, four intertwined dragon tails. The night is overcast, about 14.1°C, and the quay is empty.",
+  "alt_text": "AI-generated artistic interpretation of Børsen in Copenhagen at night, with the dragon-tail spire",
   "file_16x9": "Denmark/Copenhagen/dk-01-145-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-145-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-145-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "154cf6e9ac4222a3a925b45b791b4e37292abbbe3cec5663fbacadfc94e13a1a",
-      "4x5": "13087c929cb27aedc2d4a5d0bfddfeac3ce245fce61eb75885112b9f25fc793e"
+      "16x9": "a0740d12faa1e1f74774a5a2f283b638c22866f0bd34d1a418da437f30d82ccc",
+      "4x5": "e2049626f88806aadac0d1ecf6fb8dc6e6d224b9a977a7af8a4fe6031a785b85"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Børsen, Copenhagen",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: night view of Børsen from the water — long red-brick building with green copper roof, ornate gables and tall spire, left wing under scaffolding with black tarpaulin and an empty roofline; an honest depiction of the post-April-2024-fire reconstruction, no invented dragon spire. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Børsen, Copenhagen', scenario '25 September 2026 · 03:09 Europe/Copenhagen' inside cited model-valid hour 03:00–03:59, disclosure and curly-apostrophe signature legible; Open-Meteo retrieval 2026-09-25 23:27:30 Europe/Copenhagen, unique to the second across all 365 repo notes; Art. 50 chunks present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, logos, or readable signs — documented, final call Jason's. Gate 5 clear.",
-  "approved_at": "2026-09-26T07:24:56.547423+00:00",
-  "sha256_16x9": "557a56278880e4f41e40314006b8b218c90e92726918f59e95a6c264517a28d9",
-  "sha256_4x5": "e0d5ace30585388fd3fab9d952ba4528c9b7c0373d23b7086d061d4a65ebaf65"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "ceb9a4f85243a78a6f0146b0bf2689f6a853a0e0624f5f932c806140bf93f17a",
+  "sha256_4x5": "1181456f5540c62055a6eda8bf09a691e9c02370c37e8dbced42593d8fae73a6",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

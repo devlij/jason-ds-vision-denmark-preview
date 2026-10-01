@@ -6,8 +6,8 @@
   "caption": "Elephant Gate, Copenhagen",
   "scenario_label": "25 September 2026 · 03:44 Europe/Copenhagen",
   "composition": "Granite elephants carrying a brick tower and copper dome · AI-generated artistic interpretation",
-  "description": "From Ny Carlsberg Vej, the Elephant Gate is granite elephants carrying a red-brick tower with round-arched windows and a copper dome. The street is empty under the lamps. The night is overcast, about 13.6°C. No brewery name is readable, and there is no product in the frame.",
-  "alt_text": "AI-generated artistic interpretation of the Elephant Gate in Copenhagen at night, granite elephants and a brick tower",
+  "description": "From Ny Carlsberg Vej, the Elephant Gate is four granite elephants standing back-to-back, carrying a red-brick tower with round-arched windows and a copper onion dome. The street is empty under the lamps. The night is overcast, about 13.6°C. No brewery name is readable, and there is no product in the frame.",
+  "alt_text": "AI-generated artistic interpretation of the Elephant Gate in Copenhagen at night, four granite elephants carrying a brick tower",
   "file_16x9": "Denmark/Copenhagen/dk-01-161-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-161-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-161-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "33f23b3602bb6fb34851fe0fcc2de7dc10d54f6f9493cb39e02c08ee0dd3b40a",
-      "4x5": "bee2eb9c9053cc60cea4dc4df7a33faee42cfad95ee170195997f1e1feea2ccb"
+      "16x9": "dbdf2fdbc3ea2cd7bce5d0e353f753be6e83e82832c7c313d88d1ab245f90219",
+      "4x5": "22cce40a42eb7e026b2585c8a345958f8c2c0b4c262950367bb35976ab046902"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Elephant Gate, Copenhagen",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: the Elephant Gate's red-brick tower with copper dome and two granite elephants flanking the arch, lit street lamps and cobblestones at night — the Carlsberg Elefantporten landmarks (elephants, round-arched windows, copper dome) all present, no brewery wordmark, no artifacts. Gate 2: on-image caption 'Elephant Gate, Copenhagen', scenario '25 September 2026 · 03:44 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 26 September 2026 01:40:13 Europe/Copenhagen — a documented correction re-fetch; cited step 03:30, model-valid hour 03:00-03:59, scenario 03:44 inside it, retrieval unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no wordmark or product visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
-  "approved_at": "2026-09-26T08:34:18.196375+00:00",
-  "sha256_16x9": "24d1431182bee6abe2cc62f8942d6f72deca1cc51460f8545efd0aaa620c53ee",
-  "sha256_4x5": "1edf87704298f5ac5c4f4a8a8b0be749eced80fcd92fba3bf172ac0fdb78591a"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "513e0a53101aaaaba3862ab903a063ada25337db5b1933acba8ed718c19f5e2a",
+  "sha256_4x5": "6526fcc934403c5ae1eed9596ff3c09527b72a09abbca3df982ec83cd39f0527",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

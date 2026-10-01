@@ -6,8 +6,8 @@
   "caption": "Ejer Bavnehøj, Ejer",
   "scenario_label": "25 September 2026 · 05:55 Europe/Copenhagen",
   "composition": "A brick tower on a low grassy hill · AI-generated artistic interpretation",
-  "description": "Ejer Bavnehøj at night is a plain brick tower on a low grassy rise, with a path, open fields, and a few distant lights. The hill is empty. The night is clear, about 7.8°C. Moonlight reaches the ground under a thin cloud cover. The lake and the church on the holm at Skanderborg are not in this frame.",
-  "alt_text": "AI-generated artistic interpretation of Ejer Bavnehøj at night, a brick tower on a hill",
+  "description": "Ejer Bavnehøj at night is the open-arched Genforeningstårn, a brick tetrapylon with a railed deck and a flagstaff, on a low grassy rise, with a path, open fields, and a few distant lights. The hill is empty. The night is clear, about 7.8°C. Moonlight reaches the ground under a thin cloud cover. The lake and the church on the holm at Skanderborg are not in this frame.",
+  "alt_text": "AI-generated artistic interpretation of Ejer Bavnehøj at night, an open-arched brick tower on a hill",
   "file_16x9": "Denmark/Ejer/dk-01-217-16x9.png",
   "file_4x5": "Denmark/Ejer/dk-01-217-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Ejer/dk-01-217-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "a2d63373a994f66e23c10400ece536bf4682347d083233313666e917c2b83600",
-      "4x5": "57107b73e8e3f2bd5a7a351d34d3065f47b224bd890909e7a5716f639852d860"
+      "16x9": "9adedd73aa9bcbae8471537b78b04b265a7bdfb8729f1621f831e0b8a418b9f7",
+      "4x5": "6411f4324fa267ec70fee6f9b2e85f93ca926846faf7919fc53a704290576869"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Ejer Bavnehøj, Ejer",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "G1: the red-brick hilltop tower on a grassy knoll under the moon, night landscape with scattered town lights; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:36:02 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no readable plaque; G5: clean.",
-  "approved_at": "2026-09-26T11:20:39.639734+00:00",
-  "sha256_16x9": "1f66e4d0d7bfadee69fc2f4e53c6d7e41548a9ceb7b31011bcdce2fd7eb03569",
-  "sha256_4x5": "5bb9ae72e83ab26c4eb89be8fcccdb96ea1ff11fb56fed4d12d40601782236f6"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "bf1c8b07464b5669f1ad59d9e1f93e99b5ce4ce66fe91e0e701809eb0acb6806",
+  "sha256_4x5": "f9c4570f7e63212907b7396c9a46438cab8a63c84f8f417a0e66bd851bfe638d",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }
