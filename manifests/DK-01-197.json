@@ -6,8 +6,8 @@
   "caption": "Landporten, Nyborg",
   "scenario_label": "25 September 2026 · 14:32 Europe/Copenhagen",
   "composition": "A yellow gatehouse in the grass ramparts · AI-generated artistic interpretation",
-  "description": "Landporten is a long yellow-washed gatehouse with one large brick arch, set between grass ramparts, with dark moat water and a linden path. The path is empty. The afternoon is partly cloudy, about 17.6°C.9°C. Broken cloud breaks the afternoon sun. The castle and the marina are not in this frame.",
-  "alt_text": "AI-generated artistic interpretation of Landporten in Nyborg in the afternoon, a yellow gatehouse in the ramparts",
+  "description": "Landporten is a land-road gate in the grass ramparts: a long whitewashed barrel vault, with the cobbled path running through it, and the moat lying unbroken in front of the portal. The late-baroque upper storey is yellow-washed, with rectangular windows, white pilasters, and a pedimented coat of arms. The path is empty. The afternoon is partly cloudy, about 17.6°C.9°C. Broken cloud breaks the afternoon sun. The castle and the marina are not in this frame.",
+  "alt_text": "AI-generated artistic interpretation of Landporten in Nyborg in the afternoon, a yellow land-road gate with a barrel vault in the ramparts",
   "file_16x9": "Denmark/Nyborg/dk-01-197-16x9.png",
   "file_4x5": "Denmark/Nyborg/dk-01-197-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -59,10 +59,17 @@
       "note": "Gate 2 HOLD (Cosmo QC, 2026-09-25): weather-retrieval reuse — approvals/BATCH-DK-01-193-208.txt cites one shared Open-Meteo retrieval (04:22 or 04:14 Europe/Copenhagen) across many scenes, same Spain ES-01-334–365 failure mode. Scenario hour 04:22 on-image is inside the model-valid hour; mechanical, caption, signature, disclosure all verified on-image. Held as Candidate until the builder re-retrieves weather per scene and re-pushes."
     }
   ],
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Afternoon",
-  "approval_basis": "Gate 1: Landporten — the yellow-washed arched gatehouse over the Nyborg moat between grass ramparts, tree-lined path, afternoon sun; matches the real gate's look. Gate 2: caption 'Landporten, Nyborg', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:47 (unique), valid 14:30, scenario inside 14:00–14:59; 51% cloud matches broken sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
-  "approved_at": "2026-09-25T12:53:10.092045+00:00",
-  "sha256_16x9": "cb906e8f07ef6399b18c81f8c245082184e95060236cefac684cbdb5f8fc68ea",
-  "sha256_4x5": "dbf8524ecba85db0e54c577da626e66cac847bb937b4c1a2a85525dd1648179b"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "ea00fcd5e10835b45eb392472430b7505936aa9eb2c35ab3731100d800dc216b",
+  "sha256_4x5": "935d42f675df62081b76e047ae3a19a3c0eb246cec99894a60ff12398a465967",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-1-landporten",
+    "status": "Candidate",
+    "note": "Landmark typology corrected: land road gate, barrel vault, moat in front of the portal. Not self-approved. Awaiting Cosmo QC."
+  }
 }
