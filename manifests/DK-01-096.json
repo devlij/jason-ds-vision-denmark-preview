@@ -6,8 +6,8 @@
   "caption": "Mandø, Mandø",
   "scenario_label": "25 September 2026 · 02:00 Europe/Copenhagen",
   "composition": "Brick church and a wooden bell frame on a marsh mound · AI-generated artistic interpretation",
-  "description": "Mandø's small red-brick church has no tower. It sits on a raised mound, with a separate dark wooden bell frame and a pyramidal roof just west of it. The night is mainly clear, about 12.8°C, over flat marsh and dark tidal flats. A few warm windows mark the low houses. The causeway is not the subject, and the tide was not checked.",
-  "alt_text": "AI-generated artistic interpretation of Mandø at night, a brick church and wooden bell frame on a marsh mound",
+  "description": "Mandø's small whitewashed church has no tower. It sits on a raised mound, with scrolled gables, a red-tiled roof, and a separate black-tarred wooden bell frame with a pyramidal roof just west of it. The night is mainly clear, about 12.8°C, over flat marsh and dark tidal flats. A few warm windows mark the low houses. The causeway is not the subject, and the tide was not checked.",
+  "alt_text": "AI-generated artistic interpretation of Mandø at night, a whitewashed church with scrolled gables and a black wooden bell frame",
   "file_16x9": "Denmark/Mandø/dk-01-096-16x9.png",
   "file_4x5": "Denmark/Mandø/dk-01-096-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Mandø/dk-01-096-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "47403df8231e789fc85b23a7239ae547a45014b192c8b301b6ae99317bb92734",
-      "4x5": "8d3914aeb7e0aa1d23b71ba45754a76c5e7a93ee98b5cfc1315825b2611ca6bb"
+      "16x9": "9e31b362720097d2ee1e9a93d003cb9c4d323dd9ab7060ce455920b549334995",
+      "4x5": "e02d947d4c28d12f2af1b59a173047f6499b2648b209cbbd957b7831c6c3dee6"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Mandø, Mandø",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Night view on Mandø: a small red-brick church on a grassy mound with a separate dark wooden bell tower beside it, tidal flats stretching to the horizon, a bright moon behind thin cloud, and a few lit farmhouses across the flat island. Gate 1: plausible island viewpoint matching the caption. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Mandø, Mandø', scenario '25 September 2026 · 02:00 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:19:12 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
-  "approved_at": "2026-09-26T04:25:12.577028+00:00",
-  "sha256_16x9": "21b906e73b12592c317fd484750ba1cd401e9226e906a7c740f316059f10b04f",
-  "sha256_4x5": "c1329ddbcc99d526c34bc3af366eb8fd95947e52034c3ac7b057078eee388922"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "f056d5c7393fd0a5722a906f398d46d9ec2bc303b11b0ca2e745b5e2ff534b58",
+  "sha256_4x5": "38d0daee857cde969a50a9a800ea9bc0f26859a382b04ca700bc3f0141c52dab",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

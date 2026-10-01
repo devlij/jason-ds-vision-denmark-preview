@@ -6,8 +6,8 @@
   "caption": "Faaborg Harbour, Faaborg",
   "scenario_label": "25 September 2026 · 00:56 Europe/Copenhagen",
   "composition": "Harbour houses and the standalone bell tower · AI-generated artistic interpretation",
-  "description": "From the harbour quay at Faaborg, wooden boats and low old houses sit on the water, and the town's standalone red-brick bell tower rises behind the roofs. The night is overcast, about 12.7°C, with wind near 17.3 km/h, and the quay is empty. The exact alignment of the tower from this quay was not surveyed.",
-  "alt_text": "AI-generated artistic interpretation of Faaborg harbour at night, with the brick bell tower behind the roofs",
+  "description": "From the harbour quay at Faaborg, wooden boats and low old houses sit on the water, and the town's standalone Klokketårn rises behind the roofs: yellow plaster, a red-tiled shoulder, a white octagonal lantern with clock faces, and a dark flared spire. The night is overcast, about 12.7°C, with wind near 17.3 km/h, and the quay is empty. The exact alignment of the tower from this quay was not surveyed.",
+  "alt_text": "AI-generated artistic interpretation of Faaborg harbour at night, with the yellow Klokketårn and its white lantern behind the roofs",
   "file_16x9": "Denmark/Faaborg/dk-01-039-16x9.png",
   "file_4x5": "Denmark/Faaborg/dk-01-039-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Faaborg/dk-01-039-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "39830d55df55a0573230e7d26dcb67bffc73643fef1750f9decfaeef1580abed",
-      "4x5": "63982a2da259e3d23ef76e3184432cb5ea39474a66da7f2d2b8ffae0d1ba1148"
+      "16x9": "02f5d0975a4444a152b9e4ff95c738ee0cfe4f9928f4052ccbee00642cc248c4",
+      "4x5": "1c92038f90cd94b8e88e419fdbb5a80b5402da4e55399bd2348c08a3fe95f100"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Faaborg Harbour, Faaborg",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1 PASS: night harbor — moored fishing boats, half-timbered and brick warehouses along the quay, prominent brick church tower behind, wet quay with lamp reflections — matches Faaborg Harbour. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Faaborg Harbour, Faaborg', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:06 Europe/Copenhagen (HTTP Date 21:09:06 GMT), valid 00:45 step, is_day 0, overcast 12.8C 98% cloud, wind 17.6 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
-  "approved_at": "2026-09-26T00:29:19.592055+00:00",
-  "sha256_16x9": "7d1e30e5b789e3dc0e550f8f06ce61935a77435f5cc5acbfea382f031cf0f87b",
-  "sha256_4x5": "401008e00fe267b2acfc35f9c366c392f631eaea45f9408b10559a23f2ef68b0"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "db21f011eac00f9d0bf1fddd1a27924812ba61700a6a48c635def7bc2807856f",
+  "sha256_4x5": "cc74f7440e9803f7074813b3392b451bfe5055d5520d77c94b1630e65284bb9a",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

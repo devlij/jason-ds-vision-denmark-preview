@@ -6,18 +6,18 @@
   "caption": "Rundetårn, Copenhagen",
   "scenario_label": "25 September 2026 · 00:32 Europe/Copenhagen",
   "composition": "Round brick tower and observatory lantern on Købmagergade · AI-generated artistic interpretation",
-  "description": "On Købmagergade, Rundetårn is a round brick tower beside the church gable, with the observatory lantern and railing at the top. The street is empty under lamps. The night is mainly clear, about 13.9°C. The golden band on the tower is ornament in this frame, not a readable inscription.",
-  "alt_text": "AI-generated artistic interpretation of Rundetårn in Copenhagen at night, a round brick tower with an observatory lantern",
+  "description": "On Købmagergade, Rundetårn is a round brick tower beside the church gable, with the observatory lantern and railing at the top. The street is empty under lamps. The night is mainly clear, about 13.9°C. The gilded band carries Christian IV's rebus, including the words DOCTRINAM ET JUSTITIAM DIRIGE.",
+  "alt_text": "AI-generated artistic interpretation of Rundetårn in Copenhagen at night, with Christian IV's rebus on the gilded band",
   "file_16x9": "Denmark/Copenhagen/dk-01-024-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-024-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Rundetårn at night: the round brick tower with its decorative frieze band and observatory cupola dominates, adjacent gabled brick buildings and a cobbled lamp-lit street to the left; on-image caption 'Rundetårn, Copenhagen' with scenario '25 September 2026 · 00:32 Europe/Copenhagen' and 'AI-generated artistic interpretation · Not a photograph' bottom-left, curly-apostrophe Jason D’s Vision signature bottom-right. Gate 2: exact dims sweep-verified, retrieval 25 September 2026 23:08:37 Europe/Copenhagen unique across the full note set, scenario inside the 00:00–00:59 model-valid hour, is_day 0 step consistent. Gate 3: text-prompt-only per notes. Gate 4: no people, logos — public landmark; notes-only.",
-  "approved_at": "2026-09-25T23:24:00.417019+00:00",
-  "sha256_16x9": "0ec4a4a3724f11ec130e67e05f81b21144c4aeb7c7e57197673ca12fe0516eb4",
-  "sha256_4x5": "e01adf87c8818549ed3e5315c3c316588087e01ec97cbec8e8bcf4ca5f87b795",
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "e9d3bb5839ba8b00f912d79dce420f31df41c3c72e53de505626e2d992b7856a",
+  "sha256_4x5": "02cfe458def255e3f1b2a7d22ce63acf90ce4e0757b58ed09686f40e266e7b62",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-024",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-024-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-024-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "d5e067e4269f3baaa0e4d50b6ae18d1d886809a389d42804ef0bbdd2926d1341",
-      "4x5": "67350055e76521943b14799866c24977368d2376358dad5332dd4da81269a828"
+      "16x9": "45bb8dddddae737b22c06349013383227d0e0e715ff9e3dd89077f2c44e01599",
+      "4x5": "ef5ac7424eed4e2104460365289c77265801d43a447fea6676ecf28751c32dd2"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Rundetårn, Copenhagen",
@@ -47,5 +47,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
   }
 }

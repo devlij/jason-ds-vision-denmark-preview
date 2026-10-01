@@ -6,8 +6,8 @@
   "caption": "Jelling Stones, Jelling",
   "scenario_label": "25 September 2026 · 01:23 Europe/Copenhagen",
   "composition": "Rune stones in glass cases, one white church, two mounds · AI-generated artistic interpretation",
-  "description": "In the churchyard, two granite rune stones stand inside separate bronze-and-glass cases, with one small whitewashed church and its single tower between two grass mounds. The night is partly cloudy, about 10.6°C, and the yard is empty. The stones are not shown standing bare. A June 2026 report of damaged glass on the large stone's case was not rechecked for this night, so no crack is claimed in the frame.",
-  "alt_text": "AI-generated artistic interpretation of the Jelling rune stones at night, inside glass cases beside the white church and mounds",
+  "description": "In the churchyard, two granite rune stones stand inside separate bronze-and-glass cases, with one small whitewashed church and its low west tower, only slightly above the nave, between two grass mounds. The night is partly cloudy, about 10.6°C, and the yard is empty. The stones are not shown standing bare. A June 2026 report of damaged glass on the large stone's case was not rechecked for this night, so no crack is claimed in the frame.",
+  "alt_text": "AI-generated artistic interpretation of the Jelling rune stones at night, inside glass cases beside the white church with its low tower",
   "file_16x9": "Denmark/Jelling/dk-01-052-16x9.png",
   "file_4x5": "Denmark/Jelling/dk-01-052-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Jelling/dk-01-052-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "ea7bc7f19c0dc57e41e4e6886ebc5afec5c9aa4e29dd14619804c5206db66f34",
-      "4x5": "dbf1b736a2c88e5c6e88bfa31e8b7b55bdb420b15c735f54dfcf39ecae8fa89b"
+      "16x9": "12fa2d4d11d556b93b0c69c38b8db4f9ebfd09b1a8c70a45d3a7465415fd437e",
+      "4x5": "620287cba67a50c8eb06d4e581bf1fa37ea91334503aaa35b4b82d82b9df1395"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Jelling Stones, Jelling",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Jelling Stones at night: the two rune stones in glass display cases in the foreground, Jelling church between the two grass burial mounds behind; on-image caption 'Jelling Stones, Jelling', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:28 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no modern marks; all five gates pass.",
-  "approved_at": "2026-09-26T01:21:31.293894+00:00",
-  "sha256_16x9": "2b7c71893220afbec891982e02c2b0eeaf7e070023ea4dd69a735c6cc9972721",
-  "sha256_4x5": "e098c33e91bb7f06a24047ae6092c387880a7d7c10f1d676b72bb5b286cb8bde"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "a1adade5dfe7c797e419c58a8c9040f2c65bd191e7f0eaf5e4eaeaac10676432",
+  "sha256_4x5": "c654bace1c24eb1bd3b9713d2b4d3758aea1904653ba460cfd77f968fcf03c54",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

@@ -6,18 +6,18 @@
   "caption": "Tivoli Gardens, Copenhagen",
   "scenario_label": "25 September 2026 · 00:33 Europe/Copenhagen",
   "composition": "Closed garden gate and dark trees on Vesterbrogade · AI-generated artistic interpretation",
-  "description": "From the Vesterbrogade sidewalk, Tivoli's historic garden gate is shut and the trees behind it are dark. The pavement is empty under ordinary streetlamps. It is a mainly clear night, about 13.9°C, with no rain. Summer at Tivoli ended on 20 September 2026 and Halloween does not open until 2 October, so this is not a ride night, a flower show, or a Halloween display.",
-  "alt_text": "AI-generated artistic interpretation of the closed Tivoli Gardens gate in Copenhagen on a mainly clear night",
+  "description": "From the Vesterbrogade sidewalk, Tivoli's brick Hovedindgang is shut: pavilion wings, a multicoloured tiled dome, gold TIVOLI lettering, and festoon lights, with dark trees behind the gates. The pavement is empty under ordinary streetlamps. It is a mainly clear night, about 13.9°C, with no rain. Summer at Tivoli ended on 20 September 2026 and Halloween does not open until 2 October, so this is not a ride night, a flower show, or a Halloween display.",
+  "alt_text": "AI-generated artistic interpretation of the closed Tivoli Gardens main entrance in Copenhagen, brick with a tiled dome and TIVOLI lettering",
   "file_16x9": "Denmark/Copenhagen/dk-01-017-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-017-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1 PASS: Tivoli Gardens main entrance at night — closed ornate stone-and-iron gate with carved pediment, wall lamps, tree-lined Vesterbrogade sidewalk receding right, plausible tourist viewpoint from the street. Gate 2 PASS: masters exact 1920x1080/864x1080; on-image 'Tivoli Gardens, Copenhagen', scenario '25 September 2026 · 00:33 Europe/Copenhagen', AI disclosure and 'Jason D's Vision' curly signature on bottom gradient, legible; weather retrieved 25 September 2026 23:08:24 Europe/Copenhagen for 55.6738,12.5680 (separate request, unique repo-wide), model-valid hour 00:00–00:59 and 00:30 model step containing scenario 00:33, is_day 0. Gate 3 PASS: text-prompt-only, no photographic reference pixels per note. Gate 4 noted: no people or logos — documented only. Art. 50 chunks present.",
-  "approved_at": "2026-09-25T22:28:17.114916+00:00",
-  "sha256_16x9": "53b0ea04a0de479a2f5449a8ecd132cd247e33acaabae881ce18545bd45ff42c",
-  "sha256_4x5": "5e294e2b7003e61b7458c26dd056778f31391eef7ba60980b30ec61e30ed1064",
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "e3bc371e219e72a5be6c48e63df9f62d2ce0c8476fb1fc3e09f5131a45a38329",
+  "sha256_4x5": "69161d5b711423e253dd1867f92349c98bcb7dc8af153feeb88d7f1a6748180c",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-017",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-017-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-017-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "75f7969c9ee89a8dd445931575ae0094198b351e1a2e1b40c367b86116fd1707",
-      "4x5": "ab9d87bcefc546c9d9feb7e0f91ac90fc502b1744818716c88becd3c337c09b5"
+      "16x9": "29f3b406c0b8f44dd9073028ae31a0c86cf4b154232daf8a107a310bce55dc76",
+      "4x5": "6640c3c0b4d65599ea181b8fcd439adc5f99178ad4228b25414571de34eacfa3"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Tivoli Gardens, Copenhagen",
@@ -47,5 +47,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
   }
 }

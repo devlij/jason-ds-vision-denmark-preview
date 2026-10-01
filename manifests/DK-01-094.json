@@ -6,8 +6,8 @@
   "caption": "Billund Church, Billund",
   "scenario_label": "25 September 2026 · 02:00 Europe/Copenhagen",
   "composition": "Mocha-brick church and a freestanding bell tower · AI-generated artistic interpretation",
-  "description": "Billund Church is a low modern complex of dark mocha brick, with offset volumes, glass, and a separate slender bell tower, on a quiet town street. The night is mainly clear, about 10.2°C, with faint moonlight and no snow. There are no toy bricks and no readable wordmark.",
-  "alt_text": "AI-generated artistic interpretation of Billund Church at night, a dark brick building and a separate bell tower",
+  "description": "Billund Church is a low modern complex of dark mocha brick, with offset volumes, glass, and a separate white-concrete bell tower with dark wooden louvers, on a quiet town street. The night is mainly clear, about 10.2°C, with faint moonlight and no snow. There are no toy bricks and no readable wordmark.",
+  "alt_text": "AI-generated artistic interpretation of Billund Church at night, a dark brick building and a white concrete bell tower",
   "file_16x9": "Denmark/Billund/dk-01-094-16x9.png",
   "file_4x5": "Denmark/Billund/dk-01-094-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Billund/dk-01-094-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "c83ce04c0397d3b35162d88b3490202c9c2a381e51122b15b5b8f3d2a63ef977",
-      "4x5": "ad2d7c03906af22c7fc93582409455ef21a1365c7fc87fb24791790df0ce6a4d"
+      "16x9": "32a229f2c931ceec04ea027a79d594ed298e8bd5813d57683b10c5f2b046c5a3",
+      "4x5": "1e127f727e63c56910a5297fb3f045afeee9afed2f375847da0a67a218e5ec18"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Billund Church, Billund",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Night view of Billund Church: a modernist red-brick church with a large glass-fronted corner and a separate slender brick bell tower, softly floodlit against dark sky, with bare trees framing the left. Gate 1: plausible street viewpoint matching the caption. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Billund Church, Billund', scenario '25 September 2026 · 02:00 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:19:10 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
-  "approved_at": "2026-09-26T04:25:08.033475+00:00",
-  "sha256_16x9": "28e21e1cb89da72613fb0638c845bfcb4db946876878dd0d94ec469922c81cd1",
-  "sha256_4x5": "85a9a3eb1133a6847a7d356c55b31aac0efa802cb575e345c692872bd14dabe5"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "e9aa74443fdabddf23e76eac008c711cb045871ad35dcbb4f4936821353dfe98",
+  "sha256_4x5": "270de04168131240062798264fb1a6d3cf3bcd60c1ebc83b5974df20179ddb7e",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

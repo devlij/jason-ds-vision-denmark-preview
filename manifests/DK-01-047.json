@@ -6,8 +6,8 @@
   "caption": "Aabenraa Harbour, Aabenraa",
   "scenario_label": "25 September 2026 · 00:56 Europe/Copenhagen",
   "composition": "Calm fjord quay and merchant houses · AI-generated artistic interpretation",
-  "description": "From the quay, Aabenraa harbour is a calm fjord basin with moored boats and a row of merchant houses. It is overcast, about 12.2°C, and the quay is empty. This is the head of the fjord, not an open coast. Lettering on the boats is not treated as real names.",
-  "alt_text": "AI-generated artistic interpretation of Aabenraa harbour at night, with merchant houses along a calm fjord",
+  "description": "From the quay, Aabenraa harbour is an open fjord marina: a broad basin, pontoons, and moored boats, with the far shore low and open. It is overcast, about 12.2°C, and the quay is empty. This is the head of the fjord, not a narrow canal street. Lettering on the boats is not treated as real names.",
+  "alt_text": "AI-generated artistic interpretation of Aabenraa harbour at night, an open fjord marina with pontoons",
   "file_16x9": "Denmark/Aabenraa/dk-01-047-16x9.png",
   "file_4x5": "Denmark/Aabenraa/dk-01-047-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Aabenraa/dk-01-047-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "0ba8285b0a2739b8f383052764acff4f4fa935c32e4bc70f96921b9bb2691c1b",
-      "4x5": "b394529e2969db1fddaa1575a0c3ef542ac63ee21395a269ce82f9c4a84b5372"
+      "16x9": "d08d275082fb3aa55076f48eca09aecfb26972acdf42d159696d843aff85b5da",
+      "4x5": "3a33b38ca89a86eefddfcba4f12f9e7745efeaeb6be5da58b497ede3474fda45"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Aabenraa Harbour, Aabenraa",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Aabenraa Harbour canal at night: rows of colorful gabled merchants' houses on both banks, moored fishing boats, lamp reflections on the water; on-image caption 'Aabenraa Harbour, Aabenraa', scenario 25 September 2026 00:56 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:09:22 Europe/Copenhagen (unique), valid from 00:45, scenario inside the model hour; text-prompt-only provenance; no logos or marks; all five gates pass.",
-  "approved_at": "2026-09-26T01:21:06.931517+00:00",
-  "sha256_16x9": "574fa2eb3d69a35119b90900f14ae74a364d6435dc35706829f55ab4381524cb",
-  "sha256_4x5": "46c56948438afb227cd14e3ca1f79c3d7b17e5aaf3042103756eb8aaa7a8df3c"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "5440f0800fcbba9a65c2ae485ecd9ee6b852d8e2b2607897ab3361274212ad6e",
+  "sha256_4x5": "918dced3247a4cda6056eb1f8050e5b233b1461041c1e64ef931248527386652",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

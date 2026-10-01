@@ -6,8 +6,8 @@
   "caption": "Sorø Abbey Church, Sorø",
   "scenario_label": "25 September 2026 · 02:16 Europe/Copenhagen",
   "composition": "Brick abbey church and a ridge spire beside the lake · AI-generated artistic interpretation",
-  "description": "Sorø Abbey Church is a long red-brick cruciform building with round-arched windows and one slender ridge spire, standing by the dark lake. The night is overcast, about 13.8°C, with trees still in leaf and a few warm windows. A pale academy wing sits to the side and is not the main mass. The grounds are empty.",
-  "alt_text": "AI-generated artistic interpretation of Sorø Abbey Church at night, a brick church and ridge spire beside the lake",
+  "description": "Sorø Abbey Church is a long red-brick cruciform building with round-arched windows, round-arch friezes, and one slender ridge spire, standing by the dark lake. The night is overcast, about 13.8°C, with trees still in leaf and a few warm windows. A pale academy wing sits to the side and is not the main mass. The grounds are empty.",
+  "alt_text": "AI-generated artistic interpretation of Sorø Abbey Church at night, a brick church with round-arched windows and a ridge spire beside the lake",
   "file_16x9": "Denmark/Sorø/dk-01-101-16x9.png",
   "file_4x5": "Denmark/Sorø/dk-01-101-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Sorø/dk-01-101-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "7b274b567e7f20274bb5f2c61e37e31aa535e67655db41489cb5c280834475c6",
-      "4x5": "e9173aea6a0ecbc661682a12c509a90264856f1aedbdd24d15e95c882bee3c3c"
+      "16x9": "51b40a75ed1d81785d3ce4c362ef7ecdafdf936c9ad1376e23f9940de3565284",
+      "4x5": "9011ae4219f099ca4260ac8589ead7b06ad0b8033e9b47d09f3277b73f461420"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Sorø Abbey Church, Sorø",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Night view of Sorø Abbey Church: the large red-brick abbey church with stepped gables and a central spire, windows lit from within, standing beside a lake with parkland around. Gate 1: plausible lakeside viewpoint matching the caption. Gate 2: masters exactly 1920x1080 and 864x1080; on-image caption 'Sorø Abbey Church, Sorø', scenario '25 September 2026 · 02:16 Europe/Copenhagen', AI disclosure and curly-apostrophe signature all legible; scenario inside cited model-valid hour 02:00–02:59, weather retrieved 25 September 2026 23:19:59 Europe/Copenhagen (Open-Meteo, verified unique repo-wide, no shared retrieval). Gate 3: text-prompt-only, no photographic inputs per builder note. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers. Art. 50 metadata verified on both masters.",
-  "approved_at": "2026-09-26T04:25:35.751214+00:00",
-  "sha256_16x9": "112e0e1fa0d24af01ac632cbf6ef2c6dbeb088b3e85f243798ef94da42884efc",
-  "sha256_4x5": "59adae395de84d9aa3fb21b3ada44a92666bb72e27c4861cf5231f8b1d486b48"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "047fe501127b205f77b14464304e8d22a5cebf9948c5d56ae4a192fdf82cd467",
+  "sha256_4x5": "bcaddba8620f9df78dcfc898ac3a3fc1c1a600a46765bfdd68c40b273a1fbd8d",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }
