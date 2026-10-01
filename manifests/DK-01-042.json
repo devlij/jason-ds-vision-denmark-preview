@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Dybbøl/dk-01-042-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "b1548ffe6491aca25af8f4eb9eb20fee7430b89a480aabaeac44601dbdc8e0a0",
-      "4x5": "55ad87f249cf0c92b482d1efcceece6fb5f7f2738d44387084695e40f12aec8d"
+      "16x9": "4948c2392398fa9e9c782936ba9b6a6a15b0ed12e581d2609c3488845170eb85",
+      "4x5": "6d5b7c5e80f5d90c09ee0e481e0592454bfbb176c6c17d5880ac1cef99a17c17"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Dybbøl Mill, Dybbøl",
@@ -42,10 +42,17 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1 PASS: night — white gallery-stage windmill on a grassy hill above dark water, town lights across the water — matches Dybbøl Mill's landmark form. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Dybbøl Mill, Dybbøl', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:09:12 Europe/Copenhagen (HTTP Date 21:09:12 GMT), valid 00:45 step, is_day 0, overcast 12.5C 92% cloud, wind 14.0 km/h — unique to the second; scenario inside 00:00-00:59. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
-  "approved_at": "2026-09-26T00:30:03.171798+00:00",
-  "sha256_16x9": "e7571dcc297a30aa04fb86f452fd2717740e478913c793f6aa704dee88a792a1",
-  "sha256_4x5": "b3406b33968bf257d2e468d97683095e7c7da01f926f4a77ce130d9acc1dccad"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "05accef27799391f9790539285c7ff788eec87f52a0423b2c8313c8c29f30d16",
+  "sha256_4x5": "47ffd558a592bc006159e0f17466feab03315073c2bb40f1ca59163d97650eb5",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "pack": "severity-2",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }
