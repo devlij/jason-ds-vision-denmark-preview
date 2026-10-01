@@ -6,8 +6,8 @@
   "caption": "Frederikshavn Harbour, Frederikshavn",
   "scenario_label": "25 September 2026 · 01:24 Europe/Copenhagen",
   "composition": "Round powder tower beside the harbour basin · AI-generated artistic interpretation",
-  "description": "From the quay, Frederikshavn harbour is a dark basin of moored boats, and a round brick powder tower with a conical roof stands at the water. The night is overcast, about 13.9°C, and the quay is empty. Names on the boats are not treated as real names.",
-  "alt_text": "AI-generated artistic interpretation of Frederikshavn harbour at night, with the round powder tower beside the basin",
+  "description": "From the quay, Frederikshavn harbour is a dark basin of moored boats, and the stocky whitewashed round powder tower with a red-tiled conical roof stands at the water. The night is overcast, about 13.9°C, and the quay is empty. Names on the boats are not treated as real names.",
+  "alt_text": "AI-generated artistic interpretation of Frederikshavn harbour at night, with the whitewashed powder tower and red-tiled roof",
   "file_16x9": "Denmark/Frederikshavn/dk-01-063-16x9.png",
   "file_4x5": "Denmark/Frederikshavn/dk-01-063-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Frederikshavn/dk-01-063-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "0fdb3a51e61b1d4393fe822b4954c7d2f816be95ae987e2c40f34d53407e8dc2",
-      "4x5": "997de2069f7f2c04a0a3b113f286e77dcbe4ef8756f55b6a07c2d6f352ecacd9"
+      "16x9": "cce3348e44febd548fb040d7ccb4f137c32921c9926b42bfedda4f6505c460c5",
+      "4x5": "b3a7476b2a8f43672d13b43d666e5e504a4f338e19b20f123b3ca8e2218032df"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Frederikshavn Harbour, Frederikshavn",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: night harbour with lit lamp posts reflected in the water, moored fishing boats and the lit round Krudttårnet tower — recognizably the captioned site from a plausible tourist viewpoint, clean framing, no artifacts. Gate 2: masters exact 1920x1080 / 864x1080; on-image 'Frederikshavn Harbour, Frederikshavn', 'Scenario: 25 September 2026 · 01:24 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the gradient scrim; Art. 50 PNG text chunks (Title iTXt, Description tEXt, Copyright iTXt, Software tEXt, Comment tEXt, Denmark description) verified by chunk read. Open-Meteo retrieved 25 September 2026 23:18:39 Europe/Copenhagen, valid 01:15 step, model-valid hour 01:00–01:59 contains the scenario hour; timestamp unique to this scene (per-scene sequential series 23:18:37–51, spot-checked neighbours and rework notes — no sharing). Gate 3: text-prompt-only per the note, no photographic reference pixels. Gate 4: no people, no logos, no readable signage. Gate 5: all gates clear.",
-  "approved_at": "2026-09-26T02:24:40.547516+00:00",
-  "sha256_16x9": "10fc3c318ce95e74cd5460e0421bf1d442e6ab7246f64d716a2459a19052c056",
-  "sha256_4x5": "a46aed8ab51b51980decad62b7bd68e3188520192e1c3dbce81f75f509a09f94"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "14fa0ae1ee371181dc207875fcdd44a414c88db1aee791eebb64b0f683197499",
+  "sha256_4x5": "3ddd62a08125da7ba5ae1bf52fbdb4cc226ed057f5ae6efbb238b10f6d79bbe7",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }

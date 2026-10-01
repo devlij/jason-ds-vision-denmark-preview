@@ -6,18 +6,18 @@
   "caption": "Christiansborg Palace, Copenhagen",
   "scenario_label": "25 September 2026 · 00:30 Europe/Copenhagen",
   "composition": "Copper spire and stone wings across the canal · AI-generated artistic interpretation",
-  "description": "From the canal by the Marble Bridge, Christiansborg's pale stone wings and tall copper-green spire stand over the dark water. A few lamps break on the canal. The night is mainly clear, about 14.0°C, and the quay is empty. This is the exterior only. Whether a flag was flying was not verified, so no large flag is claimed.",
-  "alt_text": "AI-generated artistic interpretation of Christiansborg Palace in Copenhagen at night, seen across the canal",
+  "description": "From the canal by the Marble Bridge, Christiansborg's pale stone wings and tall copper-green spire stand over the dark water, the spire ending in three stacked copper crowns. A few lamps break on the canal. The night is mainly clear, about 14.0°C, and the quay is empty. This is the exterior only. Whether a flag was flying was not verified, so no large flag is claimed.",
+  "alt_text": "AI-generated artistic interpretation of Christiansborg Palace in Copenhagen at night, the copper spire ending in three crowns",
   "file_16x9": "Denmark/Copenhagen/dk-01-019-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-019-4x5.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1 PASS: Christiansborg Palace at night from across the canal — lit palace facade with the tall spire tower centered, lamp reflections on the water, Marmorbroen context, clean framing. Gate 2 PASS: masters exact 1920x1080/864x1080; on-image 'Christiansborg Palace, Copenhagen', scenario '25 September 2026 · 00:30 Europe/Copenhagen', AI disclosure and 'Jason D's Vision' curly signature on bottom gradient, legible; weather retrieved 25 September 2026 23:08:27 Europe/Copenhagen for 55.6763,12.5794 (separate request, unique repo-wide), model-valid hour 00:00–00:59 and 00:30 model step containing scenario 00:30, is_day 0. Gate 3 PASS: text-prompt-only, no photographic reference pixels per note. Gate 4 noted: no people or logos — documented only. Art. 50 chunks present.",
-  "approved_at": "2026-09-25T22:28:53.752557+00:00",
-  "sha256_16x9": "8e53da998f26d850cd10df4c87ea168a6f582b4f84c4d565f90568da29d189cf",
-  "sha256_4x5": "a7b8d07b137feb86b5493fb994dc877c6bd47a47a4137739964930dcb30e6a0b",
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "772ae0b1d5e12d19bc7c455675cfd265862288e6adb2507fb5fc2f922061b45e",
+  "sha256_4x5": "54d07e5cf679d643ea90f949d002ffe48fde60a5386350b73374b28cd08893a4",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-019",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-019-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
@@ -37,8 +37,8 @@
       "4x5": "library/world/Denmark/Copenhagen/dk-01-019-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "fa0c7ef2ee9c967c069e7ec7526b868e1b21ffa3b550e9e40b69fd3f77ce89f4",
-      "4x5": "deb7dc914ddc96ed48f2075c2b898484747d0107a1151b58afc4b17d99634882"
+      "16x9": "220b2184f42b7bf5a495b710dcd024998bf9677b1b82590ac536f5c7d73ac58c",
+      "4x5": "1c0e8b4e22ddae564d6712b4725c45bfecd167b6ee005872bcde27cb5cff5ffe"
     },
     "created_date": "2026-09-25",
     "on_image_caption": "Christiansborg Palace, Copenhagen",
@@ -47,5 +47,11 @@
     "on_image_marking": "☀ Daylight variant · derived from the night interpretation",
     "derivative_disclosure": "Derivative of the approved night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
+  },
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
   }
 }

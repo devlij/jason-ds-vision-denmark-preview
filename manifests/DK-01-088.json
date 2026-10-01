@@ -6,8 +6,8 @@
   "caption": "Holbæk Harbour, Holbæk",
   "scenario_label": "25 September 2026 · 02:00 Europe/Copenhagen",
   "composition": "Wooden ships and the white bark-pot chimney · AI-generated artistic interpretation",
-  "description": "Holbæk's old harbour holds several wooden ships with bare masts on the dark fjord, and a tall white square chimney stands on the quay. The night is overcast, about 14.3°C, with quay lamps and no rain. The quay is empty, and no ship name is readable.",
-  "alt_text": "AI-generated artistic interpretation of Holbæk old harbour at night, wooden ships and a white chimney",
+  "description": "Holbæk's old harbour holds several wooden ships with bare masts on the dark fjord, and the white angular Fjordtårn residential tower stands by the water. The night is overcast, about 14.3°C, with quay lamps and no rain. The quay is empty, and no ship name is readable.",
+  "alt_text": "AI-generated artistic interpretation of Holbæk old harbour at night, wooden ships and the white Fjordtårn",
   "file_16x9": "Denmark/Holbæk/dk-01-088-16x9.png",
   "file_4x5": "Denmark/Holbæk/dk-01-088-4x5.png",
   "license_badge": "Free · no credit needed",
@@ -31,8 +31,8 @@
       "4x5": "library/world/Denmark/Holbæk/dk-01-088-daylight-4x5.png"
     },
     "sha256": {
-      "16x9": "463b00d46c67805bc382295f910300278cb5ec61061219cd6d760ec6f47fce16",
-      "4x5": "8ac2a0c4801de5f16ff1c64536210dd337f3ee0cdd177043dcd70417d461c819"
+      "16x9": "241a3abeed8e6a49eef905ef129b67fd7ed2f90d8eb40f9486961ded8ded6357",
+      "4x5": "3efba0d2064a655eecfd5cbd1af031238ffe336d43a8ffbe2307578e34ea44d5"
     },
     "created_date": "2026-09-26",
     "on_image_caption": "Holbæk Harbour, Holbæk",
@@ -42,10 +42,16 @@
     "derivative_disclosure": "Derivative of the night interpretation of this same viewpoint. Not an independently modelled weather or lighting scenario. No weather claim. No scenario timestamp on the variant.",
     "note": "AI-generated daylight re-interpretation derived from the night master of the same viewpoint and composition. Not a new scene. Architecture and landscape preserved; lighting only was changed from night to daylight. No weather evidence invented. The variant image carries no weather claim and no scenario timestamp. The scene scenario_label remains the night scene's label and is not a daylight weather assertion."
   },
-  "approval_status": "Approved",
-  "qc_status": "Approved · Cosmo QC 5/5 · Night",
-  "approval_basis": "Gate 1: old wooden warehouses and a tall floodlit white tower on a quay with vintage sailing vessels moored alongside, town lights across the water - Holbaek Harbour's historic waterfront at night, clean framing. Gate 2: exact masters; signature/caption 'Holbæk Harbour, Holbæk'/scenario '25 September 2026 · 02:00 Europe/Copenhagen'/disclosure verified; scenario inside model hour 02:00-02:59; overcast night matches 100% cloud/14.2C; retrieval 23:19:04 unique repo-wide. Art.50 metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, no logos - documented only.",
-  "approved_at": "2026-09-26T03:23:14.994656+00:00",
-  "sha256_16x9": "1f63c72806e3ac3fa219dbcf6a8741a7a691e272b1681185e472cfbc6e8e7223",
-  "sha256_4x5": "b1abe22bf12b4d1128108a4ed61bf86e3abd0e6b1623ca102ec11ab184d558b3"
+  "approval_status": "Candidate",
+  "qc_status": "Candidate · awaiting Cosmo QC",
+  "approval_basis": "Candidate rework of the landmark defect recorded for wo-denmark-51-rework-2026-10-01. Masters replaced and plated to the 190px label bar. This note does not score Cosmo QC and does not claim approval.",
+  "approved_at": null,
+  "sha256_16x9": "3c2980e9f6da23eff22146d1dd87282814c16f5277f48459d6184a2ac53e6229",
+  "sha256_4x5": "1cd4848abe4dce9257a48adf0a023956b24476d8a39154fdd0bd93556cf7ed96",
+  "candidate_rework": {
+    "at": "2026-10-01",
+    "work_order": "wo-denmark-51-rework-2026-10-01",
+    "status": "Candidate",
+    "note": "Landmark-defining element corrected. Not self-approved. Awaiting Cosmo QC."
+  }
 }
