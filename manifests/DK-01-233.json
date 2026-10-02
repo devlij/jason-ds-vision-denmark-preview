@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Lønstrup beach at night, boats under a cliff",
   "file_16x9": "Denmark/Lønstrup/dk-01-233-16x9.png",
   "file_4x5": "Denmark/Lønstrup/dk-01-233-4x5.png",
+  "file_9x16": "Denmark/Lønstrup/dk-01-233-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: steep grass-and-clay cliff with a row of houses along its crest, two small fishing boats hauled onto the dark sand, dark choppy sea — no lighthouse and no standing church, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Lønstrup Beach, Lønstrup', scenario '25 September 2026 · 06:22 Europe/Copenhagen', 'Jason D's Vision' signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:10:23 for this scene's own coords, scenario inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable names. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:23:20.588291+00:00",
   "sha256_16x9": "ec240da286d61536d11b7f84713c4f38be5c78e48074a1611302e5395144c986",
-  "sha256_4x5": "069487696b738b758980cd66e7b0b154c2d3d84ef22b050f5775adc4664505d1"
+  "sha256_4x5": "069487696b738b758980cd66e7b0b154c2d3d84ef22b050f5775adc4664505d1",
+  "sha256_9x16": "710f01c382cdd126632a9928b133176256b29599b47ab65c6baf5e716cff8cb9"
 }

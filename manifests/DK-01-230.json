@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Hirtshals harbour at night, a mole and fishing boats",
   "file_16x9": "Denmark/Hirtshals/dk-01-230-16x9.png",
   "file_4x5": "Denmark/Hirtshals/dk-01-230-4x5.png",
+  "file_9x16": "Denmark/Hirtshals/dk-01-230-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the ferry moored at the concrete pier with fishing boats, harbour lamps and dark water; plausible tourist viewpoint for 'Hirtshals Harbour, Hirtshals', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Hirtshals Harbour, Hirtshals', 'Scenario: 25 September 2026 · 06:22 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-230 claims one Open-Meteo retrieval at 25 September 2026 06:10:20 Europe/Copenhagen valid 25 September 2026 06:00 Europe/Copenhagen — scenario 06:22 falls inside the cited 06:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:25:42.728372+00:00",
   "sha256_16x9": "dacc0eb25596d587ebe2fb8ef79a9d7fb927559d820ef24d74604967b6691161",
-  "sha256_4x5": "e8bcb95d08aedd0981cc698f0dcf1159be5d9f8ac170cd4a97f1adecdf4f333b"
+  "sha256_4x5": "e8bcb95d08aedd0981cc698f0dcf1159be5d9f8ac170cd4a97f1adecdf4f333b",
+  "sha256_9x16": "7ea06665df20084d8e45dec7470633c4f4987b147a594ffc05b49571a9d2c226"
 }

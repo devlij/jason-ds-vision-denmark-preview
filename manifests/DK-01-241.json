@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Rønne harbour at night, red warehouses and fishing boats under cloud",
   "file_16x9": "Denmark/Rønne/dk-01-241-16x9.png",
   "file_4x5": "Denmark/Rønne/dk-01-241-4x5.png",
+  "file_9x16": "Denmark/Rønne/dk-01-241-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Rønne harbour basin with fishing boats in the foreground, a large plain white ferry at the quay, low red and ochre warehouses with town roofs rising behind, quay lamps reflecting on dark water — no cobbled half-timber lane in frame, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Rønne Harbour, Rønne', scenario '25 September 2026 · 06:35 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:31:56 for this scene's own coords, scenario after the 06:30 model step inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable ferry name. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:25:42.908229+00:00",
   "sha256_16x9": "188e494b7f34e611697b1acb2b5707260a4b9c7b109401c7ae8aed27e7da5a07",
-  "sha256_4x5": "f76b9a3aff805ab9b75e0f5e2d00ca66857e5a5b972500000136833259d25f2e"
+  "sha256_4x5": "f76b9a3aff805ab9b75e0f5e2d00ca66857e5a5b972500000136833259d25f2e",
+  "sha256_9x16": "f57bd63651dfee8afecedeed1adc81dabc0d3292c8fb2d3a4534a78d9680fa30"
 }

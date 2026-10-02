@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Krudttårnet in Frederikshavn at night, a round brick tower",
   "file_16x9": "Denmark/Frederikshavn/dk-01-228-16x9.png",
   "file_4x5": "Denmark/Frederikshavn/dk-01-228-4x5.png",
+  "file_9x16": "Denmark/Frederikshavn/dk-01-228-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the round brick powder tower on its grassy mound under two floodlights; plausible tourist viewpoint for 'Krudttårnet, Frederikshavn', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Krudttårnet, Frederikshavn', 'Scenario: 25 September 2026 · 06:22 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-228 claims one Open-Meteo retrieval at 25 September 2026 06:10:18 Europe/Copenhagen valid 25 September 2026 06:00 Europe/Copenhagen — scenario 06:22 falls inside the cited 06:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:25:33.143794+00:00",
   "sha256_16x9": "3f1d382a1c3a468b7f5970119413ae0f820430bbf131780e099a25f0146052dd",
-  "sha256_4x5": "474dddaab3730265b7325bc3bb1b571ed2425dcb46d77d5f9ca98ae3a7109378"
+  "sha256_4x5": "474dddaab3730265b7325bc3bb1b571ed2425dcb46d77d5f9ca98ae3a7109378",
+  "sha256_9x16": "b2b6c67e01e925ca499e9f8b1f1578f40a904c403a79189156484a84452b79db"
 }

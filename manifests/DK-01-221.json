@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Nordby harbour on Fanø at night, a quay and small boats",
   "file_16x9": "Denmark/Nordby/dk-01-221-16x9.png",
   "file_4x5": "Denmark/Nordby/dk-01-221-4x5.png",
+  "file_9x16": "Denmark/Nordby/dk-01-221-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Approved 5/5. Gate 1 visual pass: night master read directly — the moonlit stone quay with three wooden rowboats, brick fisherman's houses with warm lamps and a full moon over the sea; plausible tourist viewpoint for 'Nordby Harbour, Nordby', clean framing, no artifacts or misconfiguration. Gate 2 technical pass: 16:9 (1920x1080) and 4:5 (864x1080) masters exact; bottom-left caption 'Nordby Harbour, Nordby', 'Scenario: 25 September 2026 · 05:56 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' legible on the scrim; bottom-right signature 'Jason D's Vision' with curly apostrophe. Weather: the builder's note for DK-01-221 claims one Open-Meteo retrieval at 25 September 2026 05:43:29 Europe/Copenhagen valid 25 September 2026 05:30 Europe/Copenhagen — scenario 05:56 falls inside the cited 05:00 model-valid hour, and I grepped every approvals note in the Denmark repo: that to-the-second timestamp is cited only for this scene, no shared retrieval. Gate 3 originality: notes document text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP documented only: no visible people, logos, or recognizable private property in the masters. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T12:24:59.212578+00:00",
   "sha256_16x9": "2ffdf0553b4435820f2598eb927c417e5299fa05eda4c7587a5e721df2ed1cd4",
-  "sha256_4x5": "805e550af2419b2731ea930cc95013dfb7c82af8aa759e5fe859189e4452a914"
+  "sha256_4x5": "805e550af2419b2731ea930cc95013dfb7c82af8aa759e5fe859189e4452a914",
+  "sha256_9x16": "82f899dcedd09d899ca1f1c2eaa91169798397ea0e96e5706a9616fc8214e992"
 }

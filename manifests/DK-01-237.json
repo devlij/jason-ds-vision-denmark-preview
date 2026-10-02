@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Struer harbour at night, small boats on the Limfjord",
   "file_16x9": "Denmark/Struer/dk-01-237-16x9.png",
   "file_4x5": "Denmark/Struer/dk-01-237-4x5.png",
+  "file_9x16": "Denmark/Struer/dk-01-237-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: small harbour basin at Struer with moored motorboats, plain quay foreground, low brick sheds along the waterfront, town lights beyond — ordinary working harbour, no container cranes, matching the anchors. Gate 2: 1920x1080 and 864x1080 verified; on-image caption 'Struer Harbour, Struer', scenario '25 September 2026 · 06:22 Europe/Copenhagen', signature and AI-disclosure legible; weather retrieved 25 Sep 2026 06:10:28 for this scene's own coords, scenario inside the 06:00–06:59 model hour, retrieval unique to the second. Gate 3: note documents text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable names. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T13:24:31.094645+00:00",
   "sha256_16x9": "c1cf0cfe190a0fb4de97de360bd29abab9bb785315186f00f6eb418f4734ff29",
-  "sha256_4x5": "65a324d59473153f2320e3f9d0d5cd1f6d31f740646b6558cbf9d47c35ded6fd"
+  "sha256_4x5": "65a324d59473153f2320e3f9d0d5cd1f6d31f740646b6558cbf9d47c35ded6fd",
+  "sha256_9x16": "bca17edbec81eb8e086973850ba47408120fdf9d7a2b6b7c970f183f33bfb1d0"
 }
