@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Haderslev Cathedral at night, a brick church with flying buttresses and no tower",
   "file_16x9": "Denmark/Haderslev/dk-01-046-16x9.png",
   "file_4x5": "Denmark/Haderslev/dk-01-046-4x5.png",
+  "file_9x16": "Denmark/Haderslev/dk-01-046-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Haderslev Cathedral at night: brick Gothic nave with tall lancet windows, stone buttresses and a lit apse, viewed across the dark plaza; on-image caption 'Haderslev Cathedral, Haderslev' with scenario 25 September 2026 00:56 Europe/Copenhagen, curly-apostrophe 'Jason D’s Vision' signature and AI disclosure verified on-image; weather retrieved 2026-09-25T23:09:20 Europe/Copenhagen (unique to this scene), valid from 00:45, scenario 00:56 inside the model hour; text-prompt-only provenance, no photographic inputs; no logos or featured marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:01.217261+00:00",
   "sha256_16x9": "e3b216953c289b74bfee9ed24137ff54c7e08eab29f79ea6e23a509e7ed414ff",
-  "sha256_4x5": "4e4b01fd56a24384f1a5ad569874f048149a7556add4d9dc0d9c0acd0a98518d"
+  "sha256_4x5": "4e4b01fd56a24384f1a5ad569874f048149a7556add4d9dc0d9c0acd0a98518d",
+  "sha256_9x16": "446603c7f4b9a31cf36deeeae10d44456657c292156f9376c3f278567a023209"
 }

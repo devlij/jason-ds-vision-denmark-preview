@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Utzon Center exterior in Aalborg at night, curved roofs beside the fjord",
   "file_16x9": "Denmark/Aalborg/dk-01-058-16x9.png",
   "file_4x5": "Denmark/Aalborg/dk-01-058-4x5.png",
+  "file_9x16": "Denmark/Aalborg/dk-01-058-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Utzon Center at night: the white concrete sail-shell complex on the Aalborg waterfront, lit interiors glowing through the shells; on-image caption 'Utzon Center, Aalborg', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:34 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no marks; all five gates pass.",
   "approved_at": "2026-09-26T01:22:03.518549+00:00",
   "sha256_16x9": "3f5ccba4c0791bd45f92751e79ac431735b77624ad707928ad8d6e2f515bbbd8",
-  "sha256_4x5": "644118244f2ed19c391eda8ece44842de63a685bbf789f15de56b7e4091eaaa4"
+  "sha256_4x5": "644118244f2ed19c391eda8ece44842de63a685bbf789f15de56b7e4091eaaa4",
+  "sha256_9x16": "11255a33e7ea651926e80cc25bbfe3729761b46852622a834bd0b1dac5f729b9"
 }

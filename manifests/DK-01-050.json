@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the paddle steamer Hjejlen moored at Silkeborg harbour at night",
   "file_16x9": "Denmark/Silkeborg/dk-01-050-16x9.png",
   "file_4x5": "Denmark/Silkeborg/dk-01-050-4x5.png",
+  "file_9x16": "Denmark/Silkeborg/dk-01-050-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Hjejlen paddle steamer at night: the white side-wheel steamer moored at a wooden pier on still water, lakeside houses with lamps behind; on-image caption 'Hjejlen, Silkeborg', scenario 25 September 2026 01:23 Europe/Copenhagen, curly-apostrophe signature and disclosure verified; weather retrieved 2026-09-25T23:18:26 Europe/Copenhagen (unique), valid from 01:15, scenario inside the model hour; text-prompt-only provenance; no readable boat name or marks; all five gates pass.",
   "approved_at": "2026-09-26T01:21:21.823999+00:00",
   "sha256_16x9": "80b8d87f4c90065c2f5674a0ca4b6b65f9d6e4465911f5bae3c31da714a98341",
-  "sha256_4x5": "19883a6f02ad21c10deeb68679a0acef1a50337b0e55304128fe2e7c4cae70bb"
+  "sha256_4x5": "19883a6f02ad21c10deeb68679a0acef1a50337b0e55304128fe2e7c4cae70bb",
+  "sha256_9x16": "4bd1b76b70542050a49be43ad4dbe708f4384a47fe9e5afac745ae08e7ea1a57"
 }
