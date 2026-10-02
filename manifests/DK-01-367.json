@@ -1,0 +1,23 @@
+{
+  "entry_id": "DK-01-367",
+  "country": "Denmark",
+  "region": "Central Jutland",
+  "city": "Aarhus",
+  "category": "christmas",
+  "caption": "Christmas market, Aarhus",
+  "scenario_label": "13 December 2026 · 17:55 Europe/Copenhagen",
+  "composition": "Aarhus Cathedral above Christmas huts on Store Torv · AI-generated artistic interpretation",
+  "description": "Store Torv is empty in front of Aarhus Cathedral. One tall red-brick Gothic west tower rises to a slender dark spire, with the long brick nave beside it and warm light in the lancet windows. Wooden Christmas huts and a single lit spruce stand on the cobbles, with a thin snow dusting. The sky is overcast. The cold, the cloud, and the light dusting are a seasonal artistic interpretation of an evening, about 2.7°C, not a December forecast. No readable sign.",
+  "alt_text": "AI-generated artistic interpretation of a Christmas market on Store Torv in Aarhus, with the cathedral tower above the huts",
+  "file_16x9": "Denmark/Aarhus/dk-01-367-16x9.png",
+  "file_4x5": "Denmark/Aarhus/dk-01-367-4x5.png",
+  "file_9x16": "Denmark/Aarhus/dk-01-367-9x16.png",
+  "master_sha256": {
+    "16x9": "5865eff54c259a88b893f563cd80b728a069e97907677e9f5ecbc4a4330e073c",
+    "4x5": "61cef2cc8f49919710ab11fd6f71df14ee07871f5fe6f0a4ed070a2732390989",
+    "9x16": "a4d872c57cfa8e942aba1c0e380facf1f36984fe19a2f18cf25711752bc6acc9"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "approval_status": "Candidate"
+}
