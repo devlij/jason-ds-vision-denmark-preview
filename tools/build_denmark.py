@@ -816,6 +816,7 @@ PAGE = r"""<!DOCTYPE html>
     .country-switch a:hover { text-decoration: underline; }
     .country-switch [aria-current="page"] { color: var(--text); font-weight: 600; }
     .country-switch .sep { margin: 0 0.45rem; color: var(--line); }
+    .country-switch .home-link{font-weight:700}
     .sub { color: var(--muted); margin: 0 0 1.5rem; }
     .promise h2, #license h2 { font-size: 1.2rem; margin-top: 2rem; }
     .promise p, #license p { color: var(--muted); max-width: 70ch; }
@@ -917,6 +918,10 @@ PAGE = r"""<!DOCTYPE html>
     .flag-chip.flag-nl{background:linear-gradient(to bottom,#AE1C28 0 33.34%,#fff 0 66.67%,#21468B 0)}
     .flag-chip.flag-ch{background:linear-gradient(#fff,#fff) center/45% 22% no-repeat,linear-gradient(#fff,#fff) center/22% 65% no-repeat,#DA291C}
     .flag-chip.flag-dk{background:linear-gradient(to bottom,transparent 38%,#fff 38%,#fff 62%,transparent 62%),linear-gradient(to right,transparent 28%,#fff 28%,#fff 44%,transparent 44%),#C8102E}.flag-chip.flag-no,.flag-no{background:linear-gradient(to bottom,transparent 35%,#00205B 35%,#00205B 65%,transparent 65%),linear-gradient(to bottom,transparent 25%,#fff 25%,#fff 75%,transparent 75%),linear-gradient(to right,transparent 25%,#00205B 25%,#00205B 45%,transparent 45%),linear-gradient(to right,transparent 15%,#fff 15%,#fff 55%,transparent 55%),#BA0C2F}
+    .flag-chip.flag-fi{background:linear-gradient(to bottom,transparent 40%,#002F6C 40%,#002F6C 60%,transparent 60%),linear-gradient(to right,transparent 28%,#002F6C 28%,#002F6C 44%,transparent 44%),#fff}
+    .flag-chip.flag-se{background:linear-gradient(to bottom,transparent 40%,#FECC02 40%,#FECC02 60%,transparent 60%),linear-gradient(to right,transparent 28%,#FECC02 28%,#FECC02 44%,transparent 44%),#006AA7}
+    .flag-chip.flag-ie{background:linear-gradient(to right,#169B62 0 33.34%,#fff 0 66.67%,#FF883E 0)}
+    .flag-chip.flag-gb{background:linear-gradient(to bottom,transparent 44%,#C8102E 44%,#C8102E 56%,transparent 56%),linear-gradient(to right,transparent 46%,#C8102E 46%,#C8102E 54%,transparent 54%),linear-gradient(to bottom,transparent 40%,#fff 40%,#fff 60%,transparent 60%),linear-gradient(to right,transparent 42%,#fff 42%,#fff 58%,transparent 58%),#012169}
     .lb{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;background:rgba(13,18,24,.93)}
 .lb.open{display:flex}
 .lb figure{margin:0;max-width:94vw;display:flex;flex-direction:column;align-items:center}
@@ -963,20 +968,30 @@ PAGE = r"""<!DOCTYPE html>
     <p class="pointer">Every image is free to use — no credit required. See <a href="#license">license</a> below.</p>
     <h1><span class="flag" aria-hidden="true">DK_SVG</span>Jason D’s Vision — Denmark</h1>
     <p class="qc-count" id="qc-count"></p>
-    <nav class="country-switch" aria-label="Country galleries">
+    <nav class="country-switch" aria-label="Country galleries"><a class="home-link" href="https://jdvision.org/">&#8962; Home</a><span class="sep" aria-hidden="true">|</span>
       <a href="https://germany.jdvision.org/"><span class="flag-chip flag-de" aria-hidden="true"></span>Germany</a>
       <span class="sep" aria-hidden="true">|</span>
       <a href="https://italy.jdvision.org/"><span class="flag-chip flag-it" aria-hidden="true"></span>Italy</a>
       <span class="sep" aria-hidden="true">|</span>
       <a href="https://france.jdvision.org/"><span class="flag-chip flag-fr" aria-hidden="true"></span>France</a>
       <span class="sep" aria-hidden="true">|</span>
-      <a href="https://greece.jdvision.org/"><span class="flag-chip flag-gr" aria-hidden="true"></span>Greece</a>
-      <span class="sep" aria-hidden="true">|</span>
       <a href="https://spain.jdvision.org/"><span class="flag-chip flag-es" aria-hidden="true"></span>Spain</a>
       <span class="sep" aria-hidden="true">|</span>
-      <a href="https://devlij.github.io/jason-ds-vision-norway-preview/"><span class="flag-chip flag-no" aria-hidden="true"></span>Norway</a>
+      <a href="https://greece.jdvision.org/"><span class="flag-chip flag-gr" aria-hidden="true"></span>Greece</a>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://norway.jdvision.org/"><span class="flag-chip flag-no" aria-hidden="true"></span>Norway</a>
       <span class="sep" aria-hidden="true">|</span>
       <span aria-current="page"><span class="flag-chip" aria-hidden="true">DK_SVG</span>Denmark</span>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://netherlands.jdvision.org/"><span class="flag-chip flag-nl" aria-hidden="true"></span>Netherlands</a>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://devlij.github.io/jason-ds-vision-finland-preview/"><span class="flag-chip flag-fi" aria-hidden="true"></span>Finland</a>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://sweden.jdvision.org/"><span class="flag-chip flag-se" aria-hidden="true"></span>Sweden</a>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://ireland.jdvision.org/"><span class="flag-chip flag-ie" aria-hidden="true"></span>Ireland</a>
+      <span class="sep" aria-hidden="true">|</span>
+      <a href="https://uk.jdvision.org/"><span class="flag-chip flag-gb" aria-hidden="true"></span>United Kingdom</a>
       <span class="sep" aria-hidden="true">|</span>
       <a href="https://devlij.github.io/jason-ds-vision-switzerland-preview/"><span class="flag-chip flag-ch" aria-hidden="true"></span>Switzerland</a>
     </nav>
@@ -1610,8 +1625,18 @@ def write_site(scenes: list) -> None:
         "https://france.jdvision.org/",
         "https://greece.jdvision.org/",
         "https://devlij.github.io/jason-ds-vision-switzerland-preview/",
-        "https://devlij.github.io/jason-ds-vision-norway-preview/",
+        "https://norway.jdvision.org/",
+        "https://netherlands.jdvision.org/",
+        "https://devlij.github.io/jason-ds-vision-finland-preview/",
+        "https://sweden.jdvision.org/",
+        "https://ireland.jdvision.org/",
+        "https://uk.jdvision.org/",
         "flag-no",
+        "flag-fi",
+        "flag-se",
+        "flag-ie",
+        "flag-gb",
+        "home-link",
         'id="license"',
         "Our promise to creators",
         "Download 16:9",
@@ -1653,6 +1678,23 @@ def write_site(scenes: list) -> None:
     for item in required:
         if item not in html:
             raise SystemExit(f"gallery missing {item}")
+    nav = html[html.find('<nav class="country-switch"'):html.find("</nav>")]
+    names = (
+        "Germany", "Italy", "France", "Spain", "Greece", "Norway", "Denmark",
+        "Netherlands", "Finland", "Sweden", "Ireland", "United Kingdom", "Switzerland",
+    )
+    positions = [nav.find(f">{name}<") for name in names]
+    if any(pos < 0 for pos in positions) or positions != sorted(positions):
+        raise SystemExit("country switcher is missing the shared gallery order")
+    if "Belgium" in nav or "Austria" in nav:
+        raise SystemExit("country switcher includes a gallery that is not live")
+    if "https://denmark.jdvision.org/" in nav or "jason-ds-vision-denmark-preview" in nav:
+        raise SystemExit("country switcher must not link this page to itself")
+    if "jason-ds-vision-norway-preview" in nav:
+        raise SystemExit("Norway still points at the preview host")
+    current = nav[nav.find('aria-current="page"'):nav.find('aria-current="page"') + 400]
+    if ">Denmark<" not in current or "<a " in current.split(">Denmark<", 1)[0]:
+        raise SystemExit("Denmark must be the current page, not a link")
     if "G-FPVHCRLKD2" in html:
         raise SystemExit("stale analytics id")
     if "\\u0001F50A" in html or "\\u0023F8" in html:
