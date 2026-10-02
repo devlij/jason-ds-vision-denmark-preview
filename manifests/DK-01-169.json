@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Ahlgade in Holbæk at night, a shopping street of town buildings",
   "file_16x9": "Denmark/Holbæk/dk-01-169-16x9.png",
   "file_4x5": "Denmark/Holbæk/dk-01-169-4x5.png",
+  "file_9x16": "Denmark/Holbæk/dk-01-169-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gates 1-5 PASS. G1: Ahlgade, Holbæk at night — straight old-town shopping street of two/three-storey plaster buildings, dark shop windows, cobbles, warm street lamps; clean framing, no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Ahlgade, Holbæk', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:28:55 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or readable signage (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:38.360459+00:00",
   "sha256_16x9": "d290c0de679780702b83e7d1e524ff35088f558d292b526c7fc4592e2c04315a",
-  "sha256_4x5": "9a0689003c6f27b777c714d923c7a9cf21f433a6e04b1dff94484f3d8d2c5cba"
+  "sha256_4x5": "9a0689003c6f27b777c714d923c7a9cf21f433a6e04b1dff94484f3d8d2c5cba",
+  "sha256_9x16": "d7efc5876e1c48cc3a7965767df081186266c97b8a0dbadf224ffad1aa4be760"
 }

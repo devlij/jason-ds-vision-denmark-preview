@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Hasle harbour at night, white chimneys beside the quay",
   "file_16x9": "Denmark/Hasle/dk-01-158-16x9.png",
   "file_4x5": "Denmark/Hasle/dk-01-158-4x5.png",
+  "file_9x16": "Denmark/Hasle/dk-01-158-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Hasle Harbour's long white smokehouse building with its five tall chimneys, fishing boats at the stone quay and lamp reflections on dark water — the Hasle rogeri landmark, anchors all present, no artifacts. Gate 2: on-image caption 'Hasle Harbour, Hasle', scenario '25 September 2026 · 03:10 Europe/Copenhagen', AI-generated disclosure and curly-apostrophe 'Jason D's Vision' signature exact and legible; masters 1920x1080 + 864x1080. Weather: per-scene Open-Meteo retrieval 25 September 2026 23:27:52 Europe/Copenhagen, valid hour 03:00-03:59, scenario inside it, unique repo-wide. Gate 3: text-prompt-only per note, no photographic inputs. Gate 4: no readable boat names or people visible; documented only, final commercial call Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T08:33:51.215710+00:00",
   "sha256_16x9": "5649faae690164558eeda6f2afec85aefd04ced71f2cbdd3edea39b50573da7e",
-  "sha256_4x5": "e694a112d5b686af9a7c3542a41c2c239789369e7e471c591ee3d7a6e33921f4"
+  "sha256_4x5": "e694a112d5b686af9a7c3542a41c2c239789369e7e471c591ee3d7a6e33921f4",
+  "sha256_9x16": "092c2939f00eaa3942a0a28699a2ae1e905c8193d00fa43665e26761a388a545"
 }

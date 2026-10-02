@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of a Dragør old-town lane at night, yellow cottages and cobbles",
   "file_16x9": "Denmark/Dragør/dk-01-165-16x9.png",
   "file_4x5": "Denmark/Dragør/dk-01-165-4x5.png",
+  "file_9x16": "Denmark/Dragør/dk-01-165-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gates 1-5 PASS. G1: Dragør Old Town lane at night — one-storey yellow and white limewashed cottages with red tile roofs on cobbles under warm street lamps; recognizable old-town character, no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Dragør Old Town, Dragør', scenario '25 September 2026 · 03:42 Europe/Copenhagen', AI disclosure and exact 'Jason D’s Vision' signature on-image and legible; own Open-Meteo retrieval 25 September 2026 23:28:49 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:18.141264+00:00",
   "sha256_16x9": "5d6e0d8e8c2eed7b6f637f7d493ef93af737413b3c7916623d10979d9acc8e93",
-  "sha256_4x5": "91edd2aeb7c3284254803e7b57a74b532a3b23fc65ca015306390d3028a2c92b"
+  "sha256_4x5": "91edd2aeb7c3284254803e7b57a74b532a3b23fc65ca015306390d3028a2c92b",
+  "sha256_9x16": "f3819c9b48f40179aa30ff04758ae83dcf025855574e269f2ef4c48c690c92b2"
 }

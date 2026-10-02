@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Stege harbour at night, boats and low houses on Møn",
   "file_16x9": "Denmark/Stege/dk-01-173-16x9.png",
   "file_4x5": "Denmark/Stege/dk-01-173-4x5.png",
+  "file_9x16": "Denmark/Stege/dk-01-173-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gates 1-5 PASS. G1: Stege harbour at night — modest basin of small motorboats, stone quay, low tiled-roof houses behind, warm lamps on the water; no chalk cliff, per the card description; no artifacts. G2: 1920x1080 + 864x1080 exact; caption 'Stege Harbour, Stege', scenario '25 September 2026 · 03:42 Europe/Copenhagen', disclosure and exact 'Jason D’s Vision' signature legible; own Open-Meteo retrieval 25 September 2026 23:29:09 Europe/Copenhagen, unique across all 365 Denmark notes, scenario hour inside cited model-valid hour. G3: text-prompt-only per note. G4: no visible people or logos (documented only). G5: no blockers.",
   "approved_at": "2026-09-26T09:26:56.784620+00:00",
   "sha256_16x9": "77cf11a73832286f8dc335fcfe7e2504a54bb0753b405b8832280529a56a3f8e",
-  "sha256_4x5": "1a04e2d5f7e9bdcb7b2bf96ac4c5c34712483ae8e551feba3deee02d991aea1f"
+  "sha256_4x5": "1a04e2d5f7e9bdcb7b2bf96ac4c5c34712483ae8e551feba3deee02d991aea1f",
+  "sha256_9x16": "01bb6e959de1b95b67d266418214a3e3d55c4ebeb61708b44365dabd161381d1"
 }
