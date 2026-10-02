@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Aarhus Lystbådehavn at night, sailboat masts along a pier",
   "file_16x9": "Denmark/Aarhus/dk-01-209-16x9.png",
   "file_4x5": "Denmark/Aarhus/dk-01-209-4x5.png",
+  "file_9x16": "Denmark/Aarhus/dk-01-209-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "G1: moonlit marina with masted sailboats along a lamp-lit stone pier, mooring ropes and bollards in foreground; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:35:47 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no readable boat names; G5: clean.",
   "approved_at": "2026-09-26T11:20:02.987855+00:00",
   "sha256_16x9": "9b559aa00ddf57155915f433ae62e572f2358b020ee101aa868045d1433a0e21",
-  "sha256_4x5": "8f2cd91801f2823d036a4912b55f02f44e09cd5e2bce59ab9ebe1aa5ba92b798"
+  "sha256_4x5": "8f2cd91801f2823d036a4912b55f02f44e09cd5e2bce59ab9ebe1aa5ba92b798",
+  "sha256_9x16": "82e2660b09788fabf0da53b9a4024e41db7a349b414ef57707dfb440d3ceea06"
 }

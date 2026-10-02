@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Horne Church in the afternoon, a white round nave and a Renaissance tower",
   "file_16x9": "Denmark/Horne/dk-01-194-16x9.png",
   "file_4x5": "Denmark/Horne/dk-01-194-4x5.png",
+  "file_9x16": "Denmark/Horne/dk-01-194-9x16.png",
   "license_badge": "Free \u00b7 no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -69,5 +70,6 @@
   "approval_basis": "Gate 1: whitewashed Horne Church with its distinctive round nave and dark spire, flat overcast light, plausible tourist viewpoint. Gate 2: caption 'Horne Church, Horne', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:44 (unique), valid 14:30, scenario inside 14:00\u201314:59; 86% cloud matches the grey sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact 1920x1080 / 864x1080.",
   "approved_at": "2026-09-25T12:52:43.652751+00:00",
   "sha256_16x9": "2c735cd6d76277a1f667b0089badb52699410759da2b768fcea68a53153b2bd3",
-  "sha256_4x5": "10faac5a6dc5e3789698976efc83cd3ec93da1d84617d898302c6e9d9bbc25e4"
+  "sha256_4x5": "10faac5a6dc5e3789698976efc83cd3ec93da1d84617d898302c6e9d9bbc25e4",
+  "sha256_9x16": "9beb46fb08dabb204e012ab0c2ee6fe0fdaf754e86241c0117213eb2ac25f950"
 }

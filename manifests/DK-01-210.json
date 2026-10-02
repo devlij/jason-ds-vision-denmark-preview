@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Moesgaard Museum at night, a sloping grass roof in Højbjerg",
   "file_16x9": "Denmark/Højbjerg/dk-01-210-16x9.png",
   "file_4x5": "Denmark/Højbjerg/dk-01-210-4x5.png",
+  "file_9x16": "Denmark/Højbjerg/dk-01-210-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "G1: the museum's grass-roofed wedge building with timber-slat facade under a full moon, one path lamp, starry night sky; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 23:35:50 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no signage; G5: clean.",
   "approved_at": "2026-09-26T11:20:07.517445+00:00",
   "sha256_16x9": "fe73883180ac5b35bb420ec9dbf8bc9e63a886612afbd4b9a0cb1ed93eefb737",
-  "sha256_4x5": "79634c3f5b409c823830db649caa7e6cf3c0c2b28f7e30a843a8a670a6258577"
+  "sha256_4x5": "79634c3f5b409c823830db649caa7e6cf3c0c2b28f7e30a843a8a670a6258577",
+  "sha256_9x16": "bc7753f7de0d0279a9b8d3540946d07a804f636dfa4accc13dae0d3566098b78"
 }

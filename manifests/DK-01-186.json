@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Suså harbour in Næstved at night, boats and brick warehouses",
   "file_16x9": "Denmark/Næstved/dk-01-186-16x9.png",
   "file_4x5": "Denmark/Næstved/dk-01-186-4x5.png",
+  "file_9x16": "Denmark/Næstved/dk-01-186-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: narrow dark river harbour at night with a few moored boats, a low quay, brick warehouses, and a low bridge farther along — matching the card description; clean framing, no artifacts, plausible riverside viewpoint. Gate 2: masters exact 1920x1080/864x1080; caption 'Susa Harbour, Naestved', scenario '25 September 2026 - 04:07 Europe/Copenhagen', and 'AI-generated artistic interpretation - Not a photograph.' disclosure bottom-left, 'Jason D's Vision' signature bottom-right, legible; scenario 04:07 inside model-valid hour 04:00-04:59; Open-Meteo retrieval 25 September 2026 23:30:18 Europe/Copenhagen per the builder note, verified unique across all 365 Denmark notes. Gate 3: text-prompt-only, no photographic inputs reported. Gate 4: no identifiable people, logos, or readable signs — documented only. Gate 5: ready.",
   "approved_at": "2026-09-26T10:26:45.578506+00:00",
   "sha256_16x9": "0644eaf8ba0c8229e27f4f55938fbb4a3fc47e3af29fcd3721504e2f341a40c7",
-  "sha256_4x5": "07e70a65dd5eb29add1cf6cacef1f96302511a1994c1b0b09cab2059908743a7"
+  "sha256_4x5": "07e70a65dd5eb29add1cf6cacef1f96302511a1994c1b0b09cab2059908743a7",
+  "sha256_9x16": "02b3f7e64262866395f93f52c8848d67f039bc353f1e0f7e40edc96c636766b9"
 }

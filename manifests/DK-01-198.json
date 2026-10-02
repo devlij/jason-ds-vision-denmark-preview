@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Ladby ship mound in the afternoon, grass above a dark fjord",
   "file_16x9": "Denmark/Ladby/dk-01-198-16x9.png",
   "file_4x5": "Denmark/Ladby/dk-01-198-4x5.png",
+  "file_9x16": "Denmark/Ladby/dk-01-198-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -64,5 +65,6 @@
   "approval_basis": "Gate 1: Ladby Ship mound — grass-covered burial mound with entrance door, gravel path and bench, water beyond, afternoon light. Gate 2: caption 'Ladby Ship, Ladby', scenario 14:32 Europe/Copenhagen, signature and disclosure verified on-image; own Open-Meteo retrieval 14:32:48 (unique), valid 14:30, scenario inside 14:00–14:59; 73% cloud matches the mixed sky. Gate 3: text-prompt lineage, no photographic inputs reported. Gate 4: no people/logos of note. Gate 5: Art. 50 metadata present; exact dims.",
   "approved_at": "2026-09-25T12:53:18.248417+00:00",
   "sha256_16x9": "df2680c66c466ff94a4bdda2e57daf1c4bb7a1218269df2f4818fbffe1cdd804",
-  "sha256_4x5": "2ae62490b6a2d5aa31cd2865b950a56632950c42993285cc4a5b949005f767e4"
+  "sha256_4x5": "2ae62490b6a2d5aa31cd2865b950a56632950c42993285cc4a5b949005f767e4",
+  "sha256_9x16": "b153cdc2474fd0c4bba6aa11c74c0bb2d59e31fc399de28b591d7c6999f1f240"
 }

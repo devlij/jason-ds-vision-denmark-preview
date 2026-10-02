@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Trelleborg at night, a grass rampart and a timber longhouse",
   "file_16x9": "Denmark/Slagelse/dk-01-189-16x9.png",
   "file_4x5": "Denmark/Slagelse/dk-01-189-4x5.png",
+  "file_9x16": "Denmark/Slagelse/dk-01-189-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "G1: Viking ring-fortress earthwork ring with timber longhouse and gated palisade entrance under lamplight at night; G2: exact dims, on-image strings verified, scenario 04:07 inside 04:00-04:59, retrieved 25 September 2026 23:30:22 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no logos; G5: clean.",
   "approved_at": "2026-09-26T11:19:44.985734+00:00",
   "sha256_16x9": "33b6a39d5341a30322ba0871faf00cbf93c44f57b9f9a36aa271a85fe7e1b2a3",
-  "sha256_4x5": "f4e2c42fa055f99256240f0791f945890977cad93c68c3bbcc9568a827de9ca9"
+  "sha256_4x5": "f4e2c42fa055f99256240f0791f945890977cad93c68c3bbcc9568a827de9ca9",
+  "sha256_9x16": "dad1c6ebb182abc42eac6340bc6b63e58c75f40e0b4b72b9770d343e605d0e7d"
 }

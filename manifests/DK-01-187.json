@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Sorø Lake at night, an empty jetty and open water",
   "file_16x9": "Denmark/Sorø/dk-01-187-16x9.png",
   "file_4x5": "Denmark/Sorø/dk-01-187-4x5.png",
+  "file_9x16": "Denmark/Sorø/dk-01-187-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: from a grassy shore, a simple wooden jetty meeting dark open water with a far tree-lined bank, no swimmers, overcast night — matching the card description; clean framing, no artifacts, plausible bathing-shore viewpoint. Gate 2: masters exact 1920x1080/864x1080; caption 'Soro Lake, Soro', scenario '25 September 2026 - 04:07 Europe/Copenhagen', and 'AI-generated artistic interpretation - Not a photograph.' disclosure bottom-left, 'Jason D's Vision' signature bottom-right, legible; scenario 04:07 inside model-valid hour 04:00-04:59; Open-Meteo retrieval 25 September 2026 23:30:20 Europe/Copenhagen per the builder note, verified unique across all 365 Denmark notes. Gate 3: text-prompt-only, no photographic inputs reported. Gate 4: no identifiable people, logos, or readable signs — documented only. Gate 5: ready.",
   "approved_at": "2026-09-26T10:26:50.907122+00:00",
   "sha256_16x9": "f04bd3343b9c031adeda18e4d32bac8cf87e96bb0fe5466ad2742ed15acceda9",
-  "sha256_4x5": "b9d51068705a3e1befe5ed3d066a0ad219575ff40a9326e4b307975166f2e6b9"
+  "sha256_4x5": "b9d51068705a3e1befe5ed3d066a0ad219575ff40a9326e4b307975166f2e6b9",
+  "sha256_9x16": "81a3ac64965088ee16d07ddee13cb1f11429dc6b1bfa544af0042ee48be3146f"
 }

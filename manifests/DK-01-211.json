@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Ebeltoft harbour at night, a three-masted ship and half-timbered houses",
   "file_16x9": "Denmark/Ebeltoft/dk-01-211-16x9.png",
   "file_4x5": "Denmark/Ebeltoft/dk-01-211-4x5.png",
+  "file_9x16": "Denmark/Ebeltoft/dk-01-211-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "G1: three-masted frigate moored at night among half-timbered warehouses, lamplight reflecting on the harbour; G2: exact dims, on-image strings verified, scenario 05:55 inside 05:00-05:59, retrieved 25 September 2026 05:43:22 Europe/Copenhagen; G3: text-prompt-only, no photo inputs; G4: no people, no readable ship name; G5: clean.",
   "approved_at": "2026-09-26T11:20:12.225124+00:00",
   "sha256_16x9": "a4a16d5660ec7e743176ffbed887548d23e5c46a5cb0b44d43fd0df20a8b0eee",
-  "sha256_4x5": "8e4169484d62ef3ba409f4e5532f8c04c85d0e6aafbbc877271c52fd3ba27508"
+  "sha256_4x5": "8e4169484d62ef3ba409f4e5532f8c04c85d0e6aafbbc877271c52fd3ba27508",
+  "sha256_9x16": "a10dd7b7e43d5f9603730fd5cbc6161a0fe4cac86b13932db0a938f545879493"
 }
