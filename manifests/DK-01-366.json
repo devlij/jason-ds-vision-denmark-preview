@@ -1,0 +1,23 @@
+{
+  "entry_id": "DK-01-366",
+  "country": "Denmark",
+  "region": "Capital Region",
+  "city": "Copenhagen",
+  "category": "christmas",
+  "caption": "Tivoli Christmas, Copenhagen",
+  "scenario_label": "12 December 2026 · 17:40 Europe/Copenhagen",
+  "composition": "Chinese Tower across the Tivoli lake, Christmas huts on the near bank · AI-generated artistic interpretation",
+  "description": "From the east bank of the Tivoli lake, the multi-tier Chinese Tower stands on the far shore, each upturned eave lined with warm bulbs and reflected in the dark water. Wooden Christmas huts with a thin snow dusting line the near bank, and bare trees carry strings of warm light. The sky is mostly cloudy. The cold, the cloud, and the light dusting are a seasonal artistic interpretation of an evening, about 3.3°C, not a December forecast. No readable sign.",
+  "alt_text": "AI-generated artistic interpretation of Tivoli Gardens in Copenhagen on a Christmas evening, the Chinese Tower reflected in the lake",
+  "file_16x9": "Denmark/Copenhagen/dk-01-366-16x9.png",
+  "file_4x5": "Denmark/Copenhagen/dk-01-366-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-366-9x16.png",
+  "master_sha256": {
+    "16x9": "3b3b959c272c3aae20b5c0394918b0e551f1481b55c834585d2cb7c3bc2bb996",
+    "4x5": "25cef1eeb4dfedcb5b99bbb61b16b314b351752b0ee7e6e7af6eab9486eb17fa",
+    "9x16": "9f6e80fa7f317c14c17ef498bbb25d3937f9e511fa14feb7cf2d836e2f672f59"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "approval_status": "Candidate"
+}

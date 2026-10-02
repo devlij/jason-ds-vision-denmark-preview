@@ -1,0 +1,23 @@
+{
+  "entry_id": "DK-01-368",
+  "country": "Denmark",
+  "region": "Funen",
+  "city": "Odense",
+  "category": "christmas",
+  "caption": "H.C. Andersen Christmas, Odense",
+  "scenario_label": "18 December 2026 · 18:10 Europe/Copenhagen",
+  "composition": "Ochre birthplace house and Christmas stalls on the cobbled lane · AI-generated artistic interpretation",
+  "description": "The narrow cobbled lane of the H.C. Andersen birthplace quarter holds a small ochre corner house with a red tile roof and warm small-paned windows, and half-timbered neighbours. Wooden Christmas stalls and a small lit spruce stand along the lane, with a thin snow dusting. The sky is mostly cloudy. The cold, the cloud, and the light dusting are a seasonal artistic interpretation of an evening, about 3.7°C, not a December forecast. No readable sign and no statue.",
+  "alt_text": "AI-generated artistic interpretation of a Christmas market in the H.C. Andersen birthplace quarter in Odense",
+  "file_16x9": "Denmark/Odense/dk-01-368-16x9.png",
+  "file_4x5": "Denmark/Odense/dk-01-368-4x5.png",
+  "file_9x16": "Denmark/Odense/dk-01-368-9x16.png",
+  "master_sha256": {
+    "16x9": "a526c6dbd91efb2922475764d3e5eb40d868f7942ade31867fd4d269c0ad06e9",
+    "4x5": "4183d9df5efa7495a10b33c1dc31ab13b42f79b084c653e495158e2f3338c243",
+    "9x16": "4eefc6b83c93d184bc9410b15fa84a6d574b4977773cd8d138641745f2b5d790"
+  },
+  "license_badge": "Free · no credit needed",
+  "license_anchor": "#license",
+  "approval_status": "Candidate"
+}
