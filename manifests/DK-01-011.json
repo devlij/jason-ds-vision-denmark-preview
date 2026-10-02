@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the ARoS museum exterior in Aarhus at night, with the rainbow ring on the roof",
   "file_16x9": "Denmark/Aarhus/dk-01-011-16x9.png",
   "file_4x5": "Denmark/Aarhus/dk-01-011-4x5.png",
+  "file_9x16": "Denmark/Aarhus/dk-01-011-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -18,6 +19,7 @@
   "approved_at": "2026-09-25T22:26:23.097871+00:00",
   "sha256_16x9": "603b40a28d3e397457623047019dd818b5a7a9831ac62d8c40b42e4a4ab1965a",
   "sha256_4x5": "7d50664e7b6eaa1d5c40fd18a4b42f08fb21156e1740448f5945e32df35b65bb",
+  "sha256_9x16": "1a171cbc972977268ea2c96f400ec12c68606b853cb7b60032b0c231f5a7342f",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-011",
     "derived_from": "Approved night master Denmark/Aarhus/dk-01-011-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",

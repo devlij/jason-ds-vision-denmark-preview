@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Amalienborg palace square in Copenhagen at night, with the Marble Church dome beyond",
   "file_16x9": "Denmark/Copenhagen/dk-01-003-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-003-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-003-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -55,6 +56,7 @@
   "approved_at": "2026-09-25T21:32:52.201277+00:00",
   "sha256_16x9": "c6f4337d99420ae7a669ee27be08f120e11e71deb8097170065138bf04e99ec9",
   "sha256_4x5": "feb03e17e0b69efa5839dc3237eccc8e47bca34996df9486631d463f4ab4e0bd",
+  "sha256_9x16": "1464ed2155d8670bad4d41720eeb677d04e9d968c13ea38541690b7c31173f67",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-003",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-003-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",

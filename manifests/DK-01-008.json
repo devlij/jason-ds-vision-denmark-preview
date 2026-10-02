@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the H.C. Andersen birthplace quarter in Odense on an overcast night",
   "file_16x9": "Denmark/Odense/dk-01-008-16x9.png",
   "file_4x5": "Denmark/Odense/dk-01-008-4x5.png",
+  "file_9x16": "Denmark/Odense/dk-01-008-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -53,6 +54,7 @@
   "qc_status": "Approved · Cosmo QC 5/5 · Night",
   "sha256_16x9": "cbd3af4cdde13d0f3552b7d5015e3b4a805b27a1756dfb2d2dbb85c8381a7ac8",
   "sha256_4x5": "5aa885280a21690a5c9b54de256e7d5bae7742aed51d51872663a363d39c77c7",
+  "sha256_9x16": "fe4724aa99fbc3a1c1bede5ef54d54deb37f7ba0e727a6c6eccad15f361b82f4",
   "approval_basis": "Gate 1: night H.C. Andersen Quarter — cobbled Hans Jensens Stræde lane, the low ochre corner house with red tile roof, half-timbered neighbours, glowing windows and street lamps under an overcast dark sky; no modern glass block in frame (per note anchors); plausible Odense viewpoint, no artifacts. Gate 2: masters 1920x1080/864x1080 exact, caption 'H.C. Andersen Quarter, Odense', scenario '25 September 2026 · 00:00 Europe/Copenhagen', disclosure and curly-apostrophe 'Jason D's Vision' signature legible on the scrim; Open-Meteo retrieved 25 September 2026 23:08:06 Europe/Copenhagen, valid 25 Sep 00:00 (Overcast, 13.2°C, cloud 100%), unique to the second repo-wide, scenario inside the 00:00–00:59 model hour. Gate 3: note documents text-prompt-only generation, no photographic inputs. Gate 4: no visible people, logos, or readable signage — recorded only, commercial call is Jason's. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T21:34:31.673723+00:00",
   "daylight_variant": {

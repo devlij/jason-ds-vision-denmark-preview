@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Kastellet in Copenhagen at night, with red barracks and the rampart windmill",
   "file_16x9": "Denmark/Copenhagen/dk-01-021-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-021-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-021-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -18,6 +19,7 @@
   "approved_at": "2026-09-25T23:23:40.728119+00:00",
   "sha256_16x9": "95e94a5008575f3fdaef8e1e5d359702919b9b01e0f1b394f3a6967d2f896c56",
   "sha256_4x5": "590257c6fd3a69e16a126e868c6b20da4243aa5f0a358db7ebeee5100917c48f",
+  "sha256_9x16": "1932224a395954bc5c50cc591248c2cad718a142dc1add50b207466df40e7636",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-021",
     "derived_from": "Approved night master Denmark/Copenhagen/dk-01-021-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",

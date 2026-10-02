@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Maribo Cathedral at night, a red-brick church beside the lake",
   "file_16x9": "Denmark/Maribo/dk-01-033-16x9.png",
   "file_4x5": "Denmark/Maribo/dk-01-033-4x5.png",
+  "file_9x16": "Denmark/Maribo/dk-01-033-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1 PASS: night — large red-brick Gothic cathedral with tall west spire floodlit warm, beside reedy lake water (Maribo Sonderso), lamp-lit path right — matches Maribo Cathedral form. Gate 2 PASS: masters 1920x1080/864x1080 exact; on-image 'Maribo Cathedral, Maribo', scenario '25 September 2026 · 00:56 Europe/Copenhagen', disclosure, curly-apostrophe signature legible. Weather retrieval cited 25 September 2026 23:08:55 Europe/Copenhagen (HTTP Date 21:08:55 GMT), valid 00:45 step, is_day 0, partly cloudy 12.2C 58% cloud, wind 11.3 km/h — unique to the second; scenario 00:56 inside 00:00-00:59, at/after 00:45 step. Gate 3: text-prompt-only, no photo pixels per notes. Gate 4: no people/logos (documented only). Gate 5 PASS.",
   "approved_at": "2026-09-26T00:27:47.955165+00:00",
   "sha256_16x9": "faad17703b26db9a916d101fc0031a9068735c2e2aa47b015dcf4dde5d689887",
-  "sha256_4x5": "705666d0dedb6fcc2853b1c6b1973917c0f960932770f4c4646a2afedb1e322f"
+  "sha256_4x5": "705666d0dedb6fcc2853b1c6b1973917c0f960932770f4c4646a2afedb1e322f",
+  "sha256_9x16": "43e163cf39492a2daad36ce7c4bc21a233252776fc475f5ba2628dfe8dbd6b2c"
 }

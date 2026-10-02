@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Kronborg Castle in Helsingør at night, moonlit above the Øresund",
   "file_16x9": "Denmark/Helsingør/dk-01-004-16x9.png",
   "file_4x5": "Denmark/Helsingør/dk-01-004-4x5.png",
+  "file_9x16": "Denmark/Helsingør/dk-01-004-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -55,6 +56,7 @@
   "approved_at": "2026-09-25T21:33:32.929100+00:00",
   "sha256_16x9": "72fb8c714be3642717e55d38db12263837c4946c2d285802b7c9f558c7c47568",
   "sha256_4x5": "7d11dea025947b3e872b23c732b8b486f6a96d5f3276a2f6e73c33ec5e078054",
+  "sha256_9x16": "283daa0adea3f072d00b926e732eb22036f707aa43722de941ac704411319d0d",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-004",
     "derived_from": "Approved night master Denmark/Helsingør/dk-01-004-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",

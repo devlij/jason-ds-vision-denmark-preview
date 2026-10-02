@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Fredensborg Palace at night, a pale baroque building with one copper dome",
   "file_16x9": "Denmark/Fredensborg/dk-01-028-16x9.png",
   "file_4x5": "Denmark/Fredensborg/dk-01-028-4x5.png",
+  "file_9x16": "Denmark/Fredensborg/dk-01-028-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "approval_status": "Approved",
@@ -18,6 +19,7 @@
   "approved_at": "2026-09-25T23:24:26.382413+00:00",
   "sha256_16x9": "f37d9aa522544abb2e4444660d8af35ee74ecc03321034075a058c66e4009295",
   "sha256_4x5": "b440e3886149a9cda3114f5991625803fbf48a6f41feaca6f70ff9bbce5d1ad2",
+  "sha256_9x16": "0d51d859533ad576a33b220323643a649d61525e0981fa2e6020321ba8777ad6",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-028",
     "derived_from": "Approved night master Denmark/Fredensborg/dk-01-028-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",

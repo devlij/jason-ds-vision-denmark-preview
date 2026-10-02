@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Frederiksborg Castle in Hillerød at night, seen across the castle lake",
   "file_16x9": "Denmark/Hillerød/dk-01-005-16x9.png",
   "file_4x5": "Denmark/Hillerød/dk-01-005-4x5.png",
+  "file_9x16": "Denmark/Hillerød/dk-01-005-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "qc_notes": [
@@ -50,6 +51,7 @@
   "approved_at": "2026-09-25T21:33:37.446415+00:00",
   "sha256_16x9": "ee129a751e661d336b2562670a617bf8e58f8b38ac7294d644d3dacd64263eb7",
   "sha256_4x5": "92c8e78a35d2951c84e3b00b7e094db4c8ea6cf88caba2ce3dce8a9025fd4a97",
+  "sha256_9x16": "1ac32c4c62cc0ec2f44f63d8c54e4c4547a3d8c65d916ffc01c17852b6c6f387",
   "daylight_variant": {
     "variant_of_entry_id": "DK-01-005",
     "derived_from": "Approved night master Denmark/Hillerød/dk-01-005-16x9.png (16:9) of the same scene; not an independently modelled weather/lighting scenario",
