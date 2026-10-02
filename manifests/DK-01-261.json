@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of the Frederiksværk canal before sunrise, the yellow foundry beside dark water",
   "file_16x9": "Denmark/Frederiksværk/dk-01-261-16x9.png",
   "file_4x5": "Denmark/Frederiksværk/dk-01-261-4x5.png",
+  "file_9x16": "Denmark/Frederiksværk/dk-01-261-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1 pass: the 16:9 master shows the calm canal with an arched bridge, ochre historic gunpowder-mill buildings and warm lamps reflected in the water under overcast dawn — a plausible Frederiksværk canal view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Frederiksværk Canal, Frederiksværk' and scenario '25 September 2026 · 06:56 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:36, confirmed unique repo-wide across all 365 notes, and 06:56 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable signage. All five gates pass.",
   "approved_at": "2026-09-26T15:26:54.959229+00:00",
   "sha256_16x9": "d515089aa2486d302d56b4112ec632b9baf3b97ab588466f8086a97927e79c6b",
-  "sha256_4x5": "a6f97eacc0823730aebbf8392adcc81488ae66a6fd7a8642a0a01f1320ec6d87"
+  "sha256_4x5": "a6f97eacc0823730aebbf8392adcc81488ae66a6fd7a8642a0a01f1320ec6d87",
+  "sha256_9x16": "43ada598d8f789510d51ca38d5b123514e8489809083b0d33ea412c132f7858a"
 }

@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Sluseholmen in Copenhagen before sunrise, brick blocks along a canal",
   "file_16x9": "Denmark/Copenhagen/dk-01-266-16x9.png",
   "file_4x5": "Denmark/Copenhagen/dk-01-266-4x5.png",
+  "file_9x16": "Denmark/Copenhagen/dk-01-266-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1 pass: the 16:9 master shows modern red-brick residential blocks along the canal with lamp reflections, a bridge and overcast sky — a plausible Sluseholmen (South Harbour) view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Sluseholmen, Copenhagen' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:46, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable signage. All five gates pass.",
   "approved_at": "2026-09-26T15:27:17.730568+00:00",
   "sha256_16x9": "4584f7d4839d657d51e2b4fdf515af8b273a5dacaad7069a489130870ca81af9",
-  "sha256_4x5": "fb1bcc6fcd136f8ec3c36ddd16044cd7e85fbfecfca286e9b3cfe415c2dd9a3c"
+  "sha256_4x5": "fb1bcc6fcd136f8ec3c36ddd16044cd7e85fbfecfca286e9b3cfe415c2dd9a3c",
+  "sha256_9x16": "262a4fabd8c3de3a2f1975087e39a60a07a67646f3088a5816bafdac907a71c0"
 }

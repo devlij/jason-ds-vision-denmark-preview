@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Bagsværd Lake before sunrise, reeds and autumn trees on the shore",
   "file_16x9": "Denmark/Bagsværd/dk-01-263-16x9.png",
   "file_4x5": "Denmark/Bagsværd/dk-01-263-4x5.png",
+  "file_9x16": "Denmark/Bagsværd/dk-01-263-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1 pass: the 16:9 master shows the gravel lakeside path with reeds and autumn trees along calm water under an overcast pre-dawn sky — a plausible quiet Bagsværd Lake view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Bagsværd Lake, Bagsværd' and scenario '25 September 2026 · 06:57 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:40, confirmed unique repo-wide across all 365 notes, and 06:57 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no logos. All five gates pass.",
   "approved_at": "2026-09-26T15:27:03.960658+00:00",
   "sha256_16x9": "d09b1b5898218b634daa5805d615f8c159fec167dde37c839b4c3a991bb711e4",
-  "sha256_4x5": "1001d2c511cd6f0e213995022eb414d425a10c96e28865877a25d680bdf81548"
+  "sha256_4x5": "1001d2c511cd6f0e213995022eb414d425a10c96e28865877a25d680bdf81548",
+  "sha256_9x16": "04a118b5619863b6f8e5a9c8e2a885e3f1641b072e2a46abef16ba4c96176534"
 }

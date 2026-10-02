@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Esrum Abbey before sunrise, a long brick range and a mill pond",
   "file_16x9": "Denmark/Esrum/dk-01-262-16x9.png",
   "file_4x5": "Denmark/Esrum/dk-01-262-4x5.png",
+  "file_9x16": "Denmark/Esrum/dk-01-262-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1 pass: the 16:9 master shows the long red-brick abbey building with white-framed windows mirrored in the pond, autumn trees and an overcast sky — a plausible Esrum Abbey view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Esrum Abbey, Esrum' and scenario '25 September 2026 · 06:56 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:38, confirmed unique repo-wide across all 365 notes, and 06:56 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no logos. All five gates pass.",
   "approved_at": "2026-09-26T15:26:59.233889+00:00",
   "sha256_16x9": "fd516b3d49d50993b2af043af0e0c293037e080a1ff6826493578b680ab49456",
-  "sha256_4x5": "ff2244a6719b2b89405120946319a7a7b1a490129f6fa5bbabbfadf841c64fe5"
+  "sha256_4x5": "ff2244a6719b2b89405120946319a7a7b1a490129f6fa5bbabbfadf841c64fe5",
+  "sha256_9x16": "89f0ca5f0f029ec3d54aa65a4cf9cbdb6acc6732da1977bafeb3f2cdc5d4ba22"
 }

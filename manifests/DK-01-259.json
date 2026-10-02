@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Hornbæk harbour before sunrise, wooden piers and boats in light drizzle",
   "file_16x9": "Denmark/Hornbæk/dk-01-259-16x9.png",
   "file_4x5": "Denmark/Hornbæk/dk-01-259-4x5.png",
+  "file_9x16": "Denmark/Hornbæk/dk-01-259-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1 pass: the 16:9 master shows the wooden pier with fishing boats, lamp-lit boathouses and a rock breakwater with warm lamp reflections on still water under overcast pre-dawn — a plausible Hornbæk harbour view. Gate 2 pass: exact 1920x1080 and 864x1080 masters; caption 'Hornbæk Harbour, Hornbæk' and scenario '25 September 2026 · 06:56 Europe/Copenhagen' legible bottom-left with disclosure; 'Jason D's Vision' signature bottom-right; weather note cites a per-scene Open-Meteo retrieval at 06:53:33, confirmed unique repo-wide across all 365 notes, and 06:56 falls inside the cited 06:00–06:59 model hour. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no visible people, no readable signage or logos. All five gates pass.",
   "approved_at": "2026-09-26T15:26:45.432099+00:00",
   "sha256_16x9": "8fe796971e35855f496a96db0f32f9e635cbf575957798b5f62b336cf569ca38",
-  "sha256_4x5": "2efacb0529e1e93c7a9245ba96ccb77665ea9f8b4dee39ccfc60d7cc967efc68"
+  "sha256_4x5": "2efacb0529e1e93c7a9245ba96ccb77665ea9f8b4dee39ccfc60d7cc967efc68",
+  "sha256_9x16": "18267301b0b4f0dded916245515fbc79bc3143715d86016ab301fb5566c3152f"
 }

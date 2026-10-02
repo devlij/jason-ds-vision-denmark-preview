@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Tjørnuvík at night, turf-roof houses and two sea stacks",
   "file_16x9": "Denmark/Tjørnuvík/dk-01-249-16x9.png",
   "file_4x5": "Denmark/Tjørnuvík/dk-01-249-4x5.png",
+  "file_9x16": "Denmark/Tjørnuvík/dk-01-249-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Tjørnuvík black-sand beach with white surf lines, turf-roofed village at the foot of green crags, twin sea stacks offshore under breaking cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Tjørnuvík, Tjørnuvík', scenario '25 September 2026 · 06:38 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:02 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:40.656686+00:00",
   "sha256_16x9": "c0c47481d5cce04a2b18637718d3f74821388a574abf8e2759b093abb111e92d",
-  "sha256_4x5": "d4c3ef9c4ad7aca7b3d06445f0e0ad836edf60acd485abebdd1e3da21d82811d"
+  "sha256_4x5": "d4c3ef9c4ad7aca7b3d06445f0e0ad836edf60acd485abebdd1e3da21d82811d",
+  "sha256_9x16": "d59b2525265ced8445dfce578a78438afc150d2e1c62c510cb9db74a23e2041e"
 }

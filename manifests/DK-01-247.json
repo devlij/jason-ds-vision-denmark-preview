@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Kirkjubøur at night, a roofless ruin and a turf-roof farmhouse",
   "file_16x9": "Denmark/Kirkjubøur/dk-01-247-16x9.png",
   "file_4x5": "Denmark/Kirkjubøur/dk-01-247-4x5.png",
+  "file_9x16": "Denmark/Kirkjubøur/dk-01-247-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Kirkjubøur ensemble — roofless Magnus Cathedral ruins with pointed arches, the small white St Olav's church, and the turf-roofed Roykstovan farmstead, with Hestur and Koltur islands across the strait under low cloud. Gate 2: 1920x1080 + 864x1080 exact, caption 'Kirkjubøur, Kirkjubøur', scenario '25 September 2026 · 06:39 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:01 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:31.667921+00:00",
   "sha256_16x9": "3023cbe5bf9bd0a48d6e11f633c608dabc0b935f7fc99040de36e0b0caf9529e",
-  "sha256_4x5": "0b7530fc68e91e77ba30e6604dbf5450d6e3946fba0850f44fc9f3d06c2f727b"
+  "sha256_4x5": "0b7530fc68e91e77ba30e6604dbf5450d6e3946fba0850f44fc9f3d06c2f727b",
+  "sha256_9x16": "1d8c2eba0b62ca16aa1beec3d761af8e58e4cd661241f19dad0a37ae3a49675f"
 }

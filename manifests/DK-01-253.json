@@ -10,6 +10,7 @@
   "alt_text": "AI-generated artistic interpretation of Nanortalik harbour at night, colourful houses on rock",
   "file_16x9": "Denmark/Nanortalik/dk-01-253-16x9.png",
   "file_4x5": "Denmark/Nanortalik/dk-01-253-4x5.png",
+  "file_9x16": "Denmark/Nanortalik/dk-01-253-9x16.png",
   "license_badge": "Free · no credit needed",
   "license_anchor": "#license",
   "daylight_variant": {
@@ -47,5 +48,6 @@
   "approval_basis": "Gate 1: Nanortalik harbour — colourful houses scattered over a rocky islet with boats at twin jetties, dark mountains behind, night sky. Gate 2: 1920x1080 + 864x1080 exact, caption 'Nanortalik Harbour, Nanortalik', scenario '25 September 2026 · 06:39 Europe/Copenhagen', disclosure legible, exact signature; Open-Meteo retrieval 2026-09-25T06:32:06 Europe/Copenhagen unique to this scene, scenario inside model-valid hour 06:30. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or recognizable private property.",
   "approved_at": "2026-09-26T14:24:58.271904+00:00",
   "sha256_16x9": "b63398abd7b69e7e1e771bf7618037d22e0a1f347aef32a3a3d624ee84045f86",
-  "sha256_4x5": "96aa55c395dd238382928654ac50ee23733f74f4c4f1cb10741f23cbd3a8833f"
+  "sha256_4x5": "96aa55c395dd238382928654ac50ee23733f74f4c4f1cb10741f23cbd3a8833f",
+  "sha256_9x16": "50b2e1fe7290024ef9857a2ed9fd114e736d94fe30a492efa695d17716dd11f2"
 }
