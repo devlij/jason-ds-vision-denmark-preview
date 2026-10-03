@@ -4299,6 +4299,12 @@
       <image:title>Jason D’s Vision, Haderslev</image:title>
       <image:geo_location>Haderslev, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Haderslev/dk-01-205-9x16.png</image:loc>
+      <image:caption>Haderslev Dam, Haderslev</image:caption>
+      <image:title>Jason D’s Vision, Haderslev</image:title>
+      <image:geo_location>Haderslev, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-206</loc>
@@ -4310,6 +4316,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Kolding/dk-01-206-4x5.png</image:loc>
+      <image:caption>Kolding Fjord, Kolding</image:caption>
+      <image:title>Jason D’s Vision, Kolding</image:title>
+      <image:geo_location>Kolding, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Kolding/dk-01-206-9x16.png</image:loc>
       <image:caption>Kolding Fjord, Kolding</image:caption>
       <image:title>Jason D’s Vision, Kolding</image:title>
       <image:geo_location>Kolding, Denmark</image:geo_location>
@@ -4329,6 +4341,12 @@
       <image:title>Jason D’s Vision, Rønde</image:title>
       <image:geo_location>Rønde, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/R%C3%B8nde/dk-01-207-9x16.png</image:loc>
+      <image:caption>Kalø Castle, Rønde</image:caption>
+      <image:title>Jason D’s Vision, Rønde</image:title>
+      <image:geo_location>Rønde, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-208</loc>
@@ -4340,6 +4358,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Fredericia/dk-01-208-4x5.png</image:loc>
+      <image:caption>Fredericia Harbour, Fredericia</image:caption>
+      <image:title>Jason D’s Vision, Fredericia</image:title>
+      <image:geo_location>Fredericia, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Fredericia/dk-01-208-9x16.png</image:loc>
       <image:caption>Fredericia Harbour, Fredericia</image:caption>
       <image:title>Jason D’s Vision, Fredericia</image:title>
       <image:geo_location>Fredericia, Denmark</image:geo_location>
@@ -4359,6 +4383,12 @@
       <image:title>Jason D’s Vision, Aarhus</image:title>
       <image:geo_location>Aarhus, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Aarhus/dk-01-209-9x16.png</image:loc>
+      <image:caption>Aarhus Lystbådehavn, Aarhus</image:caption>
+      <image:title>Jason D’s Vision, Aarhus</image:title>
+      <image:geo_location>Aarhus, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-210</loc>
@@ -4370,6 +4400,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/H%C3%B8jbjerg/dk-01-210-4x5.png</image:loc>
+      <image:caption>Moesgaard Museum, Højbjerg</image:caption>
+      <image:title>Jason D’s Vision, Højbjerg</image:title>
+      <image:geo_location>Højbjerg, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/H%C3%B8jbjerg/dk-01-210-9x16.png</image:loc>
       <image:caption>Moesgaard Museum, Højbjerg</image:caption>
       <image:title>Jason D’s Vision, Højbjerg</image:title>
       <image:geo_location>Højbjerg, Denmark</image:geo_location>
@@ -4389,6 +4425,12 @@
       <image:title>Jason D’s Vision, Ebeltoft</image:title>
       <image:geo_location>Ebeltoft, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Ebeltoft/dk-01-211-9x16.png</image:loc>
+      <image:caption>Ebeltoft Harbour, Ebeltoft</image:caption>
+      <image:title>Jason D’s Vision, Ebeltoft</image:title>
+      <image:geo_location>Ebeltoft, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-212</loc>
@@ -4400,6 +4442,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Grenaa/dk-01-212-4x5.png</image:loc>
+      <image:caption>Fornæs Lighthouse, Grenaa</image:caption>
+      <image:title>Jason D’s Vision, Grenaa</image:title>
+      <image:geo_location>Grenaa, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Grenaa/dk-01-212-9x16.png</image:loc>
       <image:caption>Fornæs Lighthouse, Grenaa</image:caption>
       <image:title>Jason D’s Vision, Grenaa</image:title>
       <image:geo_location>Grenaa, Denmark</image:geo_location>
@@ -4419,6 +4467,12 @@
       <image:title>Jason D’s Vision, Voldum</image:title>
       <image:geo_location>Voldum, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Voldum/dk-01-213-9x16.png</image:loc>
+      <image:caption>Clausholm Castle, Voldum</image:caption>
+      <image:title>Jason D’s Vision, Voldum</image:title>
+      <image:geo_location>Voldum, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-214</loc>
@@ -4430,6 +4484,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Viborg/dk-01-214-4x5.png</image:loc>
+      <image:caption>Nørresø, Viborg</image:caption>
+      <image:title>Jason D’s Vision, Viborg</image:title>
+      <image:geo_location>Viborg, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Viborg/dk-01-214-9x16.png</image:loc>
       <image:caption>Nørresø, Viborg</image:caption>
       <image:title>Jason D’s Vision, Viborg</image:title>
       <image:geo_location>Viborg, Denmark</image:geo_location>
@@ -4449,6 +4509,12 @@
       <image:title>Jason D’s Vision, Silkeborg</image:title>
       <image:geo_location>Silkeborg, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Silkeborg/dk-01-215-9x16.png</image:loc>
+      <image:caption>Langsø, Silkeborg</image:caption>
+      <image:title>Jason D’s Vision, Silkeborg</image:title>
+      <image:geo_location>Silkeborg, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-216</loc>
@@ -4460,6 +4526,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Horsens/dk-01-216-4x5.png</image:loc>
+      <image:caption>Bygholm Castle, Horsens</image:caption>
+      <image:title>Jason D’s Vision, Horsens</image:title>
+      <image:geo_location>Horsens, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Horsens/dk-01-216-9x16.png</image:loc>
       <image:caption>Bygholm Castle, Horsens</image:caption>
       <image:title>Jason D’s Vision, Horsens</image:title>
       <image:geo_location>Horsens, Denmark</image:geo_location>
