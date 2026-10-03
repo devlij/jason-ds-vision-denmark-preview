@@ -7071,6 +7071,12 @@
       <image:title>Jason D’s Vision, Copenhagen</image:title>
       <image:geo_location>Copenhagen, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Copenhagen/dk-01-337-9x16.png</image:loc>
+      <image:caption>Assistens Cemetery, Copenhagen</image:caption>
+      <image:title>Jason D’s Vision, Copenhagen</image:title>
+      <image:geo_location>Copenhagen, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-338</loc>
@@ -7082,6 +7088,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Copenhagen/dk-01-338-4x5.png</image:loc>
+      <image:caption>Grundtvig&apos;s Church, Copenhagen</image:caption>
+      <image:title>Jason D’s Vision, Copenhagen</image:title>
+      <image:geo_location>Copenhagen, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Copenhagen/dk-01-338-9x16.png</image:loc>
       <image:caption>Grundtvig&apos;s Church, Copenhagen</image:caption>
       <image:title>Jason D’s Vision, Copenhagen</image:title>
       <image:geo_location>Copenhagen, Denmark</image:geo_location>
@@ -7101,6 +7113,12 @@
       <image:title>Jason D’s Vision, Helsingør</image:title>
       <image:geo_location>Helsingør, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Helsing%C3%B8r/dk-01-339-9x16.png</image:loc>
+      <image:caption>Sankt Mariæ Kirke, Helsingør</image:caption>
+      <image:title>Jason D’s Vision, Helsingør</image:title>
+      <image:geo_location>Helsingør, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-340</loc>
@@ -7112,6 +7130,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Roskilde/dk-01-340-4x5.png</image:loc>
+      <image:caption>Sankt Jørgensbjerg, Roskilde</image:caption>
+      <image:title>Jason D’s Vision, Roskilde</image:title>
+      <image:geo_location>Roskilde, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Roskilde/dk-01-340-9x16.png</image:loc>
       <image:caption>Sankt Jørgensbjerg, Roskilde</image:caption>
       <image:title>Jason D’s Vision, Roskilde</image:title>
       <image:geo_location>Roskilde, Denmark</image:geo_location>
@@ -7131,6 +7155,12 @@
       <image:title>Jason D’s Vision, Stege</image:title>
       <image:geo_location>Stege, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Stege/dk-01-341-9x16.png</image:loc>
+      <image:caption>Mølleporten, Stege</image:caption>
+      <image:title>Jason D’s Vision, Stege</image:title>
+      <image:geo_location>Stege, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-342</loc>
@@ -7142,6 +7172,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Nyk%C3%B8bing%20Falster/dk-01-342-4x5.png</image:loc>
+      <image:caption>Czarens Hus, Nykøbing Falster</image:caption>
+      <image:title>Jason D’s Vision, Nykøbing Falster</image:title>
+      <image:geo_location>Nykøbing Falster, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Nyk%C3%B8bing%20Falster/dk-01-342-9x16.png</image:loc>
       <image:caption>Czarens Hus, Nykøbing Falster</image:caption>
       <image:title>Jason D’s Vision, Nykøbing Falster</image:title>
       <image:geo_location>Nykøbing Falster, Denmark</image:geo_location>
@@ -7161,6 +7197,12 @@
       <image:title>Jason D’s Vision, Kerteminde</image:title>
       <image:geo_location>Kerteminde, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Kerteminde/dk-01-343-9x16.png</image:loc>
+      <image:caption>Sankt Laurentii, Kerteminde</image:caption>
+      <image:title>Jason D’s Vision, Kerteminde</image:title>
+      <image:geo_location>Kerteminde, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-344</loc>
@@ -7172,6 +7214,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Troense/dk-01-344-4x5.png</image:loc>
+      <image:caption>Strandgade, Troense</image:caption>
+      <image:title>Jason D’s Vision, Troense</image:title>
+      <image:geo_location>Troense, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Troense/dk-01-344-9x16.png</image:loc>
       <image:caption>Strandgade, Troense</image:caption>
       <image:title>Jason D’s Vision, Troense</image:title>
       <image:geo_location>Troense, Denmark</image:geo_location>
@@ -7191,6 +7239,12 @@
       <image:title>Jason D’s Vision, Vejle</image:title>
       <image:geo_location>Vejle, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Vejle/dk-01-345-9x16.png</image:loc>
+      <image:caption>Sankt Nicolai Kirke, Vejle</image:caption>
+      <image:title>Jason D’s Vision, Vejle</image:title>
+      <image:geo_location>Vejle, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-346</loc>
@@ -7202,6 +7256,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Horsens/dk-01-346-4x5.png</image:loc>
+      <image:caption>Horsens Statsfængsel, Horsens</image:caption>
+      <image:title>Jason D’s Vision, Horsens</image:title>
+      <image:geo_location>Horsens, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Horsens/dk-01-346-9x16.png</image:loc>
       <image:caption>Horsens Statsfængsel, Horsens</image:caption>
       <image:title>Jason D’s Vision, Horsens</image:title>
       <image:geo_location>Horsens, Denmark</image:geo_location>
@@ -7221,6 +7281,12 @@
       <image:title>Jason D’s Vision, Randers</image:title>
       <image:geo_location>Randers, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Randers/dk-01-347-9x16.png</image:loc>
+      <image:caption>Sankt Mortens Kirke, Randers</image:caption>
+      <image:title>Jason D’s Vision, Randers</image:title>
+      <image:geo_location>Randers, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-348</loc>
@@ -7232,6 +7298,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Emborg/dk-01-348-4x5.png</image:loc>
+      <image:caption>Øm Abbey, Emborg</image:caption>
+      <image:title>Jason D’s Vision, Emborg</image:title>
+      <image:geo_location>Emborg, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Emborg/dk-01-348-9x16.png</image:loc>
       <image:caption>Øm Abbey, Emborg</image:caption>
       <image:title>Jason D’s Vision, Emborg</image:title>
       <image:geo_location>Emborg, Denmark</image:geo_location>
