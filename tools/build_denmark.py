@@ -812,6 +812,7 @@ PAGE = r"""<!DOCTYPE html>
       color: var(--muted);
       letter-spacing: 0.01em;
     }
+    .country-switch .home-link { font-weight: 700; }
     .country-switch a { color: var(--accent); text-decoration: none; }
     .country-switch a:hover { text-decoration: underline; }
     .country-switch [aria-current="page"] { color: var(--text); font-weight: 600; }
@@ -844,7 +845,7 @@ PAGE = r"""<!DOCTYPE html>
     }
     .preview { position: relative; }
     .fmt-tabs { display: flex; gap: 6px; padding: 0.75rem 1.05rem 0; line-height: 1.4; }
-    .day-row { padding: 0.5rem 1.05rem 0; }
+    .day-row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 0.5rem 1.05rem 0; }
     .fmt-tab {
       background: rgba(23, 32, 42, 0.85); color: var(--text); border: 1px solid var(--line);
       border-radius: 8px; padding: 5px 10px; font: inherit; font-size: 12px; line-height: 1.2; cursor: pointer;
@@ -853,6 +854,7 @@ PAGE = r"""<!DOCTYPE html>
     .fmt-tab.is-active {
       background: var(--accent); border-color: var(--accent); color: var(--bg); font-weight: 700;
     }
+    .fmt-tab:disabled, .fmt-tab.is-disabled { opacity: 0.4; cursor: default; }
     .day-row button.day-tab {
       display: inline-block; background: #243049; color: var(--text);
       border-radius: 8px; padding: 0.4rem 0.7rem; font-size: 0.85rem; border: 1px solid var(--line);
@@ -861,6 +863,9 @@ PAGE = r"""<!DOCTYPE html>
     .day-row button.day-tab:hover { border-color: var(--accent); }
     .day-row button.day-tab.is-active {
       background: #e8b23a; border-color: #e8b23a; color: #1a1405; font-weight: 700;
+    }
+    .day-row button.day-tab.pc-tab.is-active {
+      background: #1f6b4a; border-color: #1f6b4a; color: #f4fff8; font-weight: 700;
     }
     .thumb {
       display: block; padding: 0.65rem 0.65rem 0; background: #12151c; line-height: 0;
@@ -964,6 +969,8 @@ PAGE = r"""<!DOCTYPE html>
     <h1><span class="flag" aria-hidden="true">DK_SVG</span>Jason D’s Vision — Denmark</h1>
     <p class="qc-count" id="qc-count"></p>
     <nav class="country-switch" aria-label="Country galleries">
+      <a class="home-link" href="https://jdvision.org/">&#8962; Home</a>
+      <span class="sep" aria-hidden="true">|</span>
       <a href="https://germany.jdvision.org/"><span class="flag-chip flag-de" aria-hidden="true"></span>Germany</a>
       <span class="sep" aria-hidden="true">|</span>
       <a href="https://italy.jdvision.org/"><span class="flag-chip flag-it" aria-hidden="true"></span>Italy</a>
@@ -1117,6 +1124,72 @@ const DENMARK_META = __DENMARK_META__;
              '<div class="related-row">' + items + '</div></div>';
     }
 
+    function variantKey(fmt, mode) {
+      if (mode === 'postcard') {
+        return fmt === '4x5' ? 'data-src-45-pc' : fmt === '9x16' ? 'data-src-916-pc' : 'data-src-16-pc';
+      }
+      if (mode === 'day') {
+        return fmt === '4x5' ? 'data-src-45-day' : fmt === '9x16' ? 'data-src-916-day' : 'data-src-16-day';
+      }
+      return fmt === '4x5' ? 'data-src-45' : fmt === '9x16' ? 'data-src-916' : 'data-src-16';
+    }
+    function ownSrc(img, fmt, mode) {
+      return (img && img.getAttribute(variantKey(fmt, mode))) || '';
+    }
+    function variantSrc(img, fmt, mode) {
+      const own = ownSrc(img, fmt, mode);
+      if (own) return own;
+      if (mode === 'day') return ownSrc(img, fmt, 'scene');
+      return '';
+    }
+    function cardMode(card) {
+      if (card.querySelector('.pc-tab.is-active')) return 'postcard';
+      const day = card.querySelector('.day-tab:not(.pc-tab).is-active');
+      if (day && day.getAttribute('data-daynight') === 'day') return 'day';
+      return 'scene';
+    }
+    function applyVariant(card, mode) {
+      const link = card.querySelector('a.thumb');
+      const img = link && link.querySelector('img');
+      let fmt = '16x9';
+      const active = card.querySelector('.fmt-tab.is-active');
+      if (active) fmt = active.getAttribute('data-format') || '16x9';
+      const t916 = card.querySelector('.fmt-tab[data-format="9x16"]');
+      if (t916 && img) {
+        const ok = !!ownSrc(img, '9x16', mode);
+        t916.disabled = !ok;
+        t916.classList.toggle('is-disabled', !ok);
+        if (!ok && t916.classList.contains('is-active')) {
+          const fallback = card.querySelector('.fmt-tab[data-format="16x9"]') || card.querySelector('.fmt-tab[data-format="4x5"]');
+          if (fallback) {
+            card.querySelectorAll('.fmt-tab').forEach((item) => {
+              const on = item === fallback;
+              item.classList.toggle('is-active', on);
+              item.setAttribute('aria-pressed', on ? 'true' : 'false');
+            });
+            fmt = fallback.getAttribute('data-format') || '16x9';
+          }
+        }
+      }
+      if (img && link) {
+        const next = variantSrc(img, fmt, mode);
+        if (next) { img.src = next; link.href = next; }
+        link.classList.toggle('tall', fmt === '4x5');
+        link.classList.toggle('tall916', fmt === '9x16');
+      }
+      card.querySelectorAll('a.download').forEach((a) => {
+        const f = a.getAttribute('data-dl');
+        const u = variantSrc(img, f, mode);
+        if (u) { a.href = u; a.hidden = false; a.setAttribute('download', fileName(u)); }
+        else a.hidden = true;
+      });
+      const sc = card.querySelector('p.scenario');
+      if (sc) {
+        if (mode === 'postcard') sc.textContent = 'Postcard collection';
+        else if (mode === 'day') sc.textContent = '\u2600 Daylight variant \u00b7 derived from the night interpretation';
+        else sc.textContent = 'Scenario: ' + (sc.getAttribute('data-scenario') || '');
+      }
+    }
     function render() {
       const query = q.value.trim().toLowerCase();
       const reg = region.value;
@@ -1148,45 +1221,61 @@ const DENMARK_META = __DENMARK_META__;
         const day16 = s.file_16x9_day ? ('library/world/' + s.file_16x9_day) : '';
         const day45 = s.file_4x5_day ? ('library/world/' + s.file_4x5_day) : '';
         const day916 = s.file_9x16_day ? ('library/world/' + s.file_9x16_day) : '';
-        const activeFmt = file16 ? '16x9' : (file45 ? '4x5' : (file916 ? '9x16' : ''));
-        const thumbSrc = activeFmt === '4x5' ? file45 : (activeFmt === '9x16' ? file916 : file16);
+        const pc16 = s.file_16x9_postcard ? ('library/world/' + s.file_16x9_postcard) : '';
+        const pc45 = s.file_4x5_postcard ? ('library/world/' + s.file_4x5_postcard) : '';
+        const pc916 = s.file_9x16_postcard ? ('library/world/' + s.file_9x16_postcard) : '';
+        const hasPc = !!(pc16 || pc45 || pc916);
+        const sceneHero = file16 || file45 || file916;
+        const hero = hasPc ? (pc16 || pc45 || pc916) : sceneHero;
+        const activeFmt = (file16 || pc16) ? '16x9' : ((file45 || pc45) ? '4x5' : ((file916 || pc916) ? '9x16' : ''));
         const imgAttrs = (file16 ? ` data-src-16="${esc(file16)}"` : '')
           + (file45 ? ` data-src-45="${esc(file45)}"` : '')
           + (day16 ? ` data-src-16-day="${esc(day16)}"` : '')
           + (day45 ? ` data-src-45-day="${esc(day45)}"` : '')
           + (file916 ? ` data-src-916="${esc(file916)}"` : '')
-          + (day916 ? ` data-src-916-day="${esc(day916)}"` : '');
-        const thumb = thumbSrc ? `
-            <a class="thumb${activeFmt === '4x5' ? ' tall' : ''}${activeFmt === '9x16' ? ' tall916' : ''}" href="${esc(thumbSrc)}" target="_blank" rel="noopener">
-              <img src="${esc(thumbSrc)}" alt="${esc(sceneAlt(s.caption, s.city))}" loading="lazy"${imgAttrs} />
+          + (day916 ? ` data-src-916-day="${esc(day916)}"` : '')
+          + (pc16 ? ` data-src-16-pc="${esc(pc16)}"` : '')
+          + (pc45 ? ` data-src-45-pc="${esc(pc45)}"` : '')
+          + (pc916 ? ` data-src-916-pc="${esc(pc916)}"` : '');
+        const thumb = hero ? `
+            <a class="thumb${activeFmt === '4x5' ? ' tall' : ''}${activeFmt === '9x16' ? ' tall916' : ''}" href="${esc(hero)}" target="_blank" rel="noopener">
+              <img src="${esc(hero)}" alt="${esc(sceneAlt(s.caption, s.city))}" loading="lazy"${imgAttrs} />
             </a>` : '';
+        const show16 = !!(file16 || pc16);
+        const show45 = !!(file45 || pc45);
+        const show916 = !!(file916 || pc916);
         const tab = (fmt, label) => {
           const on = fmt === activeFmt;
           return `<button type="button" class="fmt-tab${on ? ' is-active' : ''}" data-format="${fmt}" aria-pressed="${on ? 'true' : 'false'}">${label}</button>`;
         };
-        const tabs = (file16 ? tab('16x9', '16:9') : '') + (file45 ? tab('4x5', '4:5') : '') + (file916 ? tab('9x16', '9:16') : '');
+        const tabs = (show16 ? tab('16x9', '16:9') : '') + (show45 ? tab('4x5', '4:5') : '') + (show916 ? tab('9x16', '9:16') : '');
+        const dl16 = (hasPc && pc16) ? pc16 : file16;
+        const dl45 = (hasPc && pc45) ? pc45 : file45;
+        const dl916 = (hasPc && pc916) ? pc916 : file916;
         const dl = (fmt, href, label) => href
           ? `<a class="download" data-dl="${fmt}" href="${esc(href)}" download="${esc(fileName(href))}">${label}</a>` : '';
+        const dayBtn = (day16 || day45) ? `<button type="button" class="day-tab" data-daynight="night" aria-pressed="false" title="Toggle the daylight variant">\u2600 Daylight</button>` : '';
+        const pcBtn = hasPc ? `<button type="button" class="day-tab pc-tab is-active" data-postcard="on" aria-pressed="true" title="Postcard collection">\u{1F4E9} Postcard</button>` : '';
         card.innerHTML = `
           <div class="preview">
             ${thumb}
           </div>
           ${tabs ? `<div class="fmt-tabs" role="group" aria-label="Image size">${tabs}</div>` : ''}
-          ${day16 ? `<div class="day-row"><button type="button" class="day-tab" data-daynight="night" aria-pressed="false" title="Toggle the daylight variant">\u2600 Daylight</button></div>` : ''}
+          ${(dayBtn || pcBtn) ? `<div class="day-row">${dayBtn}${pcBtn}</div>` : ''}
           <div class="card-body">
             <div class="status-row">
               <div class="entry-id">${esc(s.entry_id)}</div>
               <span class="status ${esc((s.approval_status || 'Candidate').toLowerCase())}">${esc(s.approval_status || 'Candidate')}</span>
             </div>
             <h3 class="caption">${esc(s.caption)}</h3>
-            <p class="scenario" data-scenario="${esc(s.scenario_label)}">Scenario: ${esc(s.scenario_label)}</p>
+            <p class="scenario" data-scenario="${esc(s.scenario_label)}">${hasPc ? 'Postcard collection' : `Scenario: ${esc(s.scenario_label)}`}</p>
             <p class="composition">${esc(s.composition)}</p>
             ${s.description ? `<p class="detail">${esc(s.description)}</p>` : ''}
             <div class="actions">
               <a class="badge" href="${esc(s.license_anchor)}">${esc(s.license_badge)}</a>
-              ${dl('16x9', file16, 'Download 16:9')}
-              ${dl('4x5', file45, 'Download 4:5')}
-              ${dl('9x16', file916, 'Download 9:16')}
+              ${dl('16x9', dl16, 'Download 16:9')}
+              ${dl('4x5', dl45, 'Download 4:5')}
+              ${dl('9x16', dl916, 'Download 9:16')}
               ${s.audio ? `<button type="button" class="narrate" data-audio="${esc(s.audio)}" aria-pressed="false" aria-label="Listen to the scene description">🔊 Listen</button>` : ''}
               <button type="button" class="copy-link" aria-label="Copy link to this scene">Copy link</button>
             </div>
@@ -1214,6 +1303,24 @@ const DENMARK_META = __DENMARK_META__;
         a.play().catch(stopCardAudio);
         return;
       }
+      const ptab = event.target.closest('.pc-tab');
+      if (ptab) {
+        event.preventDefault();
+        const card = ptab.closest('.card');
+        if (!card) return;
+        const on = !ptab.classList.contains('is-active');
+        ptab.classList.toggle('is-active', on);
+        ptab.setAttribute('aria-pressed', on ? 'true' : 'false');
+        ptab.setAttribute('data-postcard', on ? 'on' : 'off');
+        const sun = card.querySelector('.day-tab:not(.pc-tab)');
+        if (on && sun) {
+          sun.classList.remove('is-active');
+          sun.setAttribute('aria-pressed', 'false');
+          sun.setAttribute('data-daynight', 'night');
+        }
+        applyVariant(card, on ? 'postcard' : 'scene');
+        return;
+      }
       const dtab = event.target.closest('.day-tab');
       if (dtab) {
         event.preventDefault();
@@ -1223,27 +1330,17 @@ const DENMARK_META = __DENMARK_META__;
         dtab.classList.toggle('is-active', isDay);
         dtab.setAttribute('aria-pressed', isDay ? 'true' : 'false');
         dtab.setAttribute('data-daynight', isDay ? 'day' : 'night');
-        const ftab = dcard.querySelector('.fmt-tab.is-active');
-        const dfmt = ftab ? ftab.getAttribute('data-format') : '16x9';
-        const dlink = dcard.querySelector('a.thumb');
-        const dimg = dlink && dlink.querySelector('img');
-        if (dimg && dlink) {
-          const dkey = dfmt === '4x5' ? (isDay ? 'data-src-45-day' : 'data-src-45') : dfmt === '9x16' ? (isDay ? 'data-src-916-day' : 'data-src-916') : (isDay ? 'data-src-16-day' : 'data-src-16');
-          const dnext = dimg.getAttribute(dkey);
-          if (dnext) { dimg.src = dnext; dlink.href = dnext; }
+        const pcard = dcard.querySelector('.pc-tab');
+        if (isDay && pcard) {
+          pcard.classList.remove('is-active');
+          pcard.setAttribute('aria-pressed', 'false');
+          pcard.setAttribute('data-postcard', 'off');
         }
-        dcard.querySelectorAll('a.download').forEach((a) => {
-          const f = a.getAttribute('data-dl');
-          const dk = f === '4x5' ? (isDay ? 'data-src-45-day' : 'data-src-45') : f === '9x16' ? (isDay ? 'data-src-916-day' : 'data-src-916') : (isDay ? 'data-src-16-day' : 'data-src-16');
-          const u = dimg && dimg.getAttribute(dk);
-          if (u) { a.href = u; a.setAttribute("download", fileName(u)); }
-        });
-        const sc = dcard.querySelector('p.scenario');
-        if (sc) sc.textContent = isDay ? '\u2600 Daylight variant \u00b7 derived from the night interpretation' : 'Scenario: ' + sc.getAttribute('data-scenario');
+        applyVariant(dcard, isDay ? 'day' : 'scene');
         return;
       }
       const tab = event.target.closest('.fmt-tab');
-      if (!tab) return;
+      if (!tab || tab.disabled) return;
       event.preventDefault();
       const card = tab.closest('.card');
       if (!card) return;
@@ -1256,13 +1353,12 @@ const DENMARK_META = __DENMARK_META__;
       const link = card.querySelector('a.thumb');
       const img = link && link.querySelector('img');
       if (!img || !link) return;
-      const dayOn = card.querySelector('.day-tab.is-active');
-      const useDay = dayOn && dayOn.getAttribute('data-daynight') === 'day';
+      const mode = cardMode(card);
       const next = fmt === "4x5"
-        ? (useDay && img.getAttribute("data-src-45-day")) || img.getAttribute("data-src-45")
+        ? (mode === 'postcard' ? img.getAttribute('data-src-45-pc') : mode === 'day' ? (img.getAttribute('data-src-45-day') || img.getAttribute("data-src-45")) : img.getAttribute("data-src-45"))
         : fmt === "9x16"
-        ? (useDay && img.getAttribute("data-src-916-day")) || img.getAttribute("data-src-916")
-        : (useDay && img.getAttribute("data-src-16-day")) || img.getAttribute("data-src-16");
+        ? (mode === 'postcard' ? img.getAttribute('data-src-916-pc') : mode === 'day' ? (img.getAttribute('data-src-916-day') || img.getAttribute('data-src-916')) : img.getAttribute('data-src-916'))
+        : (mode === 'postcard' ? img.getAttribute('data-src-16-pc') : mode === 'day' ? (img.getAttribute('data-src-16-day') || img.getAttribute('data-src-16')) : img.getAttribute('data-src-16'));
       if (next) {
         img.src = next;
         link.href = next;
@@ -1350,18 +1446,21 @@ const DENMARK_META = __DENMARK_META__;
     }
     var items=[],idx=0;
     var playing=false,timer=null;
-    var INTERVAL=6000;/* 6s slideshow autoplay, no autostart */
+    var INTERVAL=4000;/* 4s slideshow autoplay, no autostart */
     var lbFormat='16x9';
     var lbDay='night';/* lightbox-session day/night: seeded from the opening card's active day tab; persists across prev/next and slideshow navigation *//* lightbox-session format: seeded from the opening card's active tab; persists across prev/next and slideshow navigation, never reset to 16:9 */
+    var lbPost='off';/* lightbox-session postcard: seeded from the opening card; falls back per image when that card has no postcard */
     function visibleCards(){return Array.prototype.filter.call(document.querySelectorAll('.card'),function(c){return c.style.display!=='none';});}
     function show(i){
       items=visibleCards().map(function(c){
         var im=c.querySelector('a.thumb img');var t=c.querySelector('h3.caption');
         var src='';
-        var daySrc='';if(im){var nk=lbFormat==='4x5'?'data-src-45':lbFormat==='9x16'?'data-src-916':'data-src-16',dk=lbFormat==='4x5'?'data-src-45-day':lbFormat==='9x16'?'data-src-916-day':'data-src-16-day';if(lbDay==='day'){daySrc=im.getAttribute(dk)||'';}src=daySrc||im.getAttribute(nk);}
+        var daySrc='';
+        var pcSrc='';
+        if(im){var nk=lbFormat==='4x5'?'data-src-45':lbFormat==='9x16'?'data-src-916':'data-src-16',dk=lbFormat==='4x5'?'data-src-45-day':lbFormat==='9x16'?'data-src-916-day':'data-src-16-day',pk=lbFormat==='4x5'?'data-src-45-pc':lbFormat==='9x16'?'data-src-916-pc':'data-src-16-pc';pcSrc=(lbPost==='on')?(im.getAttribute(pk)||''):'';if(pcSrc){src=pcSrc;}else{if(lbDay==='day'){daySrc=im.getAttribute(dk)||'';}src=daySrc||im.getAttribute(nk);}}
         if(!src){var a=c.querySelector('a.thumb');src=a?a.href:'';}
-        var capT=t?t.textContent:'';if(daySrc)capT=capT+' \u2014 \u2600 Daylight variant';
-        var altT=im&&im.alt?im.alt:'';if(daySrc&&altT)altT=altT+' \u2014 \u2600 Daylight variant';
+        var capT=t?t.textContent:'';if(pcSrc)capT=capT+' \u2014 Postcard collection';else if(daySrc)capT=capT+' \u2014 \u2600 Daylight variant';
+        var altT=im&&im.alt?im.alt:'';if(pcSrc&&altT)altT=altT+' \u2014 Postcard collection';else if(daySrc&&altT)altT=altT+' \u2014 \u2600 Daylight variant';
         return{src:src,cap:capT,alt:altT};
       }).filter(function(x){return x.src;});
       if(!items.length)return;
@@ -1384,7 +1483,7 @@ const DENMARK_META = __DENMARK_META__;
     function hide(){stopSlideshow();stopNarr();overlay.classList.remove('open');overlay.setAttribute('aria-hidden','true');document.body.style.overflow='';}
     document.addEventListener('click',function(e){
       var a=e.target.closest?e.target.closest('a.thumb'):null;
-      if(a){e.preventDefault();var cards=visibleCards();var card=a.closest('.card');var tab=card.querySelector('.fmt-tab.is-active');lbFormat=(tab&&tab.getAttribute('data-format')==='9x16')?'9x16':(tab&&tab.getAttribute('data-format')==='4x5')?'4x5':'16x9';var dtab=card.querySelector('.day-tab.is-active');lbDay=(dtab&&dtab.getAttribute('data-daynight')==='day')?'day':'night';show(cards.indexOf(card));return;}
+      if(a){e.preventDefault();var cards=visibleCards();var card=a.closest('.card');var tab=card.querySelector('.fmt-tab.is-active');lbFormat=(tab&&tab.getAttribute('data-format')==='9x16')?'9x16':(tab&&tab.getAttribute('data-format')==='4x5')?'4x5':'16x9';var ptab=card.querySelector('.pc-tab.is-active');lbPost=ptab?'on':'off';var dtab=card.querySelector('.day-tab:not(.pc-tab).is-active');lbDay=(dtab&&dtab.getAttribute('data-daynight')==='day')?'day':'night';if(lbPost==='on')lbDay='night';show(cards.indexOf(card));return;}
       if(e.target===overlay||(e.target.closest&&e.target.closest('.lb-close')))hide();
       else if(e.target.closest&&e.target.closest('.lb-play'))togglePlay();
       else if(e.target.closest&&e.target.closest('.lb-narrate'))toggleNarr();
@@ -1530,6 +1629,19 @@ def gallery_card(data: dict) -> dict:
             rel = f"{folder}/{stem}{suffix}" if folder else f"{stem}{suffix}"
             if master_exists(rel):
                 card[key] = rel
+        for key, suffix in (
+            ("file_16x9_postcard", "-postcard-16x9.png"),
+            ("file_4x5_postcard", "-postcard-4x5.png"),
+            ("file_9x16_postcard", "-postcard-9x16.png"),
+        ):
+            rel = f"{folder}/{stem}{suffix}" if folder else f"{stem}{suffix}"
+            if master_exists(rel):
+                card[key] = rel
+        # The live catalogue publishes no night/day 9:16 tabs. Those masters
+        # stay on disk. This rebuild must not turn them on for other scenes.
+        # Postcard 9:16 uses file_9x16_postcard and is unaffected.
+        card.pop("file_9x16", None)
+        card.pop("file_9x16_day", None)
     entry = str(data.get("entry_id") or "")
     audio = ROOT / "audio" / f"{entry.lower()}-narration.mp3"
     if entry and audio.is_file():
@@ -1578,7 +1690,7 @@ def write_site(scenes: list) -> None:
         if thumb and not (ROOT / thumb).is_file():
             raise SystemExit(f"related thumb missing master {eid} {thumb}")
     for card in cards:
-        for key in ("file_16x9", "file_4x5", "file_16x9_day", "file_4x5_day", "file_9x16", "file_9x16_day"):
+        for key in ("file_16x9", "file_4x5", "file_16x9_day", "file_4x5_day", "file_9x16", "file_9x16_day", "file_16x9_postcard", "file_4x5_postcard", "file_9x16_postcard"):
             rel = card.get(key)
             if rel and not master_exists(rel):
                 raise SystemExit(f"gallery control for missing master {card['entry_id']} {key}")
@@ -1624,7 +1736,10 @@ def write_site(scenes: list) -> None:
         "function sceneAlt",
         "SITE_NAME",
         "lb-play",
-        "INTERVAL=6000",
+        "INTERVAL=4000",
+        "home-link",
+        "Postcard collection",
+        "file_16x9_postcard",
         'id="q"',
         'id="region"',
         'id="f-daynight"',
