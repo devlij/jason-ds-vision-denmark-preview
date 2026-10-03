@@ -6315,6 +6315,12 @@
       <image:title>Jason D’s Vision, Vamdrup</image:title>
       <image:geo_location>Vamdrup, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Vamdrup/dk-01-301-9x16.png</image:loc>
+      <image:caption>Vamdrup Church, Vamdrup</image:caption>
+      <image:title>Jason D’s Vision, Vamdrup</image:title>
+      <image:geo_location>Vamdrup, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-302</loc>
@@ -6326,6 +6332,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Gram/dk-01-302-4x5.png</image:loc>
+      <image:caption>Gram Castle, Gram</image:caption>
+      <image:title>Jason D’s Vision, Gram</image:title>
+      <image:geo_location>Gram, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Gram/dk-01-302-9x16.png</image:loc>
       <image:caption>Gram Castle, Gram</image:caption>
       <image:title>Jason D’s Vision, Gram</image:title>
       <image:geo_location>Gram, Denmark</image:geo_location>
@@ -6345,6 +6357,12 @@
       <image:title>Jason D’s Vision, Vester Vedsted</image:title>
       <image:geo_location>Vester Vedsted, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Vester%20Vedsted/dk-01-303-9x16.png</image:loc>
+      <image:caption>Wadden Sea Centre, Vester Vedsted</image:caption>
+      <image:title>Jason D’s Vision, Vester Vedsted</image:title>
+      <image:geo_location>Vester Vedsted, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-304</loc>
@@ -6356,6 +6374,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/H%C3%B8jer/dk-01-304-4x5.png</image:loc>
+      <image:caption>Højer Mill, Højer</image:caption>
+      <image:title>Jason D’s Vision, Højer</image:title>
+      <image:geo_location>Højer, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/H%C3%B8jer/dk-01-304-9x16.png</image:loc>
       <image:caption>Højer Mill, Højer</image:caption>
       <image:title>Jason D’s Vision, Højer</image:title>
       <image:geo_location>Højer, Denmark</image:geo_location>
@@ -6375,6 +6399,12 @@
       <image:title>Jason D’s Vision, Hjørring</image:title>
       <image:geo_location>Hjørring, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Hj%C3%B8rring/dk-01-305-9x16.png</image:loc>
+      <image:caption>Sankt Catharinæ Church, Hjørring</image:caption>
+      <image:title>Jason D’s Vision, Hjørring</image:title>
+      <image:geo_location>Hjørring, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-306</loc>
@@ -6386,6 +6416,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Fr%C3%B8strup/dk-01-306-4x5.png</image:loc>
+      <image:caption>Bulbjerg, Frøstrup</image:caption>
+      <image:title>Jason D’s Vision, Frøstrup</image:title>
+      <image:geo_location>Frøstrup, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Fr%C3%B8strup/dk-01-306-9x16.png</image:loc>
       <image:caption>Bulbjerg, Frøstrup</image:caption>
       <image:title>Jason D’s Vision, Frøstrup</image:title>
       <image:geo_location>Frøstrup, Denmark</image:geo_location>
@@ -6405,6 +6441,12 @@
       <image:title>Jason D’s Vision, Jelling</image:title>
       <image:geo_location>Jelling, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Jelling/dk-01-307-9x16.png</image:loc>
+      <image:caption>Kongernes Jelling, Jelling</image:caption>
+      <image:title>Jason D’s Vision, Jelling</image:title>
+      <image:geo_location>Jelling, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-308</loc>
@@ -6416,6 +6458,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Hammel/dk-01-308-4x5.png</image:loc>
+      <image:caption>Frijsenborg Castle, Hammel</image:caption>
+      <image:title>Jason D’s Vision, Hammel</image:title>
+      <image:geo_location>Hammel, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Hammel/dk-01-308-9x16.png</image:loc>
       <image:caption>Frijsenborg Castle, Hammel</image:caption>
       <image:title>Jason D’s Vision, Hammel</image:title>
       <image:geo_location>Hammel, Denmark</image:geo_location>
@@ -6435,6 +6483,12 @@
       <image:title>Jason D’s Vision, Hornslet</image:title>
       <image:geo_location>Hornslet, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Hornslet/dk-01-309-9x16.png</image:loc>
+      <image:caption>Rosenholm Castle, Hornslet</image:caption>
+      <image:title>Jason D’s Vision, Hornslet</image:title>
+      <image:geo_location>Hornslet, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-310</loc>
@@ -6446,6 +6500,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Dronninglund/dk-01-310-4x5.png</image:loc>
+      <image:caption>Voergaard Castle, Dronninglund</image:caption>
+      <image:title>Jason D’s Vision, Dronninglund</image:title>
+      <image:geo_location>Dronninglund, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Dronninglund/dk-01-310-9x16.png</image:loc>
       <image:caption>Voergaard Castle, Dronninglund</image:caption>
       <image:title>Jason D’s Vision, Dronninglund</image:title>
       <image:geo_location>Dronninglund, Denmark</image:geo_location>
@@ -6465,6 +6525,12 @@
       <image:title>Jason D’s Vision, Spøttrup</image:title>
       <image:geo_location>Spøttrup, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Sp%C3%B8ttrup/dk-01-311-9x16.png</image:loc>
+      <image:caption>Spøttrup Castle, Spøttrup</image:caption>
+      <image:title>Jason D’s Vision, Spøttrup</image:title>
+      <image:geo_location>Spøttrup, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-312</loc>
@@ -6476,6 +6542,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Vemb/dk-01-312-4x5.png</image:loc>
+      <image:caption>Nørre Vosborg, Vemb</image:caption>
+      <image:title>Jason D’s Vision, Vemb</image:title>
+      <image:geo_location>Vemb, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Vemb/dk-01-312-9x16.png</image:loc>
       <image:caption>Nørre Vosborg, Vemb</image:caption>
       <image:title>Jason D’s Vision, Vemb</image:title>
       <image:geo_location>Vemb, Denmark</image:geo_location>
