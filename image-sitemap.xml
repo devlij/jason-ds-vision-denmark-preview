@@ -5055,6 +5055,12 @@
       <image:title>Jason D’s Vision, Rønne</image:title>
       <image:geo_location>Rønne, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/R%C3%B8nne/dk-01-241-9x16.png</image:loc>
+      <image:caption>Rønne Harbour, Rønne</image:caption>
+      <image:title>Jason D’s Vision, Rønne</image:title>
+      <image:geo_location>Rønne, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-242</loc>
@@ -5066,6 +5072,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Nex%C3%B8/dk-01-242-4x5.png</image:loc>
+      <image:caption>Nexø Harbour, Nexø</image:caption>
+      <image:title>Jason D’s Vision, Nexø</image:title>
+      <image:geo_location>Nexø, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Nex%C3%B8/dk-01-242-9x16.png</image:loc>
       <image:caption>Nexø Harbour, Nexø</image:caption>
       <image:title>Jason D’s Vision, Nexø</image:title>
       <image:geo_location>Nexø, Denmark</image:geo_location>
@@ -5085,6 +5097,12 @@
       <image:title>Jason D’s Vision, Åkirkeby</image:title>
       <image:geo_location>Åkirkeby, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/%C3%85kirkeby/dk-01-243-9x16.png</image:loc>
+      <image:caption>Aa Church, Åkirkeby</image:caption>
+      <image:title>Jason D’s Vision, Åkirkeby</image:title>
+      <image:geo_location>Åkirkeby, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-244</loc>
@@ -5096,6 +5114,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/R%C3%B8/dk-01-244-4x5.png</image:loc>
+      <image:caption>Helligdomsklipperne, Rø</image:caption>
+      <image:title>Jason D’s Vision, Rø</image:title>
+      <image:geo_location>Rø, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/R%C3%B8/dk-01-244-9x16.png</image:loc>
       <image:caption>Helligdomsklipperne, Rø</image:caption>
       <image:title>Jason D’s Vision, Rø</image:title>
       <image:geo_location>Rø, Denmark</image:geo_location>
@@ -5115,6 +5139,12 @@
       <image:title>Jason D’s Vision, Vang</image:title>
       <image:geo_location>Vang, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Vang/dk-01-245-9x16.png</image:loc>
+      <image:caption>Jons Kapel, Vang</image:caption>
+      <image:title>Jason D’s Vision, Vang</image:title>
+      <image:geo_location>Vang, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-246</loc>
@@ -5126,6 +5156,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Olsker/dk-01-246-4x5.png</image:loc>
+      <image:caption>Olsker Round Church, Olsker</image:caption>
+      <image:title>Jason D’s Vision, Olsker</image:title>
+      <image:geo_location>Olsker, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Olsker/dk-01-246-9x16.png</image:loc>
       <image:caption>Olsker Round Church, Olsker</image:caption>
       <image:title>Jason D’s Vision, Olsker</image:title>
       <image:geo_location>Olsker, Denmark</image:geo_location>
@@ -5145,6 +5181,12 @@
       <image:title>Jason D’s Vision, Kirkjubøur</image:title>
       <image:geo_location>Kirkjubøur, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Kirkjub%C3%B8ur/dk-01-247-9x16.png</image:loc>
+      <image:caption>Kirkjubøur, Kirkjubøur</image:caption>
+      <image:title>Jason D’s Vision, Kirkjubøur</image:title>
+      <image:geo_location>Kirkjubøur, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-248</loc>
@@ -5156,6 +5198,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Tv%C3%B8royri/dk-01-248-4x5.png</image:loc>
+      <image:caption>Tvøroyri Harbour, Tvøroyri</image:caption>
+      <image:title>Jason D’s Vision, Tvøroyri</image:title>
+      <image:geo_location>Tvøroyri, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Tv%C3%B8royri/dk-01-248-9x16.png</image:loc>
       <image:caption>Tvøroyri Harbour, Tvøroyri</image:caption>
       <image:title>Jason D’s Vision, Tvøroyri</image:title>
       <image:geo_location>Tvøroyri, Denmark</image:geo_location>
@@ -5175,6 +5223,12 @@
       <image:title>Jason D’s Vision, Tjørnuvík</image:title>
       <image:geo_location>Tjørnuvík, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Tj%C3%B8rnuv%C3%ADk/dk-01-249-9x16.png</image:loc>
+      <image:caption>Tjørnuvík, Tjørnuvík</image:caption>
+      <image:title>Jason D’s Vision, Tjørnuvík</image:title>
+      <image:geo_location>Tjørnuvík, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-250</loc>
@@ -5186,6 +5240,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/B%C3%B8ur/dk-01-250-4x5.png</image:loc>
+      <image:caption>Bøur, Bøur</image:caption>
+      <image:title>Jason D’s Vision, Bøur</image:title>
+      <image:geo_location>Bøur, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/B%C3%B8ur/dk-01-250-9x16.png</image:loc>
       <image:caption>Bøur, Bøur</image:caption>
       <image:title>Jason D’s Vision, Bøur</image:title>
       <image:geo_location>Bøur, Denmark</image:geo_location>
@@ -5205,6 +5265,12 @@
       <image:title>Jason D’s Vision, Uummannaq</image:title>
       <image:geo_location>Uummannaq, Denmark</image:geo_location>
     </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Uummannaq/dk-01-251-9x16.png</image:loc>
+      <image:caption>Uummannaq, Uummannaq</image:caption>
+      <image:title>Jason D’s Vision, Uummannaq</image:title>
+      <image:geo_location>Uummannaq, Denmark</image:geo_location>
+    </image:image>
   </url>
   <url>
     <loc>https://devlij.github.io/jason-ds-vision-denmark-preview/#DK-01-252</loc>
@@ -5216,6 +5282,12 @@
     </image:image>
     <image:image>
       <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Nuuk/dk-01-252-4x5.png</image:loc>
+      <image:caption>Nuuk Cathedral, Nuuk</image:caption>
+      <image:title>Jason D’s Vision, Nuuk</image:title>
+      <image:geo_location>Nuuk, Denmark</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Nuuk/dk-01-252-9x16.png</image:loc>
       <image:caption>Nuuk Cathedral, Nuuk</image:caption>
       <image:title>Jason D’s Vision, Nuuk</image:title>
       <image:geo_location>Nuuk, Denmark</image:geo_location>
