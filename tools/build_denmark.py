@@ -1256,7 +1256,7 @@ const DENMARK_META = __DENMARK_META__;
           ? `<a class="download" data-dl="${fmt}" href="${esc(href)}" download="${esc(fileName(href))}">${label}</a>` : '';
         const dayBtn = (day16 || day45) ? `<button type="button" class="day-tab" data-daynight="night" aria-pressed="false" title="Toggle the daylight variant">\u2600 Daylight</button>` : '';
         const pcBtn = hasPc ? `<button type="button" class="day-tab pc-tab is-active" data-postcard="on" aria-pressed="true" title="Postcard collection">\u{1F4E9} Postcard</button>` : '';
-const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button type="button" class="day-tab night-tab" data-night="on" aria-pressed="true" title="Postcard collection">\u{1F4E9} Postcard</button>` : '';
+const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button type="button" class="night-tab${hasPc ? '' : ' is-active'}" data-night="on" aria-pressed="${hasPc ? 'false' : 'true'}" title="Show the nighttime view">\u{1F319} Night</button>` : '';
         card.innerHTML = `
           <div class="preview">
             ${thumb}
@@ -1304,6 +1304,20 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
         a.play().catch(stopCardAudio);
         return;
       }
+      const ntab = event.target.closest('.night-tab');
+      if (ntab) {
+        event.preventDefault();
+        const ncard = ntab.closest('.card');
+        if (!ncard) return;
+        ntab.classList.add('is-active');
+        ntab.setAttribute('aria-pressed', 'true');
+        const nsun = ncard.querySelector('.day-tab:not(.pc-tab)');
+        if (nsun) { nsun.classList.remove('is-active'); nsun.setAttribute('aria-pressed', 'false'); nsun.setAttribute('data-daynight', 'night'); }
+        const npc = ncard.querySelector('.pc-tab');
+        if (npc) { npc.classList.remove('is-active'); npc.setAttribute('aria-pressed', 'false'); npc.setAttribute('data-postcard', 'off'); }
+        applyVariant(ncard, 'scene');
+        return;
+      }
       const ptab = event.target.closest('.pc-tab');
       if (ptab) {
         event.preventDefault();
@@ -1313,6 +1327,7 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
         ptab.classList.toggle('is-active', on);
         ptab.setAttribute('aria-pressed', on ? 'true' : 'false');
         ptab.setAttribute('data-postcard', on ? 'on' : 'off');
+        if (on) { const pnt = card.querySelector('.night-tab'); if (pnt) { pnt.classList.remove('is-active'); pnt.setAttribute('aria-pressed', 'false'); } }
         const sun = card.querySelector('.day-tab:not(.pc-tab)');
         if (on && sun) {
           sun.classList.remove('is-active');
@@ -1337,6 +1352,8 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
           pcard.setAttribute('aria-pressed', 'false');
           pcard.setAttribute('data-postcard', 'off');
         }
+        const dnt = dcard.querySelector('.night-tab');
+        if (dnt) { dnt.classList.remove('is-active'); dnt.setAttribute('aria-pressed', 'false'); }
         applyVariant(dcard, isDay ? 'day' : 'scene');
         return;
       }
@@ -1524,9 +1541,6 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
 })();
 </script>
 
-<script>
-(function(){document.addEventListener('click',function(e){var b=e.target.closest?e.target.closest('.night-tab'):null;if(!b)return;e.preventDefault();var c=b.closest('article.card');if(!c)return;c.querySelectorAll('.pc-tab.is-active,.day-tab.is-active').forEach(function(x){x.classList.remove('is-active');x.setAttribute('aria-pressed','false');});b.classList.add('is-active');b.setAttribute('aria-pressed','true');});})();
-</script>
 </body>
 </html>"""
 
