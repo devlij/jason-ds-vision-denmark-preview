@@ -516,12 +516,13 @@ const DENMARK_META = {"DK-01-001": ["Capital Region", "night", "coastal,urban", 
           ? `<a class="download" data-dl="${fmt}" href="${esc(href)}" download="${esc(fileName(href))}">${label}</a>` : '';
         const dayBtn = (day16 || day45) ? `<button type="button" class="day-tab" data-daynight="night" aria-pressed="false" title="Toggle the daylight variant">\u2600 Daylight</button>` : '';
         const pcBtn = hasPc ? `<button type="button" class="day-tab pc-tab is-active" data-postcard="on" aria-pressed="true" title="Postcard collection">\u{1F4E9} Postcard</button>` : '';
+const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button type="button" class="day-tab night-tab" data-night="on" aria-pressed="true" title="Postcard collection">\u{1F4E9} Postcard</button>` : '';
         card.innerHTML = `
           <div class="preview">
             ${thumb}
           </div>
           ${tabs ? `<div class="fmt-tabs" role="group" aria-label="Image size">${tabs}</div>` : ''}
-          ${(dayBtn || pcBtn) ? `<div class="day-row">${dayBtn}${pcBtn}</div>` : ''}
+          ${(dayBtn || pcBtn || nightBtn) ? `<div class="day-row">${nightBtn}${dayBtn}${pcBtn}</div>` : ''}
           <div class="card-body">
             <div class="status-row">
               <div class="entry-id">${esc(s.entry_id)}</div>
@@ -781,6 +782,10 @@ const DENMARK_META = {"DK-01-001": ["Capital Region", "night", "coastal,urban", 
     document.getElementById('wotd-day').textContent='Day '+doy+' of 365';
   }catch(err){}
 })();
+</script>
+
+<script>
+(function(){document.addEventListener('click',function(e){var b=e.target.closest?e.target.closest('.night-tab'):null;if(!b)return;e.preventDefault();var c=b.closest('article.card');if(!c)return;c.querySelectorAll('.pc-tab.is-active,.day-tab.is-active').forEach(function(x){x.classList.remove('is-active');x.setAttribute('aria-pressed','false');});b.classList.add('is-active');b.setAttribute('aria-pressed','true');});})();
 </script>
 </body>
 </html>
