@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: white neoclassical palace with central cupola and formal baroque garden parterres in the foreground; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 14:57:17 Europe/Copenhagen, model-valid 14:00–14:59, scenario 14:57 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T13:22:21.924758+00:00",
   "sha256_16x9": "6e7db3bd350b35931bcde42ee2d67b65279fbc8de65801c05e7af27b312f8db2",
-  "sha256_4x5": "87e9f285db748a59ff232797429193f6269e1e292c69074ba479260d72e15208"
+  "sha256_4x5": "87e9f285db748a59ff232797429193f6269e1e292c69074ba479260d72e15208",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T18:00:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }

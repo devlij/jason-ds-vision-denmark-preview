@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: the 16:9 master shows Nordborg Castle as a white two-storey manor house with a dark hipped roof and dormers plus a gatehouse wing with an arched entry, set on a wooded peninsula above the lake with a clean reflection, morning light; the 4:5 master shows the same white manor, dark roof, granite base and arched gatehouse from a different angle with the lakeside trees and reflection — both formats agree on the subject identity. Gate 2: exact 1920x1080 + 864x1080, caption 'Nordborg Castle, Nordborg', scenario '25 September 2026 · 08:22 Europe/Copenhagen' verified on-image, signature bottom-right, AI-disclosure bottom-left legible; weather retrieved 25 September 2026 08:17:35 Europe/Copenhagen (unique to this scene repo-wide), scenario 08:22 inside the cited 08:00–08:59 model-valid hour. Gate 3: notes claim text-prompt-only lineage, no photographic reference pixels. Gate 4: no visible people or logos — documented only. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T20:22:32.278186+00:00",
   "sha256_16x9": "19fd6d2755ed5046c4ab398e10b0fcce8a95e8a6a4a716fa26e758f9c2fc3ba4",
-  "sha256_4x5": "cfadb3d81c642f31a25aba99e9afd0cf9689cbd585124310b6d7130040793a07"
+  "sha256_4x5": "cfadb3d81c642f31a25aba99e9afd0cf9689cbd585124310b6d7130040793a07",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T18:00:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }
