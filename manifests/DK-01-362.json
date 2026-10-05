@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: 16:9 master shows Thisted Church from Vestergade — whitewashed church with buttresses, grey roof, and a heavy west tower with gables and a dark pyramid spire — matching the evidence-card anchors and the Trap Danmark description; no harbour water visible; plausible street viewpoint, clean framing, no artifacts. 4:5 shows the same tower frontally — formats agree on the building's identity. Gate 2: exact caption 'Thisted Church, Thisted', scenario '25 September 2026 · 16:05 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' disclosure legible bottom-left; curly-apostrophe 'Jason D's Vision' bottom-right. Weather: per-scene Open-Meteo retrieval 25 September 2026 16:01:45 Europe/Copenhagen for its own grid, unique to this scene across the batch (13/13 timestamps unique); scenario 16:05 inside model-valid hour 16:00–16:59; the fully overcast sky matches the recorded 100% cloud cover. Gate 3: notes document text-prompt-only generation, no photographic reference pixels. Gate 4: no people, no logos, no singled-out private property. Gate 5: no blockers — approved.",
   "approved_at": "2026-09-26T22:18:28.018160+00:00",
   "sha256_16x9": "74783d254ab276f11dbea26761dc306331874825f4ec9a65f9c7c185051c6c12",
-  "sha256_4x5": "d601f6b5909d67811f90f81addc66d3d86a5710a1cfa7dd74da0b91b4e21673d"
+  "sha256_4x5": "d601f6b5909d67811f90f81addc66d3d86a5710a1cfa7dd74da0b91b4e21673d",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T18:40:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }
