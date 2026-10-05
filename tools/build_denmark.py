@@ -1190,6 +1190,52 @@ const DENMARK_META = __DENMARK_META__;
         else sc.textContent = 'Scenario: ' + (sc.getAttribute('data-scenario') || '');
       }
     }
+    const preDay916 = new WeakMap();
+    function snapshot916(card) {
+      const t916 = card.querySelector('.fmt-tab[data-format="9x16"]');
+      const dl = card.querySelector('a.download[data-dl="9x16"]');
+      if (!t916 && !dl) return null;
+      return {
+        href: dl ? (dl.getAttribute('href') || '') : '',
+        download: dl ? (dl.getAttribute('download') || '') : '',
+        hidden: dl ? dl.hidden : false,
+        disabled: t916 ? t916.disabled : false,
+        pressed: t916 ? (t916.getAttribute('aria-pressed') || 'false') : 'false',
+        active: t916 ? t916.classList.contains('is-active') : false,
+        disabledClass: t916 ? t916.classList.contains('is-disabled') : false
+      };
+    }
+    function restore916(card) {
+      const snap = preDay916.get(card);
+      if (!snap) return;
+      preDay916.delete(card);
+      const dl = card.querySelector('a.download[data-dl="9x16"]');
+      if (dl && snap.href) {
+        dl.setAttribute('href', snap.href);
+        if (snap.download) dl.setAttribute('download', snap.download);
+        dl.hidden = snap.hidden;
+      }
+      const t916 = card.querySelector('.fmt-tab[data-format="9x16"]');
+      if (!t916) return;
+      t916.disabled = snap.disabled;
+      t916.classList.toggle('is-disabled', snap.disabledClass);
+      t916.classList.toggle('is-active', snap.active);
+      t916.setAttribute('aria-pressed', snap.pressed || 'false');
+      if (!snap.active) return;
+      card.querySelectorAll('.fmt-tab').forEach((item) => {
+        if (item === t916) return;
+        item.classList.remove('is-active');
+        item.setAttribute('aria-pressed', 'false');
+      });
+      const link = card.querySelector('a.thumb');
+      const img = link && link.querySelector('img');
+      if (link && img) {
+        img.src = snap.href;
+        link.href = snap.href;
+        link.classList.remove('tall');
+        link.classList.add('tall916');
+      }
+    }
     function render() {
       const query = q.value.trim().toLowerCase();
       const reg = region.value;
@@ -1354,7 +1400,9 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
         }
         const dnt = dcard.querySelector('.night-tab');
         if (dnt) { dnt.classList.remove('is-active'); dnt.setAttribute('aria-pressed', 'false'); }
+        if (isDay) preDay916.set(dcard, snapshot916(dcard));
         applyVariant(dcard, isDay ? 'day' : 'scene');
+        if (!isDay) restore916(dcard);
         return;
       }
       const tab = event.target.closest('.fmt-tab');
