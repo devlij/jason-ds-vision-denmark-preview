@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: red-brick industrial mill complex with arched windows around a paved courtyard, water channel at right; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:00:09 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:01 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T13:22:42.894092+00:00",
   "sha256_16x9": "b8e31cb5f045b50786ae807f7fb161a18e271a5f228c72b14d853326e851bb5b",
-  "sha256_4x5": "ba82f85f438aa5bdfe50e1cf56a9ef7df5eef75aff02cd53a785b5aa8f236f60"
+  "sha256_4x5": "ba82f85f438aa5bdfe50e1cf56a9ef7df5eef75aff02cd53a785b5aa8f236f60",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T18:00:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }
