@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: long stone quay promenade with a row of moored sailboats, wide fjord waters and wooded autumn hills on the opposite shore under heavy cloud — a plausible Kolding Fjord waterfront viewpoint, clean framing with no artifacts. Gate 2: exact 1920x1080/864x1080; signature 'Jason D's Vision' bottom-right; caption 'Kolding Fjord, Kolding', scenario '25 September 2026 · 14:32 Europe/Copenhagen' and AI disclosure legible bottom-left on scrim; scenario hour inside model-valid 14:00–14:59; weather retrieval 14:32:59 unique to this scene — no shared retrieval. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no people, logos or recognizable private property visible.",
   "approved_at": "2026-09-25T13:18:40.785272+00:00",
   "sha256_16x9": "06e7d556fa8760bf674cd6899293d0f25243b170816d3c3b0e0653613faf4916",
-  "sha256_4x5": "de15c0327b043bb25927a27ff4e4a61a613b17a76398ca38def5c67c02f9110d"
+  "sha256_4x5": "de15c0327b043bb25927a27ff4e4a61a613b17a76398ca38def5c67c02f9110d",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T17:40:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }

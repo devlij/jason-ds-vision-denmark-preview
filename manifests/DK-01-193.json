@@ -62,6 +62,11 @@
       "at": "2026-09-29T05:08:32.863224+00:00",
       "by": "Cosmo QC",
       "note": "Gate 2 hold resolved (Cosmo QC, 2026-09-29): builder rework (commit 4a569d98, 2026-09-25 12:43 UTC) replaced the shared weather retrieval with a per-scene retrieval (14:32:43, cited once repo-wide per the 2026-09-29 repo-wide uniqueness scan); the weather-reuse hold is resolved and the existing approval stands on genuine reworked evidence. No re-render was needed \u2014 masters byte-unchanged since approval."
+    },
+    {
+      "at": "2026-10-05T17:40:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
     }
   ],
   "approval_status": "Approved",

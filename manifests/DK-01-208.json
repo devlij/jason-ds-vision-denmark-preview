@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: harbour quay lined with long brick warehouses and gabled brick buildings, a row of moored sailboats reflected in still harbour water, cranes and harbour buildings on the far shore under overcast sky — a plausible Fredericia Harbour waterfront viewpoint, clean framing with no artifacts. Gate 2: exact 1920x1080/864x1080; signature 'Jason D's Vision' bottom-right; caption 'Fredericia Harbour, Fredericia', scenario '25 September 2026 · 14:33 Europe/Copenhagen' and AI disclosure legible bottom-left on scrim; scenario hour inside model-valid 14:00–14:59; weather retrieval 14:33:05 unique to this scene — no shared retrieval. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no people, logos or recognizable private property visible.",
   "approved_at": "2026-09-25T13:19:09.389640+00:00",
   "sha256_16x9": "ce2fa213506042da4af81cce2a639076c957943cd6955b21fc6f0c4e696dd793",
-  "sha256_4x5": "8546a11bbf8db4fc883d06c78a4e48d6015f806e030c110c1b07efe9c24a386c"
+  "sha256_4x5": "8546a11bbf8db4fc883d06c78a4e48d6015f806e030c110c1b07efe9c24a386c",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T17:40:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }
