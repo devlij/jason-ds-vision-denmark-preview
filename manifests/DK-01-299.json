@@ -28,6 +28,11 @@
       "at": "2026-09-28T02:35:36.525018+00:00",
       "by": "Cosmo QC",
       "note": "Gate-1 hold resolved 2026-09-28 (Cosmo re-audit): the re-rendered masters show the SAME pale-stone church with red tile roof and west tower with crow-stepped gable crown in both formats (the plain-pyramid-cap vs crenellated-spire disagreement is gone); all five gates re-verified pass. Hold cleared."
+    },
+    {
+      "at": "2026-10-05T18:00:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
     }
   ],
   "hold_rerender": {

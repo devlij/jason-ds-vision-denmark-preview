@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: the 16:9 master shows Havneby Harbour with a long concrete quay, three white fishing boats moored alongside, red-roofed houses and the flat Rømø marsh under a partly cloudy morning sky; the 4:5 master shows the same concrete quay with three small white boats hauled on the pier, calm water and a distant breakwater — both formats agree on the harbour's identity. Gate 2: exact 1920x1080 + 864x1080, caption 'Havneby Harbour, Havneby', scenario '25 September 2026 · 08:21 Europe/Copenhagen' verified on-image, signature bottom-right, AI-disclosure bottom-left legible; weather retrieved 25 September 2026 08:17:33 Europe/Copenhagen (unique to this scene repo-wide), scenario 08:21 inside the cited 08:00–08:59 model-valid hour. Gate 3: notes claim text-prompt-only lineage, no photographic reference pixels. Gate 4: no visible people or readable logos on the boats — documented only. Gate 5: no open blockers.",
   "approved_at": "2026-09-26T20:22:13.930569+00:00",
   "sha256_16x9": "8879b4e778148c5dbce1a34e0b74e12a90051221c27dbeb30e57f2d7663f22ef",
-  "sha256_4x5": "ec7d5b302698627d41a3b72ba1bb94e332b8bcdb783823f1305f268a36b33888"
+  "sha256_4x5": "ec7d5b302698627d41a3b72ba1bb94e332b8bcdb783823f1305f268a36b33888",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T18:00:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }

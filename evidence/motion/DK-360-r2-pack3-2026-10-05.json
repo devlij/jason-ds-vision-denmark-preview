@@ -8,7 +8,7 @@
   "method_note": "October 2 France/Netherlands sideways sweep (ffmpeg crop glide, 18% of the 1920 plate, ease in-out, no zoom). Not image-to-video. Not the masked locked-camera ambient used in Candidate packs #32\u2013#56.",
   "i2v": "unavailable",
   "cosmo_qc": null,
-  "approval_status": "unchanged",
+  "approval_status": "Approved",
   "cdn_push": {
     "repo": "devlij/jason-ds-vision-denmark-assets",
     "branch": "main",
@@ -662,7 +662,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-298",
@@ -713,7 +721,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-299",
@@ -764,7 +780,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-300",
@@ -815,7 +839,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-301",
@@ -866,7 +898,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-302",
@@ -917,7 +957,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-303",
@@ -968,7 +1016,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-304",
@@ -1019,7 +1075,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-305",
@@ -1070,7 +1134,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-306",
@@ -1121,7 +1193,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-307",
@@ -1172,7 +1252,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-308",
@@ -1223,7 +1311,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-309",
@@ -1274,7 +1370,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-310",
@@ -1325,7 +1429,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-311",
@@ -1376,7 +1488,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-312",
@@ -1427,7 +1547,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-313",
@@ -1478,7 +1606,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-314",
@@ -1529,7 +1665,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-315",
@@ -1580,7 +1724,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     },
     {
       "entry_id": "DK-01-316",
@@ -1631,7 +1783,15 @@
         700.8
       ],
       "travel_frac": 0.18,
-      "status": "shipped"
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
     }
   ],
   "shipped": [
@@ -1722,5 +1882,38 @@
     "DK-01-271",
     "DK-01-272"
   ],
-  "qc_fail": []
+  "qc_fail": [],
+  "assets_repo_head_seen": "92ad2d5abbe5440fa57d4ae6dc204fe93d445cd5",
+  "image_assistant_qc": {
+    "by": "Image Assistant QC",
+    "date": "2026-10-05",
+    "result": "PASS",
+    "approval_status": "Approved",
+    "scenes_pass": [
+      "DK-01-297",
+      "DK-01-298",
+      "DK-01-299",
+      "DK-01-300",
+      "DK-01-301",
+      "DK-01-302",
+      "DK-01-303",
+      "DK-01-304",
+      "DK-01-305",
+      "DK-01-306",
+      "DK-01-307",
+      "DK-01-308",
+      "DK-01-309",
+      "DK-01-310",
+      "DK-01-311",
+      "DK-01-312",
+      "DK-01-313",
+      "DK-01-314",
+      "DK-01-315",
+      "DK-01-316"
+    ],
+    "scenes_fail": [],
+    "cdn_repo_tip": "dabb73b98814f56e818d3895d55fed5b828ec874",
+    "pack_asset_commit": "6df4ede5ce655c96ffef7098c5e1693c7743748c",
+    "note": "Image Assistant QC 2026-10-05. All 20 wired clips PASS. Still-card approval_status was already Approved and was not rewritten. This record is not a substitute for any earlier still-card review."
+  }
 }
