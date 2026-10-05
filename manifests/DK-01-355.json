@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: whitewashed round church with conical roof and stone bell tower, plausible Nylars; caption and scenario verified on-image. Gate 2: exact 1920x1080/864x1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 25 September 2026 16:01:25 Europe/Copenhagen, model-valid 16:00-16:59, scenario 16:03 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per build-agent notes. Gate 4: commercial/IP noted, Jason's final call. Gate 5: two-format card, both downloads, lightbox-ready.",
   "approved_at": "2026-09-25T15:45:01.778807+00:00",
   "sha256_16x9": "908a6d9d37843a61f8d07e522fc263c14c12121a64c638d6145c9f65e13d6842",
-  "sha256_4x5": "35a555aaeef74589e0115ec24ac40365c3a140cbfa8c9d8b8c0c9cef482e6878"
+  "sha256_4x5": "35a555aaeef74589e0115ec24ac40365c3a140cbfa8c9d8b8c0c9cef482e6878",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T18:45:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }

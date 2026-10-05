@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: half-timbered (bindingsværk) house with red tile roof on a cobblestone square, plausible Czarens Hus; caption and scenario verified on-image. Gate 2: exact 1920×1080/864×1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 15:24:58 Europe/Copenhagen, model-valid 15:00–15:59, scenario 15:27 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per notes, no photographic inputs. Gate 4: no people, logos, or recognizable private property reported; commercial-use disclaimer in notes. Gate 5: no open blockers.",
   "approved_at": "2026-09-25T14:15:59.977629+00:00",
   "sha256_16x9": "1449e391fa07cbad8fda41f88e1bd5f17d2577ab226ccb1d13c04e8a6e7a8b57",
-  "sha256_4x5": "d33eaefa1785f98e08eb2f85ac367f4b873be46d37438355a73d3683b1db6a48"
+  "sha256_4x5": "d33eaefa1785f98e08eb2f85ac367f4b873be46d37438355a73d3683b1db6a48",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T18:45:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }

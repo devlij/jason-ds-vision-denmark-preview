@@ -1,0 +1,2477 @@
+{
+  "work_order": "wo-360-kickoff-denmark-20261005",
+  "pack": "DK-360-r2-pack5",
+  "date": "2026-10-05",
+  "target_shipped": 20,
+  "selection_note": "Next native-daytime scenes after pack 4 (DK-01-317\u2013336). Walk starts at DK-01-337. DK-01-209\u2013272 are night in DENMARK_META and carry an interim daylight_variant; skipped. Open Candidate drafts #32\u2013#56 were not edited. Draft PRs #79, #82, #83, and #84 were not edited. Scenes already wired in those drafts were not regenerated.",
+  "method": "ken-burns-sweep",
+  "method_note": "October 2 France/Netherlands sideways sweep (ffmpeg crop glide, 18% of the 1920 plate, ease in-out, no zoom). Not image-to-video. Not the masked locked-camera ambient used in Candidate packs #32\u2013#56.",
+  "i2v": "unavailable",
+  "cosmo_qc": null,
+  "approval_status": "Approved",
+  "cdn_push": {
+    "repo": "devlij/jason-ds-vision-denmark-assets",
+    "branch": "main",
+    "tip_before_attempt": "dd672b2799f8f6d30320a2c7faaefa906fec71f0",
+    "result": "HTTP 403",
+    "actor": "cursor[bot]",
+    "message": "Permission to devlij/jason-ds-vision-denmark-assets.git denied to cursor[bot].",
+    "staged_in_preview": "assets/"
+  },
+  "spec": {
+    "width": 864,
+    "height": 1080,
+    "frames": 240,
+    "fps": 24,
+    "duration_s": 10.0,
+    "codec": "h264",
+    "pix_fmt": "yuv420p",
+    "faststart": true,
+    "audio": false,
+    "travel_frac": 0.18,
+    "window_x": [
+      355.20000000000005,
+      700.8
+    ]
+  },
+  "stopped_after_three_qc_failures": false,
+  "scenes": [
+    {
+      "entry_id": "DK-01-209",
+      "caption": "Aarhus Lystb\u00e5dehavn, Aarhus",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-210",
+      "caption": "Moesgaard Museum, H\u00f8jbjerg",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-211",
+      "caption": "Ebeltoft Harbour, Ebeltoft",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-212",
+      "caption": "Forn\u00e6s Lighthouse, Grenaa",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-213",
+      "caption": "Clausholm Castle, Voldum",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-214",
+      "caption": "N\u00f8rres\u00f8, Viborg",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-215",
+      "caption": "Langs\u00f8, Silkeborg",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-216",
+      "caption": "Bygholm Castle, Horsens",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-217",
+      "caption": "Ejer Bavneh\u00f8j, Ejer",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-218",
+      "caption": "Grindsted Torv, Grindsted",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-219",
+      "caption": "Esbjerg Harbour, Esbjerg",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-220",
+      "caption": "Kammerslusen, Ribe",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-221",
+      "caption": "Nordby Harbour, Nordby",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-222",
+      "caption": "Varde \u00c5, Varde",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-223",
+      "caption": "Ringk\u00f8bing Church, Ringk\u00f8bing",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-224",
+      "caption": "Lyngvig Lighthouse, N\u00f8rre Lyngvig",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-225",
+      "caption": "Aalborghus, Aalborg",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-226",
+      "caption": "Limfjord Bridge, N\u00f8rresundby",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-227",
+      "caption": "Skagen Harbour, Skagen",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-228",
+      "caption": "Krudtt\u00e5rnet, Frederikshavn",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-229",
+      "caption": "S\u00e6by Church, S\u00e6by",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-230",
+      "caption": "Hirtshals Harbour, Hirtshals",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-231",
+      "caption": "B\u00f8rglum Abbey, B\u00f8rglum",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-232",
+      "caption": "Blokhus Beach, Blokhus",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-233",
+      "caption": "L\u00f8nstrup Beach, L\u00f8nstrup",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-234",
+      "caption": "Vestervig Church, Vestervig",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-235",
+      "caption": "Dueholm, Nyk\u00f8bing Mors",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-236",
+      "caption": "Sten\u00f8re Quay, Fur",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-237",
+      "caption": "Struer Harbour, Struer",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-238",
+      "caption": "Stor\u00e5en, Holstebro",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-239",
+      "caption": "Bovbjerg Lighthouse, Ferring",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-240",
+      "caption": "Hanstholm Lighthouse, Hanstholm",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-241",
+      "caption": "R\u00f8nne Harbour, R\u00f8nne",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-242",
+      "caption": "Nex\u00f8 Harbour, Nex\u00f8",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-243",
+      "caption": "Aa Church, \u00c5kirkeby",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-244",
+      "caption": "Helligdomsklipperne, R\u00f8",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-245",
+      "caption": "Jons Kapel, Vang",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-246",
+      "caption": "Olsker Round Church, Olsker",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-247",
+      "caption": "Kirkjub\u00f8ur, Kirkjub\u00f8ur",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-248",
+      "caption": "Tv\u00f8royri Harbour, Tv\u00f8royri",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-249",
+      "caption": "Tj\u00f8rnuv\u00edk, Tj\u00f8rnuv\u00edk",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-250",
+      "caption": "B\u00f8ur, B\u00f8ur",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-251",
+      "caption": "Uummannaq, Uummannaq",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-252",
+      "caption": "Nuuk Cathedral, Nuuk",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-253",
+      "caption": "Nanortalik Harbour, Nanortalik",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-254",
+      "caption": "Bethel Church, Sisimiut",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-255",
+      "caption": "Kangerlussuaq Fjord, Kangerlussuaq",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-256",
+      "caption": "Ittoqqortoormiit Harbour, Ittoqqortoormiit",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-257",
+      "caption": "Helsing\u00f8r Harbour, Helsing\u00f8r",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-258",
+      "caption": "Tisvildeleje Beach, Tisvildeleje",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-259",
+      "caption": "Hornb\u00e6k Harbour, Hornb\u00e6k",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-260",
+      "caption": "Hundested Harbour, Hundested",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-261",
+      "caption": "Frederiksv\u00e6rk Canal, Frederiksv\u00e6rk",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-262",
+      "caption": "Esrum Abbey, Esrum",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-263",
+      "caption": "Bagsv\u00e6rd Lake, Bagsv\u00e6rd",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-264",
+      "caption": "Emil Holms Kanal, Copenhagen",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-265",
+      "caption": "Wilders Kanal, Copenhagen",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-266",
+      "caption": "Sluseholmen, Copenhagen",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-267",
+      "caption": "Charlottenlund Fort, Charlottenlund",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-268",
+      "caption": "Vedb\u00e6k Harbour, Vedb\u00e6k",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-269",
+      "caption": "Raadvad Mill, Raadvad",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-270",
+      "caption": "Boserup Forest, Roskilde",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-271",
+      "caption": "Ledreborg Palace, Lejre",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-272",
+      "caption": "Or\u00f8 Harbour, Or\u00f8",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-193",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-194",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-195",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-196",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-197",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-198",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-199",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-200",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-201",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-202",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-203",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-204",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-205",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-206",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-207",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-208",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-273",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-274",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-275",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-276",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-277",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-278",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-279",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-280",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-281",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-282",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-283",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-284",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-285",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-286",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-287",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-288",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-289",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-290",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-291",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-292",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-293",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-294",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-295",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-296",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-297",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-298",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-299",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-300",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-301",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-302",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-303",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-304",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-305",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-306",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-307",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-308",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-309",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-310",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-311",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-312",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-313",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-314",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-315",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-316",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-317",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-318",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-319",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-320",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-321",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-322",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-323",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-324",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-325",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-326",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-327",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-328",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-329",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-330",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-331",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-332",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-333",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-334",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-335",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-336",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-337",
+      "caption": "Assistens Cemetery, Copenhagen",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Copenhagen/dk-01-337-16x9.png",
+        "sha256": "3a98f524e9af5e41464491a71eaac6c11b049b49aacecb625314c0ef85ff9ec2",
+        "manifest_sha256": "3a98f524e9af5e41464491a71eaac6c11b049b49aacecb625314c0ef85ff9ec2",
+        "manifest_sha256_match": true,
+        "bytes": 4003452,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Copenhagen/dk-01-337-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          82.96,
+          83.74,
+          85.77,
+          85.95,
+          84.41
+        ],
+        "ends_mae": 52.502,
+        "problems": [],
+        "sha256": "15aaee7e45100410663e4b9a25d457d82b4156920f58666c24a9beb702faec6b",
+        "bytes": 848881
+      },
+      "file": "assets/dk-01-337-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-337-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-338",
+      "caption": "Grundtvig's Church, Copenhagen",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Copenhagen/dk-01-338-16x9.png",
+        "sha256": "c1d4bef55fa324e22f36e043503c54a886dc9d6ec197dce42398e0b52e1c56b3",
+        "manifest_sha256": "c1d4bef55fa324e22f36e043503c54a886dc9d6ec197dce42398e0b52e1c56b3",
+        "manifest_sha256_match": true,
+        "bytes": 3207727,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Copenhagen/dk-01-338-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          141.47,
+          146.51,
+          148.58,
+          139.2,
+          141.21
+        ],
+        "ends_mae": 56.022,
+        "problems": [],
+        "sha256": "343c2a6535d068c762f529647cb572432cfafe1ad2a6129e757c5c8873d3c325",
+        "bytes": 648873
+      },
+      "file": "assets/dk-01-338-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-338-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-339",
+      "caption": "Sankt Mari\u00e6 Kirke, Helsing\u00f8r",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Helsing\u00f8r/dk-01-339-16x9.png",
+        "sha256": "463f26554ee52e17d59d7080045eb562399bef5a94baa72774f63b3658c149e5",
+        "manifest_sha256": "463f26554ee52e17d59d7080045eb562399bef5a94baa72774f63b3658c149e5",
+        "manifest_sha256_match": true,
+        "bytes": 2847043,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Helsing%C3%B8r/dk-01-339-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          110.37,
+          113.87,
+          120.97,
+          128.94,
+          130.46
+        ],
+        "ends_mae": 47.335,
+        "problems": [],
+        "sha256": "d07880c6e743e94734ef27d79386fbcefaecf262eeed7f41f7552c1810be51e3",
+        "bytes": 673870
+      },
+      "file": "assets/dk-01-339-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-339-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-340",
+      "caption": "Sankt J\u00f8rgensbjerg, Roskilde",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Roskilde/dk-01-340-16x9.png",
+        "sha256": "1746ddc4c89de6b1f42e7f92132c223bf52aaad20907a339b2e91398074f9aa3",
+        "manifest_sha256": "1746ddc4c89de6b1f42e7f92132c223bf52aaad20907a339b2e91398074f9aa3",
+        "manifest_sha256_match": true,
+        "bytes": 2364152,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Roskilde/dk-01-340-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          137.95,
+          136.87,
+          132.57,
+          134.24,
+          133.63
+        ],
+        "ends_mae": 38.576,
+        "problems": [],
+        "sha256": "01b785531964ab8b2171d6d5f6bf0810804f98a57c5d3ee7550b4c4265fb8521",
+        "bytes": 581795
+      },
+      "file": "assets/dk-01-340-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-340-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-341",
+      "caption": "M\u00f8lleporten, Stege",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Stege/dk-01-341-16x9.png",
+        "sha256": "6036e093e2691d1747ad328686350b306bf2255e0047c45085cd2df111a49446",
+        "manifest_sha256": "6036e093e2691d1747ad328686350b306bf2255e0047c45085cd2df111a49446",
+        "manifest_sha256_match": true,
+        "bytes": 3014892,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Stege/dk-01-341-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          131.26,
+          130.47,
+          125.31,
+          118.16,
+          114.87
+        ],
+        "ends_mae": 56.56,
+        "problems": [],
+        "sha256": "0290eba2b8073e768ffc7b44b894ffc951fc556704c3e222342234c6385d3b74",
+        "bytes": 665496
+      },
+      "file": "assets/dk-01-341-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-341-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-342",
+      "caption": "Czarens Hus, Nyk\u00f8bing Falster",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Nyk\u00f8bing Falster/dk-01-342-16x9.png",
+        "sha256": "1449e391fa07cbad8fda41f88e1bd5f17d2577ab226ccb1d13c04e8a6e7a8b57",
+        "manifest_sha256": "1449e391fa07cbad8fda41f88e1bd5f17d2577ab226ccb1d13c04e8a6e7a8b57",
+        "manifest_sha256_match": true,
+        "bytes": 3028104,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Nyk%C3%B8bing%20Falster/dk-01-342-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          114.34,
+          110.88,
+          104.08,
+          96.44,
+          94.65
+        ],
+        "ends_mae": 53.447,
+        "problems": [],
+        "sha256": "310dabfc2a8492522b86ce70af04643a18eb3635050eb87a0001e56a68cc140b",
+        "bytes": 563634
+      },
+      "file": "assets/dk-01-342-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-342-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-343",
+      "caption": "Sankt Laurentii, Kerteminde",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Kerteminde/dk-01-343-16x9.png",
+        "sha256": "d13d380cea751444672ce8fb3464d2c396810f72f670ff1d28dee6612ba2b3be",
+        "manifest_sha256": "d13d380cea751444672ce8fb3464d2c396810f72f670ff1d28dee6612ba2b3be",
+        "manifest_sha256_match": true,
+        "bytes": 2271884,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Kerteminde/dk-01-343-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          138.51,
+          136.72,
+          133.69,
+          128.56,
+          127.33
+        ],
+        "ends_mae": 37.856,
+        "problems": [],
+        "sha256": "148dc9d9531305bf7592b4509eac730ef157b44c4bc86b0376f9e16afddf4483",
+        "bytes": 488260
+      },
+      "file": "assets/dk-01-343-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-343-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-344",
+      "caption": "Strandgade, Troense",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Troense/dk-01-344-16x9.png",
+        "sha256": "79d5b14189d89b587e2856a0a252058a9063fbb01cfe642cb1ab51b77c379f55",
+        "manifest_sha256": "79d5b14189d89b587e2856a0a252058a9063fbb01cfe642cb1ab51b77c379f55",
+        "manifest_sha256_match": true,
+        "bytes": 3173883,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Troense/dk-01-344-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          137.93,
+          140.64,
+          144.83,
+          148.19,
+          149.44
+        ],
+        "ends_mae": 48.895,
+        "problems": [],
+        "sha256": "9064b159e22a4fa92fa6aaa6cad590cf5932b3d1c91a7c2540ce4eed4f23b398",
+        "bytes": 629502
+      },
+      "file": "assets/dk-01-344-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-344-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-345",
+      "caption": "Sankt Nicolai Kirke, Vejle",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Vejle/dk-01-345-16x9.png",
+        "sha256": "c2bc07027d0df84a8488dcb97f22945e90fc0baee77366ba3e0f2457c87951e2",
+        "manifest_sha256": "c2bc07027d0df84a8488dcb97f22945e90fc0baee77366ba3e0f2457c87951e2",
+        "manifest_sha256_match": true,
+        "bytes": 2402960,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Vejle/dk-01-345-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          135.4,
+          133.62,
+          128.23,
+          123.19,
+          122.36
+        ],
+        "ends_mae": 48.66,
+        "problems": [],
+        "sha256": "00d356388e565c3c43212c1b1ce6a148e67a2dc4773c7bc83e57cd0b0414e2c4",
+        "bytes": 522988
+      },
+      "file": "assets/dk-01-345-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-345-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-346",
+      "caption": "Horsens Statsf\u00e6ngsel, Horsens",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Horsens/dk-01-346-16x9.png",
+        "sha256": "bdf7b9be6ab6a6326e62da84887f25a6670d8dcbf59abd58fdd86f06df3c131b",
+        "manifest_sha256": "bdf7b9be6ab6a6326e62da84887f25a6670d8dcbf59abd58fdd86f06df3c131b",
+        "manifest_sha256_match": true,
+        "bytes": 2934903,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Horsens/dk-01-346-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          108.69,
+          107.92,
+          105.22,
+          102.48,
+          101.51
+        ],
+        "ends_mae": 26.95,
+        "problems": [],
+        "sha256": "938b5612d4e2232646f63a522c74300a3a6c95cf4aed89c9b48d2eed330c46cb",
+        "bytes": 575898
+      },
+      "file": "assets/dk-01-346-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-346-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-347",
+      "caption": "Sankt Mortens Kirke, Randers",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Randers/dk-01-347-16x9.png",
+        "sha256": "7a3a7c9a4b004d622fb9b4166f94881c5dc8deadbda32069c7ad38ebfaa8ef3e",
+        "manifest_sha256": "7a3a7c9a4b004d622fb9b4166f94881c5dc8deadbda32069c7ad38ebfaa8ef3e",
+        "manifest_sha256_match": true,
+        "bytes": 2202665,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Randers/dk-01-347-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          146.6,
+          145.4,
+          140.02,
+          132.63,
+          130.19
+        ],
+        "ends_mae": 50.711,
+        "problems": [],
+        "sha256": "c2e58906a7653ea08ce4a4c7b3b90390029303745d7532b2f962609e61ccab71",
+        "bytes": 536437
+      },
+      "file": "assets/dk-01-347-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-347-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-348",
+      "caption": "\u00d8m Abbey, Emborg",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Emborg/dk-01-348-16x9.png",
+        "sha256": "2202e5434b7a3aaf204984a8bab6831e34216ddd360156646ce443cd704e0acf",
+        "manifest_sha256": "2202e5434b7a3aaf204984a8bab6831e34216ddd360156646ce443cd704e0acf",
+        "manifest_sha256_match": true,
+        "bytes": 3164484,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Emborg/dk-01-348-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          111.66,
+          114.83,
+          119.15,
+          118.9,
+          119.56
+        ],
+        "ends_mae": 32.694,
+        "problems": [],
+        "sha256": "48fba521fdcf9dfc0c0ec0c29864d5a46303a5577c8bfdc2422c83493194c41f",
+        "bytes": 620176
+      },
+      "file": "assets/dk-01-348-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-348-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-349",
+      "caption": "Skagen Odde, Skagen",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Skagen/dk-01-349-16x9.png",
+        "sha256": "965290943abffdaa17a80fed49853158b8345915c24babc26637a3d38be834d1",
+        "manifest_sha256": "965290943abffdaa17a80fed49853158b8345915c24babc26637a3d38be834d1",
+        "manifest_sha256_match": true,
+        "bytes": 3111318,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Skagen/dk-01-349-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          141.86,
+          144.62,
+          150.29,
+          153.65,
+          154.36
+        ],
+        "ends_mae": 39.51,
+        "problems": [],
+        "sha256": "6d0f3b2c25decc46d0f90d233cb8d5ad2d4abc2e2154c583a00d94f486f96b08",
+        "bytes": 567462
+      },
+      "file": "assets/dk-01-349-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-349-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-350",
+      "caption": "Mykines, Mykines",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Mykines/dk-01-350-16x9.png",
+        "sha256": "aada127f7f49a3d9e2f63ae23d0db70c21deecfb7ec6ce42070b3bff5909d776",
+        "manifest_sha256": "aada127f7f49a3d9e2f63ae23d0db70c21deecfb7ec6ce42070b3bff5909d776",
+        "manifest_sha256_match": true,
+        "bytes": 3132003,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Mykines/dk-01-350-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          116.76,
+          115.73,
+          111.33,
+          106.19,
+          103.77
+        ],
+        "ends_mae": 45.616,
+        "problems": [],
+        "sha256": "a4bfc08dee110a6fc05a55266136eb6bc22424fa32e9853112874a8e6294bc27",
+        "bytes": 611696
+      },
+      "file": "assets/dk-01-350-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-350-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-351",
+      "caption": "Tr\u00e6lan\u00edpan, Mi\u00f0v\u00e1gur",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Mi\u00f0v\u00e1gur/dk-01-351-16x9.png",
+        "sha256": "ffdfc0a8ad5f214932db9bbc7c14807e0c1b19327e904a988edfbf91d6561faf",
+        "manifest_sha256": "ffdfc0a8ad5f214932db9bbc7c14807e0c1b19327e904a988edfbf91d6561faf",
+        "manifest_sha256_match": true,
+        "bytes": 2458457,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Mi%C3%B0v%C3%A1gur/dk-01-351-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          102.87,
+          104.53,
+          108.46,
+          111.56,
+          112.2
+        ],
+        "ends_mae": 35.323,
+        "problems": [],
+        "sha256": "2c1d9971d2dbf63f9f211f16dac8f8c96a5ddf3b6b97c7dc61b0e71840e3327b",
+        "bytes": 513045
+      },
+      "file": "assets/dk-01-351-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-351-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-352",
+      "caption": "Tasiilaq Harbour, Tasiilaq",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Tasiilaq/dk-01-352-16x9.png",
+        "sha256": "9cca02c392b9dc266b67234883a43e9e27f25df26518f1c4585b2bfd2b81a529",
+        "manifest_sha256": "9cca02c392b9dc266b67234883a43e9e27f25df26518f1c4585b2bfd2b81a529",
+        "manifest_sha256_match": true,
+        "bytes": 2697680,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Tasiilaq/dk-01-352-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          114.95,
+          116.28,
+          120.16,
+          123.91,
+          124.53
+        ],
+        "ends_mae": 30.828,
+        "problems": [],
+        "sha256": "7660c6aed2836802a457b0bf7fdb29f11739becbfd9430c63c2cae1274bcb4be",
+        "bytes": 564734
+      },
+      "file": "assets/dk-01-352-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-352-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-353",
+      "caption": "Marble Church, Copenhagen",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Copenhagen/dk-01-353-16x9.png",
+        "sha256": "c70856fd8279cec01b6d287bf0d43e8e4678f318deee19778f2838e9ce6d2c89",
+        "manifest_sha256": "c70856fd8279cec01b6d287bf0d43e8e4678f318deee19778f2838e9ce6d2c89",
+        "manifest_sha256_match": true,
+        "bytes": 2092134,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Copenhagen/dk-01-353-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          137.31,
+          138.8,
+          139.41,
+          141.39,
+          142.12
+        ],
+        "ends_mae": 47.013,
+        "problems": [],
+        "sha256": "abfc240327182d5f3f4e8d7cc06828b0f825db3026b619b9a33adf880aa06a84",
+        "bytes": 546341
+      },
+      "file": "assets/dk-01-353-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-353-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-354",
+      "caption": "Ridebanen, Copenhagen",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Copenhagen/dk-01-354-16x9.png",
+        "sha256": "0682a3be421865cc6d61293ccc162b902eece3edffd4c0d4aeb950101c611977",
+        "manifest_sha256": "0682a3be421865cc6d61293ccc162b902eece3edffd4c0d4aeb950101c611977",
+        "manifest_sha256_match": true,
+        "bytes": 2599805,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Copenhagen/dk-01-354-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          156.49,
+          155.09,
+          151.85,
+          149.33,
+          148.3
+        ],
+        "ends_mae": 25.314,
+        "problems": [],
+        "sha256": "fe021d75bd4907c03a1310bb382a0bda4f6afdc1c19d18918b8aa991acad1c37",
+        "bytes": 556500
+      },
+      "file": "assets/dk-01-354-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-354-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-355",
+      "caption": "Nylars Round Church, Nylars",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Nylars/dk-01-355-16x9.png",
+        "sha256": "908a6d9d37843a61f8d07e522fc263c14c12121a64c638d6145c9f65e13d6842",
+        "manifest_sha256": "908a6d9d37843a61f8d07e522fc263c14c12121a64c638d6145c9f65e13d6842",
+        "manifest_sha256_match": true,
+        "bytes": 2263882,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Nylars/dk-01-355-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          146.12,
+          146.59,
+          146.92,
+          145.82,
+          144.77
+        ],
+        "ends_mae": 46.153,
+        "problems": [],
+        "sha256": "15d67297430eef5da766a4c388070bc5edd42cc2fdac8771dd42066ad1c595e8",
+        "bytes": 509733
+      },
+      "file": "assets/dk-01-355-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-355-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-356",
+      "caption": "Slotskirken, Hiller\u00f8d",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Hiller\u00f8d/dk-01-356-16x9.png",
+        "sha256": "22c7f933e9b0629aabb48b343a05f9f5ca1a091ff8cd3a0e448c51f2ff2f9d2c",
+        "manifest_sha256": "22c7f933e9b0629aabb48b343a05f9f5ca1a091ff8cd3a0e448c51f2ff2f9d2c",
+        "manifest_sha256_match": true,
+        "bytes": 2864211,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Hiller%C3%B8d/dk-01-356-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          132.2,
+          129.98,
+          124.68,
+          121.19,
+          121.35
+        ],
+        "ends_mae": 47.127,
+        "problems": [],
+        "sha256": "a5cab96d6b222456ef0186c49228a5d0aaf8375dc936a9393bb97293213e3502",
+        "bytes": 631971
+      },
+      "file": "assets/dk-01-356-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-356-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    }
+  ],
+  "shipped": [
+    "DK-01-337",
+    "DK-01-338",
+    "DK-01-339",
+    "DK-01-340",
+    "DK-01-341",
+    "DK-01-342",
+    "DK-01-343",
+    "DK-01-344",
+    "DK-01-345",
+    "DK-01-346",
+    "DK-01-347",
+    "DK-01-348",
+    "DK-01-349",
+    "DK-01-350",
+    "DK-01-351",
+    "DK-01-352",
+    "DK-01-353",
+    "DK-01-354",
+    "DK-01-355",
+    "DK-01-356"
+  ],
+  "skipped": [
+    "DK-01-209",
+    "DK-01-210",
+    "DK-01-211",
+    "DK-01-212",
+    "DK-01-213",
+    "DK-01-214",
+    "DK-01-215",
+    "DK-01-216",
+    "DK-01-217",
+    "DK-01-218",
+    "DK-01-219",
+    "DK-01-220",
+    "DK-01-221",
+    "DK-01-222",
+    "DK-01-223",
+    "DK-01-224",
+    "DK-01-225",
+    "DK-01-226",
+    "DK-01-227",
+    "DK-01-228",
+    "DK-01-229",
+    "DK-01-230",
+    "DK-01-231",
+    "DK-01-232",
+    "DK-01-233",
+    "DK-01-234",
+    "DK-01-235",
+    "DK-01-236",
+    "DK-01-237",
+    "DK-01-238",
+    "DK-01-239",
+    "DK-01-240",
+    "DK-01-241",
+    "DK-01-242",
+    "DK-01-243",
+    "DK-01-244",
+    "DK-01-245",
+    "DK-01-246",
+    "DK-01-247",
+    "DK-01-248",
+    "DK-01-249",
+    "DK-01-250",
+    "DK-01-251",
+    "DK-01-252",
+    "DK-01-253",
+    "DK-01-254",
+    "DK-01-255",
+    "DK-01-256",
+    "DK-01-257",
+    "DK-01-258",
+    "DK-01-259",
+    "DK-01-260",
+    "DK-01-261",
+    "DK-01-262",
+    "DK-01-263",
+    "DK-01-264",
+    "DK-01-265",
+    "DK-01-266",
+    "DK-01-267",
+    "DK-01-268",
+    "DK-01-269",
+    "DK-01-270",
+    "DK-01-271",
+    "DK-01-272",
+    "DK-01-193",
+    "DK-01-194",
+    "DK-01-195",
+    "DK-01-196",
+    "DK-01-197",
+    "DK-01-198",
+    "DK-01-199",
+    "DK-01-200",
+    "DK-01-201",
+    "DK-01-202",
+    "DK-01-203",
+    "DK-01-204",
+    "DK-01-205",
+    "DK-01-206",
+    "DK-01-207",
+    "DK-01-208",
+    "DK-01-273",
+    "DK-01-274",
+    "DK-01-275",
+    "DK-01-276",
+    "DK-01-277",
+    "DK-01-278",
+    "DK-01-279",
+    "DK-01-280",
+    "DK-01-281",
+    "DK-01-282",
+    "DK-01-283",
+    "DK-01-284",
+    "DK-01-285",
+    "DK-01-286",
+    "DK-01-287",
+    "DK-01-288",
+    "DK-01-289",
+    "DK-01-290",
+    "DK-01-291",
+    "DK-01-292",
+    "DK-01-293",
+    "DK-01-294",
+    "DK-01-295",
+    "DK-01-296",
+    "DK-01-297",
+    "DK-01-298",
+    "DK-01-299",
+    "DK-01-300",
+    "DK-01-301",
+    "DK-01-302",
+    "DK-01-303",
+    "DK-01-304",
+    "DK-01-305",
+    "DK-01-306",
+    "DK-01-307",
+    "DK-01-308",
+    "DK-01-309",
+    "DK-01-310",
+    "DK-01-311",
+    "DK-01-312",
+    "DK-01-313",
+    "DK-01-314",
+    "DK-01-315",
+    "DK-01-316",
+    "DK-01-317",
+    "DK-01-318",
+    "DK-01-319",
+    "DK-01-320",
+    "DK-01-321",
+    "DK-01-322",
+    "DK-01-323",
+    "DK-01-324",
+    "DK-01-325",
+    "DK-01-326",
+    "DK-01-327",
+    "DK-01-328",
+    "DK-01-329",
+    "DK-01-330",
+    "DK-01-331",
+    "DK-01-332",
+    "DK-01-333",
+    "DK-01-334",
+    "DK-01-335",
+    "DK-01-336"
+  ],
+  "qc_fail": [],
+  "image_assistant_qc": {
+    "by": "Image Assistant QC",
+    "date": "2026-10-05",
+    "result": "PASS",
+    "approval_status": "Approved",
+    "scenes_pass": [
+      "DK-01-337",
+      "DK-01-338",
+      "DK-01-339",
+      "DK-01-340",
+      "DK-01-341",
+      "DK-01-342",
+      "DK-01-343",
+      "DK-01-344",
+      "DK-01-345",
+      "DK-01-346",
+      "DK-01-347",
+      "DK-01-348",
+      "DK-01-349",
+      "DK-01-350",
+      "DK-01-351",
+      "DK-01-352",
+      "DK-01-353",
+      "DK-01-354",
+      "DK-01-355",
+      "DK-01-356"
+    ],
+    "scenes_fail": [],
+    "cdn_repo_tip": "dabb73b98814f56e818d3895d55fed5b828ec874",
+    "pack_asset_commit": "7803f7211d03f2afa39e2fcce8a5e2f31a448a8d",
+    "note": "Image Assistant QC 2026-10-05. All 20 wired clips PASS. Still-card approval_status was already Approved and was not rewritten. This record is not a substitute for any earlier still-card review."
+  }
+}
