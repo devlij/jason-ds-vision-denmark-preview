@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: cliff-top view over the optical-illusion lake above the ocean, plausible Traelanipan; caption and scenario verified on-image. Gate 2: exact 1920x1080/864x1080 masters with Art. 50 metadata; unique Open-Meteo retrieval 25 September 2026 15:25:15 Europe/Copenhagen, model-valid 15:00-15:59, scenario 15:30 inside it; caption/scenario/signature/disclosure baked and legible. Gate 3: text-prompt-only per build-agent notes. Gate 4: commercial/IP noted, Jason's final call. Gate 5: two-format card, both downloads, lightbox-ready.",
   "approved_at": "2026-09-25T15:44:39.670103+00:00",
   "sha256_16x9": "ffdfc0a8ad5f214932db9bbc7c14807e0c1b19327e904a988edfbf91d6561faf",
-  "sha256_4x5": "fa3487f47f971efa49bdd39d5d53d3d79816709197035e2b58aedd1e4a16e707"
+  "sha256_4x5": "fa3487f47f971efa49bdd39d5d53d3d79816709197035e2b58aedd1e4a16e707",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T18:45:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }
