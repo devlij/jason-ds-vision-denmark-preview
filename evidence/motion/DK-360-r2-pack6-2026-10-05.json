@@ -1,0 +1,1853 @@
+{
+  "work_order": "wo-360-kickoff-denmark-20261005",
+  "pack": "DK-360-r2-pack6",
+  "date": "2026-10-05",
+  "target_shipped": 9,
+  "selection_note": "Remaining native-daytime scenes through DK-01-365 after pack 5 (DK-01-337\u2013356). Walk is DK-01-357 through DK-01-365. DK-01-209\u2013272 are night in DENMARK_META and carry an interim daylight_variant; skipped. Open Candidate drafts #32\u2013#56 were not edited. Draft PRs #79, #82, #83, #84, and #85 were not edited. Scenes already wired in those drafts were not regenerated.",
+  "method": "ken-burns-sweep",
+  "method_note": "October 2 France/Netherlands sideways sweep (ffmpeg crop glide, 18% of the 1920 plate, ease in-out, no zoom). Not image-to-video. Not the masked locked-camera ambient used in Candidate packs #32\u2013#56.",
+  "i2v": "unavailable",
+  "cosmo_qc": null,
+  "approval_status": "unchanged",
+  "cdn_push": "denied",
+  "spec": {
+    "width": 864,
+    "height": 1080,
+    "frames": 240,
+    "fps": 24,
+    "duration_s": 10.0,
+    "codec": "h264",
+    "pix_fmt": "yuv420p",
+    "faststart": true,
+    "audio": false,
+    "travel_frac": 0.18,
+    "window_x": [
+      355.20000000000005,
+      700.8
+    ]
+  },
+  "stopped_after_three_qc_failures": false,
+  "scenes": [
+    {
+      "entry_id": "DK-01-209",
+      "caption": "Aarhus Lystb\u00e5dehavn, Aarhus",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-210",
+      "caption": "Moesgaard Museum, H\u00f8jbjerg",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-211",
+      "caption": "Ebeltoft Harbour, Ebeltoft",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-212",
+      "caption": "Forn\u00e6s Lighthouse, Grenaa",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-213",
+      "caption": "Clausholm Castle, Voldum",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-214",
+      "caption": "N\u00f8rres\u00f8, Viborg",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-215",
+      "caption": "Langs\u00f8, Silkeborg",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-216",
+      "caption": "Bygholm Castle, Horsens",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-217",
+      "caption": "Ejer Bavneh\u00f8j, Ejer",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-218",
+      "caption": "Grindsted Torv, Grindsted",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-219",
+      "caption": "Esbjerg Harbour, Esbjerg",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-220",
+      "caption": "Kammerslusen, Ribe",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-221",
+      "caption": "Nordby Harbour, Nordby",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-222",
+      "caption": "Varde \u00c5, Varde",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-223",
+      "caption": "Ringk\u00f8bing Church, Ringk\u00f8bing",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-224",
+      "caption": "Lyngvig Lighthouse, N\u00f8rre Lyngvig",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-225",
+      "caption": "Aalborghus, Aalborg",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-226",
+      "caption": "Limfjord Bridge, N\u00f8rresundby",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-227",
+      "caption": "Skagen Harbour, Skagen",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-228",
+      "caption": "Krudtt\u00e5rnet, Frederikshavn",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-229",
+      "caption": "S\u00e6by Church, S\u00e6by",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-230",
+      "caption": "Hirtshals Harbour, Hirtshals",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-231",
+      "caption": "B\u00f8rglum Abbey, B\u00f8rglum",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-232",
+      "caption": "Blokhus Beach, Blokhus",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-233",
+      "caption": "L\u00f8nstrup Beach, L\u00f8nstrup",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-234",
+      "caption": "Vestervig Church, Vestervig",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-235",
+      "caption": "Dueholm, Nyk\u00f8bing Mors",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-236",
+      "caption": "Sten\u00f8re Quay, Fur",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-237",
+      "caption": "Struer Harbour, Struer",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-238",
+      "caption": "Stor\u00e5en, Holstebro",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-239",
+      "caption": "Bovbjerg Lighthouse, Ferring",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-240",
+      "caption": "Hanstholm Lighthouse, Hanstholm",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-241",
+      "caption": "R\u00f8nne Harbour, R\u00f8nne",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-242",
+      "caption": "Nex\u00f8 Harbour, Nex\u00f8",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-243",
+      "caption": "Aa Church, \u00c5kirkeby",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-244",
+      "caption": "Helligdomsklipperne, R\u00f8",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-245",
+      "caption": "Jons Kapel, Vang",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-246",
+      "caption": "Olsker Round Church, Olsker",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-247",
+      "caption": "Kirkjub\u00f8ur, Kirkjub\u00f8ur",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-248",
+      "caption": "Tv\u00f8royri Harbour, Tv\u00f8royri",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-249",
+      "caption": "Tj\u00f8rnuv\u00edk, Tj\u00f8rnuv\u00edk",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-250",
+      "caption": "B\u00f8ur, B\u00f8ur",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-251",
+      "caption": "Uummannaq, Uummannaq",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-252",
+      "caption": "Nuuk Cathedral, Nuuk",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-253",
+      "caption": "Nanortalik Harbour, Nanortalik",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-254",
+      "caption": "Bethel Church, Sisimiut",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-255",
+      "caption": "Kangerlussuaq Fjord, Kangerlussuaq",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-256",
+      "caption": "Ittoqqortoormiit Harbour, Ittoqqortoormiit",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-257",
+      "caption": "Helsing\u00f8r Harbour, Helsing\u00f8r",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-258",
+      "caption": "Tisvildeleje Beach, Tisvildeleje",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-259",
+      "caption": "Hornb\u00e6k Harbour, Hornb\u00e6k",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-260",
+      "caption": "Hundested Harbour, Hundested",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-261",
+      "caption": "Frederiksv\u00e6rk Canal, Frederiksv\u00e6rk",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-262",
+      "caption": "Esrum Abbey, Esrum",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-263",
+      "caption": "Bagsv\u00e6rd Lake, Bagsv\u00e6rd",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-264",
+      "caption": "Emil Holms Kanal, Copenhagen",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-265",
+      "caption": "Wilders Kanal, Copenhagen",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-266",
+      "caption": "Sluseholmen, Copenhagen",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-267",
+      "caption": "Charlottenlund Fort, Charlottenlund",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-268",
+      "caption": "Vedb\u00e6k Harbour, Vedb\u00e6k",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-269",
+      "caption": "Raadvad Mill, Raadvad",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-270",
+      "caption": "Boserup Forest, Roskilde",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-271",
+      "caption": "Ledreborg Palace, Lejre",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-272",
+      "caption": "Or\u00f8 Harbour, Or\u00f8",
+      "status": "skipped",
+      "reason": "DENMARK_META time is night; interim daylight_variant present; night-only / interim-daylight skipped",
+      "meta_time": "night",
+      "interim_daylight": true,
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-193",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-194",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-195",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-196",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-197",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-198",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-199",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-200",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-201",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-202",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-203",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-204",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-205",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-206",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-207",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-208",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-273",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-274",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-275",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-276",
+      "status": "skipped",
+      "reason": "already wired in pack 1 draft PR #79",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-277",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-278",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-279",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-280",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-281",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-282",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-283",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-284",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-285",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-286",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-287",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-288",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-289",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-290",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-291",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-292",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-293",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-294",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-295",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-296",
+      "status": "skipped",
+      "reason": "already wired in pack 2 draft PR #82",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-297",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-298",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-299",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-300",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-301",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-302",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-303",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-304",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-305",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-306",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-307",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-308",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-309",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-310",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-311",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-312",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-313",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-314",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-315",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-316",
+      "status": "skipped",
+      "reason": "already wired in pack 3 draft PR #83",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-317",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-318",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-319",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-320",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-321",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-322",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-323",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-324",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-325",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-326",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-327",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-328",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-329",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-330",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-331",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-332",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-333",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-334",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-335",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-336",
+      "status": "skipped",
+      "reason": "already wired in pack 4 draft PR #84",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-337",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-338",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-339",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-340",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-341",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-342",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-343",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-344",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-345",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-346",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-347",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-348",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-349",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-350",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-351",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-352",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-353",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-354",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-355",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-356",
+      "status": "skipped",
+      "reason": "already wired in pack 5 draft PR #85",
+      "attempts": 0
+    },
+    {
+      "entry_id": "DK-01-357",
+      "caption": "Lerchenborg, Kalundborg",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Kalundborg/dk-01-357-16x9.png",
+        "sha256": "7c014f794166056f867a196a3aca6895096e31486d3137a1d59b25f643b6df89",
+        "manifest_sha256": "7c014f794166056f867a196a3aca6895096e31486d3137a1d59b25f643b6df89",
+        "manifest_sha256_match": true,
+        "bytes": 3281531,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Kalundborg/dk-01-357-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          138.14,
+          141.08,
+          144.91,
+          142.91,
+          142.44
+        ],
+        "ends_mae": 50.355,
+        "problems": [],
+        "sha256": "308868128fa4aabd6c5c19bc7be65886632d26a33fbcb7ffc509ff0c101538a0",
+        "bytes": 663568
+      },
+      "file": "assets/dk-01-357-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-357-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped"
+    },
+    {
+      "entry_id": "DK-01-358",
+      "caption": "Gavn\u00f8 Castle, N\u00e6stved",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/N\u00e6stved/dk-01-358-16x9.png",
+        "sha256": "137a76da3d0420a168bdcc9a5ea7aaedf0b4970dbef046217eaa6b2446484792",
+        "manifest_sha256": "137a76da3d0420a168bdcc9a5ea7aaedf0b4970dbef046217eaa6b2446484792",
+        "manifest_sha256_match": true,
+        "bytes": 2383280,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/N%C3%A6stved/dk-01-358-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          141.6,
+          143.4,
+          146.45,
+          143.26,
+          141.67
+        ],
+        "ends_mae": 30.25,
+        "problems": [],
+        "sha256": "0df5e2780f86dbf2ba377d87b8870be303928b511342548c9c77cf49f10fa4f7",
+        "bytes": 593654
+      },
+      "file": "assets/dk-01-358-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-358-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped"
+    },
+    {
+      "entry_id": "DK-01-359",
+      "caption": "Hellig\u00e5ndskirken, Faaborg",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Faaborg/dk-01-359-16x9.png",
+        "sha256": "68e5c0fa6b65e4dc5f1d4f282a4b8df82fac65017d4183f17cfbcf8aec10afe5",
+        "manifest_sha256": "68e5c0fa6b65e4dc5f1d4f282a4b8df82fac65017d4183f17cfbcf8aec10afe5",
+        "manifest_sha256_match": true,
+        "bytes": 2272260,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Faaborg/dk-01-359-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          127.85,
+          129.75,
+          130.43,
+          128.75,
+          128.73
+        ],
+        "ends_mae": 28.28,
+        "problems": [],
+        "sha256": "9c4a5979df2690c7586df6f109a40bde00fe5c2f8462b45fc50f9b5d0a9cf0b2",
+        "bytes": 515026
+      },
+      "file": "assets/dk-01-359-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-359-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped"
+    },
+    {
+      "entry_id": "DK-01-360",
+      "caption": "Skibbroen, Ribe",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Ribe/dk-01-360-16x9.png",
+        "sha256": "7031d6387eccdcaa335cdc78be4dbecf101c1db7d1a6de3e1d270feaca9931d0",
+        "manifest_sha256": "7031d6387eccdcaa335cdc78be4dbecf101c1db7d1a6de3e1d270feaca9931d0",
+        "manifest_sha256_match": true,
+        "bytes": 2401857,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Ribe/dk-01-360-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          130.46,
+          130.95,
+          128.25,
+          124.85,
+          124.27
+        ],
+        "ends_mae": 35.812,
+        "problems": [],
+        "sha256": "80cc6f3d72a7de3a80afb4a3547fd90417e12abd7492b32a2d534fc9d9419225",
+        "bytes": 520064
+      },
+      "file": "assets/dk-01-360-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-360-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped"
+    },
+    {
+      "entry_id": "DK-01-361",
+      "caption": "L\u00f8gumkloster, L\u00f8gumkloster",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/L\u00f8gumkloster/dk-01-361-16x9.png",
+        "sha256": "8b05819b572f86fb7eaa2eefdca3359feb6d30086e0139dd1554de3b19f43c16",
+        "manifest_sha256": "8b05819b572f86fb7eaa2eefdca3359feb6d30086e0139dd1554de3b19f43c16",
+        "manifest_sha256_match": true,
+        "bytes": 2788739,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/L%C3%B8gumkloster/dk-01-361-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          125.89,
+          125.86,
+          130.01,
+          135.05,
+          135.42
+        ],
+        "ends_mae": 37.957,
+        "problems": [],
+        "sha256": "b91d39d6cd8cf2064a51c01fba9cf1859254fe700d5345ad6b36aaa3e1144f3a",
+        "bytes": 655897
+      },
+      "file": "assets/dk-01-361-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-361-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped"
+    },
+    {
+      "entry_id": "DK-01-362",
+      "caption": "Thisted Church, Thisted",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Thisted/dk-01-362-16x9.png",
+        "sha256": "74783d254ab276f11dbea26761dc306331874825f4ec9a65f9c7c185051c6c12",
+        "manifest_sha256": "74783d254ab276f11dbea26761dc306331874825f4ec9a65f9c7c185051c6c12",
+        "manifest_sha256_match": true,
+        "bytes": 2136099,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Thisted/dk-01-362-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          167.99,
+          170.13,
+          171.01,
+          167.38,
+          166.36
+        ],
+        "ends_mae": 33.267,
+        "problems": [],
+        "sha256": "0b2509bc6d8989a6e8b1a1e22f8c6098e4c362f06b856d9af6b75c7acbe19999",
+        "bytes": 473804
+      },
+      "file": "assets/dk-01-362-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-362-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped"
+    },
+    {
+      "entry_id": "DK-01-363",
+      "caption": "Vi\u00f0arei\u00f0i, Vi\u00f0arei\u00f0i",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Vi\u00f0arei\u00f0i/dk-01-363-16x9.png",
+        "sha256": "0ded974f0834bd29076ace9f6b3e78d1546dea7f67b929ed718ed961425fd1e6",
+        "manifest_sha256": "0ded974f0834bd29076ace9f6b3e78d1546dea7f67b929ed718ed961425fd1e6",
+        "manifest_sha256_match": true,
+        "bytes": 2786074,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Vi%C3%B0arei%C3%B0i/dk-01-363-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          124.53,
+          122.11,
+          115.44,
+          109.43,
+          107.67
+        ],
+        "ends_mae": 41.803,
+        "problems": [],
+        "sha256": "44db96474288936c0ec7098d7655af21b3b4752ebe646504109f3ef133977b1e",
+        "bytes": 587944
+      },
+      "file": "assets/dk-01-363-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-363-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped"
+    },
+    {
+      "entry_id": "DK-01-364",
+      "caption": "Aasiaat Harbour, Aasiaat",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Aasiaat/dk-01-364-16x9.png",
+        "sha256": "5bb642334c0626e7e0c602d8282cdba388274919c377d98b919f7cf2d455e025",
+        "manifest_sha256": "5bb642334c0626e7e0c602d8282cdba388274919c377d98b919f7cf2d455e025",
+        "manifest_sha256_match": true,
+        "bytes": 2314366,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Aasiaat/dk-01-364-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          121.38,
+          122.17,
+          124.03,
+          124.95,
+          125.64
+        ],
+        "ends_mae": 30.105,
+        "problems": [],
+        "sha256": "3a671426c7a6f3711ef34c076cdc5d58e85caf7b2c67f84f71b6a7dc64a54abe",
+        "bytes": 573137
+      },
+      "file": "assets/dk-01-364-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-364-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped"
+    },
+    {
+      "entry_id": "DK-01-365",
+      "caption": "Kolonihavnen, Nuuk",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Nuuk/dk-01-365-16x9.png",
+        "sha256": "9aa25c0e1f7dda3ab470cd5bb33ab9c6d14e8f92e47d5fbd248f8c039dda3b56",
+        "manifest_sha256": "9aa25c0e1f7dda3ab470cd5bb33ab9c6d14e8f92e47d5fbd248f8c039dda3b56",
+        "manifest_sha256_match": true,
+        "bytes": 2353358,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Nuuk/dk-01-365-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          107.08,
+          109.98,
+          113.84,
+          114.36,
+          113.82
+        ],
+        "ends_mae": 33.211,
+        "problems": [],
+        "sha256": "f0d4f882d8e15043e98ea39e4ebf7f9f4366c16aba01de2b8c97d785c5aa3469",
+        "bytes": 584047
+      },
+      "file": "assets/dk-01-365-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-365-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped"
+    }
+  ],
+  "shipped": [
+    "DK-01-357",
+    "DK-01-358",
+    "DK-01-359",
+    "DK-01-360",
+    "DK-01-361",
+    "DK-01-362",
+    "DK-01-363",
+    "DK-01-364",
+    "DK-01-365"
+  ],
+  "skipped": [
+    "DK-01-209",
+    "DK-01-210",
+    "DK-01-211",
+    "DK-01-212",
+    "DK-01-213",
+    "DK-01-214",
+    "DK-01-215",
+    "DK-01-216",
+    "DK-01-217",
+    "DK-01-218",
+    "DK-01-219",
+    "DK-01-220",
+    "DK-01-221",
+    "DK-01-222",
+    "DK-01-223",
+    "DK-01-224",
+    "DK-01-225",
+    "DK-01-226",
+    "DK-01-227",
+    "DK-01-228",
+    "DK-01-229",
+    "DK-01-230",
+    "DK-01-231",
+    "DK-01-232",
+    "DK-01-233",
+    "DK-01-234",
+    "DK-01-235",
+    "DK-01-236",
+    "DK-01-237",
+    "DK-01-238",
+    "DK-01-239",
+    "DK-01-240",
+    "DK-01-241",
+    "DK-01-242",
+    "DK-01-243",
+    "DK-01-244",
+    "DK-01-245",
+    "DK-01-246",
+    "DK-01-247",
+    "DK-01-248",
+    "DK-01-249",
+    "DK-01-250",
+    "DK-01-251",
+    "DK-01-252",
+    "DK-01-253",
+    "DK-01-254",
+    "DK-01-255",
+    "DK-01-256",
+    "DK-01-257",
+    "DK-01-258",
+    "DK-01-259",
+    "DK-01-260",
+    "DK-01-261",
+    "DK-01-262",
+    "DK-01-263",
+    "DK-01-264",
+    "DK-01-265",
+    "DK-01-266",
+    "DK-01-267",
+    "DK-01-268",
+    "DK-01-269",
+    "DK-01-270",
+    "DK-01-271",
+    "DK-01-272",
+    "DK-01-193",
+    "DK-01-194",
+    "DK-01-195",
+    "DK-01-196",
+    "DK-01-197",
+    "DK-01-198",
+    "DK-01-199",
+    "DK-01-200",
+    "DK-01-201",
+    "DK-01-202",
+    "DK-01-203",
+    "DK-01-204",
+    "DK-01-205",
+    "DK-01-206",
+    "DK-01-207",
+    "DK-01-208",
+    "DK-01-273",
+    "DK-01-274",
+    "DK-01-275",
+    "DK-01-276",
+    "DK-01-277",
+    "DK-01-278",
+    "DK-01-279",
+    "DK-01-280",
+    "DK-01-281",
+    "DK-01-282",
+    "DK-01-283",
+    "DK-01-284",
+    "DK-01-285",
+    "DK-01-286",
+    "DK-01-287",
+    "DK-01-288",
+    "DK-01-289",
+    "DK-01-290",
+    "DK-01-291",
+    "DK-01-292",
+    "DK-01-293",
+    "DK-01-294",
+    "DK-01-295",
+    "DK-01-296",
+    "DK-01-297",
+    "DK-01-298",
+    "DK-01-299",
+    "DK-01-300",
+    "DK-01-301",
+    "DK-01-302",
+    "DK-01-303",
+    "DK-01-304",
+    "DK-01-305",
+    "DK-01-306",
+    "DK-01-307",
+    "DK-01-308",
+    "DK-01-309",
+    "DK-01-310",
+    "DK-01-311",
+    "DK-01-312",
+    "DK-01-313",
+    "DK-01-314",
+    "DK-01-315",
+    "DK-01-316",
+    "DK-01-317",
+    "DK-01-318",
+    "DK-01-319",
+    "DK-01-320",
+    "DK-01-321",
+    "DK-01-322",
+    "DK-01-323",
+    "DK-01-324",
+    "DK-01-325",
+    "DK-01-326",
+    "DK-01-327",
+    "DK-01-328",
+    "DK-01-329",
+    "DK-01-330",
+    "DK-01-331",
+    "DK-01-332",
+    "DK-01-333",
+    "DK-01-334",
+    "DK-01-335",
+    "DK-01-336",
+    "DK-01-337",
+    "DK-01-338",
+    "DK-01-339",
+    "DK-01-340",
+    "DK-01-341",
+    "DK-01-342",
+    "DK-01-343",
+    "DK-01-344",
+    "DK-01-345",
+    "DK-01-346",
+    "DK-01-347",
+    "DK-01-348",
+    "DK-01-349",
+    "DK-01-350",
+    "DK-01-351",
+    "DK-01-352",
+    "DK-01-353",
+    "DK-01-354",
+    "DK-01-355",
+    "DK-01-356"
+  ],
+  "qc_fail": [],
+  "cdn_push_detail": {
+    "repo": "devlij/jason-ds-vision-denmark-assets",
+    "branch": "main",
+    "http": 403,
+    "error": "Permission to devlij/jason-ds-vision-denmark-assets.git denied to cursor[bot].",
+    "assets_repo_tip_before_attempt": "7803f7211d03f2afa39e2fcce8a5e2f31a448a8d",
+    "assets_repo_tip_message": "Denmark 360 DK-01-337\u2013356 static-ambient (CDN; preview #85 stays draft)"
+  }
+}
