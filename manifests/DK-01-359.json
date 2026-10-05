@@ -17,5 +17,12 @@
   "approval_basis": "DK-01-359 Helligandskirken five-gate independent audit (Cosmo, 2026-09-26): G1 visual/location: independent read of both downloaded masters shows long yellow church hall, red tile roof, small dark ridge turret, churchyard with gravestones, overcast gray sky; both formats depict the same church and agree on all defining features. No free-standing clock tower, matching the evidence card (bells hang in the separate Klokketarn, DK-01-116). On-image caption 'Helligandskirken, Faaborg', scenario '25 September 2026 · 16:08 Europe/Copenhagen', AI disclosure and curly-apostrophe 'Jason D's Vision' signature all baked and legible. No readable boards, no lettering, no artifacts. G2 scenario/weather: Open-Meteo model data retrieved 25 September 2026 16:01:36 Europe/Copenhagen, valid hour 16:00-16:59, cited model step 16:00 — overcast, 17.5C, cloud cover 86%, wind 18.0 km/h, no precipitation, is_day 1. Matches both frames' overcast sky. Retrieval timestamp verified unique repo-wide: no other scene in the 408-note set shares this timestamp to the second. G3 originality/provenance: builder evidence card documents text-prompt-only generation, no photographic reference pixels (16:9 Lanczos resample of 1280x720 JPEG; 4:5 centered crop of 864x1152 JPEG) — original synthetic interpretation, no source-pixel reuse. G4 commercial/IP: interior altarpieces not shown, no readable boards; internal editorial note only, not a legal certification. G5 publication readiness: exact 1920x1080 and 864x1080 masters per sweep mechanical check, all required on-image text present on both, Art.50 PNG text chunks embedded after pixel write per evidence card. Approved.",
   "approved_at": "2026-09-26T21:24:28.966514+00:00",
   "sha256_16x9": "68e5c0fa6b65e4dc5f1d4f282a4b8df82fac65017d4183f17cfbcf8aec10afe5",
-  "sha256_4x5": "c1f5cbcc97ae0fccb4c18bf658095e5aca54488c1dd68438659d0565ca292cfb"
+  "sha256_4x5": "c1f5cbcc97ae0fccb4c18bf658095e5aca54488c1dd68438659d0565ca292cfb",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T18:40:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }

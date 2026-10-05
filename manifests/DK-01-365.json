@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1 visual: both masters read directly — 16:9 shows a long row of red and ochre wooden colonial buildings on a stone quay with small motorboats and a red-hulled fishing boat, rocky shoreline, mountain backdrop; 4:5 shows the same subject family from a different angle (red wooden houses along a rocky quay, boats in a cove, rocky foreground). Both match the card description (red and ochre wooden buildings on a rocky quay, a few small boats) with no defining-feature contradiction between formats; clean framing, no artifacts. Gate 2 technical: sweep verified exact 1920x1080 / 864x1080; on-image text verified — 'Kolonihavnen, Nuuk', 'Scenario: 25 September 2026 · 16:05 Europe/Copenhagen', and 'AI-generated artistic interpretation · Not a photograph.' bottom-left on the gradient scrim, 'Jason D's Vision' (curly apostrophe) bottom-right, legible and not interfering. Weather: Open-Meteo retrieval recorded 25 September 2026 16:01:54 Europe/Copenhagen, valid hour 16:00–16:59, scenario 16:05 falls inside the model-valid hour; timestamp verified unique across the full DK-01-353–365 build window (13 sequential 3-second-apart fetches, zero duplicate timestamps — no shared retrieval). Gate 3 provenance: notes state text-prompt-only generation, no photographic reference pixels. Gate 4 commercial/IP: no visible people, no logos, historic colonial waterfront buildings; noted for Jason's final call, nothing chain-certified. Gate 5: all gates pass, no open blockers.",
   "approved_at": "2026-09-26T23:32:22.544692+00:00",
   "sha256_16x9": "9aa25c0e1f7dda3ab470cd5bb33ab9c6d14e8f92e47d5fbd248f8c039dda3b56",
-  "sha256_4x5": "b15cb0be56cbbfdc53c6064b9ad052a34a16943aeed014424fb77bd6574abb37"
+  "sha256_4x5": "b15cb0be56cbbfdc53c6064b9ad052a34a16943aeed014424fb77bd6574abb37",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T18:40:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }
