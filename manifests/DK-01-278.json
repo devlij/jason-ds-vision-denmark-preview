@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: terraced grassy slopes fall from a cliff top to a shingle beach, the morning sun low over the sea at right — a plausible Voderup Klint view; clean framing, no artifacts. Gate 2: both masters exact dims (sweep mechanical PASS); 16:9 and 4:5 agree on subject (terraced cliff + beach + sunlit sea). On-image caption 'Voderup Klint, Voderup', scenario '25 September 2026 · 07:18 Europe/Copenhagen', AI-disclosure bottom-left, 'Jason D's Vision' (curly apostrophe) bottom-right, legible. Weather: Open-Meteo retrieval 25 September 2026 07:15:53 Europe/Copenhagen — unique to the second repo-wide per Cosmo's 408-note scan; scenario 07:18 inside model-valid hour 07:00–07:59. Gate 3: per-entry note documents text-prompt-only generation, no photographic pixels. Gate 4: no people, no logos, no structures. Gate 5: publication-ready.",
   "approved_at": "2026-09-26T16:36:16.175638+00:00",
   "sha256_16x9": "caba2ecab7b4f7eeae49ae2c583a53613f424e15b769e3a98e300d11405d36c9",
-  "sha256_4x5": "0014e3dca2dc828b503bb1c6a01feaa4288a71b2d6192d62f64fd43b4316178e"
+  "sha256_4x5": "0014e3dca2dc828b503bb1c6a01feaa4288a71b2d6192d62f64fd43b4316178e",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T17:42:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }

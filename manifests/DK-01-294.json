@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: both masters show Skive Harbour — cobbled quay edge, moored white fishing boat and sailboats, red-roofed waterfront houses in white, yellow and brown, calm water with cloud reflections under broken altocumulus; same harbour, matching viewpoint, clean framing, no artifacts. Gate 2: exact 1920x1080 and 864x1080; on-image 'Skive Harbour, Skive', 'Scenario: 25 September 2026 · 07:39 Europe/Copenhagen' inside the note's model-valid hour 07:00-07:59, 'AI-generated artistic interpretation · Not a photograph.' disclosure, and curly-apostrophe 'Jason D's Vision' signature — all legible on the gradient scrim; Open-Meteo retrieval 25 Sep 2026 07:36:37 Europe/Copenhagen unique to this scene repo-wide (neighbors at :35 and :39), cloud cover 72% consistent with the broken cloud shown; Art. 50 PNG metadata present. Gate 3: text-prompt-only per the builder note, no photographic inputs. Gate 4: no visible people, no readable boat names or logos; documented only. Gate 5: all gates pass — publish.",
   "approved_at": "2026-09-26T18:31:12.114688+00:00",
   "sha256_16x9": "224e8d6c03451950bd70ab0b094a4035e77fa5f2e87eef2293bc243bd472df89",
-  "sha256_4x5": "3cceb9bfdfa90a5de5ffd576da9c4bf1ea697821f211a722a898b9dd845de0d3"
+  "sha256_4x5": "3cceb9bfdfa90a5de5ffd576da9c4bf1ea697821f211a722a898b9dd845de0d3",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T17:42:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }
