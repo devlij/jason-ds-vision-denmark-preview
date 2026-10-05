@@ -867,6 +867,15 @@ PAGE = r"""<!DOCTYPE html>
     .day-row button.day-tab.pc-tab.is-active {
       background: #1f6b4a; border-color: #1f6b4a; color: #f4fff8; font-weight: 700;
     }
+    .day-row button.night-tab {
+      display: inline-block; background: #243049; color: var(--text);
+      border-radius: 8px; padding: 0.4rem 0.7rem; font-size: 0.85rem; border: 1px solid var(--line);
+      cursor: pointer; font: inherit;
+    }
+    .day-row button.night-tab:hover { border-color: var(--accent); }
+    .day-row button.night-tab.is-active {
+      background: #1b2744; border-color: #9eb6e0; color: #e7eefc; font-weight: 700;
+    }
     .thumb {
       display: block; padding: 0.65rem 0.65rem 0; background: #12151c; line-height: 0;
     }
@@ -1037,6 +1046,8 @@ const DENMARK_META = __DENMARK_META__;
 </script>
   <script>
     const SCENES = __SCENES__;
+    /* DENMARK_NIGHT: [16:9, 4:5, 9:16] night-master URLs. Empty slot = no night master in that format. */
+    const DENMARK_NIGHT = __DENMARK_NIGHT__;
 
     const ASSET_BASE = "__ASSET_BASE__";
 
@@ -1127,6 +1138,9 @@ const DENMARK_META = __DENMARK_META__;
     }
 
     function variantKey(fmt, mode) {
+      if (mode === 'night') {
+        return fmt === '4x5' ? 'data-src-45-night' : fmt === '9x16' ? 'data-src-916-night' : 'data-src-16-night';
+      }
       if (mode === 'postcard') {
         return fmt === '4x5' ? 'data-src-45-pc' : fmt === '9x16' ? 'data-src-916-pc' : 'data-src-16-pc';
       }
@@ -1145,6 +1159,7 @@ const DENMARK_META = __DENMARK_META__;
       return '';
     }
     function cardMode(card) {
+      if (card.querySelector('.night-tab.is-active')) return 'night';
       if (card.querySelector('.pc-tab.is-active')) return 'postcard';
       const day = card.querySelector('.day-tab:not(.pc-tab).is-active');
       if (day && day.getAttribute('data-daynight') === 'day') return 'day';
@@ -1189,6 +1204,7 @@ const DENMARK_META = __DENMARK_META__;
       if (sc) {
         if (mode === 'postcard') sc.textContent = 'Postcard collection';
         else if (mode === 'day') sc.textContent = '\u2600 Daylight variant \u00b7 derived from the night interpretation';
+        else if (mode === 'night') sc.textContent = 'Scenario: ' + (sc.getAttribute('data-scenario') || '');
         else sc.textContent = 'Scenario: ' + (sc.getAttribute('data-scenario') || '');
       }
     }
@@ -1273,6 +1289,12 @@ const DENMARK_META = __DENMARK_META__;
         const pc16 = s.file_16x9_postcard ? (ASSET_BASE + 'library/world/' + s.file_16x9_postcard) : '';
         const pc45 = s.file_4x5_postcard ? (ASSET_BASE + 'library/world/' + s.file_4x5_postcard) : '';
         const pc916 = s.file_9x16_postcard ? (ASSET_BASE + 'library/world/' + s.file_9x16_postcard) : '';
+        /* DENMARK_NIGHT lists only source_night masters that exist. Empty slot = no plate in that format. */
+        const nightRec = (typeof DENMARK_NIGHT !== "undefined") ? DENMARK_NIGHT[s.entry_id] : null;
+        const night16 = (nightRec && nightRec[0]) || "";
+        const night45 = (nightRec && nightRec[1]) || "";
+        const night916 = (nightRec && nightRec[2]) || "";
+        const hasNight = !!(night16 || night45 || night916);
         const hasPc = !!(pc16 || pc45 || pc916);
         const sceneHero = file16 || file45 || file916;
         const hero = hasPc ? (pc16 || pc45 || pc916) : sceneHero;
@@ -1283,6 +1305,9 @@ const DENMARK_META = __DENMARK_META__;
           + (day45 ? ` data-src-45-day="${esc(day45)}"` : '')
           + (file916 ? ` data-src-916="${esc(file916)}"` : '')
           + (day916 ? ` data-src-916-day="${esc(day916)}"` : '')
+          + (night16 ? ` data-src-16-night="${esc(night16)}"` : '')
+          + (night45 ? ` data-src-45-night="${esc(night45)}"` : '')
+          + (night916 ? ` data-src-916-night="${esc(night916)}"` : '')
           + (pc16 ? ` data-src-16-pc="${esc(pc16)}"` : '')
           + (pc45 ? ` data-src-45-pc="${esc(pc45)}"` : '')
           + (pc916 ? ` data-src-916-pc="${esc(pc916)}"` : '');
@@ -1301,11 +1326,12 @@ const DENMARK_META = __DENMARK_META__;
         const dl16 = (hasPc && pc16) ? pc16 : file16;
         const dl45 = (hasPc && pc45) ? pc45 : file45;
         const dl916 = (hasPc && pc916) ? pc916 : file916;
+        const nightDl = { "16x9": night16, "4x5": night45, "9x16": night916 };
         const dl = (fmt, href, label) => href
-          ? `<a class="download" data-dl="${fmt}" href="${esc(href)}" download="${esc(fileName(href))}">${label}</a>` : '';
+          ? `<a class="download" data-dl="${fmt}"${nightDl[fmt] ? ` data-dl-night="${esc(nightDl[fmt])}"` : ""} href="${esc(href)}" download="${esc(fileName(href))}">${label}</a>` : '';
         const dayBtn = (day16 || day45) ? `<button type="button" class="day-tab" data-daynight="night" aria-pressed="false" title="Toggle the daylight variant">\u2600 Daylight</button>` : '';
         const pcBtn = hasPc ? `<button type="button" class="day-tab pc-tab is-active" data-postcard="on" aria-pressed="true" title="Postcard collection">\u{1F4E9} Postcard</button>` : '';
-const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button type="button" class="night-tab${hasPc ? '' : ' is-active'}" data-night="on" aria-pressed="${hasPc ? 'false' : 'true'}" title="Show the nighttime view">\u{1F319} Night</button>` : '';
+        const nightBtn = hasNight ? `<button type="button" class="night-tab" data-night="off" aria-pressed="false" title="Show the night image">\u{1F319} Night</button>` : '';
         card.innerHTML = `
           <div class="preview">
             ${thumb}
@@ -1360,12 +1386,27 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
         if (!ncard) return;
         ntab.classList.add('is-active');
         ntab.setAttribute('aria-pressed', 'true');
+        ntab.setAttribute('data-night', 'on');
         const nsun = ncard.querySelector('.day-tab:not(.pc-tab)');
         if (nsun) { nsun.classList.remove('is-active'); nsun.setAttribute('aria-pressed', 'false'); nsun.setAttribute('data-daynight', 'night'); }
         const npc = ncard.querySelector('.pc-tab');
         if (npc) { npc.classList.remove('is-active'); npc.setAttribute('aria-pressed', 'false'); npc.setAttribute('data-postcard', 'off'); }
-        applyVariant(ncard, 'scene');
+        ncard.querySelectorAll('.motion-tab.is-active, .pano-tab.is-active, [data-360].is-active').forEach((b) => {
+          b.classList.remove('is-active');
+          b.setAttribute('aria-pressed', 'false');
+        });
+        applyVariant(ncard, 'night');
         return;
+      }
+      const spin = event.target.closest('.motion-tab, .pano-tab, [data-360]');
+      if (spin) {
+        const scard = spin.closest('.card');
+        const snt = scard && scard.querySelector('.night-tab');
+        if (snt) {
+          snt.classList.remove('is-active');
+          snt.setAttribute('aria-pressed', 'false');
+          snt.setAttribute('data-night', 'off');
+        }
       }
       const ptab = event.target.closest('.pc-tab');
       if (ptab) {
@@ -1376,7 +1417,7 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
         ptab.classList.toggle('is-active', on);
         ptab.setAttribute('aria-pressed', on ? 'true' : 'false');
         ptab.setAttribute('data-postcard', on ? 'on' : 'off');
-        if (on) { const pnt = card.querySelector('.night-tab'); if (pnt) { pnt.classList.remove('is-active'); pnt.setAttribute('aria-pressed', 'false'); } }
+        if (on) { const pnt = card.querySelector('.night-tab'); if (pnt) { pnt.classList.remove('is-active'); pnt.setAttribute('aria-pressed', 'false'); pnt.setAttribute('data-night', 'off'); } }
         const sun = card.querySelector('.day-tab:not(.pc-tab)');
         if (on && sun) {
           sun.classList.remove('is-active');
@@ -1407,7 +1448,7 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
             pcard.setAttribute('aria-pressed', 'false');
             pcard.setAttribute('data-postcard', 'off');
           }
-          if (dnt) { dnt.classList.remove('is-active'); dnt.setAttribute('aria-pressed', 'false'); }
+          if (dnt) { dnt.classList.remove('is-active'); dnt.setAttribute('aria-pressed', 'false'); dnt.setAttribute('data-night', 'off'); }
           preDay916.set(dcard, snapshot916(dcard));
           applyVariant(dcard, 'day');
         } else {
@@ -1417,7 +1458,7 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
             pcard.classList.add('is-active');
             pcard.setAttribute('aria-pressed', 'true');
             pcard.setAttribute('data-postcard', 'on');
-            if (dnt) { dnt.classList.remove('is-active'); dnt.setAttribute('aria-pressed', 'false'); }
+            if (dnt) { dnt.classList.remove('is-active'); dnt.setAttribute('aria-pressed', 'false'); dnt.setAttribute('data-night', 'off'); }
             applyVariant(dcard, 'postcard');
           } else {
             if (pcard) {
@@ -1425,12 +1466,14 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
               pcard.setAttribute('aria-pressed', 'false');
               pcard.setAttribute('data-postcard', 'off');
             }
+            let nightOn = false;
             if (dnt) {
-              const nightOn = !!(prev && prev.night);
+              nightOn = !!(prev && prev.night);
               dnt.classList.toggle('is-active', nightOn);
               dnt.setAttribute('aria-pressed', nightOn ? 'true' : 'false');
+              dnt.setAttribute('data-night', nightOn ? 'on' : 'off');
             }
-            applyVariant(dcard, 'scene');
+            applyVariant(dcard, nightOn ? 'night' : 'scene');
           }
           restore916(dcard);
         }
@@ -1447,21 +1490,7 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
         item.classList.toggle('is-active', on);
         item.setAttribute('aria-pressed', on ? 'true' : 'false');
       });
-      const link = card.querySelector('a.thumb');
-      const img = link && link.querySelector('img');
-      if (!img || !link) return;
-      const mode = cardMode(card);
-      const next = fmt === "4x5"
-        ? (mode === 'postcard' ? img.getAttribute('data-src-45-pc') : mode === 'day' ? (img.getAttribute('data-src-45-day') || img.getAttribute("data-src-45")) : img.getAttribute("data-src-45"))
-        : fmt === "9x16"
-        ? (mode === 'postcard' ? img.getAttribute('data-src-916-pc') : mode === 'day' ? (img.getAttribute('data-src-916-day') || img.getAttribute('data-src-916')) : img.getAttribute('data-src-916'))
-        : (mode === 'postcard' ? img.getAttribute('data-src-16-pc') : mode === 'day' ? (img.getAttribute('data-src-16-day') || img.getAttribute('data-src-16')) : img.getAttribute('data-src-16'));
-      if (next) {
-        img.src = next;
-        link.href = next;
-      }
-      link.classList.toggle('tall', fmt === '4x5');
-      link.classList.toggle('tall916', fmt === '9x16');
+      applyVariant(card, cardMode(card));
     });
     q.addEventListener('input', render);
     region.addEventListener('change', render);
@@ -1547,6 +1576,7 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
     var lbFormat='16x9';
     var lbDay='night';/* lightbox-session day/night: seeded from the opening card's active day tab; persists across prev/next and slideshow navigation *//* lightbox-session format: seeded from the opening card's active tab; persists across prev/next and slideshow navigation, never reset to 16:9 */
     var lbPost='off';/* lightbox-session postcard: seeded from the opening card; falls back per image when that card has no postcard */
+    var lbNight='off';/* lightbox-session night: seeded from the opening card's Night button; uses that format's night master only */
     function visibleCards(){return Array.prototype.filter.call(document.querySelectorAll('.card'),function(c){return c.style.display!=='none';});}
     function show(i){
       items=visibleCards().map(function(c){
@@ -1554,7 +1584,7 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
         var src='';
         var daySrc='';
         var pcSrc='';
-        if(im){var nk=lbFormat==='4x5'?'data-src-45':lbFormat==='9x16'?'data-src-916':'data-src-16',dk=lbFormat==='4x5'?'data-src-45-day':lbFormat==='9x16'?'data-src-916-day':'data-src-16-day',pk=lbFormat==='4x5'?'data-src-45-pc':lbFormat==='9x16'?'data-src-916-pc':'data-src-16-pc';pcSrc=(lbPost==='on')?(im.getAttribute(pk)||''):'';if(pcSrc){src=pcSrc;}else{if(lbDay==='day'){daySrc=im.getAttribute(dk)||'';}src=daySrc||im.getAttribute(nk);}}
+        if(im){var nk=lbFormat==='4x5'?'data-src-45':lbFormat==='9x16'?'data-src-916':'data-src-16',dk=lbFormat==='4x5'?'data-src-45-day':lbFormat==='9x16'?'data-src-916-day':'data-src-16-day',pk=lbFormat==='4x5'?'data-src-45-pc':lbFormat==='9x16'?'data-src-916-pc':'data-src-16-pc',nightk=lbFormat==='4x5'?'data-src-45-night':lbFormat==='9x16'?'data-src-916-night':'data-src-16-night';if(lbNight==='on'){src=im.getAttribute(nightk)||'';}else{pcSrc=(lbPost==='on')?(im.getAttribute(pk)||''):'';if(pcSrc){src=pcSrc;}else{if(lbDay==='day'){daySrc=im.getAttribute(dk)||'';}src=daySrc||im.getAttribute(nk);}}}
         if(!src){var a=c.querySelector('a.thumb');src=a?a.href:'';}
         var capT=t?t.textContent:'';if(pcSrc)capT=capT+' \u2014 Postcard collection';else if(daySrc)capT=capT+' \u2014 \u2600 Daylight variant';
         var altT=im&&im.alt?im.alt:'';if(pcSrc&&altT)altT=altT+' \u2014 Postcard collection';else if(daySrc&&altT)altT=altT+' \u2014 \u2600 Daylight variant';
@@ -1580,7 +1610,7 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
     function hide(){stopSlideshow();stopNarr();overlay.classList.remove('open');overlay.setAttribute('aria-hidden','true');document.body.style.overflow='';}
     document.addEventListener('click',function(e){
       var a=e.target.closest?e.target.closest('a.thumb'):null;
-      if(a){e.preventDefault();var cards=visibleCards();var card=a.closest('.card');var tab=card.querySelector('.fmt-tab.is-active');lbFormat=(tab&&tab.getAttribute('data-format')==='9x16')?'9x16':(tab&&tab.getAttribute('data-format')==='4x5')?'4x5':'16x9';var ptab=card.querySelector('.pc-tab.is-active');lbPost=ptab?'on':'off';var dtab=card.querySelector('.day-tab:not(.pc-tab).is-active');lbDay=(dtab&&dtab.getAttribute('data-daynight')==='day')?'day':'night';if(lbPost==='on')lbDay='night';show(cards.indexOf(card));return;}
+      if(a){e.preventDefault();var cards=visibleCards();var card=a.closest('.card');var tab=card.querySelector('.fmt-tab.is-active');lbFormat=(tab&&tab.getAttribute('data-format')==='9x16')?'9x16':(tab&&tab.getAttribute('data-format')==='4x5')?'4x5':'16x9';var ptab=card.querySelector('.pc-tab.is-active');lbPost=ptab?'on':'off';var dtab=card.querySelector('.day-tab:not(.pc-tab).is-active');lbDay=(dtab&&dtab.getAttribute('data-daynight')==='day')?'day':'night';var nOn=card.querySelector('.night-tab.is-active');lbNight=nOn?'on':'off';if(lbNight==='on'){lbPost='off';lbDay='night';}if(lbPost==='on')lbDay='night';show(cards.indexOf(card));return;}
       if(e.target===overlay||(e.target.closest&&e.target.closest('.lb-close')))hide();
       else if(e.target.closest&&e.target.closest('.lb-play'))togglePlay();
       else if(e.target.closest&&e.target.closest('.lb-narrate'))toggleNarr();
@@ -1781,6 +1811,170 @@ def denmark_meta(cards: list) -> dict:
     return meta
 
 
+def _json_embed(value) -> str:
+    return json.dumps(value, ensure_ascii=False).replace("<", "\\u003c")
+
+
+def load_published_gallery() -> tuple[list, dict]:
+    """Scene cards and related-scene meta already published in index.html.
+
+    library/ was split out of this repo, so a rebuild must not re-derive
+    image fields from a missing local tree. Night masters are gated separately.
+    """
+    html = (ROOT / "index.html").read_text(encoding="utf-8")
+
+    def grab(name: str):
+        marker = f"const {name} = "
+        start = html.find(marker)
+        if start < 0:
+            raise SystemExit(f"index.html is missing {name}")
+        value, _end = json.JSONDecoder().raw_decode(html, start + len(marker))
+        return value
+
+    cards = grab("SCENES")
+    meta = grab("DENMARK_META")
+    if not isinstance(cards, list) or len(cards) != 365:
+        raise SystemExit(f"published gallery has {len(cards) if isinstance(cards, list) else 'no'} cards")
+    return cards, meta
+
+
+def asset_paths() -> set[str]:
+    """Paths that exist under library/world, locally or in the assets repo."""
+    world = ROOT / "library" / "world"
+    if world.is_dir():
+        found = {
+            "library/world/" + path.relative_to(world).as_posix()
+            for path in world.rglob("*")
+            if path.is_file()
+        }
+        if found:
+            return found
+    import subprocess
+
+    raw = subprocess.check_output(
+        [
+            "gh",
+            "api",
+            "repos/devlij/jason-ds-vision-denmark-assets/git/trees/main?recursive=1",
+            "--jq",
+            ".tree[].path",
+        ],
+        text=True,
+    )
+    return {line.strip() for line in raw.splitlines() if line.strip()}
+
+
+def cdn_exists(urls: list[str]) -> set[str]:
+    """HEAD each CDN URL. Only 200 responses count as a real master."""
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    from urllib.error import HTTPError, URLError
+    from urllib.parse import quote
+    from urllib.request import Request, urlopen
+
+    def encode(url: str) -> str:
+        prefix, path = url.split(".io/", 1)
+        return prefix + ".io/" + "/".join(quote(part, safe="") for part in path.split("/"))
+
+    def head(url: str) -> int | None:
+        request = Request(encode(url), method="HEAD")
+        try:
+            with urlopen(request, timeout=30) as response:
+                return response.status
+        except HTTPError as exc:
+            return exc.code
+        except URLError:
+            return None
+
+    ok: set[str] = set()
+    pending = list(urls)
+    for _attempt in range(2):
+        if not pending:
+            break
+        failed: list[str] = []
+        with ThreadPoolExecutor(max_workers=24) as pool:
+            futures = {pool.submit(head, url): url for url in pending}
+            for future in as_completed(futures):
+                url = futures[future]
+                if future.result() == 200:
+                    ok.add(url)
+                else:
+                    failed.append(url)
+        pending = failed
+    return ok
+
+
+def load_night_masters(cards: list | None = None) -> dict[str, list[str]]:
+    """Night-master CDN URLs keyed by entry id: [16:9, 4:5, 9:16].
+
+    A format is included only when daylight_variant.source_night names that
+    exact path, the path is the scene's own master, and the file exists in
+    the assets repo and on the CDN. Scenario hour is not used. A missing
+    9:16 stays an empty string and is never filled from 16:9 or 4:5.
+    """
+    by_id = {card["entry_id"]: card for card in cards} if cards else {}
+    keys = {"16x9": "file_16x9", "4x5": "file_4x5", "9x16": "file_9x16"}
+    present = asset_paths()
+    candidates: list[tuple[str, int, str, str]] = []
+    for path in sorted((ROOT / "manifests").glob("DK-01-*.json")):
+        data = json.loads(path.read_text(encoding="utf-8"))
+        entry_id = data.get("entry_id")
+        if not entry_id:
+            continue
+        variant = data.get("daylight_variant")
+        source = variant.get("source_night") if isinstance(variant, dict) else None
+        if not isinstance(source, dict) or not source:
+            continue
+        for index, fmt in enumerate(("16x9", "4x5", "9x16")):
+            info = source.get(fmt)
+            if not isinstance(info, dict):
+                continue
+            recorded = str(info.get("path") or "").split("?", 1)[0].strip()
+            scene_rel = str(data.get(keys[fmt]) or "").strip()
+            scene_path = "library/world/" + scene_rel if scene_rel else ""
+            if not recorded or recorded != scene_path or recorded not in present:
+                continue
+            card = by_id.get(entry_id)
+            if card is not None and str(card.get(keys[fmt]) or "") != scene_rel:
+                continue
+            url = ASSET_BASE + recorded
+            candidates.append((entry_id, index, url, recorded))
+    live = cdn_exists([item[2] for item in candidates])
+    found: dict[str, list[str]] = {}
+    for entry_id, index, url, _recorded in candidates:
+        if url not in live:
+            continue
+        found.setdefault(entry_id, ["", "", ""])[index] = url
+    return {entry_id: urls for entry_id, urls in found.items() if any(urls)}
+
+
+def render_gallery(cards: list, meta: dict, night: dict, *, require_local: bool) -> str:
+    payload = _json_embed(cards)
+    meta_payload = _json_embed(meta)
+    night_payload = _json_embed(night)
+    html = (
+        PAGE.replace("DK_SVG", DK_SVG)
+        .replace("__ASSET_BASE__", ASSET_BASE)
+        .replace("__DENMARK_META__", meta_payload)
+        .replace("__DENMARK_NIGHT__", night_payload)
+        .replace("__SCENES__", payload)
+    )
+    if require_local:
+        for eid, row in meta.items():
+            thumb = row[3]
+            rel = published_library_rel(thumb) if thumb else ""
+            if rel and not (ROOT / rel).is_file():
+                raise SystemExit(f"related thumb missing master {eid} {thumb}")
+        for card in cards:
+            for key in ("file_16x9", "file_4x5", "file_16x9_day", "file_4x5_day", "file_9x16", "file_9x16_day", "file_16x9_postcard", "file_4x5_postcard", "file_9x16_postcard"):
+                rel = card.get(key)
+                if rel and not master_exists(rel):
+                    raise SystemExit(f"gallery control for missing master {card['entry_id']} {key}")
+            audio = card.get("audio")
+            if audio and not (ROOT / audio).is_file():
+                raise SystemExit(f"missing narration {card['entry_id']} {audio}")
+    return html
+
+
 def write_site(scenes: list) -> None:
     cards = []
     for scene in scenes:
@@ -1788,27 +1982,39 @@ def write_site(scenes: list) -> None:
         cards.append(gallery_card(data))
     cards.sort(key=lambda item: item["entry_id"])
     meta = denmark_meta(cards)
-    payload = json.dumps(cards, ensure_ascii=False).replace("<", "\\u003c")
-    meta_payload = json.dumps(meta, ensure_ascii=False).replace("<", "\\u003c")
-    html = (
-        PAGE.replace("DK_SVG", DK_SVG)
-        .replace("__ASSET_BASE__", ASSET_BASE)
-        .replace("__DENMARK_META__", meta_payload)
-        .replace("__SCENES__", payload)
+    night = load_night_masters(cards)
+    html = render_gallery(cards, meta, night, require_local=True)
+    write_gallery_files(html, write_sitemap=True)
+
+
+def rebuild_published_index() -> dict[str, int]:
+    """Rebuild index.html from the published cards plus CDN-gated night masters.
+
+    Does not rewrite image-sitemap.xml, approvals, or QC status.
+    """
+    cards, meta = load_published_gallery()
+    night = load_night_masters(cards)
+    html = render_gallery(cards, meta, night, require_local=False)
+    nine = sum(1 for urls in night.values() if len(urls) > 2 and urls[2])
+    if nine:
+        raise SystemExit(f"refusing to publish {nine} invented or recorded 9:16 night masters")
+    write_gallery_files(html, write_sitemap=False)
+    counts = {
+        "cards": len(cards),
+        "night_cards": len(night),
+        "night_16x9": sum(1 for urls in night.values() if urls[0]),
+        "night_4x5": sum(1 for urls in night.values() if urls[1]),
+        "night_9x16": nine,
+    }
+    print(
+        "night cards {night_cards} of {cards}; 16:9 {night_16x9}; 4:5 {night_4x5}; 9:16 {night_9x16}".format(
+            **counts
+        )
     )
-    for eid, row in meta.items():
-        thumb = row[3]
-        rel = published_library_rel(thumb) if thumb else ""
-        if rel and not (ROOT / rel).is_file():
-            raise SystemExit(f"related thumb missing master {eid} {thumb}")
-    for card in cards:
-        for key in ("file_16x9", "file_4x5", "file_16x9_day", "file_4x5_day", "file_9x16", "file_9x16_day", "file_16x9_postcard", "file_4x5_postcard", "file_9x16_postcard"):
-            rel = card.get(key)
-            if rel and not master_exists(rel):
-                raise SystemExit(f"gallery control for missing master {card['entry_id']} {key}")
-        audio = card.get("audio")
-        if audio and not (ROOT / audio).is_file():
-            raise SystemExit(f"missing narration {card['entry_id']} {audio}")
+    return counts
+
+
+def write_gallery_files(html: str, *, write_sitemap: bool) -> None:
     (ROOT / "index.html").write_text(html, encoding="utf-8")
     import build_image_sitemap
 
@@ -1823,7 +2029,8 @@ def write_site(scenes: list) -> None:
 """,
         encoding="utf-8",
     )
-    build_image_sitemap.write_image_sitemap(ROOT)
+    if write_sitemap and (ROOT / "library" / "world").is_dir():
+        build_image_sitemap.write_image_sitemap(ROOT)
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
     required = [
         "G-PDJ4WSS725",
@@ -1851,6 +2058,11 @@ def write_site(scenes: list) -> None:
         "INTERVAL=4000",
         "home-link",
         "Postcard collection",
+        "const DENMARK_NIGHT",
+        "data-src-16-night",
+        "data-dl-night",
+        'class="night-tab"',
+        "Show the night image",
         "file_16x9_postcard",
         'id="q"',
         'id="region"',
@@ -1874,7 +2086,7 @@ def write_site(scenes: list) -> None:
         'id="wotd"',
         "ImageGallery",
         "center/45% 22%",
-        'getAttribute("data-src-45")',
+        "data-src-45",
         "\\u23F8\\uFE0E",
         "🔊 Listen",
     ]
@@ -1887,7 +2099,7 @@ def write_site(scenes: list) -> None:
         raise SystemExit("broken Listen glyph")
     if "background:#DA291C;position:relative" in html:
         raise SystemExit("switzerland chip missing cross")
-    if "__SCENES__" in html or "__DENMARK_META__" in html or "__ASSET_BASE__" in html:
+    if "__SCENES__" in html or "__DENMARK_META__" in html or "__DENMARK_NIGHT__" in html or "__ASSET_BASE__" in html:
         raise SystemExit("unsubstituted gallery placeholder")
     if html.count("ASSET_BASE + 'library/world/'") != 9:
         raise SystemExit("asset url prefix drift")
