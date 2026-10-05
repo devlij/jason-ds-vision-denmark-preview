@@ -1,0 +1,1266 @@
+{
+  "work_order": "wo-360-kickoff-denmark-20261005",
+  "pack": "DK-360-r2-pack1",
+  "date": "2026-10-05",
+  "method": "ken-burns-sweep",
+  "method_note": "October 2 France/Netherlands sideways sweep (ffmpeg crop glide, 18% of the 1920 plate, ease in-out, no zoom). Not image-to-video. Not the masked locked-camera ambient used in Candidate packs #32\u2013#56.",
+  "i2v": "unavailable",
+  "cosmo_qc": null,
+  "approval_status": "Approved",
+  "cdn_push": "denied \u2014 assets staged in this preview repo under assets/",
+  "spec": {
+    "width": 864,
+    "height": 1080,
+    "frames": 240,
+    "fps": 24,
+    "duration_s": 10.0,
+    "codec": "h264",
+    "pix_fmt": "yuv420p",
+    "faststart": true,
+    "audio": false,
+    "travel_frac": 0.18,
+    "window_x": [
+      355.20000000000005,
+      700.8
+    ]
+  },
+  "stopped_after_three_qc_failures": false,
+  "scenes": [
+    {
+      "entry_id": "DK-01-193",
+      "caption": "Christiansminde, Svendborg",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Svendborg/dk-01-193-16x9.png",
+        "sha256": "5da366edab19d6baa6fdd751e70e356b54296e0c48a1e4254dbb2356442ed29f",
+        "manifest_sha256": "5da366edab19d6baa6fdd751e70e356b54296e0c48a1e4254dbb2356442ed29f",
+        "manifest_sha256_match": true,
+        "bytes": 3429072,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Svendborg/dk-01-193-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          148.77,
+          144.48,
+          135.96,
+          129.19,
+          124.95
+        ],
+        "ends_mae": 53.513,
+        "problems": [],
+        "sha256": "ae6e8066cd3f87c7aa863ba92fa30d46191c9979fbc2bb3358ba91fb0b614102",
+        "bytes": 685950
+      },
+      "file": "assets/dk-01-193-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-193-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-194",
+      "caption": "Horne Church, Horne",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Horne/dk-01-194-16x9.png",
+        "sha256": "2c735cd6d76277a1f667b0089badb52699410759da2b768fcea68a53153b2bd3",
+        "manifest_sha256": "2c735cd6d76277a1f667b0089badb52699410759da2b768fcea68a53153b2bd3",
+        "manifest_sha256_match": true,
+        "bytes": 2499913,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Horne/dk-01-194-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          165.51,
+          167.19,
+          168.59,
+          163.26,
+          160.45
+        ],
+        "ends_mae": 48.268,
+        "problems": [],
+        "sha256": "b7dbccb1ff14b21d7e390206f1e0d880d5be651d0fa24902b1642154872b232d",
+        "bytes": 516998
+      },
+      "file": "assets/dk-01-194-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-194-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-195",
+      "caption": "Vor Frue, Assens",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Assens/dk-01-195-16x9.png",
+        "sha256": "e34e05439cbd3ceea854fca9429e7444696028a0d17e100c8b04ebcf0bf4ad74",
+        "manifest_sha256": "e34e05439cbd3ceea854fca9429e7444696028a0d17e100c8b04ebcf0bf4ad74",
+        "manifest_sha256_match": true,
+        "bytes": 2177622,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Assens/dk-01-195-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          154.08,
+          151.6,
+          146.43,
+          140.24,
+          139.9
+        ],
+        "ends_mae": 38.334,
+        "problems": [],
+        "sha256": "85b91f2aef3c54cbae8db9c26f43c7e7f550e79980e7aae1b5b4deed5fd2b507",
+        "bytes": 522623
+      },
+      "file": "assets/dk-01-195-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-195-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-196",
+      "caption": "Hindsgavl Castle, Middelfart",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Middelfart/dk-01-196-16x9.png",
+        "sha256": "e7877d561af57fa04ca8acf08af9bf658b1be16043118a1826ba13157c1568d8",
+        "manifest_sha256": "e7877d561af57fa04ca8acf08af9bf658b1be16043118a1826ba13157c1568d8",
+        "manifest_sha256_match": true,
+        "bytes": 2572479,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Middelfart/dk-01-196-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          151.35,
+          153.98,
+          157.38,
+          156.84,
+          155.35
+        ],
+        "ends_mae": 33.145,
+        "problems": [],
+        "sha256": "42ec9f401dc202dd36aa136b86dbedd4772472f3c982b0cfc92cd25d6dfc804d",
+        "bytes": 539286
+      },
+      "file": "assets/dk-01-196-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-196-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-197",
+      "caption": "Landporten, Nyborg",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Nyborg/dk-01-197-16x9.png",
+        "sha256": "cb906e8f07ef6399b18c81f8c245082184e95060236cefac684cbdb5f8fc68ea",
+        "manifest_sha256": "cb906e8f07ef6399b18c81f8c245082184e95060236cefac684cbdb5f8fc68ea",
+        "manifest_sha256_match": true,
+        "bytes": 3333414,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Nyborg/dk-01-197-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          116.92,
+          116.28,
+          112.47,
+          105.67,
+          103.4
+        ],
+        "ends_mae": 47.699,
+        "problems": [],
+        "sha256": "8b926b5bfcf6a226a52319b22e54107696f08807629f0478cc0bb33138ab3b68",
+        "bytes": 681862
+      },
+      "file": "assets/dk-01-197-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-197-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-198",
+      "caption": "Ladby Ship, Ladby",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Ladby/dk-01-198-16x9.png",
+        "sha256": "df2680c66c466ff94a4bdda2e57daf1c4bb7a1218269df2f4818fbffe1cdd804",
+        "manifest_sha256": "df2680c66c466ff94a4bdda2e57daf1c4bb7a1218269df2f4818fbffe1cdd804",
+        "manifest_sha256_match": true,
+        "bytes": 2650060,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Ladby/dk-01-198-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          126.87,
+          126.2,
+          123.44,
+          119.89,
+          118.39
+        ],
+        "ends_mae": 24.503,
+        "problems": [],
+        "sha256": "ba7f2c7df05a8d65e00882b4c2c229b6476a0578fb1deb7632a7c6219212e09f",
+        "bytes": 558637
+      },
+      "file": "assets/dk-01-198-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-198-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-199",
+      "caption": "Odense Canal, Odense",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Odense/dk-01-199-16x9.png",
+        "sha256": "e180aabeb95fc7591800c826b15155e97b62b5b57f8b539838580d4f7422c590",
+        "manifest_sha256": "e180aabeb95fc7591800c826b15155e97b62b5b57f8b539838580d4f7422c590",
+        "manifest_sha256_match": true,
+        "bytes": 2640054,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Odense/dk-01-199-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          132.14,
+          136.99,
+          142.1,
+          143.53,
+          142.64
+        ],
+        "ends_mae": 51.974,
+        "problems": [],
+        "sha256": "ba6aeda1f6fc9c38567e18689504d2b20598006e8ac1d53193e72a583b7018df",
+        "bytes": 509816
+      },
+      "file": "assets/dk-01-199-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-199-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-200",
+      "caption": "S\u00f8by Harbour, S\u00f8by",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/S\u00f8by/dk-01-200-16x9.png",
+        "sha256": "fea3ada7342157ce688ec4f2a7511480f98a5958c4b8623274fe2fce703dee70",
+        "manifest_sha256": "fea3ada7342157ce688ec4f2a7511480f98a5958c4b8623274fe2fce703dee70",
+        "manifest_sha256_match": true,
+        "bytes": 2764874,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/S%C3%B8by/dk-01-200-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          127.97,
+          127.87,
+          128.51,
+          132.98,
+          134.45
+        ],
+        "ends_mae": 41.42,
+        "problems": [],
+        "sha256": "5e4aafc247af25d6695de1ba36b0a1b2b3ad8c6d002f0be5a0acd33ab414fb63",
+        "bytes": 550443
+      },
+      "file": "assets/dk-01-200-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-200-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-201",
+      "caption": "\u00c6r\u00f8sk\u00f8bing Harbour, \u00c6r\u00f8sk\u00f8bing",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/\u00c6r\u00f8sk\u00f8bing/dk-01-201-16x9.png",
+        "sha256": "dd1c048eb9b08951bd52738e01a4c234383cedf0b6879dcdf75e2f0278729a41",
+        "manifest_sha256": "dd1c048eb9b08951bd52738e01a4c234383cedf0b6879dcdf75e2f0278729a41",
+        "manifest_sha256_match": true,
+        "bytes": 2754832,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/%C3%86r%C3%B8sk%C3%B8bing/dk-01-201-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          139.82,
+          137.13,
+          131.5,
+          128.54,
+          127.33
+        ],
+        "ends_mae": 47.755,
+        "problems": [],
+        "sha256": "a8107b2cb468b1a9c601bfeda27fb4b94d5a798b3f72e1611120664da70d6e08",
+        "bytes": 569907
+      },
+      "file": "assets/dk-01-201-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-201-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-202",
+      "caption": "Bregninge Church, Bregninge",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Bregninge/dk-01-202-16x9.png",
+        "sha256": "4ab311e56e9af049b3e98ea2561b7c94df73d864c1d3f73f0e1a9fecd17e61ed",
+        "manifest_sha256": "4ab311e56e9af049b3e98ea2561b7c94df73d864c1d3f73f0e1a9fecd17e61ed",
+        "manifest_sha256_match": true,
+        "bytes": 2652172,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Bregninge/dk-01-202-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          129.24,
+          129.28,
+          130.11,
+          130.94,
+          131.03
+        ],
+        "ends_mae": 40.563,
+        "problems": [],
+        "sha256": "2f692f37d015dc2bf32d586b5f4ac79c6dd1961d8cf9228284fa47497064059d",
+        "bytes": 597123
+      },
+      "file": "assets/dk-01-202-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-202-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-203",
+      "caption": "Gr\u00e5sten Palace, Gr\u00e5sten",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Gr\u00e5sten/dk-01-203-16x9.png",
+        "sha256": "bbbaaaf8b0472782e994c60b7125b9d10e40e4dec4521300d11c222f6c32cea2",
+        "manifest_sha256": "bbbaaaf8b0472782e994c60b7125b9d10e40e4dec4521300d11c222f6c32cea2",
+        "manifest_sha256_match": true,
+        "bytes": 2576181,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Gr%C3%A5sten/dk-01-203-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          143.7,
+          145.38,
+          143.63,
+          144.65,
+          145.26
+        ],
+        "ends_mae": 37.551,
+        "problems": [],
+        "sha256": "507f2400f71e5e07860cce07dd122fa6d1efbfa4d1b1f806694036090d86feca",
+        "bytes": 516274
+      },
+      "file": "assets/dk-01-203-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-203-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-204",
+      "caption": "Brundlund Castle, Aabenraa",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Aabenraa/dk-01-204-16x9.png",
+        "sha256": "1bc66fd66e3b59ed6f5fff23662a616e3a443ac2d3592a0b0370cea3a9e7b29c",
+        "manifest_sha256": "1bc66fd66e3b59ed6f5fff23662a616e3a443ac2d3592a0b0370cea3a9e7b29c",
+        "manifest_sha256_match": true,
+        "bytes": 2229165,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Aabenraa/dk-01-204-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          163.44,
+          163.65,
+          163.02,
+          164.35,
+          165.83
+        ],
+        "ends_mae": 37.329,
+        "problems": [],
+        "sha256": "264d9e443ec5ae499123d9fc5750623ed606adb428a994163a7cd339559d4315",
+        "bytes": 517473
+      },
+      "file": "assets/dk-01-204-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-204-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-205",
+      "caption": "Haderslev Dam, Haderslev",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Haderslev/dk-01-205-16x9.png",
+        "sha256": "909e2e5e865936324bda4594002adfcc09a7a3ceb3303f7e543b3da216ce4f64",
+        "manifest_sha256": "909e2e5e865936324bda4594002adfcc09a7a3ceb3303f7e543b3da216ce4f64",
+        "manifest_sha256_match": true,
+        "bytes": 2917573,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Haderslev/dk-01-205-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          152.77,
+          150.74,
+          145.62,
+          138.49,
+          135.19
+        ],
+        "ends_mae": 38.175,
+        "problems": [],
+        "sha256": "3c3b23dc44dffc00086c6e8ec0f91659e9bb917da5f4f50f4b2981242a92f71e",
+        "bytes": 564798
+      },
+      "file": "assets/dk-01-205-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-205-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-206",
+      "caption": "Kolding Fjord, Kolding",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Kolding/dk-01-206-16x9.png",
+        "sha256": "06e7d556fa8760bf674cd6899293d0f25243b170816d3c3b0e0653613faf4916",
+        "manifest_sha256": "06e7d556fa8760bf674cd6899293d0f25243b170816d3c3b0e0653613faf4916",
+        "manifest_sha256_match": true,
+        "bytes": 2035902,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Kolding/dk-01-206-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          140.1,
+          141.09,
+          142.32,
+          142.75,
+          142.79
+        ],
+        "ends_mae": 22.875,
+        "problems": [],
+        "sha256": "c16b725f7eebc13f6c133c8186d4ab5cbf224805a80f6f5e7531397f02b268b8",
+        "bytes": 441347
+      },
+      "file": "assets/dk-01-206-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-206-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-207",
+      "caption": "Kal\u00f8 Castle, R\u00f8nde",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/R\u00f8nde/dk-01-207-16x9.png",
+        "sha256": "754690a5be30bba473c335b0f3740977cec65e613acf9524650f51b58392bf2e",
+        "manifest_sha256": "754690a5be30bba473c335b0f3740977cec65e613acf9524650f51b58392bf2e",
+        "manifest_sha256_match": true,
+        "bytes": 2541366,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/R%C3%B8nde/dk-01-207-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          126.23,
+          125.82,
+          126.55,
+          129.89,
+          130.52
+        ],
+        "ends_mae": 44.481,
+        "problems": [],
+        "sha256": "8d0b69672183486b854820b94222f3f1979466f03da86c90a55c61e20d6cd931",
+        "bytes": 541022
+      },
+      "file": "assets/dk-01-207-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-207-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-208",
+      "caption": "Fredericia Harbour, Fredericia",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Fredericia/dk-01-208-16x9.png",
+        "sha256": "ce2fa213506042da4af81cce2a639076c957943cd6955b21fc6f0c4e696dd793",
+        "manifest_sha256": "ce2fa213506042da4af81cce2a639076c957943cd6955b21fc6f0c4e696dd793",
+        "manifest_sha256_match": true,
+        "bytes": 1739663,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Fredericia/dk-01-208-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          102.06,
+          104.95,
+          112.96,
+          120.26,
+          122.06
+        ],
+        "ends_mae": 31.583,
+        "problems": [],
+        "sha256": "a8fe42f6aaf4e1f168c7ca5e8eb1b5423440fde4e9da303621516fa1bd5b69d6",
+        "bytes": 417410
+      },
+      "file": "assets/dk-01-208-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-208-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-273",
+      "caption": "Spodsbjerg Harbour, Spodsbjerg",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Spodsbjerg/dk-01-273-16x9.png",
+        "sha256": "5ae0d6a7dbe07c999ef88dce430e84960247e29b9a7e0fd6baea6fb1f16b9b42",
+        "manifest_sha256": "5ae0d6a7dbe07c999ef88dce430e84960247e29b9a7e0fd6baea6fb1f16b9b42",
+        "manifest_sha256_match": true,
+        "bytes": 2319323,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Spodsbjerg/dk-01-273-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          121.83,
+          125.82,
+          135.16,
+          143.64,
+          146.37
+        ],
+        "ends_mae": 34.593,
+        "problems": [],
+        "sha256": "7750ca8a000991c3af6b3521d44a6d5b17fe923062828b115b95a46032cb76f0",
+        "bytes": 536262
+      },
+      "file": "assets/dk-01-273-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-273-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-274",
+      "caption": "Ristinge Klint, Ristinge",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Ristinge/dk-01-274-16x9.png",
+        "sha256": "105eae259b849e5bf01ce301ecc99ef4ad696c63ad50ee0a6060643a9b34ba40",
+        "manifest_sha256": "105eae259b849e5bf01ce301ecc99ef4ad696c63ad50ee0a6060643a9b34ba40",
+        "manifest_sha256_match": true,
+        "bytes": 3100458,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Ristinge/dk-01-274-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          131.53,
+          134.9,
+          143.69,
+          152.89,
+          155.52
+        ],
+        "ends_mae": 46.875,
+        "problems": [],
+        "sha256": "5bd9f34a13a22f8764a2873ef0c51fee612c95a0d8556d7d5f49123a937f4761",
+        "bytes": 560363
+      },
+      "file": "assets/dk-01-274-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-274-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-275",
+      "caption": "Lohals Harbour, Lohals",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Lohals/dk-01-275-16x9.png",
+        "sha256": "96ffe6b39f9beddf2c3d80350009e7a0a55cedd4732a228f63aaacc3292a715d",
+        "manifest_sha256": "96ffe6b39f9beddf2c3d80350009e7a0a55cedd4732a228f63aaacc3292a715d",
+        "manifest_sha256_match": true,
+        "bytes": 2281090,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Lohals/dk-01-275-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          158.55,
+          154.88,
+          146.17,
+          138.48,
+          136.18
+        ],
+        "ends_mae": 34.175,
+        "problems": [],
+        "sha256": "3147b9b9acd68a5c4562f3292cf9c8ba34faa2b8ad1cee1ef85f4ffa8fac265e",
+        "bytes": 529641
+      },
+      "file": "assets/dk-01-275-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-275-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    },
+    {
+      "entry_id": "DK-01-276",
+      "caption": "Thur\u00f8 Harbour, Thur\u00f8",
+      "method": "ken-burns-sweep",
+      "camera": "pan",
+      "zoom": false,
+      "approval_status_unchanged": "Approved",
+      "attempts": 1,
+      "meta_time": "day",
+      "anchor": {
+        "repo_path": "library/world/Denmark/Thur\u00f8/dk-01-276-16x9.png",
+        "sha256": "dfb50923b65f66fd7b380bf23c880571a8ff2df32e6d83bfdb6355be6fceff19",
+        "manifest_sha256": "dfb50923b65f66fd7b380bf23c880571a8ff2df32e6d83bfdb6355be6fceff19",
+        "manifest_sha256_match": true,
+        "bytes": 2278349,
+        "download_url": "https://devlij.github.io/jason-ds-vision-denmark-assets/library/world/Denmark/Thur%C3%B8/dk-01-276-16x9.png",
+        "source_kind": "native daytime 16:9 primary",
+        "source": "denmark assets CDN"
+      },
+      "plate": "crop top 1080 of 1920x1270",
+      "probe": {
+        "width": 864,
+        "height": 1080,
+        "codec": "h264",
+        "pix_fmt": "yuv420p",
+        "nb_frames": "240",
+        "avg_frame_rate": "24/1",
+        "duration": 10.0,
+        "audio": false,
+        "faststart": true,
+        "luma_samples": [
+          148.79,
+          147.91,
+          145.45,
+          141.27,
+          138.45
+        ],
+        "ends_mae": 33.954,
+        "problems": [],
+        "sha256": "76d20c0565df1ec1cd922794f28b2ba59db21416cb82dfebccefad0eaa8f381c",
+        "bytes": 574634
+      },
+      "file": "assets/dk-01-276-motion-10s-4x5.mp4",
+      "poster": "assets/dk-01-276-motion-10s-4x5-poster.jpg",
+      "window": [
+        355.2,
+        700.8
+      ],
+      "travel_frac": 0.18,
+      "status": "shipped",
+      "motion_approval_status": "Approved",
+      "qc_notes": [
+        {
+          "at": "2026-10-05",
+          "by": "Image Assistant QC",
+          "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+        }
+      ]
+    }
+  ],
+  "shipped": [
+    "DK-01-193",
+    "DK-01-194",
+    "DK-01-195",
+    "DK-01-196",
+    "DK-01-197",
+    "DK-01-198",
+    "DK-01-199",
+    "DK-01-200",
+    "DK-01-201",
+    "DK-01-202",
+    "DK-01-203",
+    "DK-01-204",
+    "DK-01-205",
+    "DK-01-206",
+    "DK-01-207",
+    "DK-01-208",
+    "DK-01-273",
+    "DK-01-274",
+    "DK-01-275",
+    "DK-01-276"
+  ],
+  "skipped": [],
+  "qc_fail": [],
+  "image_assistant_qc": {
+    "by": "Image Assistant QC",
+    "date": "2026-10-05",
+    "result": "PASS",
+    "approval_status": "Approved",
+    "scenes_pass": [
+      "DK-01-193",
+      "DK-01-194",
+      "DK-01-195",
+      "DK-01-196",
+      "DK-01-197",
+      "DK-01-198",
+      "DK-01-199",
+      "DK-01-200",
+      "DK-01-201",
+      "DK-01-202",
+      "DK-01-203",
+      "DK-01-204",
+      "DK-01-205",
+      "DK-01-206",
+      "DK-01-207",
+      "DK-01-208",
+      "DK-01-273",
+      "DK-01-274",
+      "DK-01-275",
+      "DK-01-276"
+    ],
+    "scenes_fail": [],
+    "cdn_repo_tip": "dabb73b98814f56e818d3895d55fed5b828ec874",
+    "pack_asset_commit": "93f80d677dc92b86a77e0b23d3fc417375ed1e2f",
+    "note": "Image Assistant QC 2026-10-05. All 20 wired clips PASS. Still-card approval_status was already Approved and was not rewritten. This record is not a substitute for any earlier still-card review."
+  }
+}

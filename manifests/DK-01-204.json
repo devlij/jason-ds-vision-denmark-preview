@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: whitewashed near-square castle block on a moat island with two large octagonal corner towers under low copper roofs, red tile roofs, dark blue windows and a columned loggia — exactly the documented geometry anchors, reflected in calm moat water. Gate 2: exact 1920x1080/864x1080; signature 'Jason D's Vision' bottom-right; caption 'Brundlund Castle, Aabenraa', scenario '25 September 2026 · 14:32 Europe/Copenhagen' and AI disclosure legible bottom-left; scenario hour inside model-valid 14:00–14:59; weather retrieval 14:32:57 unique to this scene — no shared retrieval. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no people, logos or private property visible; exterior only, no artwork shown.",
   "approved_at": "2026-09-25T13:18:10.957036+00:00",
   "sha256_16x9": "1bc66fd66e3b59ed6f5fff23662a616e3a443ac2d3592a0b0370cea3a9e7b29c",
-  "sha256_4x5": "7532747ddf8ec40215a3004234ba92b6afe22d173120a6be924e25f1ebca5556"
+  "sha256_4x5": "7532747ddf8ec40215a3004234ba92b6afe22d173120a6be924e25f1ebca5556",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T17:40:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }

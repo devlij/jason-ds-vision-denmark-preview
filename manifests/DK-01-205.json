@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: calm lake expanse with a gravel shore path, tall shoreline reeds, autumn-foliage trees and distant town rooftops across the water under overcast sky — a plausible tourist viewpoint at Haderslev Dam, clean framing with no artifacts. Gate 2: exact 1920x1080/864x1080; signature 'Jason D's Vision' bottom-right; caption 'Haderslev Dam, Haderslev', scenario '25 September 2026 · 14:32 Europe/Copenhagen' and AI disclosure legible bottom-left on scrim; scenario hour inside model-valid 14:00–14:59; weather retrieval 14:32:58 unique to this scene — no shared retrieval. Gate 3: notes document text-prompt-only generation, no photographic inputs. Gate 4: no people, logos or recognizable private property visible.",
   "approved_at": "2026-09-25T13:18:26.737568+00:00",
   "sha256_16x9": "909e2e5e865936324bda4594002adfcc09a7a3ceb3303f7e543b3da216ce4f64",
-  "sha256_4x5": "493db56be59dbc4dce8a9e0bdd75ca464eb44aa7b63f6d145d28123528b024c4"
+  "sha256_4x5": "493db56be59dbc4dce8a9e0bdd75ca464eb44aa7b63f6d145d28123528b024c4",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T17:40:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }
