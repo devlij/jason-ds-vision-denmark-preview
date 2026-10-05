@@ -17,5 +17,12 @@
   "approval_basis": "Gate 1: both masters show Hald Hovedgård — red-brick manor with twin red-tile roofs and white sash windows, broad lawn sloping to still water, autumn trees in yellow and orange; same building from matching viewpoints, clean framing, no artifacts. Gate 2: exact 1920x1080 and 864x1080; on-image 'Hald Hovedgård, Dollerup', 'Scenario: 25 September 2026 · 07:40 Europe/Copenhagen' inside model hour 07:00-07:59, disclosure and 'Jason D's Vision' signature legible on scrim; retrieval 25 Sep 2026 07:36:39 Europe/Copenhagen unique repo-wide (neighbors :37 and :41), cloud cover 53% matches the broken cloud; Art. 50 PNG metadata present. Gate 3: text-prompt-only, no photographic inputs. Gate 4: no people, logos, or readable signage; documented only. Gate 5: publish.",
   "approved_at": "2026-09-26T18:31:58.423413+00:00",
   "sha256_16x9": "1a4c46265f8bd2a33cf2661ca39df560dc7380614d73b7d73d2e9f047757acd8",
-  "sha256_4x5": "538b1679cddbd7c73ccb3bf391da167aaae9b54f2f8df8659d060b6cca56372a"
+  "sha256_4x5": "538b1679cddbd7c73ccb3bf391da167aaae9b54f2f8df8659d060b6cca56372a",
+  "qc_notes": [
+    {
+      "at": "2026-10-05T17:42:00+00:00",
+      "by": "Image Assistant QC",
+      "note": "PASS (Image Assistant QC, 2026-10-05): motion mp4 and poster return HTTP 200 on the Denmark assets CDN. ffprobe 10.000s, 864x1080, h264, yuv420p, 240 frames, no audio. mp4 SHA-256 matches the baked clip. Poster is frame 0 and a crop of the daylight 16:9 still (landmark match at x=355). Motion approval_status Approved."
+    }
+  ]
 }
