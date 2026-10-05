@@ -28,6 +28,8 @@ WORLD = ROOT / "library" / "world"
 OUT = ROOT / "image-sitemap.xml"
 
 ORIGIN = "https://devlij.github.io/jason-ds-vision-denmark-preview"
+# Image bytes live in the assets repo. Page <loc> values stay on ORIGIN.
+ASSET_ORIGIN = "https://devlij.github.io/jason-ds-vision-denmark-assets"
 # Public site name, matching the gallery <title> / heading (U+2019).
 SITE_NAME = "Jason D\u2019s Vision"
 
@@ -54,9 +56,14 @@ def xml_text(value: str) -> str:
 
 
 def absolute_url(rel: str) -> str:
-    """RFC 3986-encode a site-relative path and prefix the canonical origin."""
+    """RFC 3986-encode a library path and prefix the assets CDN.
+
+    Each path segment is UTF-8 percent-encoded (space is %20). That is the
+    same encoding the browser applies when it requests the gallery's img src
+    and download hrefs, and the encoding already used in image-sitemap.xml.
+    """
     encoded = "/".join(quote(part, safe="") for part in rel.split("/"))
-    return f"{ORIGIN}/{encoded}"
+    return f"{ASSET_ORIGIN}/{encoded}"
 
 
 def scene_title(city: str) -> str:
