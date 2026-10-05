@@ -981,7 +981,7 @@ PAGE = r"""<!DOCTYPE html>
       <span class="sep" aria-hidden="true">|</span>
       <a href="https://spain.jdvision.org/"><span class="flag-chip flag-es" aria-hidden="true"></span>Spain</a>
       <span class="sep" aria-hidden="true">|</span>
-      <a href="https://devlij.github.io/jason-ds-vision-norway-preview/"><span class="flag-chip flag-no" aria-hidden="true"></span>Norway</a>
+      <a href="https://norway.jdvision.org/"><span class="flag-chip flag-no" aria-hidden="true"></span>Norway</a>
       <span class="sep" aria-hidden="true">|</span>
       <span aria-current="page"><span class="flag-chip" aria-hidden="true">DK_SVG</span>Denmark</span>
       <span class="sep" aria-hidden="true">|</span>
@@ -1741,7 +1741,7 @@ def write_site(scenes: list) -> None:
         "https://france.jdvision.org/",
         "https://greece.jdvision.org/",
         "https://devlij.github.io/jason-ds-vision-switzerland-preview/",
-        "https://devlij.github.io/jason-ds-vision-norway-preview/",
+        "https://norway.jdvision.org/",
         "flag-no",
         'id="license"',
         "Our promise to creators",
