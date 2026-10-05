@@ -1193,6 +1193,7 @@ const DENMARK_META = __DENMARK_META__;
       }
     }
     const preDay916 = new WeakMap();
+    const preDayVariant = new WeakMap();
     function snapshot916(card) {
       const t916 = card.querySelector('.fmt-tab[data-format="9x16"]');
       const dl = card.querySelector('a.download[data-dl="9x16"]');
@@ -1395,16 +1396,44 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
         dtab.setAttribute('aria-pressed', isDay ? 'true' : 'false');
         dtab.setAttribute('data-daynight', isDay ? 'day' : 'night');
         const pcard = dcard.querySelector('.pc-tab');
-        if (isDay && pcard) {
-          pcard.classList.remove('is-active');
-          pcard.setAttribute('aria-pressed', 'false');
-          pcard.setAttribute('data-postcard', 'off');
-        }
         const dnt = dcard.querySelector('.night-tab');
-        if (dnt) { dnt.classList.remove('is-active'); dnt.setAttribute('aria-pressed', 'false'); }
-        if (isDay) preDay916.set(dcard, snapshot916(dcard));
-        applyVariant(dcard, isDay ? 'day' : 'scene');
-        if (!isDay) restore916(dcard);
+        if (isDay) {
+          preDayVariant.set(dcard, {
+            postcard: !!(pcard && pcard.classList.contains('is-active')),
+            night: !!(dnt && dnt.classList.contains('is-active'))
+          });
+          if (pcard) {
+            pcard.classList.remove('is-active');
+            pcard.setAttribute('aria-pressed', 'false');
+            pcard.setAttribute('data-postcard', 'off');
+          }
+          if (dnt) { dnt.classList.remove('is-active'); dnt.setAttribute('aria-pressed', 'false'); }
+          preDay916.set(dcard, snapshot916(dcard));
+          applyVariant(dcard, 'day');
+        } else {
+          const prev = preDayVariant.get(dcard);
+          preDayVariant.delete(dcard);
+          if (prev && prev.postcard && pcard) {
+            pcard.classList.add('is-active');
+            pcard.setAttribute('aria-pressed', 'true');
+            pcard.setAttribute('data-postcard', 'on');
+            if (dnt) { dnt.classList.remove('is-active'); dnt.setAttribute('aria-pressed', 'false'); }
+            applyVariant(dcard, 'postcard');
+          } else {
+            if (pcard) {
+              pcard.classList.remove('is-active');
+              pcard.setAttribute('aria-pressed', 'false');
+              pcard.setAttribute('data-postcard', 'off');
+            }
+            if (dnt) {
+              const nightOn = !!(prev && prev.night);
+              dnt.classList.toggle('is-active', nightOn);
+              dnt.setAttribute('aria-pressed', nightOn ? 'true' : 'false');
+            }
+            applyVariant(dcard, 'scene');
+          }
+          restore916(dcard);
+        }
         return;
       }
       const tab = event.target.closest('.fmt-tab');
