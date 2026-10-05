@@ -759,7 +759,7 @@ PAGE = r"""<!DOCTYPE html>
 <meta property="og:site_name" content="Jason D's Vision"/>
 <meta property="og:title" content="Jason D's Vision — Denmark"/>
 <meta property="og:description" content="AI-generated artistic interpretations of Denmark, the Faroe Islands and Greenland. Free to use, no credit required."/>
-<meta property="og:image" content="https://devlij.github.io/jason-ds-vision-denmark-preview/library/world/Denmark/Copenhagen/dk-01-001-16x9.png"/>
+<meta property="og:image" content="__ASSET_BASE__library/world/Denmark/Copenhagen/dk-01-001-16x9.png"/>
 <meta property="og:url" content="https://devlij.github.io/jason-ds-vision-denmark-preview/"/>
 <meta name="twitter:card" content="summary_large_image"/>
 <script type="application/ld+json">
@@ -1038,6 +1038,8 @@ const DENMARK_META = __DENMARK_META__;
   <script>
     const SCENES = __SCENES__;
 
+    const ASSET_BASE = "__ASSET_BASE__";
+
     const grid = document.getElementById('grid');
     const q = document.getElementById('q');
     const region = document.getElementById('region');
@@ -1261,15 +1263,15 @@ const DENMARK_META = __DENMARK_META__;
         card.className = 'card';
         card.id = s.entry_id;
         if (s.audio) card.setAttribute('data-audio', s.audio);
-        const file16 = s.file_16x9 ? ('library/world/' + s.file_16x9) : '';
-        const file45 = s.file_4x5 ? ('library/world/' + s.file_4x5) : '';
-        const file916 = s.file_9x16 ? ('library/world/' + s.file_9x16) : '';
-        const day16 = s.file_16x9_day ? ('library/world/' + s.file_16x9_day) : '';
-        const day45 = s.file_4x5_day ? ('library/world/' + s.file_4x5_day) : '';
-        const day916 = s.file_9x16_day ? ('library/world/' + s.file_9x16_day) : '';
-        const pc16 = s.file_16x9_postcard ? ('library/world/' + s.file_16x9_postcard) : '';
-        const pc45 = s.file_4x5_postcard ? ('library/world/' + s.file_4x5_postcard) : '';
-        const pc916 = s.file_9x16_postcard ? ('library/world/' + s.file_9x16_postcard) : '';
+        const file16 = s.file_16x9 ? (ASSET_BASE + 'library/world/' + s.file_16x9) : '';
+        const file45 = s.file_4x5 ? (ASSET_BASE + 'library/world/' + s.file_4x5) : '';
+        const file916 = s.file_9x16 ? (ASSET_BASE + 'library/world/' + s.file_9x16) : '';
+        const day16 = s.file_16x9_day ? (ASSET_BASE + 'library/world/' + s.file_16x9_day) : '';
+        const day45 = s.file_4x5_day ? (ASSET_BASE + 'library/world/' + s.file_4x5_day) : '';
+        const day916 = s.file_9x16_day ? (ASSET_BASE + 'library/world/' + s.file_9x16_day) : '';
+        const pc16 = s.file_16x9_postcard ? (ASSET_BASE + 'library/world/' + s.file_16x9_postcard) : '';
+        const pc45 = s.file_4x5_postcard ? (ASSET_BASE + 'library/world/' + s.file_4x5_postcard) : '';
+        const pc916 = s.file_9x16_postcard ? (ASSET_BASE + 'library/world/' + s.file_9x16_postcard) : '';
         const hasPc = !!(pc16 || pc45 || pc916);
         const sceneHero = file16 || file45 || file916;
         const hero = hasPc ? (pc16 || pc45 || pc916) : sceneHero;
@@ -1589,6 +1591,7 @@ const nightBtn = ((file16 || file45) && (hasPc || day16 || day45)) ? `<button ty
 })();
 </script>
 
+
 </body>
 </html>"""
 
@@ -1643,10 +1646,21 @@ def infer_moods(card: dict) -> str:
     return ",".join(tags)
 
 
+# Gallery pages stay on the preview host. library/ bytes are served from the
+# assets repo at the same relative path.
+ASSET_BASE = "https://devlij.github.io/jason-ds-vision-denmark-assets/"
+
+
 def master_exists(rel: str | None) -> bool:
     if not rel:
         return False
     return (ROOT / "library" / "world" / rel).is_file()
+
+
+def published_library_rel(url_or_rel: str) -> str:
+    if url_or_rel.startswith(ASSET_BASE):
+        return url_or_rel[len(ASSET_BASE):]
+    return url_or_rel
 
 
 def _library_rel(path: str | None) -> str | None:
@@ -1724,7 +1738,7 @@ def denmark_meta(cards: list) -> dict:
     for card in cards:
         entry = card["entry_id"]
         rel = card.get("file_16x9") or ""
-        thumb = f"library/world/{rel}" if rel and master_exists(rel) else ""
+        thumb = f"{ASSET_BASE}library/world/{rel}" if rel and master_exists(rel) else ""
         mood = moods.get(entry)
         if mood is None:
             mood = infer_moods(card)
@@ -1749,12 +1763,14 @@ def write_site(scenes: list) -> None:
     meta_payload = json.dumps(meta, ensure_ascii=False).replace("<", "\\u003c")
     html = (
         PAGE.replace("DK_SVG", DK_SVG)
+        .replace("__ASSET_BASE__", ASSET_BASE)
         .replace("__DENMARK_META__", meta_payload)
         .replace("__SCENES__", payload)
     )
     for eid, row in meta.items():
         thumb = row[3]
-        if thumb and not (ROOT / thumb).is_file():
+        rel = published_library_rel(thumb) if thumb else ""
+        if rel and not (ROOT / rel).is_file():
             raise SystemExit(f"related thumb missing master {eid} {thumb}")
     for card in cards:
         for key in ("file_16x9", "file_4x5", "file_16x9_day", "file_4x5_day", "file_9x16", "file_9x16_day", "file_16x9_postcard", "file_4x5_postcard", "file_9x16_postcard"):
@@ -1824,6 +1840,7 @@ def write_site(scenes: list) -> None:
         "related-row",
         "class=\"badge\"",
         "fmt-tab",
+        "https://devlij.github.io/jason-ds-vision-denmark-assets/",
         "How our images are made",
         'id="wotd"',
         "ImageGallery",
@@ -1841,8 +1858,12 @@ def write_site(scenes: list) -> None:
         raise SystemExit("broken Listen glyph")
     if "background:#DA291C;position:relative" in html:
         raise SystemExit("switzerland chip missing cross")
-    if "__SCENES__" in html or "__DENMARK_META__" in html:
+    if "__SCENES__" in html or "__DENMARK_META__" in html or "__ASSET_BASE__" in html:
         raise SystemExit("unsubstituted gallery placeholder")
+    if html.count("ASSET_BASE + 'library/world/'") != 9:
+        raise SystemExit("asset url prefix drift")
+    if '"library/world/' in html or "jason-ds-vision-denmark-preview/library/" in html:
+        raise SystemExit("gallery asset URL is not on the assets CDN")
 
 
 
